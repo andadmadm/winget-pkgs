@@ -8,13 +8,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/quick123official/quick_redis_blog/releases/download/v2.6.2/QuickRedis-2.6.2-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/quick123official/quick_redis_blog/releases/download/v2.6.2/QuickRedis-2.6.2-win-ia32.exe
   InstallerSha256: 622E33A7CDD680D9978923BBE02C37EAED88FE06D15FC2BC65C1CAE66D7D0101
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/quick123official/quick_redis_blog/releases/download/v2.6.2/QuickRedis-2.6.2-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/quick123official/quick_redis_blog/releases/download/v2.6.2/QuickRedis-2.6.2-win-ia32.exe
   InstallerSha256: 622E33A7CDD680D9978923BBE02C37EAED88FE06D15FC2BC65C1CAE66D7D0101
   InstallerSwitches:
     Custom: /ALLUSERS

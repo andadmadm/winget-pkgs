@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.8/Win11React_0.1.8_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.8/Win11React_0.1.8_x64.msi
   InstallerSha256: 0D3468E86BE6A3A51788A9BAFEF476F856501BFE58CCAD8EE737B8104DBBDD4A
   ProductCode: '{EA8F63D9-0EA4-4BBE-945F-96C198F749B0}'
 ManifestType: installer

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-01-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WowUp/WowUp/releases/download/v2.9.2/WowUp-Setup-2.9.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WowUp/WowUp/releases/download/v2.9.2/WowUp-Setup-2.9.2.exe
   InstallerSha256: 6A3C3ABDC8F79C793C23A76587F3ED8E124731CC5AA1CB290DA2D3871E158B3A
 ManifestType: installer
 ManifestVersion: 1.2.0

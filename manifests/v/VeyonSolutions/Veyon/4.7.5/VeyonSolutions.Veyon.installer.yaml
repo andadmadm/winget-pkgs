@@ -15,10 +15,10 @@ UpgradeBehavior: install
 ReleaseDate: 2023-01-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/veyon/veyon/releases/download/v4.7.5/veyon-4.7.5.0-win32-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/veyon/veyon/releases/download/v4.7.5/veyon-4.7.5.0-win32-setup.exe
   InstallerSha256: A2542DAB3C33FD6B4B02BCDADE5C3E70DD1D53649CA104967628FB953254EB0F
 - Architecture: x64
-  InstallerUrl: https://github.com/veyon/veyon/releases/download/v4.7.5/veyon-4.7.5.0-win64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/veyon/veyon/releases/download/v4.7.5/veyon-4.7.5.0-win64-setup.exe
   InstallerSha256: 1D10B21F44B9E16F8F42A78E4875B4611A2D011E99EA0D51B76C03B569E5D1EC
 ManifestType: installer
 ManifestVersion: 1.2.0

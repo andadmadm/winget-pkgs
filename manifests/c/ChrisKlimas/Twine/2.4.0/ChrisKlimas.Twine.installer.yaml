@@ -13,13 +13,13 @@ ReleaseDate: 2022-07-05
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/klembot/twinejs/releases/download/2.4.0/Twine-2.4.0-Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klembot/twinejs/releases/download/2.4.0/Twine-2.4.0-Windows.exe
   InstallerSha256: 38FFB07935ADB952AAF3D38B714814F6F06630DC023DDC676FA21914EFAB7E24
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/klembot/twinejs/releases/download/2.4.0/Twine-2.4.0-Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klembot/twinejs/releases/download/2.4.0/Twine-2.4.0-Windows.exe
   InstallerSha256: 38FFB07935ADB952AAF3D38B714814F6F06630DC023DDC676FA21914EFAB7E24
   InstallerSwitches:
     Custom: /ALLUSERS

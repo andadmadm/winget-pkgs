@@ -16,7 +16,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/moshfeu/y2mp3/releases/download/v2.5.5/y2mp3.Setup.2.5.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moshfeu/y2mp3/releases/download/v2.5.5/y2mp3.Setup.2.5.5.exe
   InstallerSha256: 59E726CA692B209D3D809C1E4A0865C004E9DB04479C0CDF5F9028D2095D9B91
   UpgradeBehavior: install
 ManifestType: installer

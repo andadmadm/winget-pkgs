@@ -26,27 +26,27 @@ ReleaseDate: 2023-08-24
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-386-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-386-installer.exe
   InstallerSha256: 4A317C0A5BBD0F768F808FB3FED3BD70F2F2EDE6333E6280397B41A3502BCEA0
   InstallerSwitches:
     Silent: --silent --install
     SilentWithProgress: --silent --install
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-386-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-386-installer.exe
   InstallerSha256: 4A317C0A5BBD0F768F808FB3FED3BD70F2F2EDE6333E6280397B41A3502BCEA0
   InstallerSwitches:
     Custom: --system-level
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-amd64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-amd64-installer.exe
   InstallerSha256: FBBB73302D4C40F455DC4E507A28514C8C0541C712A6FC1CEDFB5583FDC3BCCF
   InstallerSwitches:
     Silent: --silent --install
     SilentWithProgress: --silent --install
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-amd64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deemru/Chromium-Gost/releases/download/116.0.5845.110/chromium-gost-116.0.5845.110-windows-amd64-installer.exe
   InstallerSha256: FBBB73302D4C40F455DC4E507A28514C8C0541C712A6FC1CEDFB5583FDC3BCCF
   InstallerSwitches:
     Custom: --system-level

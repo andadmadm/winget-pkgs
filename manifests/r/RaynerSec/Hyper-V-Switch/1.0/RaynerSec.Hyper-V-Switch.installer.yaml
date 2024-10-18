@@ -12,10 +12,10 @@ InstallModes:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0/Hyper-V-Switch-1.0-x86-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0/Hyper-V-Switch-1.0-x86-Setup.exe
   InstallerSha256: 2A4C18DCCC5264AC59E90737393B750A50F5D96BD62097821757D96D276A2C97
 - Architecture: x64
-  InstallerUrl: https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0/Hyper-V-Switch-1.0-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0/Hyper-V-Switch-1.0-x64-Setup.exe
   InstallerSha256: 8AD12FD05FDB246F090B2C9F7E23058819985246D01C8E22B7D11CEB167478D2
 ManifestType: installer
 ManifestVersion: 1.4.0

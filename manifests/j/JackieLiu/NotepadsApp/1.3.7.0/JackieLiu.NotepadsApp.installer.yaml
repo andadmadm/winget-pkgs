@@ -18,7 +18,7 @@ Installers:
   MinimumOSVersion: 10.0.17763.0
   Architecture: x86
   InstallerType: msix
-  InstallerUrl: https://github.com/JasonStein/Notepads/releases/download/v1.3.7.0/Notepads_1.3.7.0_x86_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonStein/Notepads/releases/download/v1.3.7.0/Notepads_1.3.7.0_x86_x64_arm64.msixbundle
   InstallerSha256: D21BF55B224264072894C21B1E64FA78A715D3CDE0B638140596BB591AEA270D
   SignatureSha256: 3588E851A7D5822378C8C12E857F93A638814346044E3E34B1C629067F963F64
   PackageFamilyName: 19282JackieLiu.Notepads-Beta_echhpq9pdbte8
@@ -27,7 +27,7 @@ Installers:
   MinimumOSVersion: 10.0.17763.0
   Architecture: x64
   InstallerType: msix
-  InstallerUrl: https://github.com/JasonStein/Notepads/releases/download/v1.3.7.0/Notepads_1.3.7.0_x86_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonStein/Notepads/releases/download/v1.3.7.0/Notepads_1.3.7.0_x86_x64_arm64.msixbundle
   InstallerSha256: D21BF55B224264072894C21B1E64FA78A715D3CDE0B638140596BB591AEA270D
   SignatureSha256: 3588E851A7D5822378C8C12E857F93A638814346044E3E34B1C629067F963F64
   PackageFamilyName: 19282JackieLiu.Notepads-Beta_echhpq9pdbte8
@@ -36,7 +36,7 @@ Installers:
   MinimumOSVersion: 10.0.17763.0
   Architecture: arm64
   InstallerType: msix
-  InstallerUrl: https://github.com/JasonStein/Notepads/releases/download/v1.3.7.0/Notepads_1.3.7.0_x86_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonStein/Notepads/releases/download/v1.3.7.0/Notepads_1.3.7.0_x86_x64_arm64.msixbundle
   InstallerSha256: D21BF55B224264072894C21B1E64FA78A715D3CDE0B638140596BB591AEA270D
   SignatureSha256: 3588E851A7D5822378C8C12E857F93A638814346044E3E34B1C629067F963F64
   PackageFamilyName: 19282JackieLiu.Notepads-Beta_echhpq9pdbte8

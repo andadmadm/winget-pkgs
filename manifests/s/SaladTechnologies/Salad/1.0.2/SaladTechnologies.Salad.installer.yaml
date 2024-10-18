@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SaladTechnologies/salad-applications/releases/download/1.0.2/Salad-1.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SaladTechnologies/salad-applications/releases/download/1.0.2/Salad-1.0.2.exe
   InstallerSha256: 3E9078C7641A8BC119B943C314286B5580F247E9CA3DFF3804E18A665FFD5752
 ManifestType: installer
 ManifestVersion: 1.1.0

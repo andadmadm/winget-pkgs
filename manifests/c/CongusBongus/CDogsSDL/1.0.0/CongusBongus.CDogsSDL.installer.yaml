@@ -12,7 +12,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/cxong/cdogs-sdl/releases/download/1.0.0/C-Dogs.SDL-1.0.0-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cxong/cdogs-sdl/releases/download/1.0.0/C-Dogs.SDL-1.0.0-win32.exe
   InstallerSha256: CE075284CA0F52A2EC17FAD06E2BA9435746E85018DEDF5D33BF151589DA337E
   UpgradeBehavior: install
 ManifestType: installer

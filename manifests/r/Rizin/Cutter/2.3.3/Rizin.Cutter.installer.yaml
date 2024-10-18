@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2024-02-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rizinorg/cutter/releases/download/v2.3.3/Cutter-v2.3.3-Windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/rizinorg/cutter/releases/download/v2.3.3/Cutter-v2.3.3-Windows-x86_64.zip
   InstallerSha256: 1A0E52D42B5AACBB58CAC55C25E579D6D3591A49FE672650F8037B73D96F4AC5
 ManifestType: installer
 ManifestVersion: 1.6.0

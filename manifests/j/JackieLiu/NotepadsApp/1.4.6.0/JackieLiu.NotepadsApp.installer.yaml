@@ -20,15 +20,15 @@ FileExtensions:
 - txt
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JasonStein/Notepads/releases/download/v1.4.6.0/Notepads_1.4.6.0_x86_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonStein/Notepads/releases/download/v1.4.6.0/Notepads_1.4.6.0_x86_x64_arm64.msixbundle
   InstallerSha256: 741EAF5D350C9DFFB37A104B717100629CD8E2135028ECA33DB86A5E990B9410
   SignatureSha256: E3B5A1FCEE7EBB5979662DC8CCB5625896D0F0129418C14D83196228A4801513
 - Architecture: x64
-  InstallerUrl: https://github.com/JasonStein/Notepads/releases/download/v1.4.6.0/Notepads_1.4.6.0_x86_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonStein/Notepads/releases/download/v1.4.6.0/Notepads_1.4.6.0_x86_x64_arm64.msixbundle
   InstallerSha256: 741EAF5D350C9DFFB37A104B717100629CD8E2135028ECA33DB86A5E990B9410
   SignatureSha256: E3B5A1FCEE7EBB5979662DC8CCB5625896D0F0129418C14D83196228A4801513
 - Architecture: arm64
-  InstallerUrl: https://github.com/JasonStein/Notepads/releases/download/v1.4.6.0/Notepads_1.4.6.0_x86_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonStein/Notepads/releases/download/v1.4.6.0/Notepads_1.4.6.0_x86_x64_arm64.msixbundle
   InstallerSha256: 741EAF5D350C9DFFB37A104B717100629CD8E2135028ECA33DB86A5E990B9410
   SignatureSha256: E3B5A1FCEE7EBB5979662DC8CCB5625896D0F0129418C14D83196228A4801513
 ManifestType: installer

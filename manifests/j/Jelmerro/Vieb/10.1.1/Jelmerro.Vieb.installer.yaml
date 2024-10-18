@@ -18,13 +18,13 @@ ReleaseDate: 2023-07-11
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/10.1.1/Vieb.Setup.10.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/10.1.1/Vieb.Setup.10.1.1.exe
   InstallerSha256: A45548C27981AAE433605D8A2B3848B913DCF618A0A2AA4C4C42C1E11232831C
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/10.1.1/Vieb.Setup.10.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/10.1.1/Vieb.Setup.10.1.1.exe
   InstallerSha256: A45548C27981AAE433605D8A2B3848B913DCF618A0A2AA4C4C42C1E11232831C
   InstallerSwitches:
     Custom: /allusers

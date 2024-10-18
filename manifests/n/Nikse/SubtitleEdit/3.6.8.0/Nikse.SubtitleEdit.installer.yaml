@@ -71,11 +71,11 @@ FileExtensions:
 ReleaseDate: 2022-10-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/SubtitleEdit/subtitleedit/releases/download/3.6.8/SubtitleEdit-3.6.8-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/3.6.8/SubtitleEdit-3.6.8-Setup.exe
   InstallerSha256: 1271549F5C359DAD26A71BAD6E1B929A9ACA0AF7EFE47A4AFEE7408B1FBD6D45
   ProductCode: SubtitleEdit_is1
 - Architecture: x64
-  InstallerUrl: https://github.com/SubtitleEdit/subtitleedit/releases/download/3.6.8/SubtitleEdit-3.6.8-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/3.6.8/SubtitleEdit-3.6.8-Setup.exe
   InstallerSha256: 1271549F5C359DAD26A71BAD6E1B929A9ACA0AF7EFE47A4AFEE7408B1FBD6D45
   ProductCode: SubtitleEdit_is1
 ManifestType: installer

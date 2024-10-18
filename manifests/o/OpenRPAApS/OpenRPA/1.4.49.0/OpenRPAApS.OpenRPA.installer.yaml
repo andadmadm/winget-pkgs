@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/open-rpa/openrpa/releases/download/1.4.49/OpenRPA.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/open-rpa/openrpa/releases/download/1.4.49/OpenRPA.msi
   InstallerSha256: 46C106EC086F2D4D21D34279A58E2F120B81D02776B570446A46888AB8DC93FE
   ProductCode: '{B65A0C69-86D9-42B2-AC2D-F2C285169176}'
 ManifestType: installer

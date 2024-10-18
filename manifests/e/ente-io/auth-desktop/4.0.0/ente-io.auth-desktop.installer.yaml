@@ -25,7 +25,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ente-io/ente/releases/download/auth-v4.0.0/ente-auth-v4.0.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ente-io/ente/releases/download/auth-v4.0.0/ente-auth-v4.0.0-installer.exe
   InstallerSha256: C1CFC235B95694D37C86B157F65915A43007FCD41C24606F2CCA42B3826B2B5A
 ManifestType: installer
 ManifestVersion: 1.6.0

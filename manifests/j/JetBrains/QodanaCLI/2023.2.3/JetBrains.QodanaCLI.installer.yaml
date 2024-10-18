@@ -12,10 +12,10 @@ NestedInstallerFiles:
 ReleaseDate: 2023-07-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JetBrains/qodana-cli/releases/download/v2023.2.3/qodana_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/JetBrains/qodana-cli/releases/download/v2023.2.3/qodana_windows_x86_64.zip
   InstallerSha256: 51255F622B2AA579F454C4115E6EEF8E7FD5D50EC19A632D63527549F19513B7
 - Architecture: arm64
-  InstallerUrl: https://github.com/JetBrains/qodana-cli/releases/download/v2023.2.3/qodana_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/JetBrains/qodana-cli/releases/download/v2023.2.3/qodana_windows_arm64.zip
   InstallerSha256: DF3DADFBB25FE266F05BD9BAD0A1D3C6BAD2C5D3C50D9A39F1699789EFA91D21
 ManifestType: installer
 ManifestVersion: 1.4.0

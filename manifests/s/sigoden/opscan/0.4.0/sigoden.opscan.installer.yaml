@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: opscan.exe
     PortableCommandAlias: opscan
-  InstallerUrl: https://github.com/sigoden/opscan/releases/download/v0.4.0/opscan-v0.4.0-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sigoden/opscan/releases/download/v0.4.0/opscan-v0.4.0-i686-pc-windows-msvc.zip
   InstallerSha256: DADF55DF83DC6A84B7B5F0C4F16B63DA40C847A5739BF8C3B95B4657D2AAEB64
   Dependencies:
     PackageDependencies:
@@ -21,7 +21,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: opscan.exe
     PortableCommandAlias: opscan
-  InstallerUrl: https://github.com/sigoden/opscan/releases/download/v0.4.0/opscan-v0.4.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sigoden/opscan/releases/download/v0.4.0/opscan-v0.4.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: DA1C05B1E5CF5FA83875DA55A91964853888816DF6F35140B6A06B9E0F18E4A3
   Dependencies:
     PackageDependencies:

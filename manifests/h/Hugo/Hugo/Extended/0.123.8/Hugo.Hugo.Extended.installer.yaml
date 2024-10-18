@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-03-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gohugoio/hugo/releases/download/v0.123.8/hugo_extended_0.123.8_windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gohugoio/hugo/releases/download/v0.123.8/hugo_extended_0.123.8_windows-amd64.zip
   InstallerSha256: E2083B7865EA611CF5BE1A32AD54FF8294F0F0690DEB09F8912CCB925590867D
 ManifestType: installer
 ManifestVersion: 1.6.0

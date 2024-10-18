@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC104ClientSimulator-1.1.9.0-windows\IEC104ClientSimulator.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/IEC104ClientSimulator-release/releases/download/v1.1.9.0/IEC104ClientSimulator-1.1.9.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/IEC104ClientSimulator-release/releases/download/v1.1.9.0/IEC104ClientSimulator-1.1.9.0-windows.zip
   InstallerSha256: 911F806ADB9EB781176A1037FCDD9F457F9DA4372D141C8F5B1E52127F78B460
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC104ClientSimulator-1.1.9.0-windows\IEC104ClientSimulator.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/IEC104ClientSimulator-release/releases/download/v1.1.9.0/IEC104ClientSimulator-1.1.9.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/IEC104ClientSimulator-release/releases/download/v1.1.9.0/IEC104ClientSimulator-1.1.9.0-windows.zip
   InstallerSha256: 911F806ADB9EB781176A1037FCDD9F457F9DA4372D141C8F5B1E52127F78B460
   InstallerSwitches:
     Custom: /ALLUSERS

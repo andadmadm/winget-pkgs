@@ -18,24 +18,24 @@ ReleaseDate: 2024-07-06
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
   InstallerSha256: A30AF310F45D4076CF1580BB08015DB9A1337DDC1A99CF61829E645B196E8B2E
   ProductCode: AutoHotkey
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
   InstallerSha256: A30AF310F45D4076CF1580BB08015DB9A1337DDC1A99CF61829E645B196E8B2E
   InstallerSwitches:
     Custom: /elevate
   ProductCode: AutoHotkey
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
   InstallerSha256: A30AF310F45D4076CF1580BB08015DB9A1337DDC1A99CF61829E645B196E8B2E
   ProductCode: AutoHotkey
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.18/AutoHotkey_2.0.18_setup.exe
   InstallerSha256: A30AF310F45D4076CF1580BB08015DB9A1337DDC1A99CF61829E645B196E8B2E
   InstallerSwitches:
     Custom: /elevate

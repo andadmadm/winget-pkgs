@@ -14,14 +14,14 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/nxshell/nxshell/releases/download/v1.5.0/NxShell-1.5.0-202111071109.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nxshell/nxshell/releases/download/v1.5.0/NxShell-1.5.0-202111071109.exe
   InstallerSha256: 07902745148DAEB2B1340379E9AAB16E533BF908F746C783F9A9A86957CF775B
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: '{3949332e-609b-5d21-9144-216551c051e9}'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/nxshell/nxshell/releases/download/v1.5.0/NxShell-1.5.0-202111071109.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nxshell/nxshell/releases/download/v1.5.0/NxShell-1.5.0-202111071109.exe
   InstallerSha256: 07902745148DAEB2B1340379E9AAB16E533BF908F746C783F9A9A86957CF775B
   InstallerSwitches:
     Custom: /ALLUSERS

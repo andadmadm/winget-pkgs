@@ -13,11 +13,11 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{FEB82971-B3E6-4F19-9684-1D543E644D73}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cyanfish/naps2/releases/download/v7.4.3/naps2-7.4.3-win-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cyanfish/naps2/releases/download/v7.4.3/naps2-7.4.3-win-x86.msi
   InstallerSha256: 086A0969A5BCCD06044797092A263F33364B55BD56D4FBAB4C6625E217E92401
   ProductCode: '{D4FA37C0-4DFE-4FFB-BBF7-8E4A245ADFA6}'
 - Architecture: x64
-  InstallerUrl: https://github.com/cyanfish/naps2/releases/download/v7.4.3/naps2-7.4.3-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cyanfish/naps2/releases/download/v7.4.3/naps2-7.4.3-win-x64.msi
   InstallerSha256: 9F56F5D72810DC620E655ADFBC574781939EC131821DBFA69A291C4B1F795C69
   ProductCode: '{3E8EA202-7733-4301-8C4C-4B68739F0260}'
 ManifestType: installer

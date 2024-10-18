@@ -11,7 +11,7 @@ InstallerSwitches:
   Custom: /currentuser
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.0.3/dbeaver-ce-21.0.3-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.0.3/dbeaver-ce-21.0.3-x86_64-setup.exe
   InstallerSha256: 2DA3ECB3FEBC7F422BB4AAB76EC0CCD3BD736E77E487F9CAB2BD73740E6CE5A0
 ManifestType: installer
 ManifestVersion: 1.1.0

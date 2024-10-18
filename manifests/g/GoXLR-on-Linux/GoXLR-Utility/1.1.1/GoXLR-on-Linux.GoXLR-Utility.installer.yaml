@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/GoXLR-on-Linux/goxlr-utility/releases/download/v1.1.1/goxlr-utility-1.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GoXLR-on-Linux/goxlr-utility/releases/download/v1.1.1/goxlr-utility-1.1.1.exe
   InstallerSha256: CB9B82BD1D9FED4F32981414024155899D36C24959D1ACC6C25AE0F757D8B36E
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -12,7 +12,7 @@ ReleaseDate: 2023-06-30
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/arduino/arduino-ide/releases/download/2.1.1/arduino-ide_2.1.1_Windows_64bit.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/arduino/arduino-ide/releases/download/2.1.1/arduino-ide_2.1.1_Windows_64bit.msi
   InstallerSha256: 1493205D3ED960E8AA7B6187B1ADFEEF4DC4EBBAE268EACCFCF90EF95E2D5A97
   InstallModes:
   - interactive
@@ -35,7 +35,7 @@ Installers:
   - ixx
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/arduino/arduino-ide/releases/download/2.1.1/arduino-ide_2.1.1_Windows_64bit.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/arduino/arduino-ide/releases/download/2.1.1/arduino-ide_2.1.1_Windows_64bit.msi
   InstallerSha256: 1493205D3ED960E8AA7B6187B1ADFEEF4DC4EBBAE268EACCFCF90EF95E2D5A97
   InstallerSwitches:
     Custom: ALLUSERS=1

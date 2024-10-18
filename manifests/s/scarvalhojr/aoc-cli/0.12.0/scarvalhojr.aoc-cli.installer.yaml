@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/scarvalhojr/aoc-cli/releases/download/0.12.0/aoc-cli-0.12.0-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/scarvalhojr/aoc-cli/releases/download/0.12.0/aoc-cli-0.12.0-x86_64.msi
   InstallerSha256: 24587AC41EC50C1A671B518FBEC54F23D363F5E8D200BCF26D6E5A51421A6105
   ProductCode: '{BC82CDC9-BF2B-4660-8861-FFC3739FEA75}'
 ManifestType: installer

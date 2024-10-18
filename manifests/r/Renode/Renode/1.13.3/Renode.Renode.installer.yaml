@@ -15,7 +15,7 @@ ProductCode: '{BA1A9E3E-C111-412C-8017-0547A4ECF423}'
 ReleaseDate: 2023-02-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/renode/renode/releases/download/v1.13.3/renode_1.13.3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/renode/renode/releases/download/v1.13.3/renode_1.13.3.msi
   InstallerSha256: FACDF24090ED91DAF632B65AAFC500196FE04A2663A98AE20535D40C8DA2CADA
 ManifestType: installer
 ManifestVersion: 1.5.0

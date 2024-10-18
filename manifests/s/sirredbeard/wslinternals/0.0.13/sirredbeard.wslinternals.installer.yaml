@@ -20,7 +20,7 @@ NestedInstallerFiles:
   PortableCommandAlias: wslctl
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/sirredbeard/wslinternals/releases/download/0.0.13/0.0.13.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sirredbeard/wslinternals/releases/download/0.0.13/0.0.13.zip
   InstallerSha256: E2E25F50B8EC06F2517B4988E9E43B4ACD3CB55A751700B6EF353E7410C82F9B
 ManifestType: installer
 ManifestVersion: 1.5.0

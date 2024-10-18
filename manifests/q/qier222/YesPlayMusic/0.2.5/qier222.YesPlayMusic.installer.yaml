@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2020-12-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qier222/YesPlayMusic/releases/download/v0.2.5/YesPlayMusic.Setup.0.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qier222/YesPlayMusic/releases/download/v0.2.5/YesPlayMusic.Setup.0.2.5.exe
   InstallerSha256: 6368C3420C9B046A7F688066C4ABD1633D748A05B8B8E44B1398C9A32689600B
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HearthSim/HDT-Releases/releases/download/v1.16.16/HDT-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HearthSim/HDT-Releases/releases/download/v1.16.16/HDT-Installer.exe
   InstallerSha256: 206B5177D355532EB3C07A682F268889F489D48A598CB19B36638E98804BA25A
 ManifestType: installer
 ManifestVersion: 1.1.0

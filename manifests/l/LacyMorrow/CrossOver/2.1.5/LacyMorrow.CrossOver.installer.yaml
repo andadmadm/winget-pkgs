@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lacymorrow/crossover/releases/download/v2.1.5/CrossOver-2.1.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lacymorrow/crossover/releases/download/v2.1.5/CrossOver-2.1.5.exe
   InstallerSha256: 64F859D3B29E33974038D64C9E4BB6155DF9BE036FE0E26B3F2665F5B4AA83FE
 ManifestType: installer
 ManifestVersion: 1.0.0

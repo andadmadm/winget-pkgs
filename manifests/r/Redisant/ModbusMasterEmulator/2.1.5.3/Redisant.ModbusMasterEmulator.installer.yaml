@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MME-2.1.5.3-windows\MME.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/mme-release/releases/download/v2.1.5.3/MME-2.1.5.3-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/mme-release/releases/download/v2.1.5.3/MME-2.1.5.3-windows.zip
   InstallerSha256: 5B0CAA3389C60C49C759EE7B1540C157E2049C2BB52F8EB24E96743A338D9445
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MME-2.1.5.3-windows\MME.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/mme-release/releases/download/v2.1.5.3/MME-2.1.5.3-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/mme-release/releases/download/v2.1.5.3/MME-2.1.5.3-windows.zip
   InstallerSha256: 5B0CAA3389C60C49C759EE7B1540C157E2049C2BB52F8EB24E96743A338D9445
   InstallerSwitches:
     Custom: /ALLUSERS

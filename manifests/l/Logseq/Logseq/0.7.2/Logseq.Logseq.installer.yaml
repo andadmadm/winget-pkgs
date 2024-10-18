@@ -21,7 +21,7 @@ FileExtensions:
 ReleaseDate: 2022-06-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/logseq/logseq/releases/download/0.7.2/Logseq-win-x64-0.7.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/logseq/logseq/releases/download/0.7.2/Logseq-win-x64-0.7.2.exe
   InstallerSha256: FAD87EB51FE0C2331BDAFCC85A446766BE4AABE2BAF83795F347D16067AD4FFE
   ProductCode: Logseq
 ManifestType: installer

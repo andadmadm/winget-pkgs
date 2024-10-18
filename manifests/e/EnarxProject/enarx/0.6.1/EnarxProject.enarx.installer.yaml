@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/enarx/enarx/releases/download/v0.6.1/enarx-x86_64-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/enarx/enarx/releases/download/v0.6.1/enarx-x86_64-windows.msi
   InstallerSha256: 306CAF2962FC831E57D5297330D67915548097021C07A140EED81666815AB3BD
   ProductCode: '{D40E9C7C-3DD3-4CA5-A3B0-A6D580A5E25E}'
 ManifestType: installer

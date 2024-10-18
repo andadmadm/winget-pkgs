@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-07-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Shabinder/SpotiFlyer/releases/download/3.2.0/SpotiFlyer-3.2.0.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Shabinder/SpotiFlyer/releases/download/3.2.0/SpotiFlyer-3.2.0.1.msi
   InstallerSha256: 3C49DDD26C435A21DE613CEAD84DE4E42A1CC8F9BABD8EA79BC9A3526D042122
   ProductCode: '{F4DEA315-63DA-3944-96AB-F7FBD9A81BA3}'
 ManifestType: installer

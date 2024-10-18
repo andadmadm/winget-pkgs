@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{F3E1F40A-A791-49B7-9BC6-050975293353}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/containers/podman/releases/download/v4.9.2/podman-4.9.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v4.9.2/podman-4.9.2-setup.exe
   InstallerSha256: D74C46564CA76210AE6E8E306FB4E4732057EEB4A998596DAEF3847FBFBD5CE1
   ProductCode: '{9464eb8c-8d9e-450e-aaca-3cb4fb36f82e}'
 ManifestType: installer

@@ -6,7 +6,7 @@ PackageVersion: 2.5.1
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2.5.1/jitsi-meet.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jitsi/jitsi-meet-electron/releases/download/v2.5.1/jitsi-meet.exe
   InstallerSha256: 6907AB594714A1F2DAEC0B64B8C780675B2D92F90BB014AA24AF7AA53C328208
 ManifestType: installer
 ManifestVersion: 1.0.0

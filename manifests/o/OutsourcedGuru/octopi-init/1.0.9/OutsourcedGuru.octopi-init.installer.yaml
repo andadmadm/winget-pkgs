@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/OutsourcedGuru/octopi-init/raw/master/dist/octopi-init%20Setup%201.0.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OutsourcedGuru/octopi-init/raw/master/dist/octopi-init%20Setup%201.0.9.exe
   InstallerSha256: 559F98BE197668FADD00F3E639793B2A7B1EA3EB4441871CE4EEB68B5C05098E
 ManifestType: installer
 ManifestVersion: 1.2.0

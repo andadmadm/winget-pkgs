@@ -14,37 +14,37 @@ InstallModes:
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-amd64.exe
   InstallerSha256: B4E52D7B6CF3D156BCAB73EA0CE17FB18EB16F662D6E4005A73FF780D8CE03ED
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-amd64.exe
   InstallerSha256: B4E52D7B6CF3D156BCAB73EA0CE17FB18EB16F662D6E4005A73FF780D8CE03ED
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-386.exe
   InstallerSha256: 9A1276AF6BCAC616449EDF32CE0029456F7920F89EBBFAEF94732EC8E581BFDC
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-386.exe
   InstallerSha256: 9A1276AF6BCAC616449EDF32CE0029456F7920F89EBBFAEF94732EC8E581BFDC
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-arm64.exe
   InstallerSha256: 2B1DE6B9E1447149E2053C17C73654198BE5DB2F4168EA38398EBB9AD5043688
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v8.22.8/install-arm64.exe
   InstallerSha256: 2B1DE6B9E1447149E2053C17C73654198BE5DB2F4168EA38398EBB9AD5043688
   InstallerSwitches:
     Custom: /CURRENTUSER

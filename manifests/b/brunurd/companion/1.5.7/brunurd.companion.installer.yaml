@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/brunurd/companion/releases/download/v1.5.7/Companion.1.5.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brunurd/companion/releases/download/v1.5.7/Companion.1.5.7.exe
   InstallerSha256: 23286B6EF50328A38D2B4E70BC4E3A2C6C6E7192ED56356F15D5EF922330186E
   UpgradeBehavior: install
 ManifestType: installer

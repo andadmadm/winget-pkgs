@@ -13,7 +13,7 @@ Installers:
     PortableCommandAlias: yara
   - RelativeFilePath: yarac32.exe
     PortableCommandAlias: yarac
-  InstallerUrl: https://github.com/VirusTotal/yara/releases/download/v4.5.2/yara-v4.5.2-2326-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/VirusTotal/yara/releases/download/v4.5.2/yara-v4.5.2-2326-win32.zip
   InstallerSha256: C7A8584133F4438764B8F247489C0C121B16422FD65B76D7A1A754DA79FE5F25
   Dependencies:
     PackageDependencies:
@@ -25,7 +25,7 @@ Installers:
     PortableCommandAlias: yara
   - RelativeFilePath: yarac64.exe
     PortableCommandAlias: yarac
-  InstallerUrl: https://github.com/VirusTotal/yara/releases/download/v4.5.2/yara-v4.5.2-2326-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/VirusTotal/yara/releases/download/v4.5.2/yara-v4.5.2-2326-win64.zip
   InstallerSha256: 9F934CC4C5DE653324A5714736077F57667A06009BEE7984D960634AE0662DC6
   Dependencies:
     PackageDependencies:

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2019-04-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/awaescher/RepoZ/releases/download/v5.0/RepoZ.5.0.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/awaescher/RepoZ/releases/download/v5.0/RepoZ.5.0.Setup.exe
   InstallerSha256: 2A31274F320166E0771D94A4C26B28A16D9AE25BA545E64251F33D26CCF7D107
 ManifestType: installer
 ManifestVersion: 1.2.0

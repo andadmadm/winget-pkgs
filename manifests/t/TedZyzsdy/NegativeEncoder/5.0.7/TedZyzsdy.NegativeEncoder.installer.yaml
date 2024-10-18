@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-04-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zyzsdy/NegativeEncoder/releases/download/v5.0.7/NegativeEncoderSetup_v5.0.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zyzsdy/NegativeEncoder/releases/download/v5.0.7/NegativeEncoderSetup_v5.0.7.exe
   InstallerSha256: 3696F4ACBF2D5B102C1862A93585DEAE3A29C191DB7E329C1AB8A2DB63BBF822
   ProductCode: 消极压制
 ManifestType: installer

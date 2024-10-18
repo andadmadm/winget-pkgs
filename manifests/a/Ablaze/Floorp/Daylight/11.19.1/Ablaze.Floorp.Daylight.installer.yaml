@@ -21,7 +21,7 @@ UpgradeBehavior: install
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/beta/floorp-win64.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/beta/floorp-win64.installer.exe
   InstallerSha256: 43BF25ED4E177683C6A67F6047AAD193C25E669B42BE044751486E38A4FB1D90
   AppsAndFeaturesEntries:
   - DisplayName: Floorp Daylight (x64 en-US)

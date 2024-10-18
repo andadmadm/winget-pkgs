@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: mods_1.3.0_Windows_arm64\mods.exe
         PortableCommandAlias: mods
-    InstallerUrl: https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_arm64.zip
     InstallerSha256: 5275e831d66f6dd4309e524abb0331b5023f294f1d0cdd92aa5b70257bc63739
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: mods_1.3.0_Windows_x86_64\mods.exe
         PortableCommandAlias: mods
-    InstallerUrl: https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_x86_64.zip
     InstallerSha256: fbfff7a00b6d2d2ca73185e5cfe8ae5c9aa60b283bdca1b06eafbd8e75ee1f59
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-installer.exe
   InstallerSha256: 0A436369CE31FEF705B5835F61B4234E7F9645D660ADA6D9874054AAB9607B7D
 ManifestType: installer
 ManifestVersion: 1.1.0

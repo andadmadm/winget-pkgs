@@ -10,7 +10,7 @@ Commands:
 - minikube
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/kubernetes/minikube/releases/download/v1.33.1/minikube-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/minikube/releases/download/v1.33.1/minikube-installer.exe
   InstallerSha256: D9EF1549CE17853828DF574DDAB919085CC851412171B3B03F34888D2FDD6E76
 ManifestType: installer
 ManifestVersion: 1.6.0

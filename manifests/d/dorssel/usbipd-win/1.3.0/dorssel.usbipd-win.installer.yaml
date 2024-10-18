@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-12-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dorssel/usbipd-win/releases/download/v1.3.0/usbipd-win_1.3.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dorssel/usbipd-win/releases/download/v1.3.0/usbipd-win_1.3.0.msi
   InstallerSha256: 6FCA9C956074097EFD227AC16378649E1148220DFB497A6D601A140643682C61
   ProductCode: '{EA1D5623-E6A7-4E4A-9259-E397FA8C67E0}'
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/FedoraQt/MediaWriter/releases/download/4.2.2/FedoraMediaWriter-win64-4.2.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FedoraQt/MediaWriter/releases/download/4.2.2/FedoraMediaWriter-win64-4.2.2.exe
   InstallerSha256: C4C586348C09237BF47E29A9C6AA1810D73FF6B4B76B207139FBF031F1E81C21
 ManifestType: installer
 ManifestVersion: 1.1.0

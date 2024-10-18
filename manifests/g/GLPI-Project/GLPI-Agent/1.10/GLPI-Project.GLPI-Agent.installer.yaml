@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/glpi-project/glpi-agent/releases/download/1.10/GLPI-Agent-1.10-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/glpi-project/glpi-agent/releases/download/1.10/GLPI-Agent-1.10-x64.msi
   InstallerSha256: 2EA2300A2E79C5927E283F111D5D1E5FF47E132F1660A6B41DAB49933FFD09AE
   ProductCode: '{1CFB6EE6-6BF5-1014-B525-EBCD8FA69B29}'
 ManifestType: installer

@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: slik\slik.exe
   PortableCommandAlias: slik
 Installers:
-- InstallerUrl: https://github.com/BobdaProgrammer/slik/releases/download/slikApp/slik.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/BobdaProgrammer/slik/releases/download/slikApp/slik.zip
   Architecture: x64
   InstallerSha256: 4DA1F3A51EAAA7C54EFBF0450BF511798B1BEE8FD11704B1578BB7A53793C1B9
 ManifestType: installer

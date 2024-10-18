@@ -8,13 +8,13 @@ InstallerType: inno
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/drakkan/sftpgo/releases/download/v2.5.6/sftpgo_v2.5.6_windows_x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/drakkan/sftpgo/releases/download/v2.5.6/sftpgo_v2.5.6_windows_x86_64.exe
   InstallerSha256: C20BB051D3EA2ACBF05231ECB94410D01648E15DE304CA6240D37FDC34007DBE
 - Architecture: x86
-  InstallerUrl: https://github.com/drakkan/sftpgo/releases/download/v2.5.6/sftpgo_v2.5.6_windows_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/drakkan/sftpgo/releases/download/v2.5.6/sftpgo_v2.5.6_windows_x86.exe
   InstallerSha256: 10AC165A24163781CA574248A5F731278F03E32FFB47F8DF83EE26D93123077A
 - Architecture: arm64
-  InstallerUrl: https://github.com/drakkan/sftpgo/releases/download/v2.5.6/sftpgo_v2.5.6_windows_arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/drakkan/sftpgo/releases/download/v2.5.6/sftpgo_v2.5.6_windows_arm64.exe
   InstallerSha256: 460CF70D1C6DF7D9EB2132FD2C3FCA0CB4B55E5DA8A92A10F8FDEE3FBBEEBC10
 ManifestType: installer
 ManifestVersion: 1.4.0

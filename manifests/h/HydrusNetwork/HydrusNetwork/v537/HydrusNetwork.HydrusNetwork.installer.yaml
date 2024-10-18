@@ -15,7 +15,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/hydrusnetwork/hydrus/releases/download/v537/Hydrus.Network.537.-.Windows.-.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydrusnetwork/hydrus/releases/download/v537/Hydrus.Network.537.-.Windows.-.Installer.exe
   InstallerSha256: 6EC13A4835FE8FB7FE363204ABFF186AEAEE16D03262D88C419359A8BC3E18E0
   ProductCode: Hydrus Network_is1
 ManifestType: installer

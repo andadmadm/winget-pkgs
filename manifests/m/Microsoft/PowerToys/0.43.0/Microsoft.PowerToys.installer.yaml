@@ -13,7 +13,7 @@ InstallerSwitches:
   SilentWithProgress: --silent
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.43.0/PowerToysSetup-0.43.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.43.0/PowerToysSetup-0.43.0-x64.exe
   InstallerSha256: 5500395AF64808129B4DFB0BDF02E3D3650D8A103C4C3244898C8BB7B92F9D48
   ProductCode: '{DED29EDD-F6DE-4B52-B070-260055565001}'
 ManifestType: installer

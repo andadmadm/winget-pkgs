@@ -12,10 +12,10 @@ Commands:
 ReleaseDate: 2024-07-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/eat-pray-ai/yutu/releases/download/v0.9.5/yutu-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/eat-pray-ai/yutu/releases/download/v0.9.5/yutu-windows-amd64.exe
   InstallerSha256: D6D33DCEFBA1A2EFF665628CAAE08B3FAFBFE42C6AE9DDDAA142FF923A2E389F
 - Architecture: arm64
-  InstallerUrl: https://github.com/eat-pray-ai/yutu/releases/download/v0.9.5/yutu-windows-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/eat-pray-ai/yutu/releases/download/v0.9.5/yutu-windows-arm64.exe
   InstallerSha256: C6AE5B9D72829473CAD3FDFE791B86AF6896565A64586236D96FF5DCECDB078A
 ManifestType: installer
 ManifestVersion: 1.6.0

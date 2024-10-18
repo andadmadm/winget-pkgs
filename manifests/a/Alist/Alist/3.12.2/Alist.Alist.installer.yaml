@@ -11,21 +11,21 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: alist.exe
     PortableCommandAlias: alist
-  InstallerUrl: https://github.com/alist-org/alist/releases/download/v3.12.2/alist-windows-386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/alist-org/alist/releases/download/v3.12.2/alist-windows-386.zip
   InstallerSha256: AB862AA962E5F9F4338DE52DF3CCE13CCACF3DC5199829A472ACF54005906B7F
 - Architecture: x64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: alist.exe
     PortableCommandAlias: alist
-  InstallerUrl: https://github.com/alist-org/alist/releases/download/v3.12.2/alist-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/alist-org/alist/releases/download/v3.12.2/alist-windows-amd64.zip
   InstallerSha256: C18401B1AF7085A3445DD89B0A30D80AB14502D1DE98956729134F598CC0C32D
 - Architecture: arm64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: alist.exe
     PortableCommandAlias: alist
-  InstallerUrl: https://github.com/alist-org/alist/releases/download/v3.12.2/alist-windows-arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/alist-org/alist/releases/download/v3.12.2/alist-windows-arm64.zip
   InstallerSha256: 8205F2D6967C28AEAB7AC94E9DCDADAC2695B47EEE55A4C4A83B6144F1FA2F2B
 ManifestType: installer
 ManifestVersion: 1.4.0

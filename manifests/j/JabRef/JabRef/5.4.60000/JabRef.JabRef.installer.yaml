@@ -8,7 +8,7 @@ InstallerType: msi
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JabRef/jabref/releases/download/v5.4/JabRef-5.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/JabRef/jabref/releases/download/v5.4/JabRef-5.4.msi
   InstallerSha256: E462254FFD249E73AE0DF818E61DB50A1371F97D7BC7FB168099F4A7A1B2C278
   ProductCode: '{1E8AA836-A656-3A7A-8777-74C5271D2762}'
 ManifestType: installer

@@ -16,7 +16,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.6.5/lagrange_v1.6.5_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.6.5/lagrange_v1.6.5_windows-x64_setup.exe
   InstallerSha256: 8FD4C53BD0449DAE9314405B2A40C8414522394CE1D8586A6010BC2789967F5F
   UpgradeBehavior: install
 ManifestType: installer

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RicoSuter/NSwag/releases/download/NSwag-Build-1129/NSwagStudio.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RicoSuter/NSwag/releases/download/NSwag-Build-1129/NSwagStudio.msi
   InstallerSha256: 39141480F1E78E83A4884C519D57AE998C2551D4643A8588B44714AB6A0EA4C0
   ProductCode: '{0353E7EC-9A41-4A98-A1AF-584201417CE1}'
 ManifestType: installer

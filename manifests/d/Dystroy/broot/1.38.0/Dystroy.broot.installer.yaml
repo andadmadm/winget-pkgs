@@ -10,7 +10,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-05-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Canop/broot/releases/download/v1.38.0/broot_1.38.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Canop/broot/releases/download/v1.38.0/broot_1.38.0.zip
   InstallerSha256: 2CF6151B65D5A39C85DFE8C118D725D45974E396CB78E711CCFFE00177F488FF
 ManifestType: installer
 ManifestVersion: 1.6.0

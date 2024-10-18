@@ -11,10 +11,10 @@ NestedInstallerFiles:
 ReleaseDate: 2023-10-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/fluxcd/flux2/releases/download/v2.1.2/flux_2.1.2_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluxcd/flux2/releases/download/v2.1.2/flux_2.1.2_windows_amd64.zip
   InstallerSha256: 0951E481F3A800835F5C40BBB88986B98DED33001082CA9DCC3FCE48123F05B1
 - Architecture: arm64
-  InstallerUrl: https://github.com/fluxcd/flux2/releases/download/v2.1.2/flux_2.1.2_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluxcd/flux2/releases/download/v2.1.2/flux_2.1.2_windows_arm64.zip
   InstallerSha256: D6AAAEAB880B24023E2AA0CD4C9EC3C50A929B0F976A6EA67864720955E17AAA
 ManifestType: installer
 ManifestVersion: 1.5.0

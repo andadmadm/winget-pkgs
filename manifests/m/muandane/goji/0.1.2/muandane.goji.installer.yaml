@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: goji.exe
         PortableCommandAlias: goji
-    InstallerUrl: https://github.com/muandane/goji/releases/download/v0.1.2/goji_v0.1.2_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/muandane/goji/releases/download/v0.1.2/goji_v0.1.2_Windows_x86_64.zip
     InstallerSha256: 8c0ba1d72757d98c631eeb1b83cb668319ec48dd6060a02c09873dcd725c3ab0
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

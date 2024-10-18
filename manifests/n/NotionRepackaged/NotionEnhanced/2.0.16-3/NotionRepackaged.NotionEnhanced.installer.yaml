@@ -10,13 +10,13 @@ ReleaseDate: 2021-09-09
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/notion-enhancer/notion-repackaged/releases/download/v2.0.16-3/Notion-Enhanced-Setup-2.0.16-3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/notion-enhancer/notion-repackaged/releases/download/v2.0.16-3/Notion-Enhanced-Setup-2.0.16-3.exe
   InstallerSha256: 79DFFF4A70D5D78DBA5CC2C22C1BD0C9EB0B99BADBF5A3D2C29F65C0226607AB
   InstallerSwitches:
     Custom: /AllUsers
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/notion-enhancer/notion-repackaged/releases/download/v2.0.16-3/Notion-Enhanced-Setup-2.0.16-3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/notion-enhancer/notion-repackaged/releases/download/v2.0.16-3/Notion-Enhanced-Setup-2.0.16-3.exe
   InstallerSha256: 79DFFF4A70D5D78DBA5CC2C22C1BD0C9EB0B99BADBF5A3D2C29F65C0226607AB
   InstallerSwitches:
     Custom: /CurrentUser

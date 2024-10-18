@@ -9,7 +9,7 @@ InstallerSwitches:
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/saturneric/GpgFrontend/releases/download/v2.0.8/GpgFrontend-2.0.8-Windows-x86_64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/saturneric/GpgFrontend/releases/download/v2.0.8/GpgFrontend-2.0.8-Windows-x86_64-Setup.exe
   InstallerSha256: 009E642303AC3DE76E29F9EF1239481A2757F6CE472CBAE121B5D746C8952611
 ManifestType: installer
 ManifestVersion: 1.1.0

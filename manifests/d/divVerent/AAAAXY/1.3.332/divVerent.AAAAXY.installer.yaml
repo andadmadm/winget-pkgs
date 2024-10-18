@@ -11,14 +11,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: aaaaxy-windows-amd64.exe
     PortableCommandAlias: aaaaxy
-  InstallerUrl: https://github.com/divVerent/aaaaxy/releases/download/v1.3.334/aaaaxy-windows-amd64-v1.3.334.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/divVerent/aaaaxy/releases/download/v1.3.334/aaaaxy-windows-amd64-v1.3.334.zip
   InstallerSha256: AEF45C56DB9973545213090480B3090FF7D181EE12E6EDF61F2684F9DACB7CB4
 - Architecture: x86
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: aaaaxy-windows-386.exe
     PortableCommandAlias: aaaaxy
-  InstallerUrl: https://github.com/divVerent/aaaaxy/releases/download/v1.3.334/aaaaxy-windows-386-v1.3.334.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/divVerent/aaaaxy/releases/download/v1.3.334/aaaaxy-windows-386-v1.3.334.zip
   InstallerSha256: 2F2B6060AA1CB8E93D4224CB5F4DB7008F145BF7682F1D8D6FE840D06A48BC33
 ManifestType: installer
 ManifestVersion: 1.4.0

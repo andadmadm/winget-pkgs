@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2019-08-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/layerssss/manager-for-upyun/releases/download/v0.0.9/manager-for-upyun-Setup-0.0.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/layerssss/manager-for-upyun/releases/download/v0.0.9/manager-for-upyun-Setup-0.0.9.exe
   InstallerSha256: 52D034A6A1619BE50CA04B1CE6A9FD1C78DBA965DA2047D3BE332D9567EAA3F3
   ProductCode: manager-for-upyun
 ManifestType: installer

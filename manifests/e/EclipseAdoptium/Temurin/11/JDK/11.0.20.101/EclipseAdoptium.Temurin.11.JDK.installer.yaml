@@ -26,14 +26,14 @@ FileExtensions:
 - jsp
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1+1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.20.1_1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1+1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.20.1_1.msi
   InstallerSha256: 5F507A9BD3A2A79BDA88A984C2C1D748E89E0485C915620EBB34D866E72D3538
   ProductCode: '{2A416921-BD72-4CF0-AFAD-8DB13B78D52A}'
   AppsAndFeaturesEntries:
   - DisplayName: Eclipse Temurin JDK with Hotspot 11.0.20.1+1 (x86)
     UpgradeCode: '{E26AD2F5-1BA5-6CF3-F1D0-7C6017113119}'
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1+1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1+1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.msi
   InstallerSha256: 51785957427C5F34581930FBB224A44550F70D1C5ECB6F05AB27432E6A1F9A75
   ProductCode: '{0E103F4D-775A-4358-A5BF-19D1CAD013A9}'
   AppsAndFeaturesEntries:

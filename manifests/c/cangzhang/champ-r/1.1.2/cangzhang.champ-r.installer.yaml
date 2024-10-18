@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/cangzhang/champ-r/releases/download/v1.1.2/ChampR-Setup-1.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cangzhang/champ-r/releases/download/v1.1.2/ChampR-Setup-1.1.2.exe
   InstallerSha256: 0E42425129E64FCE211607EBEF8809A4B39639B3C48CD49B82DDC5B4ED607E25
   UpgradeBehavior: install
 ManifestType: installer

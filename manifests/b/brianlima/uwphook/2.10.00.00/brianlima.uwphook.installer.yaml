@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/BrianLima/UWPHook/releases/download/2.10.0/UWPHook.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BrianLima/UWPHook/releases/download/2.10.0/UWPHook.exe
   InstallerSha256: 621BD85A78F4F9FDEBDAC6044AFD16982A20785D35F87541A1B7226512A92FFB
   UpgradeBehavior: install
 ManifestType: installer

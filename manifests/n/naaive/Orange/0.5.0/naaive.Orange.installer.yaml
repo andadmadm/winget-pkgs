@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/naaive/orange/releases/download/orange-v0.5.0/Orange_0.5.0_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/naaive/orange/releases/download/orange-v0.5.0/Orange_0.5.0_x64_en-US.msi
   InstallerSha256: 5B3B36427ADA867411A0965A36DF668FD1A2CBB7686F53926BABCD0CA1450304
   ProductCode: '{2CEDBD23-E31C-44DB-91FF-1DFBC9CD39A5}'
 ManifestType: installer

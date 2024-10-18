@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-01-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/eza-community/eza/releases/download/v0.17.2/eza.exe_x86_64-pc-windows-gnu.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/eza-community/eza/releases/download/v0.17.2/eza.exe_x86_64-pc-windows-gnu.zip
   InstallerSha256: AFBA7DD491EA964619EFD4449E14304DF6F371182F1EF3185AA1833793BF450E
 ManifestType: installer
 ManifestVersion: 1.5.0

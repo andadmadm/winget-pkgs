@@ -13,7 +13,7 @@ InstallerSwitches:
 ReleaseDate: 2024-06-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/cli-v2024.6.0/bw-windows-2024.6.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/cli-v2024.6.0/bw-windows-2024.6.0.zip
   InstallerSha256: E4B957D30490AF6D043057C9FFAF709A1137013918AFC9C4704AEF772988659D
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -8,7 +8,7 @@ Dependencies:
   PackageDependencies:
    - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
-- InstallerUrl: https://github.com/G0rocks/cab/releases/download/V0.0.0-Alpha/cab.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/G0rocks/cab/releases/download/V0.0.0-Alpha/cab.exe
   Architecture: x64
   InstallerSha256: 24A676306450EA7D8DCDD4935DD743CEBF63FE617F9898887E4F27FD605330BD
 ManifestType: installer

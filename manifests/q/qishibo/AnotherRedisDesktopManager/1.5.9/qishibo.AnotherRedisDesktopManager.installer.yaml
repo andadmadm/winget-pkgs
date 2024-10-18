@@ -14,13 +14,13 @@ ReleaseDate: 2022-10-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/Another-Redis-Desktop-Manager.1.5.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/Another-Redis-Desktop-Manager.1.5.9.exe
   InstallerSha256: EF53153AB35700470C57402E89AF33DF8EC7E3C9E0BA5F9A61695B69E4D48BF4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/Another-Redis-Desktop-Manager.1.5.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/Another-Redis-Desktop-Manager.1.5.9.exe
   InstallerSha256: EF53153AB35700470C57402E89AF33DF8EC7E3C9E0BA5F9A61695B69E4D48BF4
   InstallerSwitches:
     Custom: /ALLUSERS

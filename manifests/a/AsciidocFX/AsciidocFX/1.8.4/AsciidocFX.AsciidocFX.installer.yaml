@@ -23,7 +23,7 @@ FileExtensions:
 ReleaseDate: 2023-01-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/asciidocfx/AsciidocFX/releases/download/v1.8.4/AsciidocFX_Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/asciidocfx/AsciidocFX/releases/download/v1.8.4/AsciidocFX_Windows.exe
   InstallerSha256: B68A46097EFD9BB939A657FEABBCF018957361C7F5B322BAB707AB582F10F821
   ProductCode: 7853-9376-5862-1224
 ManifestType: installer

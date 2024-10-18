@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/HemantKArya/Melodfy/releases/download/v1.0.0%2B22/Melodfy_v1.0.0_Win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HemantKArya/Melodfy/releases/download/v1.0.0%2B22/Melodfy_v1.0.0_Win.exe
   InstallerSha256: 4B9143867892DE23E6DCFECFC7C655F8D635D6BE9B01A5A6B6FA4DD8F6A3CA32
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -4,13 +4,13 @@
 PackageIdentifier: Npackd.Npackd
 PackageVersion: 1.26.9
 Installers:
-- InstallerUrl: https://github.com/npackd/npackd-cpp/releases/download/version_1.26.9/Npackd64-1.26.9.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/npackd/npackd-cpp/releases/download/version_1.26.9/Npackd64-1.26.9.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
   InstallerSha256: C1DA6EE5394EB6F5879FB27373B18159325D28D62DE0A785AC541013B48A082C
   ProductCode: '{F8AFAB82-B2BF-47FE-907C-8E3A5A9F1AF0}'
-- InstallerUrl: https://github.com/npackd/npackd-cpp/releases/download/version_1.26.9/Npackd32-1.26.9.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/npackd/npackd-cpp/releases/download/version_1.26.9/Npackd32-1.26.9.msi
   InstallerLocale: en-US
   Architecture: x86
   InstallerType: msi

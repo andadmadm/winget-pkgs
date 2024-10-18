@@ -18,11 +18,11 @@ FileExtensions:
 ReleaseDate: 2019-11-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.32.00/AutoHotkey_1.1.32.00_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.32.00/AutoHotkey_1.1.32.00_setup.exe
   InstallerSha256: CE505D272F8D36C5599AC81F005E1D2D586EEAAA778C779AD858E44FDADFDB0D
   ProductCode: AutoHotkey
 - Architecture: x64
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.32.00/AutoHotkey_1.1.32.00_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.32.00/AutoHotkey_1.1.32.00_setup.exe
   InstallerSha256: CE505D272F8D36C5599AC81F005E1D2D586EEAAA778C779AD858E44FDADFDB0D
   ProductCode: AutoHotkey
 ManifestType: installer

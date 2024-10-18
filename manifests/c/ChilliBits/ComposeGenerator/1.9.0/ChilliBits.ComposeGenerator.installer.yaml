@@ -15,11 +15,11 @@ UpgradeBehavior: install
 ReleaseDate: 2022-07-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/compose-generator/compose-generator/releases/download/1.9.0/compose-generator_x64_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/compose-generator/compose-generator/releases/download/1.9.0/compose-generator_x64_setup.msi
   InstallerSha256: 54D2450399CCA2525DC4FF67CF90AB6C89970DF39B37331C9833166A69DC2341
   ProductCode: '{E26E05D2-7DE0-47FA-B85E-418D286B9B59}'
 - Architecture: x86
-  InstallerUrl: https://github.com/compose-generator/compose-generator/releases/download/1.9.0/compose-generator_x86_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/compose-generator/compose-generator/releases/download/1.9.0/compose-generator_x86_setup.msi
   InstallerSha256: 9ECD27213CE409A077189E1BB6BAA4B414DE59A092D025D50DD73D332C37B6BE
   ProductCode: '{E4416087-C821-4267-ADC8-63D4758BAF6A}'
 ManifestType: installer

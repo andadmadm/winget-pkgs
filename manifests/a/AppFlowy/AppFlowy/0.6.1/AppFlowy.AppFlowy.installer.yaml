@@ -13,7 +13,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.6.1/AppFlowy-0.6.1-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.6.1/AppFlowy-0.6.1-windows-x86_64.exe
   InstallerSha256: C4BE23E104E6023F36D0C0CF9A69699E1ABADE87E4BDD591A14F573921DC06AA
 ManifestType: installer
 ManifestVersion: 1.6.0

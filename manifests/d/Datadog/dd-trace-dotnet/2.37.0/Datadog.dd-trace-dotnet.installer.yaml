@@ -14,14 +14,14 @@ UpgradeBehavior: install
 ReleaseDate: 2023-08-31
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.37.0/datadog-dotnet-apm-2.37.0-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.37.0/datadog-dotnet-apm-2.37.0-x86.msi
   InstallerSha256: 8157C73E8267B5C635D3EBA00EFAC618DBE21BA9E165B8D3CAB4A37D432B8C84
   ProductCode: '{50DB9489-F36E-4EB3-A4AF-6C865925E4EB}'
   AppsAndFeaturesEntries:
   - DisplayName: Datadog .NET Tracer 32-bit
     UpgradeCode: '{FC228E86-EAE2-4C2A-AE82-135B718C269E}'
 - Architecture: x64
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.37.0/datadog-dotnet-apm-2.37.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.37.0/datadog-dotnet-apm-2.37.0-x64.msi
   InstallerSha256: FBF4AD3FB1B861119CCEFCE489973A83515E368B3A5C76770A1F488D659730FC
   ProductCode: '{1E72AA7A-1C66-4934-BF92-ACC46BE5886C}'
   AppsAndFeaturesEntries:

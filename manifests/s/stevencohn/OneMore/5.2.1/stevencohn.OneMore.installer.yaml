@@ -16,11 +16,11 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/5.2.1/OneMore_5.2.1_Setupx64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/5.2.1/OneMore_5.2.1_Setupx64.msi
   InstallerSha256: 239F38BC5E990729D632A4A01EC44F102A9034CED27ABD365E342405B7F616FA
   ProductCode: '{2FDD5059-B27E-4CA8-96EB-8043936EE8AD}'
 - Architecture: x86
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/5.2.1/OneMore_5.2.1_Setupx86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/5.2.1/OneMore_5.2.1_Setupx86.msi
   InstallerSha256: AB7ACC261FE6EF17F57B119C9B07E97F3AB101981F0ADFE935BFD16BE63FA7F0
   ProductCode: '{2FDD5059-B27E-4CA8-96EB-8043936EE8AD}'
 ManifestType: installer

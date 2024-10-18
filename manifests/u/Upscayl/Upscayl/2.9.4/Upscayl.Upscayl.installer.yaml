@@ -10,7 +10,7 @@ AppsAndFeaturesEntries:
 - DisplayName: Upscayl 2.9.4
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/upscayl/upscayl/releases/download/v2.9.4/upscayl-2.9.4-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/upscayl/upscayl/releases/download/v2.9.4/upscayl-2.9.4-win.exe
   InstallerSha256: 6610A0F1BB80FACC48300F4E4C320B1BFE2AE00583BBEAED59DB05B455BB3904
 ManifestType: installer
 ManifestVersion: 1.5.0

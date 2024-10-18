@@ -21,7 +21,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Mostaqem/mostaqem_desktop/releases/download/v2.1.0/mostaqem-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Mostaqem/mostaqem_desktop/releases/download/v2.1.0/mostaqem-windows-setup.exe
   InstallerSha256: 22D1401F58177F4BDB4EEBF368A91820B168AD2122F1F88D0391006CE7CD8F0D
 ManifestType: installer
 ManifestVersion: 1.6.0

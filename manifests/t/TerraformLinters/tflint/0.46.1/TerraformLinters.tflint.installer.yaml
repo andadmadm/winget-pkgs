@@ -17,14 +17,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: .\tflint.exe
     PortableCommandAlias: tflint
-  InstallerUrl: https://github.com/terraform-linters/tflint/releases/download/v0.46.1/tflint_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-linters/tflint/releases/download/v0.46.1/tflint_windows_386.zip
   InstallerSha256: 0B3827C151F49652A04F2A2F4577F8566AC9CA7BECA6AC86F85E737069ECCBAB
 - Architecture: x64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: .\tflint.exe
     PortableCommandAlias: tflint
-  InstallerUrl: https://github.com/terraform-linters/tflint/releases/download/v0.46.1/tflint_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-linters/tflint/releases/download/v0.46.1/tflint_windows_amd64.zip
   InstallerSha256: F68B982DFC2F860CA0AED1EFAF6B82E90E1222A78CA16692241937F2E8191327
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lbryio/lbry-desktop/releases/download/v0.47.0/LBRY_0.47.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lbryio/lbry-desktop/releases/download/v0.47.0/LBRY_0.47.0.exe
   InstallerSha256: D659D044C0EE6F0FE30C23CD28C06C5095A5A40C114F0988E8B5CABFBC2577D0
 ManifestType: installer
 ManifestVersion: 1.1.0

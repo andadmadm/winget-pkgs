@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: minder.exe
         PortableCommandAlias: minder
-    InstallerUrl: https://github.com/mindersec/minder/releases/download/v0.0.68/minder_0.0.68_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/mindersec/minder/releases/download/v0.0.68/minder_0.0.68_windows_arm64.zip
     InstallerSha256: 23a14794d3274130801d8f529b9e9d69499a8aba15848f2fb2e5fa06cdb99348
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: minder.exe
         PortableCommandAlias: minder
-    InstallerUrl: https://github.com/mindersec/minder/releases/download/v0.0.68/minder_0.0.68_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/mindersec/minder/releases/download/v0.0.68/minder_0.0.68_windows_amd64.zip
     InstallerSha256: 159079f6ed57e3f9b6a3b70ce7c6841a73d612ca0bc5ab7b0ee3211637c07734
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -6,7 +6,7 @@ PackageVersion: 2.4.0
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/yikuansun/webkitty/releases/download/v2.4.0/WebKitty.Setup.2.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yikuansun/webkitty/releases/download/v2.4.0/WebKitty.Setup.2.4.0.exe
   InstallerSha256: 437001C0D2905178A752D2396D1E0EF02BF0320F0E9D8A8586446F8D5CDEA054
 ManifestType: installer
 ManifestVersion: 1.2.0

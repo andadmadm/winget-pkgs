@@ -16,11 +16,11 @@ PackageFamilyName: WhitewaterFoundryLtd.Co.FedoraRemixforWSLSL_zxdhfybd17krt
 ReleaseDate: 2022-08-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/36.0.5/Fedora-Remix-for-WSL-SL_36.0.5.0_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/36.0.5/Fedora-Remix-for-WSL-SL_36.0.5.0_x64_arm64.msixbundle
   InstallerSha256: 521279A71DF232CA3BF219F63821768C9923E24F286EE99F833DDC2B892A6222
   SignatureSha256: BE823B08CA9B38F3E214D5D0EAAEEF5295BF685A9861C87B3A2B2B2D0A743102
 - Architecture: arm64
-  InstallerUrl: https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/36.0.5/Fedora-Remix-for-WSL-SL_36.0.5.0_x64_arm64.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/36.0.5/Fedora-Remix-for-WSL-SL_36.0.5.0_x64_arm64.msixbundle
   InstallerSha256: 521279A71DF232CA3BF219F63821768C9923E24F286EE99F833DDC2B892A6222
   SignatureSha256: BE823B08CA9B38F3E214D5D0EAAEEF5295BF685A9861C87B3A2B2B2D0A743102
 ManifestType: installer

@@ -9,7 +9,7 @@ Commands:
 - azqr
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Azure/azqr/releases/download/v.2.0.0-preview.8/azqr-windows-latest-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azqr/releases/download/v.2.0.0-preview.8/azqr-windows-latest-amd64.exe
   InstallerSha256: F51323A189A30FDA902462A641A789E949AE0CAC636819C2F1FD3AB6130009A4
 ManifestType: installer
 ManifestVersion: 1.6.0

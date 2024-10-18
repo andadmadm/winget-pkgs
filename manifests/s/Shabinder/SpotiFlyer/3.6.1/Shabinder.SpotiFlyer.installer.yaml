@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-3.6.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-3.6.1.msi
   InstallerSha256: C0BB29C63E87492263FB1C1CCC876B556977F72E57D61F215505BC9ACD3C4E12
   ProductCode: '{FBF575A3-3F46-34DA-92A6-CA56AFB09096}'
 ManifestType: installer

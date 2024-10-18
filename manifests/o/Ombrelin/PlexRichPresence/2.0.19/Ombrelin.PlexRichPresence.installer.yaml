@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Ombrelin/plex-rich-presence/releases/download/2.0.1-beta/plex-rich-presence-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ombrelin/plex-rich-presence/releases/download/2.0.1-beta/plex-rich-presence-setup.exe
   InstallerSha256: 6BA287076FDD2E726EEC29A54ABB953DC7CB9133E3A8BE252B43681D88B6C130
 ManifestType: installer
 ManifestVersion: 1.2.0

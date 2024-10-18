@@ -12,7 +12,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/sirWest/AudioSwitch/releases/download/2.2.2/AudioSwitchSetup.2.2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sirWest/AudioSwitch/releases/download/2.2.2/AudioSwitchSetup.2.2.2.0.exe
   InstallerSha256: BA77E802692A9B35B401A76624F5280249F889707EA7030EC652BF6018947012
   ProductCode: AudioSwitch_is1
 ManifestType: installer

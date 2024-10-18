@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v24.08.29/shotcut-win64-240829.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v24.08.29/shotcut-win64-240829.exe
   InstallerSha256: EC88D29FFF824291A80DB253DD3E628B236B301B77C985442981EBCFA50FCADE
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v24.08.29/shotcut-win64-240829.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v24.08.29/shotcut-win64-240829.exe
   InstallerSha256: EC88D29FFF824291A80DB253DD3E628B236B301B77C985442981EBCFA50FCADE
   InstallerSwitches:
     Custom: /ALLUSERS

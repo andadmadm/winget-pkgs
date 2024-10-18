@@ -6,7 +6,7 @@ PackageVersion: 1.7.1
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/containers/podman-desktop/releases/download/v1.7.1/podman-desktop-1.7.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman-desktop/releases/download/v1.7.1/podman-desktop-1.7.1-setup.exe
   InstallerSha256: B6B60ED398FBDAC10EEE07B7C67FB66B4C3D186E52F58656CBF6EA97F520A93D
 ManifestType: installer
 ManifestVersion: 1.5.0

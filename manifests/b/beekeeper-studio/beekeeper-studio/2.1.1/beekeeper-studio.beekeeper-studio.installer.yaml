@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v2.1.1/Beekeeper-Studio-Setup-2.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v2.1.1/Beekeeper-Studio-Setup-2.1.1.exe
   InstallerSha256: 27CCCC5B304A0FF9B45D5413D5D55510192B06A0B9168384E9A3E1E63ED76B68
   UpgradeBehavior: install
 ManifestType: installer

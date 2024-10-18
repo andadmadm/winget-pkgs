@@ -8,7 +8,7 @@ Scope: user
 ReleaseDate: 2020-10-07
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/madisvain/upcount/releases/download/v0.8.3/Upcount-Setup-0.8.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/madisvain/upcount/releases/download/v0.8.3/Upcount-Setup-0.8.3.exe
   InstallerSha256: 977C8EC372FB3F222A65A740199FEAF62B226A5B740916539B8BD182D56C3852
 ManifestType: installer
 ManifestVersion: 1.4.0

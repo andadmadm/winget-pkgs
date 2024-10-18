@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/vcync/modV/releases/download/3.20.0/modV-Setup-3.20.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vcync/modV/releases/download/3.20.0/modV-Setup-3.20.0.exe
   InstallerSha256: 5A64BFC430A56E3ACBA0880AB6C2463F9447EB0C7AB4E2DC7D87FD9AFEA3BBF8
 ManifestType: installer
 ManifestVersion: 1.1.0

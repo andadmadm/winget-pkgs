@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-03
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/moonlight-stream/moonlight-qt/releases/download/v4.3.1/MoonlightSetup-4.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moonlight-stream/moonlight-qt/releases/download/v4.3.1/MoonlightSetup-4.3.1.exe
   InstallerSha256: 5ECA65ABE470798B54EF720CDAA850638922D8CD047840CB24231E1CF70E018B
 ManifestType: installer
 ManifestVersion: 1.4.0

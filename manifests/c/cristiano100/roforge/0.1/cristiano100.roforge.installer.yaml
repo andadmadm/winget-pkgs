@@ -9,7 +9,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.6
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cristiano100/roforge/releases/latest/download/Roforge.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cristiano100/roforge/releases/latest/download/Roforge.exe
   InstallerSha256: 032E3293563EDCBA08BF52B887B2E34F2E9DF00FF310FA8046AE44BBE6A1B014
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -11,7 +11,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mongodb-js/compass/releases/download/v1.39.2/mongodb-compass-1.39.2-win32-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mongodb-js/compass/releases/download/v1.39.2/mongodb-compass-1.39.2-win32-x64.msi
   InstallerSha256: 98F3A3FE038978376D98A7CBDF1559B7FD62DCC7F24E3F6CBD01650C209C5A0F
   ProductCode: '{88E00E10-65B8-4FFB-8600-3C205D18B6F1}'
 ManifestType: installer

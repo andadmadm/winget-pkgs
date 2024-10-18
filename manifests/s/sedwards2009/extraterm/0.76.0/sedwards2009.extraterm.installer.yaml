@@ -8,7 +8,7 @@ Scope: machine
 ReleaseDate: 2024-02-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sedwards2009/extraterm/releases/download/v0.76.0/extratermqt-setup-0.76.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sedwards2009/extraterm/releases/download/v0.76.0/extratermqt-setup-0.76.0.exe
   InstallerSha256: FF21BB4F1EC50B2FB6B013C1C675E54A47643CEB6F60B0FE0F76DEBCCF4A5A6C
 ManifestType: installer
 ManifestVersion: 1.6.0

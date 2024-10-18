@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-03-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Orange-OpenSource/hurl/releases/download/1.6.1/hurl-1.6.1-win64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Orange-OpenSource/hurl/releases/download/1.6.1/hurl-1.6.1-win64-installer.exe
   InstallerSha256: F0D9D3FF4075FE882A48DBA10F8F73E90CDD01D82C1717B449A4BE8EC023508D
 ManifestType: installer
 ManifestVersion: 1.1.0

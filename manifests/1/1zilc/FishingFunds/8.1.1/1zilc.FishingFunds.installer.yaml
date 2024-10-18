@@ -14,7 +14,7 @@ FileExtensions:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v8.1.1/Fishing-Funds-Setup-8.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v8.1.1/Fishing-Funds-Setup-8.1.1.exe
   InstallerSha256: 69B65E10F3E299D7BB1845A2D2E28C93DE8418E33825ED64658E3558588FD1C8
   InstallerSwitches:
     InstallLocation: /D=<INSTALLPATH>
@@ -22,7 +22,7 @@ Installers:
   ProductCode: ae35abb1-8d8b-57e0-bca5-967274c2df01
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v8.1.1/Fishing-Funds-Setup-8.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v8.1.1/Fishing-Funds-Setup-8.1.1.exe
   InstallerSha256: 69B65E10F3E299D7BB1845A2D2E28C93DE8418E33825ED64658E3558588FD1C8
   InstallerSwitches:
     InstallLocation: /D=<INSTALLPATH>

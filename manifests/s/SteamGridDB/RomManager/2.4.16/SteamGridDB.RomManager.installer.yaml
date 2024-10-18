@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
   ProductCode: ba4216a3-f688-5e5a-8b4c-b3693a0d7d6a
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/SteamGridDB/steam-rom-manager/releases/download/v2.4.16/Steam-ROM-Manager-Setup-2.4.16.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SteamGridDB/steam-rom-manager/releases/download/v2.4.16/Steam-ROM-Manager-Setup-2.4.16.exe
   InstallerSha256: 7B77806E4A3C3050316A36D660C3DF253A90F64007DE6B90EB3084FB6F0C95A0
   ProductCode: ba4216a3-f688-5e5a-8b4c-b3693a0d7d6a
 ManifestType: installer

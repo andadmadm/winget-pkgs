@@ -19,7 +19,7 @@ FileExtensions:
 - url
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tangalbert919/ungoogled-chromium-binaries/releases/download/80.0.3987.149-2/ungoogled-chromium_80.0.3987.149-2.1_installer-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tangalbert919/ungoogled-chromium-binaries/releases/download/80.0.3987.149-2/ungoogled-chromium_80.0.3987.149-2.1_installer-x64.exe
   InstallerSha256: 8A2853A974E973ECFD4188CB36B64AA10041932B94B402E3C653DE9FC0F025DC
 ManifestType: installer
 ManifestVersion: 1.1.0

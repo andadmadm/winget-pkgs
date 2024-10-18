@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/NickeManarin/ScreenToGif/releases/download/2.30/ScreenToGif.2.30.Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/NickeManarin/ScreenToGif/releases/download/2.30/ScreenToGif.2.30.Setup.msi
   InstallerSha256: 3C9738EE9E41BF42124E3133A7EF059B6C9D00EADE973F35E13A4591FD88EB3E
   ProductCode: '{85D19DA1-199F-4C56-B156-E8AFC3592036}'
 ManifestType: installer

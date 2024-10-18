@@ -9,7 +9,7 @@ InstallModes:
 Installers:
   - Architecture: x86
     InstallerType: msi
-    InstallerUrl: https://github.com/stnkl/EverythingToolbar/releases/download/0.6.3/EverythingToolbar-0.6.3.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/stnkl/EverythingToolbar/releases/download/0.6.3/EverythingToolbar-0.6.3.msi
     InstallerSha256: 55F33B29E9A7B4C50729D96F8826D7DEF44D112F5342DAA8A8F3DB6CDB8E97AD
     ProductCode: "{AC26032F-444E-4BA4-93F2-869A2ED82E87}"
     Scope: machine

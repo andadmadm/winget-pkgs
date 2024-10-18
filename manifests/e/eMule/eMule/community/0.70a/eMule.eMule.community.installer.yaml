@@ -13,11 +13,11 @@ FileExtensions:
 ReleaseDate: 2023-08-26
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/irwir/eMule/releases/download/eMule_v0.70a-community/eMule0.70a-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/irwir/eMule/releases/download/eMule_v0.70a-community/eMule0.70a-Installer.exe
   InstallerSha256: BCA17E93DF10CA9519119618393E424BABC85861C751962F6AE39082589DDD2A
   ProductCode: eMule
 - Architecture: x64
-  InstallerUrl: https://github.com/irwir/eMule/releases/download/eMule_v0.70a-community/eMule0.70a-Installer64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/irwir/eMule/releases/download/eMule_v0.70a-community/eMule0.70a-Installer64.exe
   InstallerSha256: 89A075F9E18E9E0C9F79ECF3798A1650E8D8A48128F027B62560FD7C57682222
   ProductCode: eMule
 ManifestType: installer

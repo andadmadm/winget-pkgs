@@ -18,26 +18,26 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2024-08-02
 Installers:
-- InstallerUrl: https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-arm64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-arm64.exe
   Architecture: arm64
   InstallerSha256: A40F41D7E3F11C3D6FFA92261D39F18B8B61886BF0663E6B21D1A41ED6D05439
   Scope: user
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /CURRENTUSER
-- InstallerUrl: https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-arm64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-arm64.exe
   Architecture: arm64
   InstallerSha256: A40F41D7E3F11C3D6FFA92261D39F18B8B61886BF0663E6B21D1A41ED6D05439
   Scope: machine
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /ALLUSERS
   ElevationRequirement: elevationRequired
-- InstallerUrl: https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-x64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-x64.exe
   Architecture: x64
   InstallerSha256: 9E4E6166AED4A7ED5C40314EF3D9262AAA2132F731A8E365BAFD824C6A07EB76
   Scope: user
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /CURRENTUSER
-- InstallerUrl: https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-x64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/drweb86/butil/releases/download/2024.08.02/BUtil_v2024.08.02_win-x64.exe
   Architecture: x64
   InstallerSha256: 9E4E6166AED4A7ED5C40314EF3D9262AAA2132F731A8E365BAFD824C6A07EB76
   Scope: machine

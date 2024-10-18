@@ -18,7 +18,7 @@ FileExtensions:
 ReleaseDate: 2023-02-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Atticus64/juice/releases/download/v0.4.0/juice.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Atticus64/juice/releases/download/v0.4.0/juice.exe
   InstallerSha256: 9808B307F56701791F5838943D772C77A6B234F4FC8247074AD9F1C1F19C09CC
 ManifestType: installer
 ManifestVersion: 1.2.0

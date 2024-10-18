@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-07-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ossia/score/releases/download/v3.2.3/ossia.score-3.2.3-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ossia/score/releases/download/v3.2.3/ossia.score-3.2.3-win64.exe
   InstallerSha256: C33EC37D2CA8062D3E6B1D6C2E02F4EA5A7F400F4F083DB533A888E4EDB760CD
 ManifestType: installer
 ManifestVersion: 1.6.0

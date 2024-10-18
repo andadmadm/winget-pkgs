@@ -4,7 +4,7 @@
 PackageIdentifier: JoeyG.YTDownload
 PackageVersion: 1.2.1
 Installers:
-- InstallerUrl: https://github.com/Joey451-OG/YT-Download/releases/download/1.2.1/YT.Download.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/Joey451-OG/YT-Download/releases/download/1.2.1/YT.Download.msi
   InstallerLocale: en-US
   Architecture: neutral
   InstallerType: msi

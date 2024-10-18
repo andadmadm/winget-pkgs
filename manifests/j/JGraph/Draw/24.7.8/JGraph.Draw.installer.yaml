@@ -14,13 +14,13 @@ FileExtensions:
 - drawio
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v24.7.8/draw.io-ia32-24.7.8-windows-32bit-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v24.7.8/draw.io-ia32-24.7.8-windows-32bit-installer.exe
   InstallerSha256: D38CC577C12A4625BDFDF4F83C4A87A64581D9EC410DE8F79A44B62F0BBF4363
 - Architecture: x64
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v24.7.8/draw.io-24.7.8-windows-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v24.7.8/draw.io-24.7.8-windows-installer.exe
   InstallerSha256: 7C85943E8392F8C277857A345BCD39898907D49F6F8B7C073DF39C9DEDEB2691
 - Architecture: arm64
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v24.7.8/draw.io-arm64-24.7.8-windows-arm64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v24.7.8/draw.io-arm64-24.7.8-windows-arm64-installer.exe
   InstallerSha256: D6D81059B53EF7C92B5868115865325CC9BF722D67E8BC9AB0F853E683D28566
 ManifestType: installer
 ManifestVersion: 1.6.0

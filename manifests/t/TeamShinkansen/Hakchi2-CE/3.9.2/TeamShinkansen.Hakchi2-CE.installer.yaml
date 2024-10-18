@@ -12,7 +12,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/TeamShinkansen/Hakchi2-CE/releases/download/v3.9.2/hakchi2-ce-3.9.2-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TeamShinkansen/Hakchi2-CE/releases/download/v3.9.2/hakchi2-ce-3.9.2-installer.exe
   InstallerSha256: E85781C92775D5920E3838536994B068DBACF81571240F118EFC3A1EB04CD46F
   UpgradeBehavior: install
 ManifestType: installer

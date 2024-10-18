@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2021-12-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe
   InstallerSha256: 26E5C00C35C5C3EDC86DFC0A720AED109A13B1B7C67AC654A0CE8FF82A1F2C16
   AppsAndFeaturesEntries:
   - DisplayName: youtube-dl

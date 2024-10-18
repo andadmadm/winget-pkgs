@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.9.0/Heroic.Setup.1.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.9.0/Heroic.Setup.1.9.0.exe
   InstallerSha256: 2F8C06C79C6789453FBA2DC395600068D28CAFDF07C9626D9D093A1183E5BB4E
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -20,7 +20,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.9.0/Heroic.Setup.1.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.9.0/Heroic.Setup.1.9.0.exe
   InstallerSha256: 2F8C06C79C6789453FBA2DC395600068D28CAFDF07C9626D9D093A1183E5BB4E
   InstallerSwitches:
     Custom: /ALLUSERS

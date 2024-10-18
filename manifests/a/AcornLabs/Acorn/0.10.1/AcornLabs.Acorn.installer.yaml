@@ -10,7 +10,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: acorn.exe
     PortableCommandAlias: acorn
-  InstallerUrl: https://github.com/acorn-io/runtime/releases/download/v0.10.1/acorn-v0.10.1-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/acorn-io/runtime/releases/download/v0.10.1/acorn-v0.10.1-windows-amd64.zip
   InstallerSha256: 10101602A428DBF0479C268DE390BA73159AF62E3DFE1762D9B9B61C8B5F76C9
 ManifestType: installer
 ManifestVersion: 1.6.0

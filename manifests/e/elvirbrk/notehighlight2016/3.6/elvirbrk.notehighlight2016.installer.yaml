@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: msi
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/elvirbrk/NoteHighlight2016/releases/download/v3.6/NoteHighlight2016.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/elvirbrk/NoteHighlight2016/releases/download/v3.6/NoteHighlight2016.msi
   InstallerSha256: 2F8EAC90630391E02F772EBD940326565149CBF75C028E7223868FFF3FF2CAE9
   ProductCode: '{1398D99C-6119-4477-AA77-BCB1730C21D7}'
 ManifestType: installer

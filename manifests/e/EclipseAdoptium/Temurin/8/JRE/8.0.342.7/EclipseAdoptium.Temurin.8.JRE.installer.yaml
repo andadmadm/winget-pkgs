@@ -23,11 +23,11 @@ FileExtensions:
 - jsp
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07.1/OpenJDK8U-jre_x64_windows_hotspot_8u342b07.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07.1/OpenJDK8U-jre_x64_windows_hotspot_8u342b07.msi
   InstallerSha256: 70E90AC93841AE85A966FB404343F89BF6518EAC1E892EDA5100DA4D4433A95E
   ProductCode: '{2632072E-E186-4ACD-ACD9-A276C2C4FC50}'
 - Architecture: x86
-  InstallerUrl: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x86-32_windows_hotspot_8u342b07.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x86-32_windows_hotspot_8u342b07.msi
   InstallerSha256: 59707F00DD1A68395077A70988B31E8823A3DE084C3757D7D30F80EBBA9752DF
   ProductCode: '{8D4A644E-E81F-45F1-995F-84A10B99FEF3}'
 ManifestType: installer

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LeGitHubDeTai/AnimeBack/releases/download/v8.0.8/AnimeBack.Setup.8.0.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LeGitHubDeTai/AnimeBack/releases/download/v8.0.8/AnimeBack.Setup.8.0.8.exe
   InstallerSha256: F4FF87E6DA95ED72C743AD8CA3FD76DED56E285EDBD042677DD14785766924AF
 ManifestType: installer
 ManifestVersion: 1.0.0

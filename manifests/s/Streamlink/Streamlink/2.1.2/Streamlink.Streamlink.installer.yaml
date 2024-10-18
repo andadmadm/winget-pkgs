@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/streamlink/streamlink/releases/download/2.1.2/streamlink-2.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/streamlink/releases/download/2.1.2/streamlink-2.1.2.exe
   InstallerSha256: 3C27D90CFE1DD862CC56538E97EFC686C2B9ECE431FDA3D6CD81163284AC2016
 ManifestType: installer
 ManifestVersion: 1.1.0

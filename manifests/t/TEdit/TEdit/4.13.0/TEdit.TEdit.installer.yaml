@@ -4,7 +4,7 @@
 PackageIdentifier: TEdit.TEdit
 PackageVersion: 4.13.0
 Installers:
-- InstallerUrl: https://github.com/TEdit/Terraria-Map-Editor/releases/download/4.13.0/TEdit_main.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/TEdit/Terraria-Map-Editor/releases/download/4.13.0/TEdit_main.zip
   Architecture: neutral
   InstallerType: zip
   NestedInstallerType: portable

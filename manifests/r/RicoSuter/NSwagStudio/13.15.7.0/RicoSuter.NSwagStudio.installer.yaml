@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RicoSuter/NSwag/releases/download/v13.15.7/NSwagStudio.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RicoSuter/NSwag/releases/download/v13.15.7/NSwagStudio.msi
   InstallerSha256: 5281A01350BE7A56B47978DC7AF1ECFA649E5F2DAA5DFFC3CA670492ADD401B7
   ProductCode: '{CDEBC7B4-EFA9-44D1-BCB7-601073C20E3D}'
 ManifestType: installer

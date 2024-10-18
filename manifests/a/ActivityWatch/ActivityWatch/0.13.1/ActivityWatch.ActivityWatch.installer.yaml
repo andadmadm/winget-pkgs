@@ -16,13 +16,13 @@ ReleaseDate: 2024-06-10
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ActivityWatch/activitywatch/releases/download/v0.13.1/activitywatch-v0.13.1-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ActivityWatch/activitywatch/releases/download/v0.13.1/activitywatch-v0.13.1-windows-x86_64-setup.exe
   InstallerSha256: C4C73C51018E7B91147F105AF2D8278216A29CD086269C6376DC148A30CB9F76
   InstallerSwitches:
     Custom: /norestart /closeapplications /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ActivityWatch/activitywatch/releases/download/v0.13.1/activitywatch-v0.13.1-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ActivityWatch/activitywatch/releases/download/v0.13.1/activitywatch-v0.13.1-windows-x86_64-setup.exe
   InstallerSha256: C4C73C51018E7B91147F105AF2D8278216A29CD086269C6376DC148A30CB9F76
   InstallerSwitches:
     Custom: /norestart /closeapplications /allusers

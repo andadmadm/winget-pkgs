@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pyfa-org/Pyfa/releases/download/v2.51.0/pyfa-v2.51.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pyfa-org/Pyfa/releases/download/v2.51.0/pyfa-v2.51.0-win.exe
   InstallerSha256: 5E054037719FE93003684C05FB013A14DA16EF00C9135E0EF95B105D0809C5A7
 ManifestType: installer
 ManifestVersion: 1.2.0

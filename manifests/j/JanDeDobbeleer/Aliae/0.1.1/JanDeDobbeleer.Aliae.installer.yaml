@@ -14,37 +14,37 @@ InstallModes:
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-amd64.exe
   InstallerSha256: BBF4B96C9EA46E2C58CA408203207253D75C63188DA797C4CDD88A3E014D9AAF
   InstallerSwitches:
     Custom: /INSTALLER=winget /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-amd64.exe
   InstallerSha256: BBF4B96C9EA46E2C58CA408203207253D75C63188DA797C4CDD88A3E014D9AAF
   InstallerSwitches:
     Custom: /INSTALLER=winget /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-386.exe
   InstallerSha256: 056B247B512CC6EAC3C41B7045254C3FF1BD810362292F37F4C7FC99087E311C
   InstallerSwitches:
     Custom: /INSTALLER=winget /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-386.exe
   InstallerSha256: 056B247B512CC6EAC3C41B7045254C3FF1BD810362292F37F4C7FC99087E311C
   InstallerSwitches:
     Custom: /INSTALLER=winget /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-arm64.exe
   InstallerSha256: 8E38917F9C6179796D9C241793B47009763DD4C9AC8806C3CC9BFAB3DCAFF2C9
   InstallerSwitches:
     Custom: /INSTALLER=winget /ALLUSERS
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/aliae/releases/download/v0.1.1/install-arm64.exe
   InstallerSha256: 8E38917F9C6179796D9C241793B47009763DD4C9AC8806C3CC9BFAB3DCAFF2C9
   InstallerSwitches:
     Custom: /INSTALLER=winget /CURRENTUSER

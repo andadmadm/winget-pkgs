@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hydrusnetwork/hydrus/releases/download/v480/Hydrus.Network.480.-.Windows.-.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydrusnetwork/hydrus/releases/download/v480/Hydrus.Network.480.-.Windows.-.Installer.exe
   InstallerSha256: 143EB1A79F2C086F9E80BB2A229344A1DDF8B705A00A7C384DB685DF0443E610
   ProductCode: Hydrus Network_is1
 ManifestType: installer

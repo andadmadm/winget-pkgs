@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: anyquery.exe
         PortableCommandAlias: anyquery
-    InstallerUrl: https://github.com/julien040/anyquery/releases/download/0.1.0/anyquery_0.1.0_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/julien040/anyquery/releases/download/0.1.0/anyquery_0.1.0_windows_amd64.zip
     InstallerSha256: 96af18c002edb971d006103f6358bdf929a2929277d5c97778f031649755a340
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -9,7 +9,7 @@ InstallerType: msi
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pbkit/pbkit/releases/download/v0.0.29/pollapo-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pbkit/pbkit/releases/download/v0.0.29/pollapo-windows-installer.msi
   InstallerSha256: 99709CE584580BB026553618009D613B4F075BE818628A19B5A719983866BDC8
 ManifestType: installer
 ManifestVersion: 1.1.0

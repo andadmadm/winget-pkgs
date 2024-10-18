@@ -4,7 +4,7 @@
 PackageIdentifier: ZakKemble.avr-gcc
 PackageVersion: 12.1.0
 Installers:
-- InstallerUrl: https://github.com/ZakKemble/avr-gcc-build/releases/download/v12.1.0-1/avr-gcc-12.1.0-x64-windows.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/ZakKemble/avr-gcc-build/releases/download/v12.1.0-1/avr-gcc-12.1.0-x64-windows.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/onionshare/onionshare/releases/download/v2.5/OnionShare-2.5.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/onionshare/onionshare/releases/download/v2.5/OnionShare-2.5.msi
   InstallerSha256: DB4B49F03AC2B0BA590DB1E6965AC9F1E108ED10A1FFB07043A7A581E5975F53
   ProductCode: '{E62B0EC0-B208-4137-8E90-5E2695F30BD7}'
 ManifestType: installer

@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /passive /norestart
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zulip/zulip-desktop/releases/download/v5.2.0/Zulip-Web-Setup-5.2.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/zulip/zulip-desktop/releases/download/v5.2.0/Zulip-Web-Setup-5.2.0.msi
   InstallerSha256: C244D64D44B78BCC79D4C17FEFE6F76B0B50A4B7EFA07332971727D0FAA4655B
   ProductCode: '{1009ECB7-46FB-447A-B479-9BA90DDA612E}'
 ManifestType: installer

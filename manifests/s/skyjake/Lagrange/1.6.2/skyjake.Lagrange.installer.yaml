@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.6.2/lagrange_v1.6.2_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.6.2/lagrange_v1.6.2_windows-x64_setup.exe
   InstallerSha256: 04A0C681601C65BCE48E23CB46727E0AAAE6FE1FEA990F83E56D8B341C24322A
   UpgradeBehavior: install
   ProductCode: 'Lagrange_is1'

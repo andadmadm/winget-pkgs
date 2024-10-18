@@ -16,7 +16,7 @@ Installers:
     PortableCommandAlias: ctags
   - RelativeFilePath: .\readtags.exe
     PortableCommandAlias: readtags
-  InstallerUrl: https://github.com/universal-ctags/ctags-win32/releases/download/2022-12-14%2Fp5.9.20221204.0-35-gebc90c2/ctags-2022-12-14_p5.9.20221204.0-35-gebc90c2-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/universal-ctags/ctags-win32/releases/download/2022-12-14%2Fp5.9.20221204.0-35-gebc90c2/ctags-2022-12-14_p5.9.20221204.0-35-gebc90c2-x64.zip
   InstallerSha256: 104C92992DBA83A31128137297BD3C4F5B1BF793793B775BF1E63FBB7B2B9384
 - Architecture: x86
   NestedInstallerType: portable
@@ -25,7 +25,7 @@ Installers:
     PortableCommandAlias: ctags
   - RelativeFilePath: .\readtags.exe
     PortableCommandAlias: readtags
-  InstallerUrl: https://github.com/universal-ctags/ctags-win32/releases/download/2022-12-14%2Fp5.9.20221204.0-35-gebc90c2/ctags-2022-12-14_p5.9.20221204.0-35-gebc90c2-x86.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/universal-ctags/ctags-win32/releases/download/2022-12-14%2Fp5.9.20221204.0-35-gebc90c2/ctags-2022-12-14_p5.9.20221204.0-35-gebc90c2-x86.zip
   InstallerSha256: ee0f45cf4c5126f6000d10fdb1c95ec00576c585c635dc263f601e4b2980b976
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -14,13 +14,13 @@ ReleaseDate: 2022-10-10
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v5.0.3/tagspaces-win-x64-5.0.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v5.0.3/tagspaces-win-x64-5.0.3.exe
   InstallerSha256: C3BEB23E2621132498CEC2C49CC7DC5A542606DBCB6C5FFD4A0837A3EE802868
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v5.0.3/tagspaces-win-x64-5.0.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v5.0.3/tagspaces-win-x64-5.0.3.exe
   InstallerSha256: C3BEB23E2621132498CEC2C49CC7DC5A542606DBCB6C5FFD4A0837A3EE802868
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -10,13 +10,13 @@ Commands:
 ReleaseDate: 2024-01-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/evilmartians/lefthook/releases/download/v1.6.1/lefthook_1.6.1_Windows_i386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/evilmartians/lefthook/releases/download/v1.6.1/lefthook_1.6.1_Windows_i386.exe
   InstallerSha256: 7993FA401C42F0A44A3ABB15303FBB6238EFD6BBBE7E15FE1F1D7323C53E8005
 - Architecture: x64
-  InstallerUrl: https://github.com/evilmartians/lefthook/releases/download/v1.6.1/lefthook_1.6.1_Windows_x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/evilmartians/lefthook/releases/download/v1.6.1/lefthook_1.6.1_Windows_x86_64.exe
   InstallerSha256: 32399D110F23E1CE01DEC242D1E1A293CC83F7C9A28C80A4501DFA7EA7525E52
 - Architecture: arm64
-  InstallerUrl: https://github.com/evilmartians/lefthook/releases/download/v1.6.1/lefthook_1.6.1_Windows_arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/evilmartians/lefthook/releases/download/v1.6.1/lefthook_1.6.1_Windows_arm64.exe
   InstallerSha256: 75D6C72D12C830AC8778AE936FCAE347EEBD818CCD93A3741DA7C38B79309023
 ManifestType: installer
 ManifestVersion: 1.5.0

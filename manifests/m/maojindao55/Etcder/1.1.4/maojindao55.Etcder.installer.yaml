@@ -17,7 +17,7 @@ AppsAndFeaturesEntries:
   InstallerType: msi
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/maojindao55/etcder/releases/download/v1.1.4/EtcderV1.1.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/maojindao55/etcder/releases/download/v1.1.4/EtcderV1.1.4.msi
   InstallerSha256: B127B72CDC987568CEBE04FA2B3955CC1B07B7C0580BFA19965E700A020D2C54
   ProductCode: '{0D08A397-52E5-4F9E-B1CB-EDEA963A2A9F}'
 ManifestType: installer

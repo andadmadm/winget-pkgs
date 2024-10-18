@@ -8,7 +8,7 @@ Scope: user
 ProductCode: '{1CC110C0-4E1F-43BA-B057-45A74B934CE7}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rffrasca/PDFKeeper/releases/download/v9.1.1/PDFKeeper-9.1.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/rffrasca/PDFKeeper/releases/download/v9.1.1/PDFKeeper-9.1.1.msi
   InstallerSha256: E979C7E0147EEF456C724E5826053D6BFA6C73F434D2A4993F224DFE62E601EB
 ManifestType: installer
 ManifestVersion: 1.5.0

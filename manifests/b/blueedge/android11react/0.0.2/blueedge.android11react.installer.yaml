@@ -4,7 +4,7 @@
 PackageIdentifier: blueedge.android11react
 PackageVersion: 0.0.2
 Installers:
-- InstallerUrl: https://github.com/blueedgetechno/androidInReact/releases/download/0.0.2/Android11React_0.0.2_x64_en-US.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/blueedgetechno/androidInReact/releases/download/0.0.2/Android11React_0.0.2_x64_en-US.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

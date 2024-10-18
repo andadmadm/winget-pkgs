@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-07-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Suwayomi/Tachidesk-Sorayomi/releases/download/0.5.8/tachidesk-sorayomi-0.5.8-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Suwayomi/Tachidesk-Sorayomi/releases/download/0.5.8/tachidesk-sorayomi-0.5.8-windows-x64.msi
   InstallerSha256: D75B540C6DD931B9C2F34F269DE0C9E96F801B9C274AB959CA6208791F498076
   ProductCode: '{C440C104-D4CC-4837-BBB7-4ED4AADE40D2}'
 ManifestType: installer

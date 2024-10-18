@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{F2F90601-FF42-4E24-B3BF-BF71CFF59FA0}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/turtl/desktop/releases/download/v0.7.2.6-pre-sync-fix/turtl-0.7.2.6-pre-sync-fix-windows64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/turtl/desktop/releases/download/v0.7.2.6-pre-sync-fix/turtl-0.7.2.6-pre-sync-fix-windows64.msi
   InstallerSha256: D87FC0D89839AD73857EE15EE417D26CA9BA1C9D0CD15CC54D90CB1484A95FCA
 ManifestType: installer
 ManifestVersion: 1.5.0

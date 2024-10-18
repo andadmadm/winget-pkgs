@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: mcfly
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cantino/mcfly/releases/download/v0.9.1/mcfly-v0.9.1-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/cantino/mcfly/releases/download/v0.9.1/mcfly-v0.9.1-x86_64-pc-windows-msvc.zip
   InstallerSha256: 525583D8C6C3BD33EADA02AABE13F706BCA3A529225E07D9ACC6796122E3204A
   Dependencies:
     PackageDependencies:

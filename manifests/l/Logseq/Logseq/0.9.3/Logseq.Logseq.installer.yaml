@@ -17,7 +17,7 @@ Protocols:
 ReleaseDate: 2023-04-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/logseq/logseq/releases/download/0.9.3/Logseq-win-x64-0.9.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/logseq/logseq/releases/download/0.9.3/Logseq-win-x64-0.9.3.exe
   InstallerSha256: 23F0D4184F4ACBA324D09FA0009E1590983330922A121BFB9391AD0F2D3DA293
   ProductCode: Logseq
 ManifestType: installer

@@ -9,7 +9,7 @@ InstallerSwitches:
 ReleaseDate: 2023-09-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hluk/CopyQ/releases/download/v7.1.0/copyq-7.1.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hluk/CopyQ/releases/download/v7.1.0/copyq-7.1.0-setup.exe
   InstallerSha256: 4C22CF1FDD35900ACD2778826CB16E4F9FE92269E3A500A9142B262083BBE8AC
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -9,7 +9,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
-    InstallerUrl: https://github.com/henrypp/simplewall/releases/download/v.3.2.4/simplewall-3.2.4-setup.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/simplewall/releases/download/v.3.2.4/simplewall-3.2.4-setup.exe
     InstallerSha256: 801382078E6F6309335335B875A6B476AD9A30AA29B937FD78C2047406B390AD
 #    ProductCode: 
     Scope: machine

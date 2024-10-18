@@ -22,16 +22,16 @@ FileExtensions:
 - toml
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
   InstallerSha256: 91FCE072A4BD0138825D8A7BFD8E86E41E76A15B9DC74BBE203BCB80DE412429
 - Architecture: arm64
-  InstallerUrl: https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
   InstallerSha256: 91FCE072A4BD0138825D8A7BFD8E86E41E76A15B9DC74BBE203BCB80DE412429
 - Architecture: x86
-  InstallerUrl: https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
   InstallerSha256: 91FCE072A4BD0138825D8A7BFD8E86E41E76A15B9DC74BBE203BCB80DE412429
 - Architecture: arm
-  InstallerUrl: https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-windows-amd64.zip
   InstallerSha256: 91FCE072A4BD0138825D8A7BFD8E86E41E76A15B9DC74BBE203BCB80DE412429
 ManifestType: installer
 ManifestVersion: 1.5.0

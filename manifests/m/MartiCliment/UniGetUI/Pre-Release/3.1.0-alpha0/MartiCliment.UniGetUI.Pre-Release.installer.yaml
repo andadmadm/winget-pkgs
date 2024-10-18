@@ -25,7 +25,7 @@ AppsAndFeaturesEntries:
 ReleaseDate: 2024-05-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/marticliment/WingetUI/releases/download/3.1.0-alpha0/UniGetUI.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marticliment/WingetUI/releases/download/3.1.0-alpha0/UniGetUI.Installer.exe
   InstallerSha256: 0EC58BC34FF63F0BC1904FE88E8CDD247A2348E259CE8394911979AEF5477281
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-08
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/lehtoroni/lmath-issues/releases/download/r1.8/LMath_Windows_r1.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lehtoroni/lmath-issues/releases/download/r1.8/LMath_Windows_r1.8.exe
   InstallerSha256: F9C5591643F63F8B03DCD66309F5F24F89C4FADAE6FBE423D962D82B6424CB0A
 ManifestType: installer
 ManifestVersion: 1.2.0

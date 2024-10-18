@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/IrosTheBeggar/mStream/releases/download/v5.7.2/mStream-Server-Setup-5.7.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/IrosTheBeggar/mStream/releases/download/v5.7.2/mStream-Server-Setup-5.7.2.exe
   InstallerSha256: 2C86235D60667F2AAC20CEEA9681B9FB487309ACBB35B5F6D71BEFF0DF69A5CC
 ManifestType: installer
 ManifestVersion: 1.0.0

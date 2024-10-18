@@ -8,7 +8,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ClassicDIY/ModbusTool/releases/download/2.1.0.0/ModbusTool.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClassicDIY/ModbusTool/releases/download/2.1.0.0/ModbusTool.msi
   InstallerSha256: AC302787CC25487D0DE4082BBD840088B49275DEF44756B2855CAA3A9CF87014
   ProductCode: '{383556CA-16FD-4BBB-89C9-5E185B750ACF}'
   AppsAndFeaturesEntries:

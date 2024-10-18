@@ -21,13 +21,13 @@ ReleaseDate: 2023-02-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/troyeguo/koodo-reader/releases/download/v1.5.2/Koodo-Reader-1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/troyeguo/koodo-reader/releases/download/v1.5.2/Koodo-Reader-1.5.2.exe
   InstallerSha256: 5248EAC82F43775BBCAC95BB136D83ADD47262D4B271C3A38253A087EA778C18
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/troyeguo/koodo-reader/releases/download/v1.5.2/Koodo-Reader-1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/troyeguo/koodo-reader/releases/download/v1.5.2/Koodo-Reader-1.5.2.exe
   InstallerSha256: 5248EAC82F43775BBCAC95BB136D83ADD47262D4B271C3A38253A087EA778C18
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

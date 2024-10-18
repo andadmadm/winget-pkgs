@@ -7,11 +7,11 @@ PackageVersion: 4.2.1
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.2.1/rubick-Setup-4.2.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.2.1/rubick-Setup-4.2.1-x64.exe
   InstallerSha256: 0abf70b7efd8c855c270bcecc237809ba48b08c22f582f17bf33fb5c7f55d1b1
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.2.1/rubick-Setup-4.2.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.2.1/rubick-Setup-4.2.1-x64.exe
   InstallerSha256: 0abf70b7efd8c855c270bcecc237809ba48b08c22f582f17bf33fb5c7f55d1b1
 ManifestType: installer
 ManifestVersion: 1.5.0

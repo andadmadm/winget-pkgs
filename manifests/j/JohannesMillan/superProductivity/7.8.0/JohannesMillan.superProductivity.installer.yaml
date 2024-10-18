@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/johannesjo/super-productivity/releases/download/v7.8.0/superProductivity-Setup-7.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/johannesjo/super-productivity/releases/download/v7.8.0/superProductivity-Setup-7.8.0.exe
   InstallerSha256: 4C6B657D91420C0DFC269ED1B632BD9599D4AAC8FC5CFDB93F10A7C755EE549A
 ManifestType: installer
 ManifestVersion: 1.0.0

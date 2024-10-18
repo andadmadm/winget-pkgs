@@ -9,7 +9,7 @@ InstallerSwitches:
   Custom: /COMPONENTS="AUTOUPDATE"
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/git/releases/download/v2.32.0.vfs.0.0/Git-2.32.0.vfs.0.0-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/git/releases/download/v2.32.0.vfs.0.0/Git-2.32.0.vfs.0.0-64-bit.exe
   InstallerSha256: 73FE3E86AE419B7F63F87635850DC5D3C8285379E28B765E67501E502D4588B1
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -22,7 +22,7 @@ InstallationMetadata:
 Installers:
 - Architecture: x64
   # Use a "commit SHA related" URL for gaining most consistency.
-  InstallerUrl: https://github.com/MSEndpointMgr/IntuneDebugToolkit/raw/5e4ef4776fb7a5d192a02fb9bf5d5f097df2380b/IntuneDebugToolsv2.3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/MSEndpointMgr/IntuneDebugToolkit/raw/5e4ef4776fb7a5d192a02fb9bf5d5f097df2380b/IntuneDebugToolsv2.3.msi
   InstallerSha256: 1F2794BA3A7D80557A0A62731EBE575C0F4A27F122F8BCBDDF9BEDEAAA45C7C5
 ReleaseDate: 2024-10-01
 ManifestType: installer

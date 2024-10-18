@@ -15,13 +15,13 @@ UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Mambaforge-23.11.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Mambaforge-23.11.0-0-Windows-x86_64.exe
   InstallerSha256: 2C4AA30733D3A52BE315C974320C8E35A1635B0AEF0D03064732AEC9BB86EB2C
   InstallerSwitches:
     Custom: /JustMe /AddToPath=0 /RegisterPython=0
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Mambaforge-23.11.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Mambaforge-23.11.0-0-Windows-x86_64.exe
   InstallerSha256: 2C4AA30733D3A52BE315C974320C8E35A1635B0AEF0D03064732AEC9BB86EB2C
   InstallerSwitches:
     Custom: /AllUsers /AddToPath=0 /RegisterPython=0

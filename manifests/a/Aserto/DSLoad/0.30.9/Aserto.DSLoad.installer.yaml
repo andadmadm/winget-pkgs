@@ -23,7 +23,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-05-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aserto-dev/ds-load/releases/download/v0.30.9/ds-load_0.30.9_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aserto-dev/ds-load/releases/download/v0.30.9/ds-load_0.30.9_windows_x86_64.zip
   InstallerSha256: A0F3A3C7D9A393670420B697AC94EB082728281CB521F77F9F911C9825A4CBA9
 ManifestType: installer
 ManifestVersion: 1.6.0

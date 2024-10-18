@@ -13,13 +13,13 @@ ReleaseDate: 2018-12-06
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v1.0.7/RamboxPro-1.0.7-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v1.0.7/RamboxPro-1.0.7-win.exe
   InstallerSha256: 725574159BA3992418B6433E0DBEA79A217DC50BDF560D0761F0C3CB5C521575
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v1.0.7/RamboxPro-1.0.7-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v1.0.7/RamboxPro-1.0.7-win.exe
   InstallerSha256: 725574159BA3992418B6433E0DBEA79A217DC50BDF560D0761F0C3CB5C521575
   InstallerSwitches:
     Custom: /ALLUSERS

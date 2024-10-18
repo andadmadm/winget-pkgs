@@ -11,13 +11,13 @@ Dependencies:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/iiumschedule/iium_schedule/releases/download/1.4.3%2B42/iiumschedulesetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iiumschedule/iium_schedule/releases/download/1.4.3%2B42/iiumschedulesetup.exe
   InstallerSha256: F3D9465D20A760386077CEF61E9AA5341E3B6BD219160032C9BC48214C5E6FB3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/iiumschedule/iium_schedule/releases/download/1.4.3%2B42/iiumschedulesetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iiumschedule/iium_schedule/releases/download/1.4.3%2B42/iiumschedulesetup.exe
   InstallerSha256: F3D9465D20A760386077CEF61E9AA5341E3B6BD219160032C9BC48214C5E6FB3
   InstallerSwitches:
     Custom: /ALLUSERS

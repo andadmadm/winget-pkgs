@@ -23,7 +23,7 @@ FileExtensions:
 ReleaseDate: 2022-03-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WaterfoxCo/Waterfox/releases/download/G4.0.8/Waterfox.G4.0.8.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WaterfoxCo/Waterfox/releases/download/G4.0.8/Waterfox.G4.0.8.Setup.exe
   InstallerSha256: 76B964ECCED62345E831AA6F3BFCA1C92CF8E792D2E2779EDC8BDCB6C92DFD95
 ManifestType: installer
 ManifestVersion: 1.1.0

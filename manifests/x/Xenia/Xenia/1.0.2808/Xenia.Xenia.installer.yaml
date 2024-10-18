@@ -13,7 +13,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip
   InstallerSha256: 120F41EFA8BD9E74C06812B243230E56FFD6FA049209E2FF1D092D6738288A9F
 ManifestType: installer
 ManifestVersion: 1.5.0

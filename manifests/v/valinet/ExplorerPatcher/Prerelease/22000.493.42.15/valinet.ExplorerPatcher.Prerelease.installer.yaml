@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/valinet/ExplorerPatcher/releases/download/22000.493.42.15_a626f3d/ep_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/valinet/ExplorerPatcher/releases/download/22000.493.42.15_a626f3d/ep_setup.exe
   InstallerSha256: 49C49E1903984247E6FBE4F45EE14ADDF0F9C0BF6889DBB76A41245E27CEE141
 ManifestType: installer
 ManifestVersion: 1.1.0

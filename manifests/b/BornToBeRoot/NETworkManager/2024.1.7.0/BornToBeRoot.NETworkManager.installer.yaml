@@ -6,7 +6,7 @@ PackageIdentifier: BornToBeRoot.NETworkManager
 PackageVersion: 2024.1.7.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.7.0/NETworkManager_2024.1.7.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.7.0/NETworkManager_2024.1.7.0_Setup.exe
   InstallerSha256: fe15739018aa90674fc0e0ae1bdbfb8dc015517020439c7151c3634d936fa681
 ManifestType: installer
 ManifestVersion: 1.5.0

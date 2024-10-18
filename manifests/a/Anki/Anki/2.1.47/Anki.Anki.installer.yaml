@@ -17,7 +17,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.47/anki-2.1.47-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.47/anki-2.1.47-windows.exe
   InstallerSha256: 2DD0A9A9B0BC003558F608CABD30C2E51CCAE95146517DA8A91F6698C7660816
   UpgradeBehavior: install
 ManifestType: installer

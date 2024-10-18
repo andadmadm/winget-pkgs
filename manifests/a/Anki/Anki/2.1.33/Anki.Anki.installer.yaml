@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.33/anki-2.1.33-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.33/anki-2.1.33-windows.exe
   InstallerSha256: D90A1AC70821DA657006C05D00B8368FA61B9F2C1B0895C516542F093194D8F3
 ManifestType: installer
 ManifestVersion: 1.1.0

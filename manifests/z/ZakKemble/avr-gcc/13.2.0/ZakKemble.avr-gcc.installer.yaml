@@ -72,7 +72,7 @@ Installers:
     PortableCommandAlias: avrdude
   - RelativeFilePath: avr-gcc-13.2.0-x64-windows\bin\make.exe
     PortableCommandAlias: make
-  InstallerUrl: https://github.com/ZakKemble/avr-gcc-build/releases/download/v13.2.0-1/avr-gcc-13.2.0-x64-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ZakKemble/avr-gcc-build/releases/download/v13.2.0-1/avr-gcc-13.2.0-x64-windows.zip
   InstallerSha256: E58964CEE908A01C85855A4CC6DB331D06A87B4451C32DB2281E92268BA0F107
 ManifestType: installer
 ManifestVersion: 1.5.0

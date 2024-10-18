@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.15.1/Twinkle.Tray.v1.15.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.15.1/Twinkle.Tray.v1.15.1.exe
   InstallerSha256: A2504E487C244B05E71EE9A038275008180D10C1FE6503DAA89C4BC3580AC75C
 ManifestType: installer
 ManifestVersion: 1.2.0

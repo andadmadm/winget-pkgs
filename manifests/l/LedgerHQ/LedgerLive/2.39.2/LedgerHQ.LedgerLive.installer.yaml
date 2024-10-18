@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.39.2/ledger-live-desktop-2.39.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.39.2/ledger-live-desktop-2.39.2-win-x64.exe
   InstallerSha256: AC4C5E5E5B03B90C1AA7562E5779CB7E4DFABAAF8985177ABD98EE6F852F43A9
 ManifestType: installer
 ManifestVersion: 1.1.0

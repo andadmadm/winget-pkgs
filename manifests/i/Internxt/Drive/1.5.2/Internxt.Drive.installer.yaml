@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/internxt/drive-desktop/releases/download/v1.5.2/internxt-drive-1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/internxt/drive-desktop/releases/download/v1.5.2/internxt-drive-1.5.2.exe
   InstallerSha256: 38A2602E1AF4DA8E39336BF8CA13F94E384DB3B8F0C89A5A5C0FB4BD0B7B086C
 ManifestType: installer
 ManifestVersion: 1.1.0

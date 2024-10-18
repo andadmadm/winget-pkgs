@@ -7,7 +7,7 @@ InstallerLocale: en-US
 InstallerType: wix
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/DevelopersCommunity/wix-JetBrainsMonoNF/releases/download/v3.0.0/JetBrainsMono.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DevelopersCommunity/wix-JetBrainsMonoNF/releases/download/v3.0.0/JetBrainsMono.msi
   InstallerSha256: 908D9BA9928C9A53FE35A465CA5C97A1FE062A8A8BE17B4658807D8C19E3A6AC
   ProductCode: '{9EAA819C-00EA-4AF3-A942-F021295E58B7}'
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-03-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ModelioOpenSource/Modelio/releases/download/v5.1.0/Windows.10.Modelio.Open.Source.5.1.0.-.64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ModelioOpenSource/Modelio/releases/download/v5.1.0/Windows.10.Modelio.Open.Source.5.1.0.-.64.exe
   InstallerSha256: C2B64A8A05884960568EB64F8A2EAEEB146C09B7B96FAA098B39C73EF1A7A258
 ManifestType: installer
 ManifestVersion: 1.1.0

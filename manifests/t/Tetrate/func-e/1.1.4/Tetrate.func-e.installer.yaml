@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{FC6C326B-1DB7-4D48-8F05-E13E79DF4D0E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tetratelabs/func-e/releases/download/v1.1.4/func-e_1.1.4_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/tetratelabs/func-e/releases/download/v1.1.4/func-e_1.1.4_windows_amd64.msi
   InstallerSha256: 9F72C6DFC37FB22FE3E39A6312EAC350F2527FE8006493CD16E5CFB7D48EDDD5
 ManifestType: installer
 ManifestVersion: 1.5.0

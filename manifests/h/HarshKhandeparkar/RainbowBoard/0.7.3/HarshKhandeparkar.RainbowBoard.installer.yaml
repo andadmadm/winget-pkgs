@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/harshkhandeparkar/rainbow-board/releases/download/v0.7.3/Rainbow-Board-Setup-0.7.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/harshkhandeparkar/rainbow-board/releases/download/v0.7.3/Rainbow-Board-Setup-0.7.3.exe
   InstallerSha256: 649C418E46722EA79C7112B759581062F3B36590FF138BCCA74B12A1848597A5
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2023-05-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/buchen/portfolio/releases/download/0.62.1/PortfolioPerformance-0.62.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buchen/portfolio/releases/download/0.62.1/PortfolioPerformance-0.62.1-setup.exe
   InstallerSha256: A4AAA7B9C00C70C1010CF0F525A6E8DDDAB3B4DD506A6C830D45FED021D20CEE
 ManifestType: installer
 ManifestVersion: 1.4.0

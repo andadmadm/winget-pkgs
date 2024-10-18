@@ -6,7 +6,7 @@ PackageVersion: "4.10"
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/FreeFem/FreeFem-sources/releases/download/v4.10/FreeFEM-4.10-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeFem/FreeFem-sources/releases/download/v4.10/FreeFEM-4.10-win64.exe
   InstallerSha256: A841753780BD40496C7F3EE3CDA0642094252BCB9351ABB32D2F21D80CABF339
   ProductCode: FreeFem++-win64-4.10_is1
 ManifestType: installer

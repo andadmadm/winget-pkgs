@@ -8,7 +8,7 @@ InstallerSwitches:
   Silent: /s
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/STJr/Kart-Public/releases/download/v1.3/srb2kart-v13-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/STJr/Kart-Public/releases/download/v1.3/srb2kart-v13-Installer.exe
   InstallerSha256: 9A198781CC1F1DF2B0A3B6DCF6677C0A8663D0DC182D20CD6BAE1BC78F37632E
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -14,7 +14,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: inno
-    InstallerUrl: https://github.com/nelson-lang/nelson/releases/download/v1.3.0/Nelson-1.3.0.3872-x86-64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/nelson-lang/nelson/releases/download/v1.3.0/Nelson-1.3.0.3872-x86-64.exe
     InstallerSha256: 18891898d5da77f83c622358ab5919c39fb8c9cb7d9fb7170de27295a7e472a4
     Dependencies:
       PackageDependencies:
@@ -29,7 +29,7 @@ Installers:
       ProductCode: '{2ED97A2C-CAA6-467F-82D9-02FC564A8950}_is1'
   - Architecture: x86
     InstallerType: inno
-    InstallerUrl: https://github.com/nelson-lang/nelson/releases/download/v1.3.0/Nelson-1.3.0.3872-x86-32.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/nelson-lang/nelson/releases/download/v1.3.0/Nelson-1.3.0.3872-x86-32.exe
     InstallerSha256: 8709dfcf245c0aa4b5e1201610c49eea55e81bb763b7257cc4d0f0f4d7169c43
     Dependencies:
       PackageDependencies:

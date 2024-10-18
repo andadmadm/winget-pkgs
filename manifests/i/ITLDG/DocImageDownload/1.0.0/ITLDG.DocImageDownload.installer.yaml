@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: DocImageDownload.exe
   PortableCommandAlias: DocImageDownload
 Installers:
-- InstallerUrl: https://github.com/itldg/DocImageDownload/releases/download/v1.0.0/DocImageDownload.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/itldg/DocImageDownload/releases/download/v1.0.0/DocImageDownload.zip
   Architecture: x64
   InstallerSha256: AC70E68A98BCFBE32B30E064225CB78C947337FE305CF4DF1222FD15E4091391
 ManifestType: installer

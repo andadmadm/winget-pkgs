@@ -22,7 +22,7 @@ AppsAndFeaturesEntries:
 - DisplayName: Memento - An mpv-based video player for studying Japanese.
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ripose-jp/Memento/releases/download/v1.2.1/Memento_Windows_x86_64_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ripose-jp/Memento/releases/download/v1.2.1/Memento_Windows_x86_64_Installer.exe
   InstallerSha256: 8BEFFDB2B5A2F2288F7C13EEA08BDF977299C8CEE2659578074A1A4A1F691DB5
 ManifestType: installer
 ManifestVersion: 1.5.0

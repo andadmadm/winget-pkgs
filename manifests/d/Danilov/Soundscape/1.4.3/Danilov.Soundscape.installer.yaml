@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ddanilov/soundscape/releases/download/1.4.3/soundscape-1.4.3-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ddanilov/soundscape/releases/download/1.4.3/soundscape-1.4.3-win64.exe
   InstallerSha256: 310F3E2BBDC6FB54B87BDADCB2ECB337743A176AF746264DE1BA12386955206B
 ManifestType: installer
 ManifestVersion: 1.5.0

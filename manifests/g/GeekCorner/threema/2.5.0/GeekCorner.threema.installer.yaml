@@ -13,37 +13,37 @@ ReleaseDate: 2022-06-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
   InstallerSha256: 5E179D7EE920E4C20EC17E13434E4BAAB8794D716176C15C7045109F6B52ABC3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
   InstallerSha256: 5E179D7EE920E4C20EC17E13434E4BAAB8794D716176C15C7045109F6B52ABC3
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
   InstallerSha256: 5E179D7EE920E4C20EC17E13434E4BAAB8794D716176C15C7045109F6B52ABC3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
   InstallerSha256: 5E179D7EE920E4C20EC17E13434E4BAAB8794D716176C15C7045109F6B52ABC3
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
   InstallerSha256: 5E179D7EE920E4C20EC17E13434E4BAAB8794D716176C15C7045109F6B52ABC3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.0/Threema-For-Desktop-setup-2.5.0.exe
   InstallerSha256: 5E179D7EE920E4C20EC17E13434E4BAAB8794D716176C15C7045109F6B52ABC3
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/kxxt/WSLDiskShrinker/releases/download/v0.2.0/wsl-disk-shrinker-setup.exe.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kxxt/WSLDiskShrinker/releases/download/v0.2.0/wsl-disk-shrinker-setup.exe.exe
   InstallerSha256: 01BD87D80B72938989E04CD97EBC8DB057D34AE5F9E149E945CC34918A236E55
   UpgradeBehavior: install
 ManifestType: installer

@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-12-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/artempyanykh/marksman/releases/download/2023-12-09/marksman.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/artempyanykh/marksman/releases/download/2023-12-09/marksman.exe
   InstallerSha256: 9CB9AA80350FEBC9A3F078F67232DBC0AC833A5D4F7D34B045AA7AD6D8FF54DB
 ManifestType: installer
 ManifestVersion: 1.6.0

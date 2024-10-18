@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/Ombrelin/plex-rich-presence/releases/download/v1.7/plex-rich-presence-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ombrelin/plex-rich-presence/releases/download/v1.7/plex-rich-presence-setup.exe
   InstallerSha256: E6A775589E675DBE8377E2E17FF67D6C47972AFDE6088C64CB0C4A8BD7D17207
   UpgradeBehavior: install
 ManifestType: installer

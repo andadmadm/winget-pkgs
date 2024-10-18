@@ -4,13 +4,13 @@
 PackageIdentifier: mholt.archiver
 PackageVersion: 3.5.0
 Installers:
-- InstallerUrl: https://github.com/mholt/archiver/releases/download/v3.5.0/arc_3.5.0_windows_amd64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/mholt/archiver/releases/download/v3.5.0/arc_3.5.0_windows_amd64.exe
   Architecture: x64
   InstallerType: portable
   InstallerSha256: BD89E2CB031F6984758CB8333925778393D25F27928EFCF756E084952067B4DF
   Commands:
   - arc
-- InstallerUrl: https://github.com/mholt/archiver/releases/download/v3.5.0/arc_3.5.0_windows_386.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/mholt/archiver/releases/download/v3.5.0/arc_3.5.0_windows_386.exe
   Architecture: x86
   InstallerType: portable
   InstallerSha256: AC5908FE97F62D042F82196661D6F9A9C3CF85EEB30EB4CEA877A2FEFDE599B3

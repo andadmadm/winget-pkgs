@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-05-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sirredbeard/determined-windows-cli/releases/download/0.33.0/det.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sirredbeard/determined-windows-cli/releases/download/0.33.0/det.exe
   InstallerSha256: D105304D74E4CCEB6694D111E07FCC4407F76A8905795EBA47AB047A06C8E0E1
 ManifestType: installer
 ManifestVersion: 1.6.0

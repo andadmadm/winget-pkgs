@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-01-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aws/copilot-cli/releases/download/v1.33.1/copilot-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/aws/copilot-cli/releases/download/v1.33.1/copilot-windows.exe
   InstallerSha256: CB2B87B6DAB79A47B19A9A6E8E8E8D41DE6E5DEBC113D79B081EE2E223D9D85F
 ManifestType: installer
 ManifestVersion: 1.6.0

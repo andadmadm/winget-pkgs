@@ -7,11 +7,11 @@ InstallerType: wix
 ReleaseDate: "2024-07-30"
 Installers:
   - Architecture: x86
-    InstallerUrl: https://github.com/anchordotdev/cli/releases/download/v0.0.39/msi-builder-x86.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/anchordotdev/cli/releases/download/v0.0.39/msi-builder-x86.msi
     InstallerSha256: b909a478cb0fe6a61851e7fdfa2eda89de609e6d97e8222633bfb6d909582930
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
-    InstallerUrl: https://github.com/anchordotdev/cli/releases/download/v0.0.39/msi-builder-x64.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/anchordotdev/cli/releases/download/v0.0.39/msi-builder-x64.msi
     InstallerSha256: 65c23fae755da5aa769521cb116de12bdd7a2f79f36cd005acbc17e513dab10b
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -11,7 +11,7 @@ Dependencies:
 ProductCode: '{7801CCC2-451C-40CA-8659-80F3391DB3CD}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/trueromanus/ArdorQuery/releases/download/0.0.18/ArdorQuery.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/trueromanus/ArdorQuery/releases/download/0.0.18/ArdorQuery.msi
   InstallerSha256: A56A0CAF70F21BAC5A7CEF085CB7B6D132663DF5928376AC05666D68FABFD5A7
 ManifestType: installer
 ManifestVersion: 1.6.0

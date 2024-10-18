@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/Nitrokey/nitrokey-app2/releases/download/v2.1.2/nitrokey-app-v2.1.2-x64-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nitrokey/nitrokey-app2/releases/download/v2.1.2/nitrokey-app-v2.1.2-x64-windows-installer.msi
   InstallerSha256: 5438097ED0BE206C9CD3A0A63E23B7C6BD63A224227F394AB64AC9B88027F29A
   ProductCode: '{2B3560CE-5E72-43ED-9484-90F8F459D451}'
 ManifestType: installer

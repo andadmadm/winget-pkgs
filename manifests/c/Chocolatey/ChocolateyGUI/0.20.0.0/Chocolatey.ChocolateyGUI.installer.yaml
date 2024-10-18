@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{F8164F91-FA5C-4789-B68D-9BEB5B146155}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chocolatey/ChocolateyGUI/releases/download/0.20.0/ChocolateyGUI.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/chocolatey/ChocolateyGUI/releases/download/0.20.0/ChocolateyGUI.msi
   InstallerSha256: EDA3E65BE9AA693E062997660BFAA5934AD6C2DEBA8F9317A76742A6D93EA99A
   ProductCode: '{392BC77F-8820-4CD8-87E7-C0EE5599674D}'
 ManifestType: installer

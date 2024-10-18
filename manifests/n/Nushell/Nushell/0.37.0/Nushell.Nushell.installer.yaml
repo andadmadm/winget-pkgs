@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2021-09-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nushell/nushell/releases/download/0.37.0/nu_0_37_0_windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nushell/nushell/releases/download/0.37.0/nu_0_37_0_windows.msi
   InstallerSha256: 4DE108F3381A174DA3B7CE844607B47A1A70C55A6056C3742FEDA2F16FC9512B
   ProductCode: '{76C8550F-63B3-4BCE-B65E-A56711D15E02}'
 ManifestType: installer

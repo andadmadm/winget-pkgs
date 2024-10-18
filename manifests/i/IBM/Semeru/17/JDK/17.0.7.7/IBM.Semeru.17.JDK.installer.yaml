@@ -4,7 +4,7 @@
 PackageIdentifier: IBM.Semeru.17.JDK
 PackageVersion: 17.0.7.7
 Installers:
-- InstallerUrl: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_17.0.7_7_openj9-0.38.0.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_17.0.7_7_openj9-0.38.0.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2017-01-19
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/loresoft/msbuildtasks/releases/download/1.5.0.235/MSBuild.Community.Tasks.v1.5.0.235.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/loresoft/msbuildtasks/releases/download/1.5.0.235/MSBuild.Community.Tasks.v1.5.0.235.msi
   InstallerSha256: 1EF2F74962D889F1C03BAE5ED918243F41C4DE6C660DA23DB376D9874471F271
   ProductCode: '{E4AC7560-0F98-4D15-8B13-BEDA9C68C426}'
 ManifestType: installer

@@ -9,13 +9,13 @@ ReleaseDate: 2023-03-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.0.2/Helios-Launcher-setup-2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dscalzi/HeliosLauncher/releases/download/v2.0.2/Helios-Launcher-setup-2.0.2.exe
   InstallerSha256: F973772DDB2F1C02CC4EF98CD43C30DA21C5798CCC16F2A8616DE7C9C8AF23F5
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.0.2/Helios-Launcher-setup-2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dscalzi/HeliosLauncher/releases/download/v2.0.2/Helios-Launcher-setup-2.0.2.exe
   InstallerSha256: F973772DDB2F1C02CC4EF98CD43C30DA21C5798CCC16F2A8616DE7C9C8AF23F5
   InstallerSwitches:
     Custom: /ALLUSERS

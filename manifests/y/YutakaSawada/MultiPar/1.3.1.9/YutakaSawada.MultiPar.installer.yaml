@@ -7,7 +7,7 @@ InstallerType: inno
 ReleaseDate: 2021-09-09
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Yutaka-Sawada/MultiPar/releases/download/v1.3.1.9/MultiPar131_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Yutaka-Sawada/MultiPar/releases/download/v1.3.1.9/MultiPar131_setup.exe
   InstallerSha256: EF0AA515BE609EA71E173673DF4996DFA688CE1417B0083F86D9C4246B3919F6
 ManifestType: installer
 ManifestVersion: 1.2.0

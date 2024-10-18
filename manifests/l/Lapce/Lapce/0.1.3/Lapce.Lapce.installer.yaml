@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2022-07-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lapce/lapce/releases/download/v0.1.3/Lapce-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/lapce/lapce/releases/download/v0.1.3/Lapce-windows.msi
   InstallerSha256: 79CCB2169000F787EB4756B66F1617E9194EB9D9B3EA5163A795AA84E287F819
   ProductCode: '{598C4A7D-68E8-43AF-A408-5D84ED273FBE}'
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/instatushq/out/releases/download/v1.0.6/Instatus.Out.Setup.1.0.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/instatushq/out/releases/download/v1.0.6/Instatus.Out.Setup.1.0.6.exe
   InstallerSha256: 59A9FFBDEAFE8E3F87A0A114A758648C3C87D38A4BE73C9EBA4FEEB51EF16A0D
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{C1E159A2-6037-5BA5-8D3C-49E040E89A5B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ImageOptim/gifski/releases/download/1.14.4/gifski_1.14.4_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ImageOptim/gifski/releases/download/1.14.4/gifski_1.14.4_x64_en-US.msi
   InstallerSha256: CA8D260448A885CD238B36FB5B6A448FA734565A196FFA9CFDC8A7EDB22E4E55
 ManifestType: installer
 ManifestVersion: 1.6.0

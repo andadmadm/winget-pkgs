@@ -12,7 +12,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.2.0/Threema-For-Desktop-setup-2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.2.0/Threema-For-Desktop-setup-2.2.0.exe
   InstallerSha256: 38225E4A216C63A8C16E342F110EFD275F46E79B77054B0CDC4ADB3A72FF4548
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.2.0/Threema-For-Desktop-setup-2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.2.0/Threema-For-Desktop-setup-2.2.0.exe
   InstallerSha256: 38225E4A216C63A8C16E342F110EFD275F46E79B77054B0CDC4ADB3A72FF4548
   InstallerSwitches:
     Custom: /ALLUSERS

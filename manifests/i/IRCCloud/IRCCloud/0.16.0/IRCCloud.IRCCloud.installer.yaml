@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/irccloud/irccloud-desktop/releases/download/v0.16.0/IRCCloud.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/irccloud/irccloud-desktop/releases/download/v0.16.0/IRCCloud.exe
   InstallerSha256: 63F8DF1AC0A0753769EA62F380B154010E62611E1969EB2FA8BDE44AFC1D2C61
 ManifestType: installer
 ManifestVersion: 1.1.0

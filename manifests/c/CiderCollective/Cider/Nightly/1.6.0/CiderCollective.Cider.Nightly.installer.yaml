@@ -15,7 +15,7 @@ UnsupportedOSArchitectures:
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ciderapp/cider-releases/releases/download/v1.6.0/Cider-Setup-winget-1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ciderapp/cider-releases/releases/download/v1.6.0/Cider-Setup-winget-1.6.0.exe
   InstallerSha256: DA845EE237B1804FADE86B1568F45C6C05B0ACB44D314CD680AF343FE5D1CC07
 ManifestType: installer
 ManifestVersion: 1.2.0

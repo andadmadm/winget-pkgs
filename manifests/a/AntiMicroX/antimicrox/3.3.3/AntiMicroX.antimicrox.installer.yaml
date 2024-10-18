@@ -4,7 +4,7 @@
 PackageIdentifier: AntiMicroX.antimicrox
 PackageVersion: 3.3.3
 Installers:
-- InstallerUrl: https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/antimicrox-3.3.3-Windows-AMD64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/antimicrox-3.3.3-Windows-AMD64.exe
   Architecture: x64
   InstallerType: nullsoft
   InstallerSha256: C191DBD7442C9EC29402473D857E12A89AA80897C626E5748D733662A6CF01C4

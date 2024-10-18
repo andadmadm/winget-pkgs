@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{F33BE402-825E-46C8-8799-EF7E3AE9C357}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/YaSuenag/SimpleCom/releases/download/v1.2.3/SimpleComInstaller-1.2.3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/YaSuenag/SimpleCom/releases/download/v1.2.3/SimpleComInstaller-1.2.3.msi
   InstallerSha256: 3932CBFF90B38F022839D6D099F0C5C090F3341F5DB6B913127597F33FBD3B71
 ManifestType: installer
 ManifestVersion: 1.5.0

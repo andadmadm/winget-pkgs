@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-26
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Gnucash/gnucash/releases/download/5.0/gnucash-5.0.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Gnucash/gnucash/releases/download/5.0/gnucash-5.0.setup.exe
   InstallerSha256: E9D30E36163A7F047DAF2523AC35BF2218D2E661BCFC7F279D57D4D396CAA33D
 ManifestType: installer
 ManifestVersion: 1.2.0

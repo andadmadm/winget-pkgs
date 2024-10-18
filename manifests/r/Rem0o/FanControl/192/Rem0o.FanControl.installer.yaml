@@ -11,7 +11,7 @@ Dependencies:
 ReleaseDate: 2024-06-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Rem0o/FanControl.Releases/releases/download/V192/FanControl_192_net_8_0_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Rem0o/FanControl.Releases/releases/download/V192/FanControl_192_net_8_0_Installer.exe
   InstallerSha256: A7F269A83757CB02BBF705228CBF09EE4E31190B51FC9B32832CD29E12EA2512
   ProductCode: '{141A88F8-31AC-49EA-B428-2BE8C19DED83}_is1'
 ManifestType: installer

@@ -17,7 +17,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{696BAB5D-CA1F-4B05-B123-320F245B8D6D}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/containers/podman/releases/download/v4.4.2/podman-v4.4.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v4.4.2/podman-v4.4.2.msi
   InstallerSha256: 3CEEA334FA08B0DCF71F5C58150A61D9B0C240190F3119C6EC1B73578381D597
   ProductCode: '{E251572B-F7B5-4B8E-93DC-B1439B0B5E03}'
 ManifestType: installer

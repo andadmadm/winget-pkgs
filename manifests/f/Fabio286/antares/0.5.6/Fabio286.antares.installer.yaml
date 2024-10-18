@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/antares-sql/antares/releases/download/v0.5.6/Antares-0.5.6-win_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/antares-sql/antares/releases/download/v0.5.6/Antares-0.5.6-win_x64.exe
   InstallerSha256: ED7CFCB0D25C0E640086B81F5962C32F1E2D5DD06440F844CA7C6028EED51E2C
 ManifestType: installer
 ManifestVersion: 1.1.0

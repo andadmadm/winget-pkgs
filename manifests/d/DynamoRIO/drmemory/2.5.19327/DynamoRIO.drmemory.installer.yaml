@@ -4,7 +4,7 @@
 PackageIdentifier: DynamoRIO.drmemory
 PackageVersion: 2.5.19327
 Installers:
-- InstallerUrl: https://github.com/DynamoRIO/drmemory/releases/download/cronbuild-2.5.19327/DrMemory-Windows-2.5.19327.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/DynamoRIO/drmemory/releases/download/cronbuild-2.5.19327/DrMemory-Windows-2.5.19327.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

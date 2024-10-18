@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{EB58E5F9-0174-4601-B62A-4C0E86FACD02}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ChaosRecipeEnhancer/ChaosRecipeEnhancer/releases/download/3.25.1001/ChaosRecipeEnhancer-Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChaosRecipeEnhancer/ChaosRecipeEnhancer/releases/download/3.25.1001/ChaosRecipeEnhancer-Setup.msi
   InstallerSha256: 2BC6B84A6482370A3AC5EBC645E2B75107434789081B44D4C8C0F14084F97EE4
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -4,7 +4,7 @@
 PackageIdentifier: TheStellaTeam.Stella
 PackageVersion: 6.7.1
 Installers:
-- InstallerUrl: https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-x64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-x64.exe
   Architecture: x64
   InstallerType: inno
   InstallerSha256: 03C7A64C9616D38BB21891B7F9C976734C2994C9A127AFD75FFF396F6037476A
@@ -13,7 +13,7 @@ Installers:
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
-- InstallerUrl: https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-win32.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-win32.exe
   Architecture: x86
   InstallerType: inno
   AppsAndFeaturesEntries:
@@ -22,7 +22,7 @@ Installers:
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x86
-- InstallerUrl: https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-windows.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-windows.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable
@@ -32,7 +32,7 @@ Installers:
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x86
-- InstallerUrl: https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-windows.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/stella-emu/stella/releases/download/6.7.1/Stella-6.7.1-windows.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -10,7 +10,7 @@ ProductCode: Raspberry Pi Imager
 ReleaseDate: 2023-10-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/raspberrypi/rpi-imager/releases/download/v1.8.1/imager-1.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/raspberrypi/rpi-imager/releases/download/v1.8.1/imager-1.8.1.exe
   InstallerSha256: 529902C74C3C7FB63F5DA648077CFA4031B7F3B9A56B1BDD58E4E54C7973B86A
 ManifestType: installer
 ManifestVersion: 1.5.0

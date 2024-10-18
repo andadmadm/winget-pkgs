@@ -17,7 +17,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/flameshot-org/flameshot/releases/download/v0.10.1/Flameshot-0.10.1-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/flameshot-org/flameshot/releases/download/v0.10.1/Flameshot-0.10.1-win64.msi
   InstallerSha256: 9F93815BC095DA98F7A9416BD2D3E18E5AC0AB916CDB09A800ED76146F47C5FA
   UpgradeBehavior: install
   ProductCode: '{9E8A9789-FB41-45C4-A415-43C1F572ACE3}'

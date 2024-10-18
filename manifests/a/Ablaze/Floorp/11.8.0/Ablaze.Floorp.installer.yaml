@@ -25,10 +25,10 @@ FileExtensions:
 ReleaseDate: 2024-01-16
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.8.0/floorp-win32.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.8.0/floorp-win32.installer.exe
   InstallerSha256: 9E92BA3D5053F89389BBA1FEC21FA5690F669A9562A305539DDCD6575D8BEDFB
 - Architecture: x64
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.8.0/floorp-win64.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.8.0/floorp-win64.installer.exe
   InstallerSha256: 6B68EC6C0AD8E3433720581B96291042DDE5D43FD288E4F3F02A4A11EE3405F8
 ManifestType: installer
 ManifestVersion: 1.5.0

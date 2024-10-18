@@ -14,7 +14,7 @@ ReleaseDate: 2022-04-07
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.7.1-win.exe
   InstallerSha256: A21C90B54E356ED6FEBEF41568998956BE29FF3B210ADC07EA825063A4E7B4D8
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.7.1-win.exe
   InstallerSha256: A21C90B54E356ED6FEBEF41568998956BE29FF3B210ADC07EA825063A4E7B4D8
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.7.1-win32.exe
   InstallerSha256: CAA3457E98F3CA41426D623CD47096FDE8EBE0342D78E0BBB9AB2942B765445B
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.7/siyuan-1.9.7-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.7.1-win32.exe
   InstallerSha256: CAA3457E98F3CA41426D623CD47096FDE8EBE0342D78E0BBB9AB2942B765445B
   InstallerSwitches:

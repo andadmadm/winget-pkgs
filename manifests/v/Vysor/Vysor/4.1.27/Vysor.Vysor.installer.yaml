@@ -7,7 +7,7 @@ Installers:
 - Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/koush/vysor.io/releases/download/v4.1.27/Vysor-win-4.1.27.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/koush/vysor.io/releases/download/v4.1.27/Vysor-win-4.1.27.exe
   InstallerSha256: A4D7363EC7D09366A3898CDADBD93EA8B3D0D3EFE909AEE1A53307A3D84D6203
   InstallerSwitches:
     Silent: --silent

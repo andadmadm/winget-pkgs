@@ -8,7 +8,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-12-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Genivia/ugrep/releases/download/v4.3.6/ugrep.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Genivia/ugrep/releases/download/v4.3.6/ugrep.exe
   InstallerSha256: 99327DECAD4A0F68F7037540233E82FFF70CA0DB95AE34FE8EE143EA6581EF9A
 ManifestType: installer
 ManifestVersion: 1.5.0

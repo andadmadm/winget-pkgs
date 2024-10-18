@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2022-03-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nushell/nushell/releases/download/0.60.0/nu_0_60_0_windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nushell/nushell/releases/download/0.60.0/nu_0_60_0_windows.msi
   InstallerSha256: FF28881F80FE5B405AF6D3B3ACA56D8ABA78B6606C6A45400035029D21DA255B
   ProductCode: '{646DC208-3FCB-4473-B7C4-A41500BE6E21}'
 ManifestType: installer

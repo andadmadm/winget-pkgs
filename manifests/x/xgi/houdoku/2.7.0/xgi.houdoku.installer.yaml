@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.7.0/Houdoku-Setup-2.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.7.0/Houdoku-Setup-2.7.0.exe
   InstallerSha256: 033EC2928C2C51BA2DCF43EA7400BB4F3CB181914A81BA32397F0D1836D9C6E6
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.7.0/Houdoku-Setup-2.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.7.0/Houdoku-Setup-2.7.0.exe
   InstallerSha256: 033EC2928C2C51BA2DCF43EA7400BB4F3CB181914A81BA32397F0D1836D9C6E6
   InstallerSwitches:
     Custom: /ALLUSERS

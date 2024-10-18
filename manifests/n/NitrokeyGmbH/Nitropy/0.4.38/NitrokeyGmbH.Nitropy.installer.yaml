@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/Nitrokey/pynitrokey/releases/download/v0.4.38/nitropy-v0.4.38-x64-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nitrokey/pynitrokey/releases/download/v0.4.38/nitropy-v0.4.38-x64-windows-installer.msi
   InstallerSha256: 03426C876750B07AE10D2EA01924309B1CCFFBD263BBE708E7F39123ACD7AB37
   ProductCode: '{F2F8F04C-42ED-4E02-BFE8-10A2AC49CAEC}'
 ManifestType: installer

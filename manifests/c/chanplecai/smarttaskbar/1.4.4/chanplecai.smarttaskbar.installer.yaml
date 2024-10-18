@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-04-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ChanpleCai/SmartTaskbar/releases/download/v1.4.4/SmartTaskbar_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChanpleCai/SmartTaskbar/releases/download/v1.4.4/SmartTaskbar_Setup.exe
   InstallerSha256: 467BBEED9DED41C160E287E61CFBEBE349562194A37CDB2A543566909C450F11
   ProductCode: '{ED7533BA-36BE-497C-86A7-4EAEBAF765AF}_is1'
 ManifestType: installer

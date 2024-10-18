@@ -6,7 +6,7 @@ PackageVersion: 1.0.47.55350
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/microsoft/VSConfigFinder/releases/download/1.0.47-beta/VSConfigFinder.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/VSConfigFinder/releases/download/1.0.47-beta/VSConfigFinder.exe
   InstallerSha256: 3B49526847230CDBC56C7881FDD31337906F7AB0E5E829F7F7E7F07DD13EA678
   InstallModes:
     - "silent"

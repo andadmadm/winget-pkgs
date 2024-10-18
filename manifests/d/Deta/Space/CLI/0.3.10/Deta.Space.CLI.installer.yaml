@@ -4,7 +4,7 @@
 PackageIdentifier: Deta.Space.CLI
 PackageVersion: 0.3.10
 Installers:
-- InstallerUrl: https://github.com/deta/space-cli/releases/download/v0.3.10/space-windows-x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/deta/space-cli/releases/download/v0.3.10/space-windows-x86_64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: space.exe
     PortableCommandAlias: space
   InstallerSha256: CCEBED610B4C43F373CA8B069371763B1F5C7C158AA12F72B06729205460DD55
-- InstallerUrl: https://github.com/deta/space-cli/releases/download/v0.3.10/space-windows-arm64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/deta/space-cli/releases/download/v0.3.10/space-windows-arm64.zip
   Architecture: arm64
   InstallerType: zip
   NestedInstallerType: portable

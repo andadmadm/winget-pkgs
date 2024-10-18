@@ -4,7 +4,7 @@
 PackageIdentifier: Mozilla.GeckoDriver
 PackageVersion: 0.33.0
 Installers:
-- InstallerUrl: https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: geckodriver.exe
     PortableCommandAlias: geckodriver
   InstallerSha256: A38FB6A2B0B50F98C2B19A4903BBE32A897150EFB2B226152450B3E6E17CA5B4
-- InstallerUrl: https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

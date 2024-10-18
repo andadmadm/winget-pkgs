@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GameTechDev/PresentMon/releases/download/v2.2.0/PresentMon-v2.2.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/GameTechDev/PresentMon/releases/download/v2.2.0/PresentMon-v2.2.0.msi
   InstallerSha256: D9D27347DF9295E1D8DF347A3D05BF0CB40AC794DD96DB88DA5FF24A7B0D868F
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -23,11 +23,11 @@ ReleaseDate: 2022-02-15
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v98.0.4758.102-r950365-Win64/98.0.4758.102_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v98.0.4758.102-r950365-Win64/98.0.4758.102_ungoogled_mini_installer.exe
   InstallerSha256: A0E6D1DB03349D92ED35BAF01C02E1263049D0DD7C86DF2F36670908E43EF329
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v98.0.4758.102-r950365-Win64/98.0.4758.102_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v98.0.4758.102-r950365-Win64/98.0.4758.102_ungoogled_mini_installer.exe
   InstallerSha256: A0E6D1DB03349D92ED35BAF01C02E1263049D0DD7C86DF2F36670908E43EF329
   InstallerSwitches:
     Custom: --system-level

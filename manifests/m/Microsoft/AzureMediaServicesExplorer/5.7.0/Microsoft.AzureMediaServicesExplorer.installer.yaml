@@ -11,7 +11,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/Azure/Azure-Media-Services-Explorer/releases/download/v5.7.0.0/AMSExplorerSetup_v5.7.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/Azure-Media-Services-Explorer/releases/download/v5.7.0.0/AMSExplorerSetup_v5.7.0.msi
   InstallerSha256: 635F412D0C19E490902D7F03A5DCD4CCE8C4CCC66EE56D2E498C76F650D9DD4D
   ProductCode: '{40D2BCC9-D64F-4240-8A70-5B102C4F6B04}'
 ManifestType: installer

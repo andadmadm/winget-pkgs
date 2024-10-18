@@ -16,13 +16,13 @@ ReleaseDate: 2022-09-13
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/3.3.4/authme-3.3.4-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/3.3.4/authme-3.3.4-windows-x64-installer.exe
   InstallerSha256: 6F27C23AA1D1AC28DA28BFAFE478CA0DCFCD607D18FC79728792F0E2A716CB8B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/3.3.4/authme-3.3.4-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/3.3.4/authme-3.3.4-windows-x64-installer.exe
   InstallerSha256: 6F27C23AA1D1AC28DA28BFAFE478CA0DCFCD607D18FC79728792F0E2A716CB8B
   InstallerSwitches:
     Custom: /ALLUSERS

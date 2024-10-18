@@ -12,7 +12,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: Gopeed-v1.4.0-windows-amd64.exe
-  InstallerUrl: https://github.com/GopeedLab/gopeed/releases/download/v1.4.0/Gopeed-v1.4.0-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GopeedLab/gopeed/releases/download/v1.4.0/Gopeed-v1.4.0-windows-amd64.zip
   InstallerSha256: 8C4E0F18790D3B74C8611FADA09C885A081D0A54266757BF8124E70570DD5107
   ProductCode: '{5960F34D-1E42-402C-8C85-DE2FF24CBAE4}_is1'
 ManifestType: installer

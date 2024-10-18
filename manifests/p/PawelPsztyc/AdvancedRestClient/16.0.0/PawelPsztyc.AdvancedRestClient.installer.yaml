@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/advanced-rest-client/arc-electron/releases/download/v16.0.0/arc-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/advanced-rest-client/arc-electron/releases/download/v16.0.0/arc-setup.exe
   InstallerSha256: 49BB112D8C66BFF043EE08E1F97FBB9C6C35302647CD97D950931BD20B495A24
   UpgradeBehavior: install
 ManifestType: installer

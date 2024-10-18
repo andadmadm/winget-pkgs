@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: minder.exe
         PortableCommandAlias: minder
-    InstallerUrl: https://github.com/stacklok/minder/releases/download/v0.0.50/minder_0.0.50_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/stacklok/minder/releases/download/v0.0.50/minder_0.0.50_windows_amd64.zip
     InstallerSha256: 07578ad158523d1e2ef54b5f93ede0079515d7f54a7b037d2f8c8d3d1100f33e
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: minder.exe
         PortableCommandAlias: minder
-    InstallerUrl: https://github.com/stacklok/minder/releases/download/v0.0.50/minder_0.0.50_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/stacklok/minder/releases/download/v0.0.50/minder_0.0.50_windows_arm64.zip
     InstallerSha256: 3afe349b96722a5b6069d68f4e164f49ee853cabbb600a88fa739eae89408b9f
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

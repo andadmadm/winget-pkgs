@@ -19,13 +19,13 @@ Installers:
 - InstallerSha256: DD8C689A7E5CD110E6DCF2A70279A8131FCE481B263794182413547F11BEB2B3
   InstallerSwitches:
     Custom: /CURRENTUSER
-  InstallerUrl: https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.69/Raven-Reader-Setup-1.0.69.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.69/Raven-Reader-Setup-1.0.69.exe
   Architecture: x64
   Scope: user
 - InstallerSha256: DD8C689A7E5CD110E6DCF2A70279A8131FCE481B263794182413547F11BEB2B3
   InstallerSwitches:
     Custom: /ALLUSERS
-  InstallerUrl: https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.69/Raven-Reader-Setup-1.0.69.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.69/Raven-Reader-Setup-1.0.69.exe
   Architecture: x64
   Scope: machine
 ManifestType: installer

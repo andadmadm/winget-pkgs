@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HandBrake/HandBrake/releases/download/1.4.0/HandBrake-1.4.0-x86_64-Win_GUI.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HandBrake/HandBrake/releases/download/1.4.0/HandBrake-1.4.0-x86_64-Win_GUI.exe
   InstallerSha256: 6A11FF32517B79A39C28BD969B0F93AC28336D338311C983FEE7AAC0BFBB84CA
   ProductCode: HandBrake
 ManifestType: installer

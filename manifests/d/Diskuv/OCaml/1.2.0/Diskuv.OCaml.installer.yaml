@@ -26,7 +26,7 @@ Commands:
 ReleaseDate: 2023-01-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/diskuv/dkml-installer-ocaml/releases/download/v1.2.0/setup-diskuv-ocaml-windows_x86_64-1.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/diskuv/dkml-installer-ocaml/releases/download/v1.2.0/setup-diskuv-ocaml-windows_x86_64-1.2.0.exe
   InstallerSha256: 2C7FE9815383C07D7F9043883EAA624AB32E037E27C35D57887EDDB0C6BD565B
 ManifestType: installer
 ManifestVersion: 1.5.0

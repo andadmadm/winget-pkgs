@@ -15,7 +15,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: GHelper.exe
     PortableCommandAlias: GHelper
-  InstallerUrl: https://github.com/seerge/g-helper/releases/download/v0.151/GHelper.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/seerge/g-helper/releases/download/v0.151/GHelper.zip
   InstallerSha256: 8859B938B595BB059FE9D31654290B6F90091A7C1C11E4D9F53FBE6DD16E421A
 ManifestType: installer
 ManifestVersion: 1.6.0

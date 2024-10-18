@@ -14,7 +14,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2023.4/MullvadVPN-2023.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2023.4/MullvadVPN-2023.4.exe
   InstallerSha256: A3DFB832CC4D29A5E2EA70956819D4D6E6B28ACF2CCE4E7C40D96AD46A53C8A7
 ManifestType: installer
 ManifestVersion: 1.4.0

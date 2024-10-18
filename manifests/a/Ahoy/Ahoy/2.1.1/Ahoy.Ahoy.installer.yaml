@@ -7,7 +7,7 @@ InstallerType: portable
 ReleaseDate: 2023-04-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ahoy-cli/ahoy/releases/download/v2.1.1/ahoy-bin-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ahoy-cli/ahoy/releases/download/v2.1.1/ahoy-bin-windows-amd64.exe
   InstallerSha256: CB672356B394D79F792448B0B9926D2C7E1E2768AFE7D9AA389C88B155F2139E
   Commands:
   - "ahoy"

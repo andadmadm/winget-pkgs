@@ -20,7 +20,7 @@ InstallerSuccessCodes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/nathancorvussolis/corvusskk/releases/download/3.1.2/corvusskk-3.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nathancorvussolis/corvusskk/releases/download/3.1.2/corvusskk-3.1.2.exe
   InstallerSha256: 7BC77D59C4EABA1370FFF02AC5A4C7FBBD767149DC55C2909BA67800106FE550
 ManifestType: installer
 ManifestVersion: 1.0.0

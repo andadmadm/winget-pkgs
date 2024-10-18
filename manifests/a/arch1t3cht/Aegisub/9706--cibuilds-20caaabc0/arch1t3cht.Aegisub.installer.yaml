@@ -24,7 +24,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: Aegisub-9706-cibuilds-20caaabc0.exe
-  InstallerUrl: https://github.com/arch1t3cht/Aegisub/releases/download/feature_11/Windows.MSVC.Release.wx.master.-.installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/arch1t3cht/Aegisub/releases/download/feature_11/Windows.MSVC.Release.wx.master.-.installer.zip
   InstallerSha256: E9BC292A700FBAD6CE14C4B268D3E49B43344CC94DE5C3BFCCDA8AD616225C28
   ProductCode: '{24BC8B57-716C-444F-B46B-A3349B9164C5}_is1'
 ManifestType: installer

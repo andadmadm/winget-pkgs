@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: soft-serve_0.7.6_Windows_x86_64\soft.exe
         PortableCommandAlias: soft
-    InstallerUrl: https://github.com/charmbracelet/soft-serve/releases/download/v0.7.6/soft-serve_0.7.6_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/soft-serve/releases/download/v0.7.6/soft-serve_0.7.6_Windows_x86_64.zip
     InstallerSha256: a6fafa9b415c501b8c6bc5dd5fb511a57d30fff38a2773733b41acc965d07cbd
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

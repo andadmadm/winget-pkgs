@@ -13,7 +13,7 @@ Installers:
         PortableCommandAlias: gop
       - RelativeFilePath: bin\gopfmt.exe
         PortableCommandAlias: gopfmt
-    InstallerUrl: https://github.com/goplus/gop/releases/download/v1.2.2/gop_v1.2.2_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goplus/gop/releases/download/v1.2.2/gop_v1.2.2_Windows_x86_64.zip
     InstallerSha256: fb9da5c88fbb6934b67976192a572695a93a8ac7ee65da8c4818cfd49097f33f
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -23,7 +23,7 @@ Installers:
         PortableCommandAlias: gop
       - RelativeFilePath: bin\gopfmt.exe
         PortableCommandAlias: gopfmt
-    InstallerUrl: https://github.com/goplus/gop/releases/download/v1.2.2/gop_v1.2.2_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goplus/gop/releases/download/v1.2.2/gop_v1.2.2_Windows_arm64.zip
     InstallerSha256: 63647d867e2cd4bd95a06ace3368c91e699207b04c5801af0b64140ca0f9eb95
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -33,7 +33,7 @@ Installers:
         PortableCommandAlias: gop
       - RelativeFilePath: bin\gopfmt.exe
         PortableCommandAlias: gopfmt
-    InstallerUrl: https://github.com/goplus/gop/releases/download/v1.2.2/gop_v1.2.2_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goplus/gop/releases/download/v1.2.2/gop_v1.2.2_Windows_i386.zip
     InstallerSha256: 6565febf0caf8324ca2a65dc9368b803fe8fa4b8a9ccb4f07a46a8aacc17f82c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

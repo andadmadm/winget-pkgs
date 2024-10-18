@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Lauriethefish/QuestPatcher/releases/download/2.3.0/QuestPatcher-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lauriethefish/QuestPatcher/releases/download/2.3.0/QuestPatcher-windows.exe
   InstallerSha256: 5995A67F8DFB55E33B7E7F0706014E5B1FAFF221FFFB18DFC42CBCE61723A254
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Lauriethefish/QuestPatcher/releases/download/2.3.0/QuestPatcher-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lauriethefish/QuestPatcher/releases/download/2.3.0/QuestPatcher-windows.exe
   InstallerSha256: 5995A67F8DFB55E33B7E7F0706014E5B1FAFF221FFFB18DFC42CBCE61723A254
   InstallerSwitches:
     Custom: /CURRENTUSER

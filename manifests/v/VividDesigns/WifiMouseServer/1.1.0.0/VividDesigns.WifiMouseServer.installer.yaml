@@ -9,7 +9,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: exe
-    InstallerUrl: https://github.com/michaelnpsp/WifiMouseServer/releases/download/1.1/WifiMouseServerInstall.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/michaelnpsp/WifiMouseServer/releases/download/1.1/WifiMouseServerInstall.exe
     InstallerSha256: D1A67CD604C81A1D6C9D2555B88B9B5ED1C51A6A635A150D9562A2DF6E9110A0
     InstallerSwitches:
       Silent: /VERYSILENT

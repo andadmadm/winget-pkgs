@@ -5,7 +5,7 @@ PackageIdentifier: NuitsJp.ClaudeToZenn
 PackageVersion: 0.0.18
 InstallerType: inno
 Installers:
-- InstallerUrl: https://github.com/nuitsjp/ClaudeToZenn/releases/download/v0.0.18/ClaudeToZenn-0.0.18-setup.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/nuitsjp/ClaudeToZenn/releases/download/v0.0.18/ClaudeToZenn-0.0.18-setup.exe
   Architecture: x64
   InstallerSha256: FFC8570CE393F656AD08AD41E6A36B092E8EBB09E93AE7037956DA2B59984D14
 ManifestType: installer

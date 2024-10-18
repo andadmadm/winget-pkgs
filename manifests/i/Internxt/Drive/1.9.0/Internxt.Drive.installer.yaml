@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/internxt/drive-desktop/releases/download/v1.9.0/Internxt-Drive-Setup-1.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/internxt/drive-desktop/releases/download/v1.9.0/Internxt-Drive-Setup-1.9.0.exe
   InstallerSha256: B25DBBD2E48B6333A91F493BB15F774C53685D90985288B29339DEF3E67ED48F
 ManifestType: installer
 ManifestVersion: 1.1.0

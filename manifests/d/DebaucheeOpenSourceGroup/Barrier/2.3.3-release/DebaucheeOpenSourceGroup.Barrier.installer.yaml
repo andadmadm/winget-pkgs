@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/debauchee/barrier/releases/download/v2.3.3/BarrierSetup-2.3.3-release.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/debauchee/barrier/releases/download/v2.3.3/BarrierSetup-2.3.3-release.exe
   InstallerSha256: 13090FDA8E71B3FD1E21C7A1F495D28731B18FAA12B3D7D1A0FF1BEDD0AB5257
 ManifestType: installer
 ManifestVersion: 1.1.0

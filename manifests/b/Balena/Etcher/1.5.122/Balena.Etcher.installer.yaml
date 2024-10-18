@@ -23,7 +23,7 @@ Installers:
 - Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/balena-io/etcher/releases/download/v1.5.122/balenaEtcher-Setup-1.5.122.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/balena-io/etcher/releases/download/v1.5.122/balenaEtcher-Setup-1.5.122.exe
   InstallerSha256: 81FBFDDB91F5A7591C4217487956CA07AEED66D84CDC0BF29E8BC8963EB60E78
   UpgradeBehavior: install
 ManifestType: installer

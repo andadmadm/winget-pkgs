@@ -8,11 +8,11 @@ InstallerType: msi
 ReleaseDate: 2022-07-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cloudflare/cloudflared/releases/download/2022.7.1/cloudflared-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cloudflare/cloudflared/releases/download/2022.7.1/cloudflared-windows-amd64.msi
   InstallerSha256: 96195DED6FA4DC68DFF236B4F13E740C994EA536C9AD9537880DD5E052C6FA90
   ProductCode: '{35E5E858-9372-4449-BF73-1CD6F7267128}'
 - Architecture: x86
-  InstallerUrl: https://github.com/cloudflare/cloudflared/releases/download/2022.7.1/cloudflared-windows-386.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cloudflare/cloudflared/releases/download/2022.7.1/cloudflared-windows-386.msi
   InstallerSha256: 79CA89051ED8DD5F1B120AAA2402904FFA2FAE49DB98B173A4FB2E10B58356E1
   ProductCode: '{35E5E858-9372-4449-BF73-1CD6F7267128}'
 ManifestType: installer

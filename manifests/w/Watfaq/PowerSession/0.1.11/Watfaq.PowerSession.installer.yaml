@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-11-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Watfaq/PowerSession-rs/releases/download/v0.1.11/PowerSession.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Watfaq/PowerSession-rs/releases/download/v0.1.11/PowerSession.exe
   InstallerSha256: 2D3E490F3727F3721AC493B40E2E8AA4E51703C47F5CA116D307979C2683DFEE
 ManifestType: installer
 ManifestVersion: 1.6.0

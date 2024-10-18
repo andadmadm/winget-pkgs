@@ -6,7 +6,7 @@ PackageIdentifier: alesimula.wsa_pacman
 PackageVersion: 1.5.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe
   InstallerSha256: 7abc29a8f808dc6db3aa692c6f917035036cb8d7fcceb81fe74f119e3add17a9
 ManifestType: installer
 ManifestVersion: 1.5.0

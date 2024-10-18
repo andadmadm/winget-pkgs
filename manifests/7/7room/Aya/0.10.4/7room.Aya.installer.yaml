@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/7room/aya/releases/download/v0.10.4/Aya.Setup.0.10.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/7room/aya/releases/download/v0.10.4/Aya.Setup.0.10.4.exe
   InstallerSha256: 699B2571C652C8F7FB1F5E15DAADC434E7E2FEADC02A331366A9CC267041F72B
   UpgradeBehavior: install
 ManifestType: installer

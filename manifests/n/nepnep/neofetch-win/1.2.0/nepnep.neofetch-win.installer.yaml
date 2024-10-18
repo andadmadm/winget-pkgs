@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/nepnep39/neofetch-win/releases/download/v1.2.0/neofetch120.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nepnep39/neofetch-win/releases/download/v1.2.0/neofetch120.msi
   InstallerSha256: 0C42AA59777B0F00F87E66598F5EF4A51AE21CE60C2A3CC1306045D2F7CFD24F
   InstallModes:
   - silentWithProgress

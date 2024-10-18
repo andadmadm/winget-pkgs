@@ -10,7 +10,7 @@ ReleaseDate: 2022-10-27
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ciderapp/cider-releases/releases/download/v1.5.9/Cider-Setup-winget-1.5.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ciderapp/cider-releases/releases/download/v1.5.9/Cider-Setup-winget-1.5.9.exe
   InstallerSha256: 6668FD3E5389F9EF8175801225077BBF0E3A78D3C2D9CE5A6A0F76D15C665611
 ManifestType: installer
 ManifestVersion: 1.2.0

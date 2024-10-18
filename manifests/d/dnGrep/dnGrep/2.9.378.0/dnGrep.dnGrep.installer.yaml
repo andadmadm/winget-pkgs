@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v2.9.378.0/dnGREP.2.9.378.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v2.9.378.0/dnGREP.2.9.378.x64.msi
   InstallerSha256: E1BF344BA90F4B0100839BCEE0F62E81D5463E246914613639A2DE24B6E8C0A8
   UpgradeBehavior: install
   ProductCode: '{CA0989D9-EB97-4323-865B-DF2B5A8B3406}'
@@ -21,7 +21,7 @@ Installers:
   Architecture: x86
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v2.9.378.0/dnGREP.2.9.378.x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v2.9.378.0/dnGREP.2.9.378.x86.msi
   InstallerSha256: E882AE81A16A91ECF76A0FCC209CADC210A79A02A6A3FF2503CAD2D3DD6512F6
   UpgradeBehavior: install
   ProductCode: '{FEC48BFA-5CF9-4EF5-859E-BC29E5CC4108}'

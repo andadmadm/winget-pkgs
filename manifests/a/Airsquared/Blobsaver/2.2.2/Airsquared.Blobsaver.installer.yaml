@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2019-01-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/airsquared/blobsaver/releases/download/v2.2.2/blobsaver_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/airsquared/blobsaver/releases/download/v2.2.2/blobsaver_setup.exe
   InstallerSha256: 42C8E0BC240AE7420529A90883590E901D5A378CF1ED9711FD589896A032A657
 ManifestType: installer
 ManifestVersion: 1.2.0

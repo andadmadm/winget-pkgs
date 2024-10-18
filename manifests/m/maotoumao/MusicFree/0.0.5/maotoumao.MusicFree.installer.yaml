@@ -11,14 +11,14 @@ ReleaseDate: 2024-06-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-setup.exe
   InstallerSha256: B75A50000ADCE7FB1CD5C018B6758E1B8446E3CAA940A838A075045DAB48B725
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: '{F182B50F-7175-4813-ADD1-D57372B6EB42}_is1'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-setup.exe
   InstallerSha256: B75A50000ADCE7FB1CD5C018B6758E1B8446E3CAA940A838A075045DAB48B725
   InstallerSwitches:
     Custom: /ALLUSERS

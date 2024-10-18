@@ -11,7 +11,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Coloryr/ColorMC/releases/download/a29.2024.8.21-1/colormc-windows-a29-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Coloryr/ColorMC/releases/download/a29.2024.8.21-1/colormc-windows-a29-x64.msi
   InstallerSha256: DA8FFBC889664B83C7264F1A02D4F170677252C30D58513C9197CB4FF9A981FB
   ProductCode: '{BA2749D2-BBA4-4ACE-8E06-C4E111143C1A}'
 ManifestType: installer

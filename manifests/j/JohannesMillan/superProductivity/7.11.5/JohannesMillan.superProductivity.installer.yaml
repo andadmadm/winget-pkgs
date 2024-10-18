@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/johannesjo/super-productivity/releases/download/v7.11.5/superProductivity-Setup-7.11.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/johannesjo/super-productivity/releases/download/v7.11.5/superProductivity-Setup-7.11.5.exe
   InstallerSha256: 7F5530AF7AA45BCDF72E67B31FC040B70C64C9FFC53CE0322B356074AA798C13
 ManifestType: installer
 ManifestVersion: 1.1.0

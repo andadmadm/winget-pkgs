@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: tkey-verification.exe
         PortableCommandAlias: tkey-verification
-    InstallerUrl: https://github.com/tillitis/tkey-verification/releases/download/v1.0.0/tkey-verification_1.0.0_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/tillitis/tkey-verification/releases/download/v1.0.0/tkey-verification_1.0.0_Windows_arm64.zip
     InstallerSha256: 311365ec54996083a8626a921b39a0a29dbe0cf277764d915f2de1e79efdafc5
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: tkey-verification.exe
         PortableCommandAlias: tkey-verification
-    InstallerUrl: https://github.com/tillitis/tkey-verification/releases/download/v1.0.0/tkey-verification_1.0.0_Windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/tillitis/tkey-verification/releases/download/v1.0.0/tkey-verification_1.0.0_Windows_amd64.zip
     InstallerSha256: c4afcc7749626c05ccae411a727cdca84cec1fe2ebe3f23eec0d302a181cb891
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

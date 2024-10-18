@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/EcoPasteHub/EcoPaste/releases/download/v0.1.0/EcoPaste_0.1.0_x64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/EcoPasteHub/EcoPaste/releases/download/v0.1.0/EcoPaste_0.1.0_x64-setup.exe
   InstallerSha256: D85AAEADDE3ED4DCBD2753733EF03E1C4BF0A8650048E58BD390E5A4F585E2A0
   ProductCode: EcoPaste
 ManifestType: installer

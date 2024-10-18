@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: xemu.exe
     PortableCommandAlias: xemu
-  InstallerUrl: https://github.com/xemu-project/xemu/releases/download/v0.7.122/xemu-win-release.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/xemu-project/xemu/releases/download/v0.7.122/xemu-win-release.zip
   InstallerSha256: 9A46DC7EC10DAC6B01A5C7DD17BFEEFB532B2F88D611D38DFE8FBD3BC210F51C
 ManifestType: installer
 ManifestVersion: 1.6.0

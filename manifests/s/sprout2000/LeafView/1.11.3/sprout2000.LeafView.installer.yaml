@@ -13,13 +13,13 @@ ReleaseDate: 2022-09-21
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.11.3/LeafView-1.11.3-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.11.3/LeafView-1.11.3-win32-x64-installer.exe
   InstallerSha256: 92F734590805904489D0514CA9516C8FF6BD7A70B260EBDDE053FC674C60B3A4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.11.3/LeafView-1.11.3-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.11.3/LeafView-1.11.3-win32-x64-installer.exe
   InstallerSha256: 92F734590805904489D0514CA9516C8FF6BD7A70B260EBDDE053FC674C60B3A4
   InstallerSwitches:
     Custom: /ALLUSERS

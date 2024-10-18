@@ -15,11 +15,11 @@ ReleaseDate: 2024-05-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/5.2.0/Altus-Setup-5.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/5.2.0/Altus-Setup-5.2.0.exe
   InstallerSha256: 70FE88B531CAF9CB99B931685E82183C61766BA86BF7CEA26FD7425131D215E7
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/5.2.0/Altus-Setup-5.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/5.2.0/Altus-Setup-5.2.0.exe
   InstallerSha256: 70FE88B531CAF9CB99B931685E82183C61766BA86BF7CEA26FD7425131D215E7
 ManifestType: installer
 ManifestVersion: 1.6.0

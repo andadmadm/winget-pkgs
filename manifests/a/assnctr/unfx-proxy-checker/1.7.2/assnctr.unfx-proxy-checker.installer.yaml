@@ -6,7 +6,7 @@ PackageIdentifier: assnctr.unfx-proxy-checker
 PackageVersion: 1.7.2
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/openproxyspace/unfx-proxy-checker/releases/download/v1.7.2/unfx-proxy-checker-v1.7.2-x64-win-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/openproxyspace/unfx-proxy-checker/releases/download/v1.7.2/unfx-proxy-checker-v1.7.2-x64-win-installer.exe
   InstallerSha256: 5c049c3dbf1d6cec0fc9e537d68b7769a40992618f1cd38f001d94b72d47ffad
 ManifestType: installer
 ManifestVersion: 1.5.0

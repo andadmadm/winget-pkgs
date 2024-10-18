@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /VERYSILENT
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dhtdht020/osc-dl/releases/download/1.2.10/oscdl-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dhtdht020/osc-dl/releases/download/1.2.10/oscdl-installer.exe
   InstallerSha256: 9F02FB3D2F289FE70C2CDC6A20E91418EFFF1E2114F3589052FEA9D576D4FBE2
 ManifestType: installer
 ManifestVersion: 1.1.0

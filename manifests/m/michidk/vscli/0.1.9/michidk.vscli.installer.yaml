@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-10-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/michidk/vscli/releases/download/v0.1.9/vscli-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/michidk/vscli/releases/download/v0.1.9/vscli-x86_64-pc-windows-msvc.zip
   InstallerSha256: 2D310730746204923459C374E77E9EEA6BC7077FF7B439BC556B5B991A077A0A
 ManifestType: installer
 ManifestVersion: 1.5.0

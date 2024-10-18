@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nashaofu/dingtalk/releases/download/v2.1.9/dingtalk-2.1.9-latest.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nashaofu/dingtalk/releases/download/v2.1.9/dingtalk-2.1.9-latest.exe
   InstallerSha256: BAAF51F826982B51A77E832E721CD2F8AE09505038349D04321CACAC6942C82B
 ManifestType: installer
 ManifestVersion: 1.1.0

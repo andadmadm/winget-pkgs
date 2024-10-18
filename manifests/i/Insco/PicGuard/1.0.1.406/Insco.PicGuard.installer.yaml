@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-10
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/picguard/picguard/releases/download/v1.0.1+406/picguard_1.0.1+406_windows_x64_en-US.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/picguard/picguard/releases/download/v1.0.1+406/picguard_1.0.1+406_windows_x64_en-US.msi
     InstallerSha256: 806769D03E8CDDEBDCE2E1474DDA34E6DE26CB22DD3707E1739C7F496C2AFA94
     InstallerLocale: en-US
     ProductCode: '{72A48FD2-AF0F-4EAC-82E7-065356D20FFE}'
@@ -24,7 +24,7 @@ Installers:
       - ProductCode: '{72A48FD2-AF0F-4EAC-82E7-065356D20FFE}'
         UpgradeCode: '{62EB3032-F9FB-4440-8DEF-B9D7BDFFD9F4}'
   - Architecture: x64
-    InstallerUrl: https://github.com/picguard/picguard/releases/download/v1.0.1+406/picguard_1.0.1+406_windows_x64_zh-CN.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/picguard/picguard/releases/download/v1.0.1+406/picguard_1.0.1+406_windows_x64_zh-CN.msi
     InstallerSha256: BE99A164EA2DB61C097A5E2097C2D9B92A4387A2F537CBF9F676A0553116CE1A
     InstallerLocale: zh-CN
     ProductCode: '{5796FF61-8449-4C61-82C3-A71696FF70DC}'

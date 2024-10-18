@@ -10,7 +10,7 @@ InstallerSwitches:
   Custom: /NORESTART
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alesimula/wsa_pacman/releases/download/v1.1.3/WSA-pacman-v1.1.3-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alesimula/wsa_pacman/releases/download/v1.1.3/WSA-pacman-v1.1.3-installer.exe
   InstallerSha256: 605D640A9FE25664ED24B21D81B8518DC518733D88439334F76B22E6D10137FB
   ProductCode: WSA PacMan_is1
 ManifestType: installer

@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-15
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/fafarunner/fafarunner/releases/download/v1.0.0+358/fafarunner_1.0.0+358_windows_x64_en-US.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/fafarunner/fafarunner/releases/download/v1.0.0+358/fafarunner_1.0.0+358_windows_x64_en-US.msi
     InstallerSha256: EB6C3EDD713C2091DA77D5D55CE08959920DD3CC6D9FFD25E457C9221DE5FCD2
     InstallerLocale: en-US
     ProductCode: '{188AA55D-99AF-4E80-BBA0-294FE036BD39}'
@@ -24,7 +24,7 @@ Installers:
       - ProductCode: '{188AA55D-99AF-4E80-BBA0-294FE036BD39}'
         UpgradeCode: '{9e97bd2c-5329-45e7-ad77-34d60acae691}'
   - Architecture: x64
-    InstallerUrl: https://github.com/fafarunner/fafarunner/releases/download/v1.0.0+358/fafarunner_1.0.0+358_windows_x64_zh-CN.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/fafarunner/fafarunner/releases/download/v1.0.0+358/fafarunner_1.0.0+358_windows_x64_zh-CN.msi
     InstallerSha256: 500A78E4DBEEE3B034BCF285D94A34D488498409136DE459AA81E70E82FA569B
     InstallerLocale: zh-CN
     ProductCode: '{17AD2E83-DD04-4D62-B16E-E10F98B49FCA}'

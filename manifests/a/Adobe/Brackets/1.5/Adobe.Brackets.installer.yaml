@@ -11,7 +11,7 @@ InstallerSwitches:
   Custom: /QUIET /NORESTART
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adobe/brackets/releases/download/release-1.5/Brackets.Release.1.5.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adobe/brackets/releases/download/release-1.5/Brackets.Release.1.5.msi
   InstallerSha256: 35D416A052FC1378F657EB5D6419A6477205E3E1D30A8D8B6DA41ECD84803481
   ProductCode: '{043CB435-3B23-4059-8587-47945109F34B}'
 ManifestType: installer

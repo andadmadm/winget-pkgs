@@ -4,7 +4,7 @@
 PackageIdentifier: Dystroy.broot
 PackageVersion: 1.22.1
 Installers:
-- InstallerUrl: https://github.com/Canop/broot/releases/download/v1.22.1/broot_1.22.1.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/Canop/broot/releases/download/v1.22.1/broot_1.22.1.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -18,7 +18,7 @@ FileExtensions:
 - org
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/logseq/logseq/releases/download/0.5.3/Logseq-win-x64-0.5.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/logseq/logseq/releases/download/0.5.3/Logseq-win-x64-0.5.3.exe
   InstallerSha256: B97B05E62F323203B368035BCBC2A7621CBE49D3ABBE9CE94C151EA968B6D4B4
   ProductCode: Logseq
 ManifestType: installer

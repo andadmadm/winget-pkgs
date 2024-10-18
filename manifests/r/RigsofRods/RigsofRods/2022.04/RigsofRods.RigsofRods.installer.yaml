@@ -11,7 +11,7 @@ InstallerSwitches:
 ReleaseDate: 2022-04-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RigsOfRods/rigs-of-rods/releases/download/2022.04/RoR_2022.04_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RigsOfRods/rigs-of-rods/releases/download/2022.04/RoR_2022.04_Setup.exe
   InstallerSha256: 026CD2FDC648800E8D56E51DC60A8D8175E5A5890D62D2B46F88DE0AAD66F99F
 ManifestType: installer
 ManifestVersion: 1.1.0

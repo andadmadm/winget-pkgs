@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2024-07-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aome510/spotify-player/releases/download/v0.19.1/spotify_player-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aome510/spotify-player/releases/download/v0.19.1/spotify_player-x86_64-pc-windows-msvc.zip
   InstallerSha256: CEBB2A3BB33D3081F270BAD2D012290BC459532076F0E1A3E02A241EB9434544
 ManifestType: installer
 ManifestVersion: 1.6.0

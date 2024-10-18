@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mcmilk/7-Zip-zstd/releases/download/19.00-v1.4.5-R2/7z19.00-zstd-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mcmilk/7-Zip-zstd/releases/download/19.00-v1.4.5-R2/7z19.00-zstd-x64.exe
   InstallerSha256: B2380367AAF3E88D8ABA03C487C08A29AEF318BC8298629948F18BC2F6B0AD60
 ManifestType: installer
 ManifestVersion: 1.1.0

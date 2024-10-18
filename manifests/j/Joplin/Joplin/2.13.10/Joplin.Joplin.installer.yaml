@@ -15,13 +15,13 @@ ReleaseDate: 2023-12-22
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.13.10/Joplin-Setup-2.13.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.13.10/Joplin-Setup-2.13.10.exe
   InstallerSha256: D17BAC1EA3E772CDA0F58FBD39280943BCD8EDE5157D16A8FB57E59CAABF9593
   InstallerSwitches:
     Custom: /CURRENTUSER /RESTARTAPPLICATIONS
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.13.10/Joplin-Setup-2.13.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.13.10/Joplin-Setup-2.13.10.exe
   InstallerSha256: D17BAC1EA3E772CDA0F58FBD39280943BCD8EDE5157D16A8FB57E59CAABF9593
   InstallerSwitches:
     Custom: /ALLUSERS /RESTARTAPPLICATIONS

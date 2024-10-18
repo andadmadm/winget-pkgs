@@ -15,7 +15,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.45.0/PowerToysSetup-0.45.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.45.0/PowerToysSetup-0.45.0-x64.exe
   InstallerSha256: BC1C7EDA2EB80F3780C27467FEF65C774E2008DA908A4CA5C7C2AD87750735DF
   UpgradeBehavior: install
   ProductCode: '{B3A4E585-5157-49AE-98FA-234D2E1BDD75}'

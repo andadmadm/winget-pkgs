@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-05-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/squalou/google-chat-linux/releases/download/5.24.19-2/google-chat-linux_Setup_5.24.19-2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/squalou/google-chat-linux/releases/download/5.24.19-2/google-chat-linux_Setup_5.24.19-2.exe
   InstallerSha256: 83563DD5E0651E2472EF9085EA6FB75B7D408AC50AC25C22D3169078A0909189
   ProductCode: f04f5cdd-5839-593a-915a-05394e69e2b7
 ManifestType: installer

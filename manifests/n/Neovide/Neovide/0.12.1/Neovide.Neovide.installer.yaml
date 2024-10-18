@@ -9,7 +9,7 @@ ReleaseDate: 2024-01-05
 Installers:
 - InstallerLocale: en-US
   Architecture: x64
-  InstallerUrl: https://github.com/neovide/neovide/releases/download/0.12.1/neovide.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/neovide/neovide/releases/download/0.12.1/neovide.msi
   InstallerSha256: 543C0CECEE683A4DA571D2E706CA0776BA363B9CBB9E83AF4D7DFB2A24679751
   ProductCode: '{A8543382-F83B-4897-851A-4E3F80D5AF65}'
   Dependencies:

@@ -18,14 +18,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: .\gopass-jsonapi.exe
     PortableCommandAlias: gopass-jsonapi
-  InstallerUrl: https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.5/gopass-jsonapi-1.15.5-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.5/gopass-jsonapi-1.15.5-windows-amd64.zip
   InstallerSha256: 58400DF5BE024D4FBC76FFDDFC801E36E9341BFD7FAFD52BE089287B2AE548DA
 - Architecture: arm64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: .\gopass-jsonapi.exe
     PortableCommandAlias: gopass-jsonapi
-  InstallerUrl: https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.5/gopass-jsonapi-1.15.5-windows-arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.5/gopass-jsonapi-1.15.5-windows-arm64.zip
   InstallerSha256: 316842E446A166E545F14E346847ADBA28478820DE04540E4FA7B02ECA91D96F
 ManifestType: installer
 ManifestVersion: 1.5.0

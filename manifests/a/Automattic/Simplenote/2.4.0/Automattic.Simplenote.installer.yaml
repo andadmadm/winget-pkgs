@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Automattic/simplenote-electron/releases/download/v2.4.0/Simplenote-win-2.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Automattic/simplenote-electron/releases/download/v2.4.0/Simplenote-win-2.4.0.exe
   InstallerSha256: 4ACA504DD51ACD28BD885B012EE4C23ABADBE17FAD943FEAA715CF31E941E852
 ManifestType: installer
 ManifestVersion: 1.1.0

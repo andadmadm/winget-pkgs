@@ -118,13 +118,13 @@ ReleaseDate: 2022-08-10
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/FreeCAD/FreeCAD/releases/download/0.20.1/FreeCAD-0.20.1-WIN-x64-installer-1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeCAD/FreeCAD/releases/download/0.20.1/FreeCAD-0.20.1-WIN-x64-installer-1.exe
   InstallerSha256: 29731874FA2295740C9FD3A38E511E8336C6B26C5B1553347498976EDFC666CF
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/FreeCAD/FreeCAD/releases/download/0.20.1/FreeCAD-0.20.1-WIN-x64-installer-1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeCAD/FreeCAD/releases/download/0.20.1/FreeCAD-0.20.1-WIN-x64-installer-1.exe
   InstallerSha256: 29731874FA2295740C9FD3A38E511E8336C6B26C5B1553347498976EDFC666CF
   InstallerSwitches:
     Custom: /CURRENTUSER

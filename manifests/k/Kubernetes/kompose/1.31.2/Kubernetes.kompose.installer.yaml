@@ -8,7 +8,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/kubernetes/kompose/releases/download/v1.31.2/kompose-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/kompose/releases/download/v1.31.2/kompose-windows-amd64.exe
   InstallerSha256: 796c2d64249e5c7a261f58df6e1b6dd8cd2bb2668ed332dbceffedba412d79df
 ManifestType: installer
 ManifestVersion: 1.4.0

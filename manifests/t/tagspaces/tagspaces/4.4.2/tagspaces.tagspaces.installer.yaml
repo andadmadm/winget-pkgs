@@ -14,13 +14,13 @@ ReleaseDate: 2022-05-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v4.4.2/tagspaces-win-x64-4.4.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v4.4.2/tagspaces-win-x64-4.4.2.exe
   InstallerSha256: 6D2CCC1A8E49BCE79B26452B2173CC8A715CA650800BDC53EC2149908D8EEE21
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v4.4.2/tagspaces-win-x64-4.4.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v4.4.2/tagspaces-win-x64-4.4.2.exe
   InstallerSha256: 6D2CCC1A8E49BCE79B26452B2173CC8A715CA650800BDC53EC2149908D8EEE21
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -15,7 +15,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/nushell/nushell/releases/download/0.72.0/nu-0.72.0-x86_64-pc-windows-msvc.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nushell/nushell/releases/download/0.72.0/nu-0.72.0-x86_64-pc-windows-msvc.msi
   InstallerSha256: 2DDFBAA72455561945F742E8B924F403AC6C30E9F46E5E2A31311F32B5CD5F8B
   ProductCode: '{FDA597F8-C04A-4120-A0EB-58FC79DF1F26}'
 ManifestType: installer

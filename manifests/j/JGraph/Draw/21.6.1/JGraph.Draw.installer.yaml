@@ -13,10 +13,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v21.6.1/draw.io-21.6.1-windows-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v21.6.1/draw.io-21.6.1-windows-installer.exe
   InstallerSha256: D3363CA169992FB256AF1146687D6AF633808E5C732171318F6BC31B162CF9EE
 - Architecture: x86
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v21.6.1/draw.io-ia32-21.6.1-windows-32bit-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v21.6.1/draw.io-ia32-21.6.1-windows-32bit-installer.exe
   InstallerSha256: 4F795B9AA4DDD7A1F92F2CBFEB6CE6ECD127A7B6AA0AFADDFCF693479149220D
 ManifestType: installer
 ManifestVersion: 1.4.0

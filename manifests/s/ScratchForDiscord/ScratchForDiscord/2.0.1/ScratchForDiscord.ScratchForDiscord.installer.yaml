@@ -15,13 +15,13 @@ ReleaseDate: 2021-11-03
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/skdhg/scratch-for-discord/releases/download/v2.0.1/Scratch-For-Discord-Setup-2.0.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skdhg/scratch-for-discord/releases/download/v2.0.1/Scratch-For-Discord-Setup-2.0.1.exe
   InstallerSha256: 01937C2B4144B89190B8757B84BBE979469AF4AC1D464C52085BEF628FEAAEDC
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/skdhg/scratch-for-discord/releases/download/v2.0.1/Scratch-For-Discord-Setup-2.0.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skdhg/scratch-for-discord/releases/download/v2.0.1/Scratch-For-Discord-Setup-2.0.1.exe
   InstallerSha256: 01937C2B4144B89190B8757B84BBE979469AF4AC1D464C52085BEF628FEAAEDC
   InstallerSwitches:
     Custom: /ALLUSERS

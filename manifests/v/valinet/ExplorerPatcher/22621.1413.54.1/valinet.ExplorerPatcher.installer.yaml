@@ -10,7 +10,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/valinet/ExplorerPatcher/releases/download/22621.1413.54.1_8b5443d/ep_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/valinet/ExplorerPatcher/releases/download/22621.1413.54.1_8b5443d/ep_setup.exe
   InstallerSha256: 8A2D0B507FF72F1155334783705F75ED752EBBFC9919C52B682BEEEA7F4DDFEC
 ManifestType: installer
 ManifestVersion: 1.4.0

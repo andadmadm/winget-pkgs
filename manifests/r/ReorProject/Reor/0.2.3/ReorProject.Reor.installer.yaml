@@ -11,7 +11,7 @@ Installers:
   Dependencies:
     PackageDependencies:
       - PackageIdentifier: Microsoft.VCRedist.2015+.x64
-  InstallerUrl: https://github.com/reorproject/reor/releases/download/v0.2.3/Reor_0.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/reorproject/reor/releases/download/v0.2.3/Reor_0.2.3.exe
   InstallerSha256: 849C6331C35446F31D16063D34912FB6CE4B0903D66DB1953EABF60D6C8A7892
 ManifestType: installer
 ManifestVersion: 1.6.0

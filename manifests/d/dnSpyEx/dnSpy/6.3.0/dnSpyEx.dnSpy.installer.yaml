@@ -15,7 +15,7 @@ Installers:
     PortableCommandAlias: dnspy
   - RelativeFilePath: dnSpy.Console.exe
     PortableCommandAlias: dnspy.console
-  InstallerUrl: https://github.com/dnSpyEx/dnSpy/releases/download/v6.3.0/dnSpy-net-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnSpyEx/dnSpy/releases/download/v6.3.0/dnSpy-net-win32.zip
   InstallerSha256: 9671993F1307BF9DF6BDE3BB08E8A624B848A1327F1732DB86856B70BE1EDA7B
 - Architecture: x64
   NestedInstallerType: portable
@@ -24,7 +24,7 @@ Installers:
     PortableCommandAlias: dnspy
   - RelativeFilePath: dnSpy.Console.exe
     PortableCommandAlias: dnspy.console
-  InstallerUrl: https://github.com/dnSpyEx/dnSpy/releases/download/v6.3.0/dnSpy-net-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnSpyEx/dnSpy/releases/download/v6.3.0/dnSpy-net-win64.zip
   InstallerSha256: 168319866E0818AB2BDBDE8AFA01101C570D72F296404255235AFF1DF88303E0
 ManifestType: installer
 ManifestVersion: 1.4.0

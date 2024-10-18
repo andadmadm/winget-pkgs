@@ -18,7 +18,7 @@ FileExtensions:
 ReleaseDate: 2022-10-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Ultimaker/Cura/releases/download/5.2.0/Ultimaker-Cura-5.2.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ultimaker/Cura/releases/download/5.2.0/Ultimaker-Cura-5.2.0-win64.exe
   InstallerSha256: 0A5F4A82E2DC7CFCDED4279517D7C051C5F116A68BF578C66407834BA18837C1
 ManifestType: installer
 ManifestVersion: 1.2.0

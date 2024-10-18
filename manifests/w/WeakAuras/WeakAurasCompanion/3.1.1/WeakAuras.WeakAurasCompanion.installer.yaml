@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v3.1.1/WeakAuras-Companion-Setup-3.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v3.1.1/WeakAuras-Companion-Setup-3.1.1.exe
   InstallerSha256: CA092A9CDD83C19BCFC7107AB7A00C47E2EDC87F0394F60FDDEF773F57BC360A
 ManifestType: installer
 ManifestVersion: 1.2.0

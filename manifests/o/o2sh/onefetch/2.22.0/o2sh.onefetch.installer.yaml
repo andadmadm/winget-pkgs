@@ -24,7 +24,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/o2sh/onefetch/releases/download/2.22.0/onefetch-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/o2sh/onefetch/releases/download/2.22.0/onefetch-setup.exe
   InstallerSha256: FFCD03A4B38376F3B5EC6C59C9494D325BDE64552B5CCE18ECB50F13865B5998
 ManifestType: installer
 ManifestVersion: 1.6.0

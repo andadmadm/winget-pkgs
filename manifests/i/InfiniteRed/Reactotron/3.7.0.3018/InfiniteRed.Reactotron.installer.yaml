@@ -9,7 +9,7 @@ Installers:
 - Architecture: x64
   InstallerType: wix
   Scope: machine
-  InstallerUrl: https://github.com/infinitered/reactotron/releases/download/reactotron-app@3.7.0/Reactotron.3.7.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/infinitered/reactotron/releases/download/reactotron-app@3.7.0/Reactotron.3.7.0.msi
   InstallerSha256: D7C8D3B87658E1CCF07478EAC09060D586FA5958A2E3EE15879DEC4193D049AC
   InstallerSwitches:
     InstallLocation: APPLICATIONFOLDER="<INSTALLPATH>"
@@ -17,7 +17,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/infinitered/reactotron/releases/download/reactotron-app@3.7.0/Reactotron.Setup.3.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/infinitered/reactotron/releases/download/reactotron-app@3.7.0/Reactotron.Setup.3.7.0.exe
   InstallerSha256: 79DDD0B0DEFD76ADD14BC858986C5CD2C2BEFAB67DFBF851812C1EC02489F013
   InstallerSwitches:
     Upgrade: --updated

@@ -15,7 +15,7 @@ Dependencies:
 ReleaseDate: 2023-07-14
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Vencord/Installer/releases/download/v1.3.1/VencordInstallerCli.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Vencord/Installer/releases/download/v1.3.1/VencordInstallerCli.exe
   InstallerSha256: D7FACB105F9287838C7091471B8E0627174D56B0EEF3B29FEEE922D81FD522EA
   RequireExplicitUpgrade: true
 ManifestType: installer

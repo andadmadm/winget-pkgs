@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cli/cli/releases/download/v1.6.0/gh_1.6.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v1.6.0/gh_1.6.0_windows_amd64.msi
   InstallerSha256: AFD9B08DF43FCCCE905ACCBB164CD89E960F9FA0DA62EEE848D336BC6F2B1D53
   ProductCode: '{A687B01A-113A-48AF-911B-F66BD2873D6B}'
 ManifestType: installer

@@ -11,7 +11,7 @@ InstallModes:
 ProductCode: '{BD3437B7-142C-40BA-951E-909102891FF7}'
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/coronalabs/corona/releases/download/3706/Solar2D-Windows-2024.3706.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/coronalabs/corona/releases/download/3706/Solar2D-Windows-2024.3706.msi
   InstallerSha256: 7CE6670A683756E96C7A63828A40C1FBFD172BAD91816D4FF31EEE4155045501
 ManifestType: installer
 ManifestVersion: 1.6.0

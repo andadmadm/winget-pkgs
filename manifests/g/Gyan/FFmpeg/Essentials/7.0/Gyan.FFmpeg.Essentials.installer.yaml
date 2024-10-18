@@ -15,7 +15,7 @@ NestedInstallerFiles:
   PortableCommandAlias: ffprobe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GyanD/codexffmpeg/releases/download/7.0/ffmpeg-7.0-essentials_build.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GyanD/codexffmpeg/releases/download/7.0/ffmpeg-7.0-essentials_build.zip
   InstallerSha256: 3333A744E1585375AEF46F2055EA483D002DE52BF8BF445638B80E1D86A2521E
 ManifestType: installer
 ManifestVersion: 1.6.0

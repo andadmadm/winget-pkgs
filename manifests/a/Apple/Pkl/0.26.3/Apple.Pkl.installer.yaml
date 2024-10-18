@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2024-08-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/apple/pkl/releases/download/0.26.3/pkl-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/apple/pkl/releases/download/0.26.3/pkl-windows-amd64.exe
   InstallerSha256: 75E02893A1E00CE6430EB125C624EC2EA146E6465B2D9512766E23846A3CAF3E
 ManifestType: installer
 ManifestVersion: 1.6.0

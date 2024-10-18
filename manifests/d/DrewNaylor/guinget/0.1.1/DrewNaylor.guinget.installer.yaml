@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT /ALLUSERS
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/DrewNaylor/guinget/releases/download/v0.1.1-alpha/guinget_v0.1.1-alpha-quieter.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/guinget/releases/download/v0.1.1-alpha/guinget_v0.1.1-alpha-quieter.exe
   InstallerSha256: EE7EE57E21BC999F68CFF63DF1DCCA6B9C6A22E2443AAC7406E9028298EA45A4
 ManifestType: installer
 ManifestVersion: 1.1.0

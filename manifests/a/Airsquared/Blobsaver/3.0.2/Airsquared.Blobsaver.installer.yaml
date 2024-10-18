@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/airsquared/blobsaver/releases/download/v3.0.2/blobsaver-3.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/airsquared/blobsaver/releases/download/v3.0.2/blobsaver-3.0.2.exe
   InstallerSha256: 306344DAADA0777D830055D658A198B368AF85A764B042AE4B7FE9E630A71F30
   UpgradeBehavior: install
 ManifestType: installer

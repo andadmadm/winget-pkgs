@@ -18,7 +18,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%/Hoppscotch'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hoppscotch/releases/releases/download/v24.9.3-0/Hoppscotch_win_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/hoppscotch/releases/releases/download/v24.9.3-0/Hoppscotch_win_x64.msi
   InstallerSha256: B8224DBB7BD820E61165B8BA11232AD4CB43D7C5BD5746DFAF2438191218BE4E
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -33,7 +33,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{D7B0308E-4618-96E6-C2ED-D19F85D8E469}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jre_x64_windows_hotspot_22.0.1_8.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jre_x64_windows_hotspot_22.0.1_8.msi
   InstallerSha256: 6D918AA3C1CBAD4C70AFE9563F057DCF39B3C2DFF2AE01E44E1E89F237399D96
   ProductCode: '{B5869F5F-73DA-4A0A-A284-3A1572F11C20}'
 ManifestType: installer

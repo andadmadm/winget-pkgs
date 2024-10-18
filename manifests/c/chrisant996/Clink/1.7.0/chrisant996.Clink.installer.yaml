@@ -12,10 +12,10 @@ UpgradeBehavior: install
 ProductCode: clink_chrisant996
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.7.0/clink.1.7.0.dddef9_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.7.0/clink.1.7.0.dddef9_setup.exe
   InstallerSha256: 553FF19F88E1E8ECBF8BA10625128266F7F0942CBC8099637684FB23E6B934BA
 - Architecture: x64
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.7.0/clink.1.7.0.dddef9_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.7.0/clink.1.7.0.dddef9_setup.exe
   InstallerSha256: 553FF19F88E1E8ECBF8BA10625128266F7F0942CBC8099637684FB23E6B934BA
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/schild-report/schild.report/releases/download/v2.6.122/schild.report.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/schild-report/schild.report/releases/download/v2.6.122/schild.report.msi
   InstallerSha256: 182CF7F347DEC67D055C4181A9828EA77B18F4EECE80326B33704C4105DC06F7
   ProductCode: '{8FF32AB3-F7BB-412B-A245-AAFCA8A82FCE}'
 ManifestType: installer

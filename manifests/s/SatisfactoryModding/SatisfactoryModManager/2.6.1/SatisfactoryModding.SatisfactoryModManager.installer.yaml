@@ -16,13 +16,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.6.1/Satisfactory-Mod-Manager-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.6.1/Satisfactory-Mod-Manager-Setup.exe
   InstallerSha256: D40FDA2D6B855AC7A024222ADB497C19A27598A84F15A3A92C8A1D00F94424D2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.6.1/Satisfactory-Mod-Manager-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.6.1/Satisfactory-Mod-Manager-Setup.exe
   InstallerSha256: D40FDA2D6B855AC7A024222ADB497C19A27598A84F15A3A92C8A1D00F94424D2
   InstallerSwitches:
     Custom: /ALLUSERS

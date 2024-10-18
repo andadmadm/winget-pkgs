@@ -7,7 +7,7 @@ Installers:
 - Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0.1.0/Hyper-V-Switch-1.0.1.0-x86-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0.1.0/Hyper-V-Switch-1.0.1.0-x86-Setup.exe
   InstallerSha256: FBE594A49A5F7DB2D877BB83C9852E5465AE9DE6BACE5F925182F996BF0CE9BA
   InstallModes:
   - interactive
@@ -17,7 +17,7 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0.1.0/Hyper-V-Switch-1.0.1.0-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RaynerSec/Hyper-V-Switch/releases/download/v1.0.1.0/Hyper-V-Switch-1.0.1.0-x64-Setup.exe
   InstallerSha256: DB2404AA6E7175AC90FCABE378608F7B26A2EAA7BEC4D47D010F9585F55EA331
   InstallModes:
   - interactive

@@ -12,15 +12,15 @@ InstallModes:
 PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.10.2383.0/Microsoft.WindowsTerminal_1.10.2383.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.10.2383.0/Microsoft.WindowsTerminal_1.10.2383.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: C977822B5CF7E1F2741CCA5D26B7FD41773456893836BD216123090FE76F98DE
   SignatureSha256: 5787F3F140945F714DA429F14A478A5673A10F6F891744FD13D0DDA95C210E54
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.10.2383.0/Microsoft.WindowsTerminal_1.10.2383.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.10.2383.0/Microsoft.WindowsTerminal_1.10.2383.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: C977822B5CF7E1F2741CCA5D26B7FD41773456893836BD216123090FE76F98DE
   SignatureSha256: 5787F3F140945F714DA429F14A478A5673A10F6F891744FD13D0DDA95C210E54
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.10.2383.0/Microsoft.WindowsTerminal_1.10.2383.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.10.2383.0/Microsoft.WindowsTerminal_1.10.2383.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: C977822B5CF7E1F2741CCA5D26B7FD41773456893836BD216123090FE76F98DE
   SignatureSha256: 5787F3F140945F714DA429F14A478A5673A10F6F891744FD13D0DDA95C210E54
 ManifestType: installer

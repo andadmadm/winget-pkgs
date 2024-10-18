@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ZA-2.0.0.2-windows\ZA-2.0.0.2.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/zookeeper-assistant-release/releases/download/v2.0.0.2/ZA-2.0.0.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/zookeeper-assistant-release/releases/download/v2.0.0.2/ZA-2.0.0.2-windows.zip
   InstallerSha256: BC0D804506D1F90BAF06479A270E5A21ED472F82B2CC8D30DEA055259FD14CA6
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ZA-2.0.0.2-windows\ZA-2.0.0.2.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/zookeeper-assistant-release/releases/download/v2.0.0.2/ZA-2.0.0.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/zookeeper-assistant-release/releases/download/v2.0.0.2/ZA-2.0.0.2-windows.zip
   InstallerSha256: BC0D804506D1F90BAF06479A270E5A21ED472F82B2CC8D30DEA055259FD14CA6
   InstallerSwitches:
     Custom: /ALLUSERS

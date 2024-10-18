@@ -12,11 +12,11 @@ Protocols:
 ReleaseDate: 2024-06-11
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/workflowy/desktop/releases/download/v4.0.2406110826/WorkFlowy-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/workflowy/desktop/releases/download/v4.0.2406110826/WorkFlowy-Installer.exe
   InstallerSha256: BE3A5C70334D9BA0E6047FAE5DEC840C5AD88C4DADB53C08853C39FC5D17C8CB
   ProductCode: 338bed7b-1324-505d-8cb6-5c266cbaa6b3
 - Architecture: x64
-  InstallerUrl: https://github.com/workflowy/desktop/releases/download/v4.0.2406110826/WorkFlowy-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/workflowy/desktop/releases/download/v4.0.2406110826/WorkFlowy-Installer.exe
   InstallerSha256: BE3A5C70334D9BA0E6047FAE5DEC840C5AD88C4DADB53C08853C39FC5D17C8CB
   ProductCode: 338bed7b-1324-505d-8cb6-5c266cbaa6b3
 ManifestType: installer

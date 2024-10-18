@@ -14,13 +14,13 @@ ReleaseDate: 2023-12-01
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v23.11.29/shotcut-win64-231129.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v23.11.29/shotcut-win64-231129.exe
   InstallerSha256: 916F530C563FFBB817E394C25F7A2D44130473B1F6834DB5C1858E312B318456
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v23.11.29/shotcut-win64-231129.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v23.11.29/shotcut-win64-231129.exe
   InstallerSha256: 916F530C563FFBB817E394C25F7A2D44130473B1F6834DB5C1858E312B318456
   InstallerSwitches:
     Custom: /ALLUSERS

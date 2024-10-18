@@ -13,14 +13,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: upx-4.2.2-win32\upx.exe
     PortableCommandAlias: upx
-  InstallerUrl: https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-win32.zip
   InstallerSha256: 141E7CD8D009B827590662B482F1AE2F1DDA17CF446A5651078235EFB1429C59
 - Architecture: x64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: upx-4.2.2-win64\upx.exe
     PortableCommandAlias: upx
-  InstallerUrl: https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-win64.zip
   InstallerSha256: 7C69B92FF2B7FB8122609312EB0A6695C9E4B88A6C784A86C92E3B7EF583281F
 ManifestType: installer
 ManifestVersion: 1.5.0

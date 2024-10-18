@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/git-lfs/git-lfs/releases/download/v2.5.0/git-lfs-windows-v2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-lfs/git-lfs/releases/download/v2.5.0/git-lfs-windows-v2.5.0.exe
   InstallerSha256: F4974208ADE2097F9CE2C2D30AB18924D135FBB8275635A5AABAB9C03BB8F493
   ProductCode: '{286391DE-F778-44EA-9375-1B21AAA04FF0}'
 ManifestType: installer

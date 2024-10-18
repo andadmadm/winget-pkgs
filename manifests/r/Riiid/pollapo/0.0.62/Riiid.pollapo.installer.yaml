@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{586D265E-F9D2-4CF5-AA7D-E73931A8488A}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pbkit/pbkit/releases/download/v0.0.62/pollapo-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pbkit/pbkit/releases/download/v0.0.62/pollapo-windows-installer.msi
   InstallerSha256: 8FCEF18E031D56A4FA10C14E1E2A1FC58A6818333336BC83CA815E966DDAAB2A
 ManifestType: installer
 ManifestVersion: 1.5.0

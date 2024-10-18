@@ -13,14 +13,14 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.4/OpenLens-6.2.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.4/OpenLens-6.2.4.exe
   InstallerSha256: AF993A4B99F8FD1C1941D6EF3ACD5B52B4F82ADDD5D556BD12340D6EADB56BE5
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.4/OpenLens-6.2.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.4/OpenLens-6.2.4.exe
   InstallerSha256: AF993A4B99F8FD1C1941D6EF3ACD5B52B4F82ADDD5D556BD12340D6EADB56BE5
   InstallerSwitches:
     Custom: /ALLUSERS

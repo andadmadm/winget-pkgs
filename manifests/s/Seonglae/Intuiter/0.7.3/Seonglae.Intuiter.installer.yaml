@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/seonglae/intuiter/releases/download/0.7.3/Intuiter.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/seonglae/intuiter/releases/download/0.7.3/Intuiter.exe
   InstallerSha256: C8FAAAEFA51827FCF007A0F8E03D1FE7439DEB9C477E06CAB3E8F07F9794DABB
 ManifestType: installer
 ManifestVersion: 1.1.0

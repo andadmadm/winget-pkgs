@@ -22,7 +22,7 @@ FileExtensions:
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/Dichromate-Browser/Dichromate/releases/download/103.0.5060.134/dichromate-103.0.5060.134.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Dichromate-Browser/Dichromate/releases/download/103.0.5060.134/dichromate-103.0.5060.134.exe
   InstallerSha256: 10DCD94F0B6475026A54DA35EE04B657CD00B196AF35ECB6D4645E107C893572
 ManifestType: installer
 ManifestVersion: 1.1.0

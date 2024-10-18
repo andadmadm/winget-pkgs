@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/MCreator/MCreator/releases/download/2021.2.36710/MCreator.2021.2.Windows.64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MCreator/MCreator/releases/download/2021.2.36710/MCreator.2021.2.Windows.64bit.exe
   InstallerSha256: 75437CCED9D14C9D5DE2A0F07FB43103C45D301A65DEFCD1F51F02C49051989F
   UpgradeBehavior: install
 ManifestType: installer

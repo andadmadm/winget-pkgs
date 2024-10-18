@@ -14,10 +14,10 @@ ProductCode: clink_1.4.15.439299
 ReleaseDate: 2023-02-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.4.15/clink.1.4.15.439299_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.4.15/clink.1.4.15.439299_setup.exe
   InstallerSha256: 75F7EC15D9FBFD663F701450664809CAC0FAF22E5E7136E489BFD4581BB86DA3
 - Architecture: x86
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.4.15/clink.1.4.15.439299_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.4.15/clink.1.4.15.439299_setup.exe
   InstallerSha256: 75F7EC15D9FBFD663F701450664809CAC0FAF22E5E7136E489BFD4581BB86DA3
 ManifestType: installer
 ManifestVersion: 1.2.0

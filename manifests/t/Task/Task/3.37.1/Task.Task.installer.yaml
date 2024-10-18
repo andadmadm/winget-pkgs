@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: task.exe
         PortableCommandAlias: task
-    InstallerUrl: https://github.com/go-task/task/releases/download/v3.37.1/task_windows_386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/go-task/task/releases/download/v3.37.1/task_windows_386.zip
     InstallerSha256: 138147037587b9691897bf27dcf6bf8f80a50c58bd5b5902deaf95532993d4c2
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: task.exe
         PortableCommandAlias: task
-    InstallerUrl: https://github.com/go-task/task/releases/download/v3.37.1/task_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/go-task/task/releases/download/v3.37.1/task_windows_arm64.zip
     InstallerSha256: 31ed45534db483e1efd42ee0dbd6dd1b7e01701509fd02658d9ac6b8850b84c5
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: task.exe
         PortableCommandAlias: task
-    InstallerUrl: https://github.com/go-task/task/releases/download/v3.37.1/task_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/go-task/task/releases/download/v3.37.1/task_windows_amd64.zip
     InstallerSha256: f52e5981dfdad902ea822e778d29acf55eb85c11ad4f2ef86f9a6db65ce870f6
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

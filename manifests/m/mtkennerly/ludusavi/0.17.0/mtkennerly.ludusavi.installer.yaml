@@ -10,7 +10,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ludusavi.exe
     PortableCommandAlias: ludusavi
-  InstallerUrl: https://github.com/mtkennerly/ludusavi/releases/download/v0.17.0/ludusavi-v0.17.0-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/mtkennerly/ludusavi/releases/download/v0.17.0/ludusavi-v0.17.0-win64.zip
   InstallerSha256: 80F24052475C34592D076938D17B259E8564F2D1AF2594A0896AAAE2636C110B
 - Architecture: x86
   InstallerType: zip
@@ -18,7 +18,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ludusavi.exe
     PortableCommandAlias: ludusavi
-  InstallerUrl: https://github.com/mtkennerly/ludusavi/releases/download/v0.17.0/ludusavi-v0.17.0-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/mtkennerly/ludusavi/releases/download/v0.17.0/ludusavi-v0.17.0-win32.zip
   InstallerSha256: 02CCC763FB09B3990C5C4C973A16108D80B17D6F52132FBD4FD4DD91A2677CDF
 ManifestType: installer
 ManifestVersion: 1.4.0

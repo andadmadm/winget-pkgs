@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: gdu_windows_amd64.exe
     PortableCommandAlias: gdu
-  InstallerUrl: https://github.com/dundee/gdu/releases/download/v5.21.1/gdu_windows_amd64.exe.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dundee/gdu/releases/download/v5.21.1/gdu_windows_amd64.exe.zip
   InstallerSha256: 638D91904F4926CA50CA1BD21BFF9A4FAC618E902EAF61E2B8EB8AD65F5A7BF9
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/EQAditu/AdvancedCombatTracker/releases/download/3.6.0.274/ACTv3-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/EQAditu/AdvancedCombatTracker/releases/download/3.6.0.274/ACTv3-Setup.exe
   InstallerSha256: D36628685B2269768911D5EE630E79D576E260F8F6E7344296787BDBDCDC247C
   ProductCode: Advanced Combat Tracker
 ManifestType: installer

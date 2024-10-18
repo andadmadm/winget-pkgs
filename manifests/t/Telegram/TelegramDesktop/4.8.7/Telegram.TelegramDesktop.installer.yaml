@@ -17,16 +17,16 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tsetup-x64.4.8.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tsetup-x64.4.8.7.exe
   InstallerSha256: EAEACEC8E23C4F34A24837B16272B6EF7DDE040369F85F9FC3E1D42D96A6232F
 - Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tsetup.4.8.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tsetup.4.8.7.exe
   InstallerSha256: 2B1A8187026F2F9C519D4BF15BA8C1420E0D0AB7C98E1324D32E0F5A475666D2
 - Architecture: x64
   InstallerType: zip
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tportable-x64.4.8.7.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tportable-x64.4.8.7.zip
   InstallerSha256: B6B7D07A134075E6B8EFD89B4C4D828C4FBEB60EC199145EB078F75C98062B19
   NestedInstallerType: portable
   NestedInstallerFiles:
@@ -34,7 +34,7 @@ Installers:
     PortableCommandAlias: telegram
 - Architecture: x86
   InstallerType: zip
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tportable.4.8.7.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v4.8.7/tportable.4.8.7.zip
   InstallerSha256: 20ACD6C79F253A4C455CDC2EF25671CA7F4D7EC99793FFBA265B6C2A5AF87308
   NestedInstallerType: portable
   NestedInstallerFiles:

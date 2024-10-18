@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v21.01.29/shotcut-win64-210129.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v21.01.29/shotcut-win64-210129.exe
   InstallerSha256: AC57FD9CEC3680ED787989C77EBA79F4BD0297F1BE4CE2C80037D2EEC4D33165
 ManifestType: installer
 ManifestVersion: 1.1.0

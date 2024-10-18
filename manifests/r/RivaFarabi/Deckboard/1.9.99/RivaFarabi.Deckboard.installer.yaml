@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/rivafarabi/deckboard/releases/download/v1.9.99/Deckboard-Setup-1.9.99.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rivafarabi/deckboard/releases/download/v1.9.99/Deckboard-Setup-1.9.99.exe
   InstallerSha256: EC1D8FFA8451A0AE6547F701443B21029EA7E3F79799946C63FF1A56D41BB271
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/rivafarabi/deckboard/releases/download/v1.9.99/Deckboard-Setup-1.9.99.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rivafarabi/deckboard/releases/download/v1.9.99/Deckboard-Setup-1.9.99.exe
   InstallerSha256: EC1D8FFA8451A0AE6547F701443B21029EA7E3F79799946C63FF1A56D41BB271
   InstallerSwitches:
     Custom: /ALLUSERS

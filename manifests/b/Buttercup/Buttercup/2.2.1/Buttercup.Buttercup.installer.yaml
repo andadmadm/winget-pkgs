@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-04-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/buttercup/buttercup-desktop/releases/download/v2.2.1/Buttercup-win-x64-2.2.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buttercup/buttercup-desktop/releases/download/v2.2.1/Buttercup-win-x64-2.2.1-installer.exe
   InstallerSha256: D9DFD90B56D6F2BF1CD116D348E0AC8B0E24A6EB627A0005623DC59CAF841D97
 ManifestType: installer
 ManifestVersion: 1.2.0

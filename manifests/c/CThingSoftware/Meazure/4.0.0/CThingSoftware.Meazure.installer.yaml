@@ -6,7 +6,7 @@ PackageIdentifier: CThingSoftware.Meazure
 PackageVersion: 4.0.0
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/cthing/meazure/releases/download/4.0.0/meazr400x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cthing/meazure/releases/download/4.0.0/meazr400x64.exe
   InstallerSha256: 4478cca366237ce65e0f2805a74e9f2919f87e87b0a58ed999dee0367cfc8acf
 ManifestType: installer
 ManifestVersion: 1.5.0

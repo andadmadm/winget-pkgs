@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/openaudible/openaudible/releases/download/v4.4.7/OpenAudible_4.4.7_x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/openaudible/openaudible/releases/download/v4.4.7/OpenAudible_4.4.7_x86_64.exe
   InstallerSha256: 413A26B625820401B29276728591A5ADDDFB8FD6B4D96B957253B0C9B4EC2C64
   ProductCode: 7008-5171-7013-3819
 ManifestType: installer

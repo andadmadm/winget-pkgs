@@ -11,7 +11,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v0.75.20/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v0.75.20/dolt-windows-amd64.msi
   InstallerSha256: 563679F27D64D667CB3676F4D6C15119698A54E30981868B4A4CB9A214156412
   ProductCode: '{C70D3132-BB37-4947-8A41-2885C3112418}'
 ManifestType: installer

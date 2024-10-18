@@ -18,7 +18,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v1.26.3/datadog-dotnet-apm-1.26.3-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v1.26.3/datadog-dotnet-apm-1.26.3-x64.msi
   InstallerSha256: 3E61534FA3084B0061686FC03060F2B41CE9AB7B3C7A70703AC6F838ECF814B2
   ProductCode: '{E6BF28A9-0CBB-42FF-B793-C87A4D602868}'
   Commands: 

@@ -6,14 +6,14 @@ PackageVersion: 1.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/namigop/FintX/releases/download/rel-v1.0/FintXSetup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/namigop/FintX/releases/download/rel-v1.0/FintXSetup-win-x64.exe
   InstallerSha256: 20CCE0F3289975C67FB4F86F6F2EE754A135949E20CC63632BC4D21834B12A57
   Scope: user
   InstallerSwitches:
     Silent:  /SILENT /CURRENTUSER
     SilentWithProgress:  /SILENT /CURRENTUSER
 - Architecture: x64
-  InstallerUrl: https://github.com/namigop/FintX/releases/download/rel-v1.0/FintXSetup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/namigop/FintX/releases/download/rel-v1.0/FintXSetup-win-x64.exe
   InstallerSha256: 20CCE0F3289975C67FB4F86F6F2EE754A135949E20CC63632BC4D21834B12A57
   Scope: machine
   InstallerSwitches:

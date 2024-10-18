@@ -14,13 +14,13 @@ ReleaseDate: 2021-04-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0-beta.5/PicGo-Setup-2.3.0-beta.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0-beta.5/PicGo-Setup-2.3.0-beta.5.exe
   InstallerSha256: 045CA23CD613A963674D8B583CF8D44E23B67570DB8DA007332F4DDDF607F02C
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0-beta.5/PicGo-Setup-2.3.0-beta.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0-beta.5/PicGo-Setup-2.3.0-beta.5.exe
   InstallerSha256: 045CA23CD613A963674D8B583CF8D44E23B67570DB8DA007332F4DDDF607F02C
   InstallerSwitches:
     Custom: /ALLUSERS

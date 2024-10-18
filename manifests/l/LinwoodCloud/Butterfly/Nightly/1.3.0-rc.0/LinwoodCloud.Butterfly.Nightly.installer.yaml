@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-05-13
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/LinwoodCloud/Butterfly/releases/download/v1.3.0-rc.0/Butterfly-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodCloud/Butterfly/releases/download/v1.3.0-rc.0/Butterfly-Setup.exe
   InstallerSha256: D1C247033BF750858FEC83786E615B501A7BC044CEFFF7AD10FE97C6BF145A68
 ManifestType: installer
 ManifestVersion: 1.1.0

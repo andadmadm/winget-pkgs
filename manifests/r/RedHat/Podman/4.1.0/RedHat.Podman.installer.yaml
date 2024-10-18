@@ -14,7 +14,7 @@ Commands:
 ReleaseDate: 2022-05-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/containers/podman/releases/download/v4.1.0/podman-v4.1.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v4.1.0/podman-v4.1.0.msi
   InstallerSha256: 002343127686D340C4ED553EECFACBF7F4AA77A10D35634DC26C83124B061111
   ProductCode: '{F0C12B5B-290B-4C15-A0D9-D5A0C6F38120}'
 ManifestType: installer

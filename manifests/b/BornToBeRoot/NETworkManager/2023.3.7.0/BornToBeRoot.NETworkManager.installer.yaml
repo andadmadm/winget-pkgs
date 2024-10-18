@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.3.7.0/NETworkManager_2023.3.7.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.3.7.0/NETworkManager_2023.3.7.0_Setup.exe
   InstallerSha256: 26CCD741CB9F2B52056C91C94DF281C563886AC0E4799A3D167A0566448574F6
 ManifestType: installer
 ManifestVersion: 1.2.0

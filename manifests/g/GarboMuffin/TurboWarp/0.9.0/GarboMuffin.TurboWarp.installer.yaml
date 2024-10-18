@@ -16,7 +16,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/TurboWarp/desktop/releases/download/v0.9.0/TurboWarp-Setup-0.9.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TurboWarp/desktop/releases/download/v0.9.0/TurboWarp-Setup-0.9.0-x64.exe
   InstallerSha256: E975A156ED6AD20CFE46553F9BF9DEB30A40B6BE98638749E47CB7C3DA9418EF
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -25,7 +25,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/TurboWarp/desktop/releases/download/v0.9.0/TurboWarp-Setup-0.9.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TurboWarp/desktop/releases/download/v0.9.0/TurboWarp-Setup-0.9.0-x64.exe
   InstallerSha256: E975A156ED6AD20CFE46553F9BF9DEB30A40B6BE98638749E47CB7C3DA9418EF
   InstallerSwitches:
     Custom: /ALLUSERS

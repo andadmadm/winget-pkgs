@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-x64.exe
   InstallerSha256: 4284C07CE3ED98FBBB0E2A8313D8703C9BACB718CA5CEEFA1C3E6E8ABB5BC799
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-x64.exe
   InstallerSha256: 4284C07CE3ED98FBBB0E2A8313D8703C9BACB718CA5CEEFA1C3E6E8ABB5BC799
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -30,7 +30,7 @@ Installers:
   Architecture: arm64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-arm64.exe
   InstallerSha256: F1B6210CB317446B93F9C6CC683258455AF7F65BDEEEDCB004A67A453DB3A421
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -39,7 +39,7 @@ Installers:
   Architecture: arm64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v1.8.9/Zettlr-1.8.9-arm64.exe
   InstallerSha256: F1B6210CB317446B93F9C6CC683258455AF7F65BDEEEDCB004A67A453DB3A421
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-07-29
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/jamulussoftware/jamulus/releases/download/r3_9_0/jamulus_3.9.0_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jamulussoftware/jamulus/releases/download/r3_9_0/jamulus_3.9.0_win.exe
   InstallerSha256: B3EBED351B3E877CEB814B7F437BABFAB33AF256BCC67CC51F31FB75504DB952
   ProductCode: Jamulus
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2024-09-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WalletWasabi/WalletWasabi/releases/download/v2.2.1.0/Wasabi-2.2.1.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WalletWasabi/WalletWasabi/releases/download/v2.2.1.0/Wasabi-2.2.1.0.msi
   InstallerSha256: 2AB150A1052215B7F231C8070542436FFDC1D24DE808F216B0446E87264CD3F4
   ProductCode: '{44D286A1-1389-4047-9AE5-28A0A33AF713}'
 ManifestType: installer

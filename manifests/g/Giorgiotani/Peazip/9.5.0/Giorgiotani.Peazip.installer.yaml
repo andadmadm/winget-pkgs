@@ -28,10 +28,10 @@ FileExtensions:
 ReleaseDate: 2023-10-22
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/peazip/PeaZip/releases/download/9.5.0/peazip-9.5.0.WINDOWS.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/peazip/PeaZip/releases/download/9.5.0/peazip-9.5.0.WINDOWS.exe
   InstallerSha256: 8CD22E62ED9820C4F070FD373AB9ACFA1F3C665E897B1B3DEE2650775433E4E1
 - Architecture: x64
-  InstallerUrl: https://github.com/peazip/PeaZip/releases/download/9.5.0/peazip-9.5.0.WIN64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/peazip/PeaZip/releases/download/9.5.0/peazip-9.5.0.WIN64.exe
   InstallerSha256: F64A758691278E509543C24DE02FBABF35ABF1F7EE2404856464C733D3EC43AF
 ManifestType: installer
 ManifestVersion: 1.5.0

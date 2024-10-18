@@ -14,7 +14,7 @@ ReleaseDate: 2022-03-03
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.6-win.exe
   InstallerSha256: AFFF371E5B9359D50B02F0139C088C245F13D5496121F41722AC183CE07B3C74
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.6-win.exe
   InstallerSha256: AFFF371E5B9359D50B02F0139C088C245F13D5496121F41722AC183CE07B3C74
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.6-win32.exe
   InstallerSha256: CE0546867ABAAB540A7B86AF5FFA1F84EB46D2701C709A8A23619887DA2FE6B7
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.6/siyuan-1.8.6-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.6-win32.exe
   InstallerSha256: CE0546867ABAAB540A7B86AF5FFA1F84EB46D2701C709A8A23619887DA2FE6B7
   InstallerSwitches:

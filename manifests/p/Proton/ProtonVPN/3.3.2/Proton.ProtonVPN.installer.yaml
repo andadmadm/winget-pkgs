@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ProtonVPN/win-app/releases/download/3.3.2/ProtonVPN_v3.3.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ProtonVPN/win-app/releases/download/3.3.2/ProtonVPN_v3.3.2.exe
   InstallerSha256: 7A2E8AB8C661787D2DF276EB4940B18334B5103927ACEE009CA2331754B75754
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ipswd.exe
         PortableCommandAlias: ipswd
-    InstallerUrl: https://github.com/blacktop/ipsw/releases/download/v3.1.452/ipswd_3.1.452_windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/blacktop/ipsw/releases/download/v3.1.452/ipswd_3.1.452_windows_x86_64.zip
     InstallerSha256: 78dfe7697506fb834352038420d91148c6bff8adf4592f235892f35cb949c5cd
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ipswd.exe
         PortableCommandAlias: ipswd
-    InstallerUrl: https://github.com/blacktop/ipsw/releases/download/v3.1.452/ipswd_3.1.452_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/blacktop/ipsw/releases/download/v3.1.452/ipswd_3.1.452_windows_arm64.zip
     InstallerSha256: 10d2ffbdc4e8ae831aa802cc1e6fee122dbfc0966af48d3f9d51eea84e9afea7
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

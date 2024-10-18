@@ -15,7 +15,7 @@ Protocols:
 - https
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rockdaboot/wget2/files/8785944/wget2.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/rockdaboot/wget2/files/8785944/wget2.zip
   InstallerSha256: 65A6A5C33F7F9A647D33AC10A5521BF5FB8930330DAA140ACB0FD129DF84CDB2
 ManifestType: installer
 ManifestVersion: 1.4.0

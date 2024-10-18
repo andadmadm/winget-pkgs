@@ -6,7 +6,7 @@ PackageIdentifier: DavidMoore.IPFilterUpdater
 PackageVersion: 3.0.5-beta
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/DavidMoore/ipfilter/releases/download/3.0.5-beta/IPFilter.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DavidMoore/ipfilter/releases/download/3.0.5-beta/IPFilter.exe
   InstallerSha256: accdc46a28961faa504c52072883db13aec6b3558c86fbb07e60ceffbd2cce47
 ManifestType: installer
 ManifestVersion: 1.5.0

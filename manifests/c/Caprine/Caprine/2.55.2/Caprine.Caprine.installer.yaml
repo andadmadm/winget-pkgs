@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sindresorhus/caprine/releases/download/v2.55.2/Caprine-Setup-2.55.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sindresorhus/caprine/releases/download/v2.55.2/Caprine-Setup-2.55.2.exe
   InstallerSha256: 7046B88AD1C31CAE8A0BC0C8C0868ACC31956010C69D6F04EF79097ACA0A5453
 ManifestType: installer
 ManifestVersion: 1.1.0

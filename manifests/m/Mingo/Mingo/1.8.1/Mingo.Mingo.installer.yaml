@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mingo-app/mingo/releases/download/v1.8.1/Mingo.Setup.1.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mingo-app/mingo/releases/download/v1.8.1/Mingo.Setup.1.8.1.exe
   InstallerSha256: ADB4DBDF82785801809D937CC8BE3F98E6635EC8497386AF4583C630A3E6450F
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -5,7 +5,7 @@ PackageIdentifier: Cryptomator.Cryptomator
 PackageVersion: 1.11.1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cryptomator/cryptomator/releases/download/1.11.1/Cryptomator-1.11.1-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cryptomator/cryptomator/releases/download/1.11.1/Cryptomator-1.11.1-x64.msi
   InstallerSha256: ab8ca3f3666fddb37f8918480733b6d01d9ab425ce6d4f22cb2c590603ecd669
   UpgradeCode: "{BDA45523-42B1-4CAE-9354-A45475ED4775}"
 ManifestType: installer

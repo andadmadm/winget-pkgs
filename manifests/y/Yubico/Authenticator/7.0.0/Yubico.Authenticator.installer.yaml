@@ -23,7 +23,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{FCBAFC57-AAAA-47B8-B861-20BDA48CD4F6}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Yubico/yubioath-flutter/releases/download/7.0.0/yubico-authenticator-7.0.0-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Yubico/yubioath-flutter/releases/download/7.0.0/yubico-authenticator-7.0.0-win64.msi
   InstallerSha256: 0BEC92EE11E2EC1A13C4036A46A3E7E0EC7DCBED426D8EE15F2831EA8EEE31FA
 ManifestType: installer
 ManifestVersion: 1.5.0

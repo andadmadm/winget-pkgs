@@ -14,14 +14,14 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/supercollider/supercollider/releases/download/Version-3.12.0/SuperCollider-3.12.0_Release-x64-VS-028ff1b.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supercollider/supercollider/releases/download/Version-3.12.0/SuperCollider-3.12.0_Release-x64-VS-028ff1b.exe
   InstallerSha256: C39A0907949F6AD75AD52F8CA453E9C3EB802144AF7B605D86E6EFF175C951BA
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/supercollider/supercollider/releases/download/Version-3.12.0/SuperCollider-3.12.0_Release-x86-VS-028ff1b.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supercollider/supercollider/releases/download/Version-3.12.0/SuperCollider-3.12.0_Release-x86-VS-028ff1b.exe
   InstallerSha256: F1BCFF79EEE492E8227E2A18CAD2FE35F9CFD735C4D99CD44591ED4E0BCEA584
   UpgradeBehavior: install
 ManifestType: installer

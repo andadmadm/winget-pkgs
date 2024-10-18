@@ -14,7 +14,7 @@ FileExtensions:
 - ts
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lukehaas/RunJS/releases/download/v2.11.0/RunJS-Setup-2.11.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lukehaas/RunJS/releases/download/v2.11.0/RunJS-Setup-2.11.0.exe
   InstallerSha256: E40E34463E075BACF20DBC33B900DA6B55FDCEA0EBB028EEBC859C3733C90CB9
 ManifestType: installer
 ManifestVersion: 1.6.0

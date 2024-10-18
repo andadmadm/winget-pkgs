@@ -16,10 +16,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nevcairiel/LAVFilters/releases/download/0.76.1/LAVFilters-0.76.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nevcairiel/LAVFilters/releases/download/0.76.1/LAVFilters-0.76.1-Installer.exe
   InstallerSha256: FB339B539F4821FB22F5B69A69A46D02E6A6A7C13F2412E8CEB749711973DAE4
 - Architecture: x86
-  InstallerUrl: https://github.com/Nevcairiel/LAVFilters/releases/download/0.76.1/LAVFilters-0.76.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nevcairiel/LAVFilters/releases/download/0.76.1/LAVFilters-0.76.1-Installer.exe
   InstallerSha256: FB339B539F4821FB22F5B69A69A46D02E6A6A7C13F2412E8CEB749711973DAE4
 ManifestType: installer
 ManifestVersion: 1.2.0

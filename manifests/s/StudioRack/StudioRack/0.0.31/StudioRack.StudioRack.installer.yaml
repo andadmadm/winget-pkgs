@@ -6,7 +6,7 @@ PackageVersion: 0.0.31
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/studiorack/studiorack-app/releases/download/v0.0.31/studiorack-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/studiorack/studiorack-app/releases/download/v0.0.31/studiorack-win.exe
   InstallerSha256: BAC2A609F27AB302A1AF54D58DD1A31C1BF1972E8D7E9664B9E619CC79223B1D
 ManifestType: installer
 ManifestVersion: 1.1.0

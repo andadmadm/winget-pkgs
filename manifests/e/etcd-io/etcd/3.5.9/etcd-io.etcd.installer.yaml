@@ -4,7 +4,7 @@
 PackageIdentifier: etcd-io.etcd
 PackageVersion: 3.5.9
 Installers:
-- InstallerUrl: https://github.com/etcd-io/etcd/releases/download/v3.5.9/etcd-v3.5.9-windows-amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/etcd-io/etcd/releases/download/v3.5.9/etcd-v3.5.9-windows-amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

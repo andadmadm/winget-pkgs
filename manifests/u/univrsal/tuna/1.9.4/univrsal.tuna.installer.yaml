@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/univrsal/tuna/releases/download/v1.9.4/tuna-1.9.4-windows-x64-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/univrsal/tuna/releases/download/v1.9.4/tuna-1.9.4-windows-x64-Installer.exe
   InstallerSha256: 55C99CC8BBE29E62F537A583F5AA905F4F7BF3A3437FAFF096F517DCC03424FC
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v8.1/Beeftext-8.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v8.1/Beeftext-8.1-Installer.exe
   InstallerSha256: B2668C7E263D31BBEF3DB9AAAA74369E8362B248A41668B138AC2E4F19501D29
 ManifestType: installer
 ManifestVersion: 1.4.0

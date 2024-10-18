@@ -13,7 +13,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.32.0/datadog-dotnet-apm-2.32.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.32.0/datadog-dotnet-apm-2.32.0-x64.msi
   InstallerSha256: F5DD6B1AF5AA933DB90F776811206A6802ACC2836A28F3C4136CEEFBD7E95FFD
   ProductCode: '{2807866D-C1F8-4EEA-AC77-85431704EF24}'
   AppsAndFeaturesEntries:
@@ -21,7 +21,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.32.0/datadog-dotnet-apm-2.32.0-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.32.0/datadog-dotnet-apm-2.32.0-x86.msi
   InstallerSha256: 13CE0A0CDB15FBE1DB9DB9223688D7C0CD54AF35264705CB12CE5E92EEB97789
   ProductCode: '{22267AFB-77D7-4907-AA7E-A667A89F0A2E}'
   AppsAndFeaturesEntries:

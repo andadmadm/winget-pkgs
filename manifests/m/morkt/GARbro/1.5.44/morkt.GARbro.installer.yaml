@@ -19,7 +19,7 @@ Dependencies:
     PackageIdentifier: Microsoft.DotNet.Runtime.8
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/morkt/GARbro/releases/download/v1.5.44/GARbro-v1.5.44-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/morkt/GARbro/releases/download/v1.5.44/GARbro-v1.5.44-setup.exe
   InstallerSha256: 2206241E97C438EEF120127E8071A3A1E6F90BA24404730E619060402D3B9A53
 ManifestType: installer
 ManifestVersion: 1.6.0

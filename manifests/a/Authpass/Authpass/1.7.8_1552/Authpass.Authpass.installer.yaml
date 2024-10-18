@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/authpass/authpass/releases/download/v1.7.8/AuthPass-setup-1.7.8_1552.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/authpass/authpass/releases/download/v1.7.8/AuthPass-setup-1.7.8_1552.exe
   InstallerSha256: 815D85A04340FF9BA964085FE51520048117DA82C5F5EC786FD35188EEBA36BC
   UpgradeBehavior: install
 ManifestType: installer

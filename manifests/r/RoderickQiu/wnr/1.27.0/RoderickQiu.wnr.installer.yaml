@@ -14,25 +14,25 @@ ReleaseDate: 2022-10-09
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-ia32.exe
   InstallerSha256: B1CD6BEC152B7D763615B9BD349038B1B4A01B559F2A370C64EEA2D08E75BACB
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-ia32.exe
   InstallerSha256: B1CD6BEC152B7D763615B9BD349038B1B4A01B559F2A370C64EEA2D08E75BACB
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-x64.exe
   InstallerSha256: 0892139DF10C415739CA5BF26575163DD9275A24BBCEF8348C2E3C6058AF66CB
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.27.0/wnr-1.27.0-Setup-x64.exe
   InstallerSha256: 0892139DF10C415739CA5BF26575163DD9275A24BBCEF8348C2E3C6058AF66CB
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -8,7 +8,7 @@ NestedInstallerType: portable
 NestedInstallerFiles:
 - RelativeFilePath: StructuredStorageXplorer\StucturedStorageExplorer.exe
 Installers:
-- InstallerUrl: https://github.com/ironfede/openmcdf/releases/download/v2.3.1.0/StructuredStorageXplorer.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/ironfede/openmcdf/releases/download/v2.3.1.0/StructuredStorageXplorer.zip
   Architecture: neutral
   InstallerSha256: 0214D46FACCD8C066656B2566B4EC2342A4A130065741722185FEDA49E004EFB
 ManifestType: installer

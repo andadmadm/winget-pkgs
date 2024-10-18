@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/spicelang/spice/releases/download/0.8.1/spice_x64_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/spicelang/spice/releases/download/0.8.1/spice_x64_setup.msi
   InstallerSha256: B0B65691B418786AAF9B4C407780E96DB4BDB7AEFFB97E435EC2300555BCC03C
   ProductCode: '{0B06695D-051E-4688-B2AA-9FFA129D8DE7}'
 ManifestType: installer

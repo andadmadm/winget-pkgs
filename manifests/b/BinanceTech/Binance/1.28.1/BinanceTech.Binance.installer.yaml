@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/binance/desktop/releases/download/v1.28.1/binance-setup-1.28.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binance/desktop/releases/download/v1.28.1/binance-setup-1.28.1.exe
   InstallerSha256: D86A02AA37788D4C582500FE131B5526FFEABFE3EFC647CB1658AFFDCA5B25BD
 ManifestType: installer
 ManifestVersion: 1.1.0

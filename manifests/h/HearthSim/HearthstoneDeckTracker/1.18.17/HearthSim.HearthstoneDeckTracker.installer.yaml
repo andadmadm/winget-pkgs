@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HearthSim/HDT-Releases/releases/download/v1.18.17/HDT-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HearthSim/HDT-Releases/releases/download/v1.18.17/HDT-Installer.exe
   InstallerSha256: 9367CB2DBDCD99AAE21940679A61004F7E56C32CC7052604119275E8BAD39F2C
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -12,13 +12,13 @@ ReleaseDate: 2023-11-27
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/klembot/twinejs/releases/download/2.8.0/Twine-2.8.0-Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klembot/twinejs/releases/download/2.8.0/Twine-2.8.0-Windows.exe
   InstallerSha256: 6590ED896A6AC20BAF600ACD1DC86892329FBACCC5AC1DE02C26D28AA33692AA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/klembot/twinejs/releases/download/2.8.0/Twine-2.8.0-Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klembot/twinejs/releases/download/2.8.0/Twine-2.8.0-Windows.exe
   InstallerSha256: 6590ED896A6AC20BAF600ACD1DC86892329FBACCC5AC1DE02C26D28AA33692AA
   InstallerSwitches:
     Custom: /ALLUSERS

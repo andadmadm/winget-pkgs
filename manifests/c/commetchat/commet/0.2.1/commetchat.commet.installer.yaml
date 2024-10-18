@@ -10,7 +10,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-05-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/commetchat/commet/releases/download/v0.2.1/commet-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/commetchat/commet/releases/download/v0.2.1/commet-windows.zip
   InstallerSha256: 85AF467B42D990888D13073B0F027DFF39A2EF2E1A4288CFEC52E13B5FB81A98
 ManifestType: installer
 ManifestVersion: 1.6.0

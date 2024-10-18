@@ -6,7 +6,7 @@ PackageVersion: "1.1"
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/martinet101/ElevenClock/releases/download/1.1/ElevenClock.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinet101/ElevenClock/releases/download/1.1/ElevenClock.Installer.exe
   InstallerSha256: 453DD89B17AF08DCCC97446CBBEE32B88DC457EE190F63DE9ECA520D459BE09F
 ManifestType: installer
 ManifestVersion: 1.4.0

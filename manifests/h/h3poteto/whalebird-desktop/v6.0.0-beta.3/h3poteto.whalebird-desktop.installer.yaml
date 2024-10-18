@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.0.0-beta.3/Whalebird-6.0.0-beta.3-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/v6.0.0-beta.3/Whalebird-6.0.0-beta.3-win-x64.exe
   InstallerSha256: 161FE0042D66A9BC4A4BB27A16FCA164E6D22B8C737EF6387FFAF2F20E239DAB
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.0.0-beta.3/Whalebird-6.0.0-beta.3-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/v6.0.0-beta.3/Whalebird-6.0.0-beta.3-win-x64.exe
   InstallerSha256: 161FE0042D66A9BC4A4BB27A16FCA164E6D22B8C737EF6387FFAF2F20E239DAB
   InstallerSwitches:
     Custom: /ALLUSERS

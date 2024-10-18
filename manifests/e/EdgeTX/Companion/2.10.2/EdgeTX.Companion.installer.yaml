@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-07-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/EdgeTX/edgetx/releases/download/v2.10.2/edgetx-cpn-win64-v2.10.2.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/EdgeTX/edgetx/releases/download/v2.10.2/edgetx-cpn-win64-v2.10.2.zip
   InstallerSha256: E899A323DE02D4E06BA71DA92B62B589370FDB33E2FC542877358DFA75D935FF
 ManifestType: installer
 ManifestVersion: 1.6.0

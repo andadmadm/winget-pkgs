@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-09-13
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/CorporateClash/pyside2-releases/releases/download/v1.2.4/installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/CorporateClash/pyside2-releases/releases/download/v1.2.4/installer.exe
   InstallerSha256: 05AFC1EC7035F579EA8351C9E7FA694CA76A76BDA80A9A8CA27AD685DE99A345
 ManifestType: installer
 ManifestVersion: 1.2.0

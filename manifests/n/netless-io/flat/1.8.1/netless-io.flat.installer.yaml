@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-06-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/netless-io/flat/releases/download/v1.8.1/Flat-1.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/netless-io/flat/releases/download/v1.8.1/Flat-1.8.1.exe
   InstallerSha256: 26A572ED7C51712B612ED7E227156F7AF2F1384C42A747009F7C10DF974323DC
 ManifestType: installer
 ManifestVersion: 1.1.0

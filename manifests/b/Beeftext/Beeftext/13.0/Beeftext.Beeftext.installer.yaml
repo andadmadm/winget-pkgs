@@ -16,7 +16,7 @@ FileExtensions:
 - json
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v13.0/Beeftext-13.0-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v13.0/Beeftext-13.0-Installer.exe
   InstallerSha256: 0242DDB0CEF9D9CF23CE392080C7F17D0E0CFBE7E58918D41B91563C13F546F2
 ManifestType: installer
 ManifestVersion: 1.1.0

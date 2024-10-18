@@ -10,7 +10,7 @@ AppsAndFeaturesEntries:
   ProductCode: 279242fd-d458-5566-9571-36711297e305
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.9587.git-0533c10/stoplight-studio-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.9587.git-0533c10/stoplight-studio-win.exe
   InstallerSha256: F9142CD542ADEB3C404568AD0D5FC8F3A1475F1D0FF80307E17AEEB11E1EFA79
   ProductCode: 279242fd-d458-5566-9571-36711297e305
 ManifestType: installer

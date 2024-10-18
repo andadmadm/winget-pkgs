@@ -4,7 +4,7 @@
 PackageIdentifier: PowerClouds.CertoNiuchacz
 PackageVersion: 2.0.1.0
 Installers:
-- InstallerUrl: https://github.com/mgajda83/CertoNiuchacz/releases/download/v2.0.1/CertoNiuchacz_2.0.1.0_x64__4tr01tz8fz8e6.msix
+- InstallerUrl: https://gitpoxry.com/https://github.com/mgajda83/CertoNiuchacz/releases/download/v2.0.1/CertoNiuchacz_2.0.1.0_x64__4tr01tz8fz8e6.msix
   Platform:
   - Windows.Desktop
   MinimumOSVersion: 10.0.17763.0

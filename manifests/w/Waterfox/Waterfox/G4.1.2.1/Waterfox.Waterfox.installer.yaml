@@ -23,7 +23,7 @@ FileExtensions:
 ReleaseDate: 2022-05-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WaterfoxCo/Waterfox/releases/download/G4.1.2.1/Waterfox.G4.1.2.1.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WaterfoxCo/Waterfox/releases/download/G4.1.2.1/Waterfox.G4.1.2.1.Setup.exe
   InstallerSha256: 7264789B68BFEE6C2C0B32F910E487751C3C22E17EB43942C9E12E933CC9FE13
 ManifestType: installer
 ManifestVersion: 1.1.0

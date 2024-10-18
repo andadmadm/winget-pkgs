@@ -16,10 +16,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.0.30/64Gram-setup-x64-1.0.30.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TDesktop-x64/tdesktop/releases/download/v1.0.30/64Gram-setup-x64-1.0.30.exe
   InstallerSha256: E1EDC9C96C011784476DEF81FB1F1DF01B2F94665F17A1BAFA493FCECF3EE6D8
 - Architecture: x86
-  InstallerUrl: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.0.30/64Gram-setup.1.0.30.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TDesktop-x64/tdesktop/releases/download/v1.0.30/64Gram-setup.1.0.30.exe
   InstallerSha256: 4DA85EC489C0FFCC35361CFFFA28068C362B019610B5AA0168DBD5239928942C
 ManifestType: installer
 ManifestVersion: 1.1.0

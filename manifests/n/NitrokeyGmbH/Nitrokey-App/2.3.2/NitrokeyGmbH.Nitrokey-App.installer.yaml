@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{9C5AF2F4-3589-4AE2-894B-43750B37AAD6}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nitrokey/nitrokey-app2/releases/download/v2.3.2/nitrokey-app-v2.3.2-x64-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nitrokey/nitrokey-app2/releases/download/v2.3.2/nitrokey-app-v2.3.2-x64-windows-installer.msi
   InstallerSha256: 516CDCB6887D6E2412E15F2D76A0515EE884EB4A6D491CB533A8ADBCCC807B62
 ManifestType: installer
 ManifestVersion: 1.6.0

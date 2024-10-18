@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2023-09-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/yt-dlp/yt-dlp/releases/download/2023.09.24/yt-dlp_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yt-dlp/yt-dlp/releases/download/2023.09.24/yt-dlp_x86.exe
   InstallerSha256: DBBA9BFD95EAA831E59C5B8806E47CACF61D4A269D96309A081AC8C7DCDC17FA
 - Architecture: x64
-  InstallerUrl: https://github.com/yt-dlp/yt-dlp/releases/download/2023.09.24/yt-dlp.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yt-dlp/yt-dlp/releases/download/2023.09.24/yt-dlp.exe
   InstallerSha256: 125465AC4416BCD4BF1632B899630CEECC08B341E83FDF10BD34700C58EA5152
 ManifestType: installer
 ManifestVersion: 1.5.0

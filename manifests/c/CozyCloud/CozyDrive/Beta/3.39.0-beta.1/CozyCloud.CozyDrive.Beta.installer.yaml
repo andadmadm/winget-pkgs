@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-05-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.39.0-beta.1/Cozy-Drive-Setup-3.39.0-beta.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cozy-labs/cozy-desktop/releases/download/v3.39.0-beta.1/Cozy-Drive-Setup-3.39.0-beta.1.exe
   InstallerSha256: 1F8BF7DD2F27FDC20066E48DCDEA1E57A9C05066A9F15D1B22AF42A4DD181FBB
 ManifestType: installer
 ManifestVersion: 1.4.0

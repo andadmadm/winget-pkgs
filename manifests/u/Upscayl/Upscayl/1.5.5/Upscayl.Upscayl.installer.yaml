@@ -10,7 +10,7 @@ AppsAndFeaturesEntries:
   - Publisher:
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/upscayl/upscayl/releases/download/v1.5.5/Upscayl-Setup-1.5.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/upscayl/upscayl/releases/download/v1.5.5/Upscayl-Setup-1.5.5.exe
   InstallerSha256: 68C7798A67D5481D96E6C0DBE0740CBC3BB7D2A7DA23928AAE0B9586E7E58BDA
 ManifestType: installer
 ManifestVersion: 1.2.0

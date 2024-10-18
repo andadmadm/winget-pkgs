@@ -10,13 +10,13 @@ ReleaseDate: 2022-03-11
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.8.0%2B27/bluebubbles_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.8.0%2B27/bluebubbles_installer.exe
   InstallerSha256: 305797C321B907E374764F294B4A5E227CCF0CC419D21C62AA261ADBE7B73851
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.8.0%2B27/bluebubbles_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.8.0%2B27/bluebubbles_installer.exe
   InstallerSha256: 305797C321B907E374764F294B4A5E227CCF0CC419D21C62AA261ADBE7B73851
   InstallerSwitches:
     Custom: /ALLUSERS

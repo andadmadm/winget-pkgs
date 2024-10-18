@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/manosim/gitify/releases/download/v4.2.1/Gitify-Setup-4.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/manosim/gitify/releases/download/v4.2.1/Gitify-Setup-4.2.1.exe
   InstallerSha256: 4E83C0044F84A3A3F1EAE375385DF1B80A7A7688184E54597CE30EC64D2B5AE5
 ManifestType: installer
 ManifestVersion: 1.1.0

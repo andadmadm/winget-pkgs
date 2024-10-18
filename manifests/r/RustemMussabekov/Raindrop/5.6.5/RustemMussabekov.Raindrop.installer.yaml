@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-06-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/raindropio/desktop/releases/download/v5.6.5/Raindrop.io-Setup-5.6.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/raindropio/desktop/releases/download/v5.6.5/Raindrop.io-Setup-5.6.5.exe
   InstallerSha256: 493D92937A35AE4E741E114E9F69BC7E421D384AB60F41F786CD34B04F6E92FD
 ManifestType: installer
 ManifestVersion: 1.5.0

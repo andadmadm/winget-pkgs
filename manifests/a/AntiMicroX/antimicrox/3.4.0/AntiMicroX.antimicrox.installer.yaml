@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-03-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AntiMicroX/antimicrox/releases/download/3.4.0/antimicrox-3.4.0-Windows-AMD64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AntiMicroX/antimicrox/releases/download/3.4.0/antimicrox-3.4.0-Windows-AMD64.exe
   InstallerSha256: 3003D9D3E5F468863A13DBE9E89C74A3333AA5FF0FA33E4516DE42CDD1EC406B
 ManifestType: installer
 ManifestVersion: 1.6.0

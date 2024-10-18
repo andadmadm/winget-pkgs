@@ -12,13 +12,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ethereum/remix-desktop/releases/download/v1.3.4/Remix-IDE-Setup-1.3.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ethereum/remix-desktop/releases/download/v1.3.4/Remix-IDE-Setup-1.3.4.exe
   InstallerSha256: 2DE17DB8A3C0D0712093E74EA320ABCE3B80C93050FF023EA550FB5D0CA309AA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ethereum/remix-desktop/releases/download/v1.3.4/Remix-IDE-Setup-1.3.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ethereum/remix-desktop/releases/download/v1.3.4/Remix-IDE-Setup-1.3.4.exe
   InstallerSha256: 2DE17DB8A3C0D0712093E74EA320ABCE3B80C93050FF023EA550FB5D0CA309AA
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -12,14 +12,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: terragrunt.exe
     PortableCommandAlias: terragrunt
-  InstallerUrl: https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.0/terragrunt_windows_386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.0/terragrunt_windows_386.exe
   InstallerSha256: da53d9ddf78c873fe01b34f4858b001b440ab617e5baad04e3335071c8424e8a
 - Architecture: x64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: terragrunt.exe
     PortableCommandAlias: terragrunt
-  InstallerUrl: https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.0/terragrunt_windows_amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.0/terragrunt_windows_amd64.exe
   InstallerSha256: 981d2875810e3ee17cbbbdb05bcbb6977c99d6ce42d615e51cf99bfd65932563
 ManifestType: installer
 ManifestVersion: 1.6.0

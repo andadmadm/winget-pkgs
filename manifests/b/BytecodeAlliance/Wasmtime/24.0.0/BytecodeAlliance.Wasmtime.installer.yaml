@@ -17,7 +17,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{A00EBA3C-5C90-42DA-8176-3D46447D2211}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bytecodealliance/wasmtime/releases/download/v24.0.0/wasmtime-v24.0.0-x86_64-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/bytecodealliance/wasmtime/releases/download/v24.0.0/wasmtime-v24.0.0-x86_64-windows.msi
   InstallerSha256: 7C89B8C7847F77CBFD72A264D8248542264A65E7D721422721EE31870250266B
   ProductCode: '{360C79C9-24F2-4E3A-AF5A-8A7909737D36}'
 ManifestType: installer

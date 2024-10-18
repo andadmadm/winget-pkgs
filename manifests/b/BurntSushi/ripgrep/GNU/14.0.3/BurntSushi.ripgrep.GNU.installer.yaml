@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2023-11-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BurntSushi/ripgrep/releases/download/14.0.3/ripgrep-14.0.3-x86_64-pc-windows-gnu.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/BurntSushi/ripgrep/releases/download/14.0.3/ripgrep-14.0.3-x86_64-pc-windows-gnu.zip
   InstallerSha256: DB1AC1664E8212AF424D3FA54AA36A24DD5D34B8481710CA77061A09BEE9E53A
 ManifestType: installer
 ManifestVersion: 1.5.0

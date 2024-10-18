@@ -10,7 +10,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
-- InstallerUrl: https://github.com/QuantumNovice/win-xkill/releases/download/bleeding-edge/xkill.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/QuantumNovice/win-xkill/releases/download/bleeding-edge/xkill.exe
   Architecture: x64
   InstallerSha256: 01A15790465BF834E1B60E5DED052047D2F9A1E89F830B464B1E6C86A2756F45
 ManifestType: installer

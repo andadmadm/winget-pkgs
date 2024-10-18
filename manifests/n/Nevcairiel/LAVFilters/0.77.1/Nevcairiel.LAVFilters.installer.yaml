@@ -17,10 +17,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.1/LAVFilters-0.77.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.1/LAVFilters-0.77.1-Installer.exe
   InstallerSha256: B3ECB80D03A1F3A6BC0F629648F1EC9A73D14F145ABC9A8F45CA62834A14F82C
 - Architecture: x86
-  InstallerUrl: https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.1/LAVFilters-0.77.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.1/LAVFilters-0.77.1-Installer.exe
   InstallerSha256: B3ECB80D03A1F3A6BC0F629648F1EC9A73D14F145ABC9A8F45CA62834A14F82C
 ManifestType: installer
 ManifestVersion: 1.2.0

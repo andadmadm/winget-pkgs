@@ -13,13 +13,13 @@ ReleaseDate: 2022-10-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v2.1.4/LeafView-2.1.4-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v2.1.4/LeafView-2.1.4-win32-x64-installer.exe
   InstallerSha256: 9DA40725B6E78C287667678713984D1BE44D2B94082D663C453644D0DBDA26EC
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v2.1.4/LeafView-2.1.4-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v2.1.4/LeafView-2.1.4-win32-x64-installer.exe
   InstallerSha256: 9DA40725B6E78C287667678713984D1BE44D2B94082D663C453644D0DBDA26EC
   InstallerSwitches:
     Custom: /ALLUSERS

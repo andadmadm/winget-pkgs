@@ -22,7 +22,7 @@ AppsAndFeaturesEntries:
 - DisplayVersion: Windows-d607917-20240321
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alire-project/alire/releases/download/v2.0.1/alr-2.0.1-installer-x86_64-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alire-project/alire/releases/download/v2.0.1/alr-2.0.1-installer-x86_64-windows.exe
   InstallerSha256: fa36d1cd7a7ade81096b15dc4015a93d79ba4df373fa199a1a3f6a18a5b01d78
 ManifestType: installer
 ManifestVersion: 1.6.0

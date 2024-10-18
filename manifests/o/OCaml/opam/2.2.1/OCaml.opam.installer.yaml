@@ -14,7 +14,7 @@ Commands:
 InstallerType: portable
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ocaml/opam/releases/download/2.2.1/opam-2.2.1-x86_64-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ocaml/opam/releases/download/2.2.1/opam-2.2.1-x86_64-windows.exe
   InstallerSha256: 6AECD4DD221E2E283874652AA3577A9677CC417ECB79DAC8AAC9CEEE1B790FE1
 ManifestType: installer
 ManifestVersion: 1.6.0

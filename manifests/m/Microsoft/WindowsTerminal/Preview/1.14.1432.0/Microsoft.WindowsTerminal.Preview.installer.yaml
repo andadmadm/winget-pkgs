@@ -15,7 +15,7 @@ Installers:
   MinimumOSVersion: 10.0.19041.0
   Architecture: x64
   InstallerType: msix
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.14.1432.0/Microsoft.WindowsTerminalPreview_Win10_1.14.1432.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.14.1432.0/Microsoft.WindowsTerminalPreview_Win10_1.14.1432.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: D29558F824CBA7E709D05CE595C403CBCB3222ADDD63FE135E098A3448CD5016
   SignatureSha256: 2B60A755895D51D13F6CA8CA6D7EC586284C816CC071C1381DA07CC2E75B758F
   PackageFamilyName: Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe
@@ -24,7 +24,7 @@ Installers:
   MinimumOSVersion: 10.0.19041.0
   Architecture: arm64
   InstallerType: msix
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.14.1432.0/Microsoft.WindowsTerminalPreview_Win10_1.14.1432.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.14.1432.0/Microsoft.WindowsTerminalPreview_Win10_1.14.1432.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: D29558F824CBA7E709D05CE595C403CBCB3222ADDD63FE135E098A3448CD5016
   SignatureSha256: 2B60A755895D51D13F6CA8CA6D7EC586284C816CC071C1381DA07CC2E75B758F
   PackageFamilyName: Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe
@@ -33,7 +33,7 @@ Installers:
   MinimumOSVersion: 10.0.19041.0
   Architecture: x86
   InstallerType: msix
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.14.1432.0/Microsoft.WindowsTerminalPreview_Win10_1.14.1432.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.14.1432.0/Microsoft.WindowsTerminalPreview_Win10_1.14.1432.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: D29558F824CBA7E709D05CE595C403CBCB3222ADDD63FE135E098A3448CD5016
   SignatureSha256: 2B60A755895D51D13F6CA8CA6D7EC586284C816CC071C1381DA07CC2E75B758F
   PackageFamilyName: Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe

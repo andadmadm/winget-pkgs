@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/Echostorm44/QuickFixMyPic/releases/download/1.0.0/SetupQuickFixMyPic.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Echostorm44/QuickFixMyPic/releases/download/1.0.0/SetupQuickFixMyPic.msi
   InstallerSha256: 9A3A1AFAFA897B2AD2D92DEB7517171C704172BA4819243472BC434ECD32C1EA
   ProductCode: '{D2A7517C-4765-405B-9068-8EB645530C50}'
 ManifestType: installer

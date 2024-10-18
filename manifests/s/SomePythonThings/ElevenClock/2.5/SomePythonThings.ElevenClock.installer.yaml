@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/martinet101/ElevenClock/releases/download/2.5/ElevenClock.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinet101/ElevenClock/releases/download/2.5/ElevenClock.Installer.exe
   InstallerSha256: D8AACB34FC1581B18A6369D7A1F7056A7D032A738880FACBF9375581FD83469A
 ManifestType: installer
 ManifestVersion: 1.0.0

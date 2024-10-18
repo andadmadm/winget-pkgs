@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2022-10-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Rebell81/Kebler/releases/download/0.10.8312.22349/Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Rebell81/Kebler/releases/download/0.10.8312.22349/Installer.exe
   InstallerSha256: E3DBAB46DCDB81EF6A2A2EE1C4B15E342F101163F3F13A498EFC86808071D021
 ManifestType: installer
 ManifestVersion: 1.2.0

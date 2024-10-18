@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/maforget/ComicRackCE/releases/download/nightly/ComicRackCESetup_nightly.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maforget/ComicRackCE/releases/download/nightly/ComicRackCESetup_nightly.exe
   InstallerSha256: 912F5D227797C1375F25E7169CAB44FEE108EC8C35479458011CB320AD1B9DEF
 ManifestType: installer
 ManifestVersion: 1.6.0

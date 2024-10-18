@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.16.1/Twinkle.Tray.v1.16.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.16.1/Twinkle.Tray.v1.16.1.exe
   InstallerSha256: B72761BC3AA9B5788D16A72172A344594066E25BFDDC8BAE44D6BBDE0C868E85
 ManifestType: installer
 ManifestVersion: 1.6.0

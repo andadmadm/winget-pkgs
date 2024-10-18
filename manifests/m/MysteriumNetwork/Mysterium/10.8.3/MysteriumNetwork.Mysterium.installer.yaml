@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/10.8.3/MysteriumVPN-Setup-10.8.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/10.8.3/MysteriumVPN-Setup-10.8.3.exe
   InstallerSha256: 34B6C488F872C1F688BDB9B1888276678573476A1340F718C8BDCE8F7EB96976
 ManifestType: installer
 ManifestVersion: 1.1.0

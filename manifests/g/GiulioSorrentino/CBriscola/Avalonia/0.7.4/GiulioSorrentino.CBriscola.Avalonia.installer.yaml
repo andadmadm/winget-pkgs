@@ -9,7 +9,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.7
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/numerunix/CBriscola.Avalonia/releases/download/0.7.4/cbriscola.avalonia-0.7.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/numerunix/CBriscola.Avalonia/releases/download/0.7.4/cbriscola.avalonia-0.7.4.exe
   InstallerSha256: B016D92DFF32A4502EE4335D50AA9F9638B5D5E02E9E7CD737EA5E645EAE5BE1
 ManifestType: installer
 ManifestVersion: 1.5.0

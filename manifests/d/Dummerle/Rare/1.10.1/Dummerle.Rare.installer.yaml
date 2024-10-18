@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-05-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Dummerle/Rare/releases/download/1.10.1/Rare-1.10.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Dummerle/Rare/releases/download/1.10.1/Rare-1.10.1.msi
   InstallerSha256: C2BC591B5E4B3C270C658D3000ED9BC8C8A177904575BB44CB5D6664D341C525
   ProductCode: '{EE2E9A59-15B2-495E-8E55-69B85B7DE54E}'
 ManifestType: installer

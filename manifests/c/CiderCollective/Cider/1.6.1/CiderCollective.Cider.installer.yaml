@@ -9,7 +9,7 @@ ReleaseDate: 2023-05-18
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ciderapp/Cider/releases/download/v1.6.1/Cider-Setup-winget-1.6.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ciderapp/Cider/releases/download/v1.6.1/Cider-Setup-winget-1.6.1.exe
   InstallerSha256: 448233ABF87E0A0AAFB1801AA052D099E604584F1C2E0AB04ECCC3A0D19E7815
 ManifestType: installer
 ManifestVersion: 1.4.0

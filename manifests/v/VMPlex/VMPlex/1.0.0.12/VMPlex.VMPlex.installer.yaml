@@ -9,7 +9,7 @@ MinimumOSVersion: 10.0.0.0
 Installers:
 - Architecture: neutral
   InstallerType: exe
-  InstallerUrl: https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/VMPlex.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/VMPlex.exe
   InstallerSha256: FADCB1BFE1B2BA99D0F156259633A9DDEF595FAD1063B3A8C9CD8547B4920720
   InstallerSwitches:
     Silent: --install

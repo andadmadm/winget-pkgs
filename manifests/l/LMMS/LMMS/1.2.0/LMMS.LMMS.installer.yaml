@@ -18,10 +18,10 @@ FileExtensions:
 - mpt
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LMMS/lmms/releases/download/v1.2.0/lmms-1.2.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LMMS/lmms/releases/download/v1.2.0/lmms-1.2.0-win64.exe
   InstallerSha256: C85121BF96D097A5BC9032721DAE31A385084E2F8AAFCC541B8DB795A0027543
 - Architecture: x86
-  InstallerUrl: https://github.com/LMMS/lmms/releases/download/v1.2.0/lmms-1.2.0-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LMMS/lmms/releases/download/v1.2.0/lmms-1.2.0-win32.exe
   InstallerSha256: FFE6732D8EE4C0D6CA5A429D77FE130E9719A4A4DF850A63AD29C09349448178
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -11,7 +11,7 @@ Scope: machine
 ReleaseDate: 2022-02-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pbkit/pbkit/releases/download/v0.0.38/pollapo-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pbkit/pbkit/releases/download/v0.0.38/pollapo-windows-installer.msi
   InstallerSha256: DC88707647DEA7C56DB9B459BEF6DADEE193A64B8E00A1C96969022AA1E96B7D
   ProductCode: '{EF7518FB-1D51-47DF-83C9-A6FA18D4D41D}'
 ManifestType: installer

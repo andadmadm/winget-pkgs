@@ -14,10 +14,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/compose-generator/compose-generator/releases/download/1.4.0/compose-generator_x64_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/compose-generator/compose-generator/releases/download/1.4.0/compose-generator_x64_setup.msi
   InstallerSha256: 0b2f3e70d91f898cd85108c4a5c0b63977191e26e2a77dd6ea67eb78c0f37f06
 - Architecture: x86
-  InstallerUrl: https://github.com/compose-generator/compose-generator/releases/download/1.4.0/compose-generator_x86_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/compose-generator/compose-generator/releases/download/1.4.0/compose-generator_x86_setup.msi
   InstallerSha256: acc810ace3a8f82412f0461a37b19a039889e8acf21082a44155744fec7abb76
 ManifestType: installer
 ManifestVersion: 1.1.0

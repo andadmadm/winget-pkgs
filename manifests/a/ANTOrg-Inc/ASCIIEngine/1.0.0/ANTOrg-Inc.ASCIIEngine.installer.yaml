@@ -6,7 +6,7 @@ PackageVersion: 1.0.0
 Installers:
 - Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/hdfsyu/ASCIIEngine/releases/download/v3.0/ASCIIEngine.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/hdfsyu/ASCIIEngine/releases/download/v3.0/ASCIIEngine.msi
   InstallerSha256: 8D767358300A70FB4B6F07BCF31B8A698EEE9C060AB44C7AA73334174298A0C8
   ProductCode: '{7FA33D16-D79D-48EF-BCED-C85C29110BED}'
 ManifestType: installer

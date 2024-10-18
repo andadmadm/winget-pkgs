@@ -22,10 +22,10 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{058F6D04-E0D0-4984-B6B7-7FE0C581680E}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/5.9.0/OneMore_5.9.0_Setupx86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/5.9.0/OneMore_5.9.0_Setupx86.msi
   InstallerSha256: 1A813AB12D7B5DDE9E1202853CA6964C3007CB80C118B03885D7A7F4F6C2C293
 - Architecture: x64
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/5.9.0/OneMore_5.9.0_Setupx64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/5.9.0/OneMore_5.9.0_Setupx64.msi
   InstallerSha256: 4447E596A5DA295C8907688CF31AA586ADD1F58EFBF97F78FFB7FE702A2E9668
 ManifestType: installer
 ManifestVersion: 1.5.0

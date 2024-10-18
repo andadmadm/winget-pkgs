@@ -4,7 +4,7 @@
 PackageIdentifier: AppleWin.AppleWin
 PackageVersion: 1.30.14.1
 Installers:
-- InstallerUrl: https://github.com/AppleWin/AppleWin/releases/download/v1.30.14.1/AppleWin1.30.14.1.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/AppleWin/AppleWin/releases/download/v1.30.14.1/AppleWin1.30.14.1.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

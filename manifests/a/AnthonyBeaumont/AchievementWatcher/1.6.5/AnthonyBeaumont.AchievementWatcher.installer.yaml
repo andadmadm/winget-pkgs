@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xan105/Achievement-Watcher/releases/download/1.6.5/Achievement.Watcher.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xan105/Achievement-Watcher/releases/download/1.6.5/Achievement.Watcher.Setup.exe
   InstallerSha256: A41F518910FB6600C664A41771AF8D30715C5E3B13098D64797A16D6532D2CDC
 ManifestType: installer
 ManifestVersion: 1.1.0

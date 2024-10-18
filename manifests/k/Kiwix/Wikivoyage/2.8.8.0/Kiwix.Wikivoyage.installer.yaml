@@ -10,7 +10,7 @@ InstallerType: appx
 PackageFamilyName: Kiwix.WikivoyagebyKiwix_qwjmsdmcnwx12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kiwix/kiwix-js-pwa/releases/download/v2.8.8-Wikivoyage/Wikivoyage-by-Kiwix-2.8.8-E.appx
+  InstallerUrl: https://gitpoxry.com/https://github.com/kiwix/kiwix-js-pwa/releases/download/v2.8.8-Wikivoyage/Wikivoyage-by-Kiwix-2.8.8-E.appx
   InstallerSha256: 17CB848E273751D72B1FB19D9271D505ADCBA28CBA65AFD16697CE83B5AF3A7A
   SignatureSha256: 5A67676B31E157ADE95D0CDB6E9AA37E01612AAFC6169EF10D3E5494ABEEA130
 ManifestType: installer

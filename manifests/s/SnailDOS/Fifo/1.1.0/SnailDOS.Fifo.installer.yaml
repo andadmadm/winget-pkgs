@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-02-09
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/snaildos/Fifo-Browser/releases/download/v1.1.0/Fifo-Web-Setup-1.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/snaildos/Fifo-Browser/releases/download/v1.1.0/Fifo-Web-Setup-1.1.0.exe
   InstallerSha256: 25E12C0E5E6B60BF9A7522FAADCAE99EEDBC610433E54616834AE725F6499F0F
 ManifestType: installer
 ManifestVersion: 1.1.0

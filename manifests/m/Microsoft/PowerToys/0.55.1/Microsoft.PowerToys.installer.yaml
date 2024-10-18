@@ -14,7 +14,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: burn
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.55.1/PowerToysSetup-0.55.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.55.1/PowerToysSetup-0.55.1-x64.exe
   InstallerSha256: C470EECA26AEBBDB28BF7D35694065C1897A123A64FB5103033FC23207D6C4A5
 ManifestType: installer
 ManifestVersion: 1.1.0

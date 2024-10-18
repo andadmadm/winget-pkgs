@@ -15,7 +15,7 @@ ReleaseDate: 2022-02-07
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.16.0-beta/freetube-0.16.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.16.0-beta/freetube-0.16.0-setup-x64.exe
   InstallerSha256: 6128CC845441BC744ACE366C227F6253CA7C3E4885F9761690F16DFE822C3DDF
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
     ProductCode: 609c326f-6a5e-5cd1-9fc0-6e966fad073f
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.16.0-beta/freetube-0.16.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.16.0-beta/freetube-0.16.0-setup-x64.exe
   InstallerSha256: 6128CC845441BC744ACE366C227F6253CA7C3E4885F9761690F16DFE822C3DDF
   InstallerSwitches:
     Custom: /ALLUSERS

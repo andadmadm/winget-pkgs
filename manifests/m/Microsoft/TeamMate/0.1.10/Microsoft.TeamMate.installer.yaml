@@ -9,7 +9,7 @@ InstallerType: wix
 ProductCode: '{88CC95C4-3A9D-429B-9D3B-E90A918B1B64}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/TeamMate/releases/download/0.1.10-ci.3%2BBranch.main.Sha.03ede883408d2b0b5fdd33c072dbdcd22e89a296/Microsoft.Tools.TeamMate.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/TeamMate/releases/download/0.1.10-ci.3%2BBranch.main.Sha.03ede883408d2b0b5fdd33c072dbdcd22e89a296/Microsoft.Tools.TeamMate.msi
   InstallerSha256: 4615FD757CA42579DAB89819450DB38D3F95494AE9ED06A658F8F13F78CA3650
 ManifestType: installer
 ManifestVersion: 1.5.0

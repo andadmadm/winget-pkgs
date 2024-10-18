@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dannagle/PacketSender/releases/download/v7.0.5/PacketSender_x64_v7.0.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dannagle/PacketSender/releases/download/v7.0.5/PacketSender_x64_v7.0.5.exe
   InstallerSha256: 1036C77D1F9BCFFF291EFCA03A7D31D9ED75D92CB96994212C371B97E1C66539
 ManifestType: installer
 ManifestVersion: 1.1.0

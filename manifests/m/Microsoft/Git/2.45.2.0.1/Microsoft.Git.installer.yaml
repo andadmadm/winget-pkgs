@@ -20,7 +20,7 @@ Commands:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/git/releases/download/v2.45.2.vfs.0.1/Git-2.45.2.vfs.0.1-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/git/releases/download/v2.45.2.vfs.0.1/Git-2.45.2.vfs.0.1-64-bit.exe
   InstallerSha256: 9E9DAECEBD89AF4B33B693683FBF48BF13F1FB4E9D27D8DD1AC09F9E556EBE8D
 ManifestType: installer
 ManifestVersion: 1.6.0

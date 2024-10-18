@@ -9,12 +9,12 @@ ReleaseDate: 2022-11-13
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/nroduit/Weasis/releases/download/v4.0.3/Weasis-4.0.3-x86-64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nroduit/Weasis/releases/download/v4.0.3/Weasis-4.0.3-x86-64.msi
   InstallerSha256: 679BB2BF3ED1A773FFD5887DA24D4575E4ACBD919BC814438461B1BACCCB4B4B
   ProductCode: '{765B226D-8C0B-32FA-8029-F5607A1F5B2B}'
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/nroduit/Weasis/releases/download/v4.0.3/Weasis-4.0.3-x86-64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nroduit/Weasis/releases/download/v4.0.3/Weasis-4.0.3-x86-64.msi
   InstallerSha256: 679BB2BF3ED1A773FFD5887DA24D4575E4ACBD919BC814438461B1BACCCB4B4B
   ProductCode: '{765B226D-8C0B-32FA-8029-F5607A1F5B2B}'
   InstallerSwitches:

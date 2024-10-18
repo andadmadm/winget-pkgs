@@ -11,10 +11,10 @@ NestedInstallerFiles:
 ReleaseDate: 2023-12-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/caddyserver/caddy/releases/download/v2.7.6/caddy_2.7.6_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/caddyserver/caddy/releases/download/v2.7.6/caddy_2.7.6_windows_amd64.zip
   InstallerSha256: 769C9A852F1D2ABE87804B32756582D4DCBC9C46BAC4ADAB5C04463FD89C8F6B
 - Architecture: arm64
-  InstallerUrl: https://github.com/caddyserver/caddy/releases/download/v2.7.6/caddy_2.7.6_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/caddyserver/caddy/releases/download/v2.7.6/caddy_2.7.6_windows_arm64.zip
   InstallerSha256: 1D162C51877806D20E234C83365DA57D10B30ACE5991A04A34CF31FA723E2BE9
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -25,7 +25,7 @@ FileExtensions:
 - webp
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ModuleArt/quick-picture-viewer/releases/download/v2.2.6/QuickPictureViewer-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ModuleArt/quick-picture-viewer/releases/download/v2.2.6/QuickPictureViewer-Setup.exe
   InstallerSha256: 7D830EC59DFCF54CF72BC45921D86C17322C3D161A09C81364D6DFA3E84EA611
 ManifestType: installer
 ManifestVersion: 1.1.0

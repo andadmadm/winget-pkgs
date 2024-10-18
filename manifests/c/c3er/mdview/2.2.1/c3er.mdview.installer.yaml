@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v2.2.1/mdview.Setup.2.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v2.2.1/mdview.Setup.2.2.1.exe
   InstallerSha256: B4A60DC0B4E9331067240F8B384A87B3DC1EABEBEE2DC065B93985150290B6DA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v2.2.1/mdview.Setup.2.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v2.2.1/mdview.Setup.2.2.1.exe
   InstallerSha256: B4A60DC0B4E9331067240F8B384A87B3DC1EABEBEE2DC065B93985150290B6DA
   InstallerSwitches:
     Custom: /ALLUSERS

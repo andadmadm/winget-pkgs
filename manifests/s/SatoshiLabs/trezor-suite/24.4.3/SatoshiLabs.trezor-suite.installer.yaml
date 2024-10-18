@@ -7,13 +7,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v24.4.3/Trezor-Suite-24.4.3-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v24.4.3/Trezor-Suite-24.4.3-win-x64.exe
   InstallerSha256: CC3730FFF18826934E4C6530FBBB6125B991F6A0AF847CE857C37F4B4CA893D3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v24.4.3/Trezor-Suite-24.4.3-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v24.4.3/Trezor-Suite-24.4.3-win-x64.exe
   InstallerSha256: CC3730FFF18826934E4C6530FBBB6125B991F6A0AF847CE857C37F4B4CA893D3
   InstallerSwitches:
     Custom: /ALLUSERS

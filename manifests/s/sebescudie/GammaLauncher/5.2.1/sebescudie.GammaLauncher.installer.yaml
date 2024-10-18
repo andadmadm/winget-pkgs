@@ -10,7 +10,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sebescudie/GammaLauncher/releases/download/5.2.1/gammalauncher_5.2.1_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sebescudie/GammaLauncher/releases/download/5.2.1/gammalauncher_5.2.1_installer.exe
   InstallerSha256: AA402AB0D3AB67BAFBBBF85D8D1DDB6A72012B0C2A62074685C40776E8497E78
 ManifestType: installer
 ManifestVersion: 1.5.0

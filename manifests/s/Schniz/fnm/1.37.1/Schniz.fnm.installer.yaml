@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: fnm.exe
     PortableCommandAlias: fnm
-  InstallerUrl: https://github.com/Schniz/fnm/releases/download/v1.37.1/fnm-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Schniz/fnm/releases/download/v1.37.1/fnm-windows.zip
   InstallerSha256: 44E964B4B408836CD24675FF85CE410D37D61A6A5DF61E9C661BFD911670704F
 ManifestType: installer
 ManifestVersion: 1.6.0

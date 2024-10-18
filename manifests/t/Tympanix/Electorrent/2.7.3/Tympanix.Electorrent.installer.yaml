@@ -17,7 +17,7 @@ Protocols:
 - magnet
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tympanix/Electorrent/releases/download/v2.7.3/electorrent-Setup-2.7.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tympanix/Electorrent/releases/download/v2.7.3/electorrent-Setup-2.7.3.exe
   InstallerSha256: 04FDF02C7CB1041B1C5B947A21BC49AA767AB3D927E993E6FAE802C9E361662C
 ManifestType: installer
 ManifestVersion: 1.0.0

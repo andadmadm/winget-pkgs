@@ -14,7 +14,7 @@ InstallModes:
 ReleaseDate: 2022-02-06
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/phw198/OutlookGoogleCalendarSync/releases/download/v2.9.3-alpha/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/phw198/OutlookGoogleCalendarSync/releases/download/v2.9.3-alpha/Setup.exe
   InstallerSha256: 4988A43B5B781082F8DF07CC4B66EA8B36E9E66F1CEEA3465B32CC00996A1972
 ManifestType: installer
 ManifestVersion: 1.1.0

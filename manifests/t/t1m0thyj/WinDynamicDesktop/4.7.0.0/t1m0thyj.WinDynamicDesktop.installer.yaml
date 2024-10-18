@@ -15,7 +15,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v4.7.0/WinDynamicDesktop_4.7.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v4.7.0/WinDynamicDesktop_4.7.0_Setup.exe
   InstallerSha256: 9EEEBFEF4B738B531C91ECD6ECC11B2E936E4723D1F8399162DD30567D601BDE
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /ALLUSERS
@@ -24,7 +24,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v4.7.0/WinDynamicDesktop_4.7.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v4.7.0/WinDynamicDesktop_4.7.0_Setup.exe
   InstallerSha256: 9EEEBFEF4B738B531C91ECD6ECC11B2E936E4723D1F8399162DD30567D601BDE
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /CURRENTUSER

@@ -18,19 +18,19 @@ ReleaseDate: 2023-01-17
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe
   InstallerSha256: B9AC2863B42EB60EE6CBB0663378BB119CB976A52985D4BBE92AD00B073FFED2
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe
   InstallerSha256: B9AC2863B42EB60EE6CBB0663378BB119CB976A52985D4BBE92AD00B073FFED2
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe
   InstallerSha256: 82D088233144054D14D8CC890870544F1AC6AC73AEBADE87C4D96C97B55D8508
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe
   InstallerSha256: 82D088233144054D14D8CC890870544F1AC6AC73AEBADE87C4D96C97B55D8508
 ManifestType: installer
 ManifestVersion: 1.2.0

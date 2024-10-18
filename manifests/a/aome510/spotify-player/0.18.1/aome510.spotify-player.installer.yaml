@@ -12,7 +12,7 @@ Dependencies:
    - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aome510/spotify-player/releases/download/v0.18.1/spotify_player-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aome510/spotify-player/releases/download/v0.18.1/spotify_player-x86_64-pc-windows-msvc.zip
   InstallerSha256: c274f762d65e0e66f72db0552287191e0295f9ad0c01f625315661f4d1219ea6
 ManifestType: installer
 ManifestVersion: 1.6.0

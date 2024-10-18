@@ -19,7 +19,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
-    InstallerUrl: https://github.com/darktable-org/darktable/releases/download/release-3.4.1/darktable-3.4.1.1-win64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/darktable-org/darktable/releases/download/release-3.4.1/darktable-3.4.1.1-win64.exe
     InstallerSha256: 251453A776B7749B7F7701B7B58E6B9EBA7747370C228BFA298F2053200D9FEC
 #    ProductCode: 
     Scope: machine

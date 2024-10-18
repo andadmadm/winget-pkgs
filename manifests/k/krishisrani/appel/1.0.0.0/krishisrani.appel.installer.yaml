@@ -7,7 +7,7 @@ InstallerType: inno
 InstallerSwitches:
   Silent: /SILENT
 Installers:
-- InstallerUrl: https://github.com/krishisrani61/exestorage/raw/main/Appel/setup.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/krishisrani61/exestorage/raw/main/Appel/setup.exe
   Architecture: neutral
   InstallerSha256: A0731504BC13E82B8BEEB022B602A33C4FA665A0526B9BA070C32D6A0C482117
 ManifestType: installer

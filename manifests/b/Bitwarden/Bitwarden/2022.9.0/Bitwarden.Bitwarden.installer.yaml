@@ -15,28 +15,28 @@ ReleaseDate: 2022-09-12
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
   InstallerSha256: 91D09A551D36595B7A7A41FC5D9FDA5A2BC0491F4CC71096A4A7E5A5A32CBE11
   InstallerSwitches:
     Upgrade: /currentuser
     Custom: /currentuser
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
   InstallerSha256: 91D09A551D36595B7A7A41FC5D9FDA5A2BC0491F4CC71096A4A7E5A5A32CBE11
   InstallerSwitches:
     Upgrade: /allusers
     Custom: /allusers
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
   InstallerSha256: 91D09A551D36595B7A7A41FC5D9FDA5A2BC0491F4CC71096A4A7E5A5A32CBE11
   InstallerSwitches:
     Upgrade: /currentuser
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.9.0/Bitwarden-Installer-2022.9.0.exe
   InstallerSha256: 91D09A551D36595B7A7A41FC5D9FDA5A2BC0491F4CC71096A4A7E5A5A32CBE11
   InstallerSwitches:
     Upgrade: /allusers

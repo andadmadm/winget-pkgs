@@ -8,7 +8,7 @@ Commands:
 - EnvyUpdate
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/fyr77/EnvyUpdate/releases/download/2.15/EnvyUpdate.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fyr77/EnvyUpdate/releases/download/2.15/EnvyUpdate.exe
   InstallerSha256: 6D89DD81E15767F185A38857069F9EFC6655114BC6AD33E6AC8210B718C3938A
 ManifestType: installer
 ManifestVersion: 1.4.0

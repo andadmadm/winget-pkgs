@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/responsively-org/responsively-app/releases/download/v0.17.0/ResponsivelyApp-Setup-0.17.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/responsively-org/responsively-app/releases/download/v0.17.0/ResponsivelyApp-Setup-0.17.0.exe
   InstallerSha256: 675B24DD84678EB2CBFFFD878F9B89B498CFC1DA873AF74145FEF9AE266C0C92
   UpgradeBehavior: install
 ManifestType: installer

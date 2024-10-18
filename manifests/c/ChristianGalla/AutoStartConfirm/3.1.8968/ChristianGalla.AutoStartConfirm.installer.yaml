@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ChristianGalla/AutoStartConfirm/releases/download/v3.1.8968/AutoStartConfirmSetup_Standalone.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChristianGalla/AutoStartConfirm/releases/download/v3.1.8968/AutoStartConfirmSetup_Standalone.msi
   InstallerSha256: 506A74740C646525408B09EEB432343966A45C0345882C885DCEBE71111B6E92
 ManifestType: installer
 ManifestVersion: 1.6.0

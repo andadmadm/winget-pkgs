@@ -12,13 +12,13 @@ ReleaseDate: 2024-01-03
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jcv8000/Codex/releases/download/v2.0.4/Codex-2.0.4-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jcv8000/Codex/releases/download/v2.0.4/Codex-2.0.4-Setup.exe
   InstallerSha256: 108032766675CFFD2A27285712D92EAB2CEDDAEE3D5F790B5BCB25733B92405D
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jcv8000/Codex/releases/download/v2.0.4/Codex-2.0.4-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jcv8000/Codex/releases/download/v2.0.4/Codex-2.0.4-Setup.exe
   InstallerSha256: 108032766675CFFD2A27285712D92EAB2CEDDAEE3D5F790B5BCB25733B92405D
   InstallerSwitches:
     Custom: /ALLUSERS

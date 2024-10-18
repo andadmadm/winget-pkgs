@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/monkeyWie/gopeed/releases/download/v1.1.2/Gopeed-v1.1.2-windows-amd64-install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/monkeyWie/gopeed/releases/download/v1.1.2/Gopeed-v1.1.2-windows-amd64-install.exe
   InstallerSha256: 54CF17E9FF2B46CA726A1D12EC60D1C7372B5CE55A1DC5005AB638D4B37D3559
   ProductCode: '{5960F34D-1E42-402C-8C85-DE2FF24CBAE4}_is1'
 ManifestType: installer

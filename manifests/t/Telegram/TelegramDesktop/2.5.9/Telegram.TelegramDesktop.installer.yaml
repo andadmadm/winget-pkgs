@@ -14,7 +14,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v2.5.9/tsetup.2.5.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v2.5.9/tsetup.2.5.9.exe
   InstallerSha256: 91C093CD6FF92CD8EA84FA3782F657361C1391A8BF51C2E2172E2AABE0785AA5
   UpgradeBehavior: install
 ManifestType: installer

@@ -13,15 +13,15 @@ Dependencies:
 PackageFamilyName: Microsoft.Windows.DevHome_8wekyb3d8bbwe
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.1301.477.0/Windows.DevHome_0.1301.477.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.1301.477.0/Windows.DevHome_0.1301.477.0.msixbundle
   InstallerSha256: D38711FB01E261D9A7B8E700720E429FC29B9CB5675493B7C5069A655D0222A8
   SignatureSha256: A63E664F62CF4ECDD6B44166498CF7F83A71233D935D0ECCCC7DD9245339D506
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.1301.477.0/Windows.DevHome_0.1301.477.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.1301.477.0/Windows.DevHome_0.1301.477.0.msixbundle
   InstallerSha256: D38711FB01E261D9A7B8E700720E429FC29B9CB5675493B7C5069A655D0222A8
   SignatureSha256: A63E664F62CF4ECDD6B44166498CF7F83A71233D935D0ECCCC7DD9245339D506
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.1301.477.0/Windows.DevHome_0.1301.477.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.1301.477.0/Windows.DevHome_0.1301.477.0.msixbundle
   InstallerSha256: D38711FB01E261D9A7B8E700720E429FC29B9CB5675493B7C5069A655D0222A8
   SignatureSha256: A63E664F62CF4ECDD6B44166498CF7F83A71233D935D0ECCCC7DD9245339D506
 ManifestType: installer

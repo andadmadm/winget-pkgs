@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/reycn/listen1-desktop-fluent/releases/download/2.17.1/Listen1_2.17.1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/reycn/listen1-desktop-fluent/releases/download/2.17.1/Listen1_2.17.1_win64.exe
   InstallerSha256: 17289EE046153E6E0F4A9ACB956C6C880C84EBA16205DDC60B89A3E056597F4D
 ManifestType: installer
 ManifestVersion: 1.1.0

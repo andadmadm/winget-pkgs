@@ -19,7 +19,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Merrit/nyrna/releases/download/v2.11.1/Nyrna-Windows-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Merrit/nyrna/releases/download/v2.11.1/Nyrna-Windows-Installer.exe
   InstallerSha256: FBF360C197928D4DB67FD84D9F498D2CCE5491F9F8F048BC28C5851C88BF0B31
 ManifestType: installer
 ManifestVersion: 1.2.0

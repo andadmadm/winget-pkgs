@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: pack.exe
   PortableCommandAlias: pack
 Installers:
-- InstallerUrl: https://github.com/buildpacks/pack/releases/download/v0.32.1/pack-v0.32.1-windows.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/buildpacks/pack/releases/download/v0.32.1/pack-v0.32.1-windows.zip
   Architecture: x64
   InstallerSha256: 86EF260070AB89DFF805CBA2A84E7BBD0578E6FA8521E9DF609278F9DB44A684
 ManifestType: installer

@@ -12,7 +12,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: Gopeed-v1.5.6-windows-amd64.exe
-  InstallerUrl: https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/Gopeed-v1.5.6-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/Gopeed-v1.5.6-windows-amd64.zip
   InstallerSha256: 6D42582DE03D0B532D726201050EC1EEDD2E626BFD5121B0D18E23492DA95D5B
   ProductCode: '{5960F34D-1E42-402C-8C85-DE2FF24CBAE4}_is1'
 ManifestType: installer

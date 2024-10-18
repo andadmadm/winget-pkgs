@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xan105/Achievement-Watcher/releases/download/1.6.7/Achievement.Watcher.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xan105/Achievement-Watcher/releases/download/1.6.7/Achievement.Watcher.Setup.exe
   InstallerSha256: AE9FB9681FD0A2B155356F6B8D7797495C96F1CF90B4CEF499E440D7BBAA142D
 ManifestType: installer
 ManifestVersion: 1.1.0

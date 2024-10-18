@@ -74,13 +74,13 @@ ReleaseDate: 2023-01-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/spyder-ide/spyder/releases/download/v5.4.2/Spyder_64bit_full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/spyder-ide/spyder/releases/download/v5.4.2/Spyder_64bit_full.exe
   InstallerSha256: EF91DDF4BA54CF67888E6E89F54F8641E85C08F189B694F56D17C3F2DD712B65
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/spyder-ide/spyder/releases/download/v5.4.2/Spyder_64bit_full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/spyder-ide/spyder/releases/download/v5.4.2/Spyder_64bit_full.exe
   InstallerSha256: EF91DDF4BA54CF67888E6E89F54F8641E85C08F189B694F56D17C3F2DD712B65
   InstallerSwitches:
     Custom: /ALLUSERS

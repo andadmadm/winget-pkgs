@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Cactus-Network/cactus-blockchain/releases/download/1.3.4/CactusSetup-1.3.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Cactus-Network/cactus-blockchain/releases/download/1.3.4/CactusSetup-1.3.4.exe
   InstallerSha256: 6A43A852579C9B9764A3BC17694852E2F54FB7C096CEFA2C86E75E7FB7CF5F76
   ProductCode: cactus-blockchain
 ManifestType: installer

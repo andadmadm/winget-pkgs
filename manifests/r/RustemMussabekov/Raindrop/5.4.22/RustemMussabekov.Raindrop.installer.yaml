@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/raindropio/desktop/releases/download/v5.4.22/RaindropInstaller.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/raindropio/desktop/releases/download/v5.4.22/RaindropInstaller.exe
   InstallerSha256: 78401CE55C1C36F7FCF3EA32EAE1B4D65A45128133D57DFFBB264E7435C87FBC
 ManifestType: installer
 ManifestVersion: 1.1.0

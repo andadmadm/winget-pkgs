@@ -10,7 +10,7 @@ Commands:
 - ttyd.exe
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/tsl0922/ttyd/releases/download/1.7.5/ttyd.win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tsl0922/ttyd/releases/download/1.7.5/ttyd.win32.exe
   InstallerSha256: 3E0DA3165B07AD7114750EF1152B8B073F39A1E3F1FD604E11F21C4C625F9A40
 ManifestType: installer
 ManifestVersion: 1.6.0

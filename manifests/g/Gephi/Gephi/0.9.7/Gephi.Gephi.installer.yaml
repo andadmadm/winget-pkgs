@@ -9,13 +9,13 @@ ReleaseDate: 2022-08-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x64.exe
   InstallerSha256: 7390F8C5159C69A9EA0BD3E3C9E92C071AC62661470C8E3B79B4346CA53C792B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x64.exe
   InstallerSha256: 7390F8C5159C69A9EA0BD3E3C9E92C071AC62661470C8E3B79B4346CA53C792B
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/airsquared/blobsaver/releases/download/v3.1.0/blobsaver-3.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/airsquared/blobsaver/releases/download/v3.1.0/blobsaver-3.1.0.exe
   InstallerSha256: 6CE46869CD9F2E1E4FD9F39A40FE950CE50A58322C312EF95E01F6A714A587D5
 ManifestType: installer
 ManifestVersion: 1.1.0

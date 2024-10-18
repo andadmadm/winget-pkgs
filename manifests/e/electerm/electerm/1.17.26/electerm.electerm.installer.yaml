@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.17.26/electerm-1.17.26-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.17.26/electerm-1.17.26-win-x64-installer.exe
   InstallerSha256: 5B222AD33D8B003F4218B90017616F0E0A35556568063CCC94E5AE3A1DAFEF8E
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.17.26/electerm-1.17.26-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.17.26/electerm-1.17.26-win-x64-installer.exe
   InstallerSha256: 5B222AD33D8B003F4218B90017616F0E0A35556568063CCC94E5AE3A1DAFEF8E
   InstallerSwitches:
     Custom: /ALLUSERS

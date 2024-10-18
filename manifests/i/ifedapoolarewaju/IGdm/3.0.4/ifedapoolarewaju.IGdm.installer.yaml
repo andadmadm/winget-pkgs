@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-04-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-Setup-3.0.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-Setup-3.0.4.exe
   InstallerSha256: AAA2130047B3246AFEE401370BE80098C61DF97E792B7A386B924115C57733BA
 ManifestType: installer
 ManifestVersion: 1.1.0

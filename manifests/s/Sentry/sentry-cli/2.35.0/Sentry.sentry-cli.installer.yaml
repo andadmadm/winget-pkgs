@@ -9,13 +9,13 @@ Commands:
 ReleaseDate: 2024-09-05
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/getsentry/sentry-cli/releases/download/2.35.0/sentry-cli-Windows-i686.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/getsentry/sentry-cli/releases/download/2.35.0/sentry-cli-Windows-i686.exe
   InstallerSha256: BB0287880F98A4656F1AF1EC1FF33331F161990C89F69766D170771CE13909E8
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x86
 - Architecture: x64
-  InstallerUrl: https://github.com/getsentry/sentry-cli/releases/download/2.35.0/sentry-cli-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/getsentry/sentry-cli/releases/download/2.35.0/sentry-cli-Windows-x86_64.exe
   InstallerSha256: 2596622DE6E6F4CB0580B3CE1341B4F62390231AEA0C30FC127C991D379A6AC6
   Dependencies:
     PackageDependencies:

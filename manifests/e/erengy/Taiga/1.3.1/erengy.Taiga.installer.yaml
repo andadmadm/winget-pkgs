@@ -9,7 +9,7 @@ Scope: user
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/erengy/taiga/releases/download/v1.3.1/TaigaSetup_1.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erengy/taiga/releases/download/v1.3.1/TaigaSetup_1.3.1.exe
   InstallerSha256: 5F0EB95C912976C7B0B1DF9343F95BA43B201980DE5397C41A9B8E8D7ED556F3
 ManifestType: installer
 ManifestVersion: 1.2.0

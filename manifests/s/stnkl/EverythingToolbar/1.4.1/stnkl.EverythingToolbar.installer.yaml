@@ -22,7 +22,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{744F23C4-7ADB-42FA-A781-AC940DC4B454}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/srwi/EverythingToolbar/releases/download/1.4.1/EverythingToolbar-1.4.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/srwi/EverythingToolbar/releases/download/1.4.1/EverythingToolbar-1.4.1.msi
   InstallerSha256: E3B177AF10305253C19486560B97BDE36AE961F1475F308170641C0EB2B1F49C
 ManifestType: installer
 ManifestVersion: 1.6.0

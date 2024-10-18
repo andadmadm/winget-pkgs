@@ -8,7 +8,7 @@ Commands:
 - youtube-music
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/th-ch/youtube-music/releases/download/v3.3.2/YouTube-Music-Web-Setup-3.3.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/th-ch/youtube-music/releases/download/v3.3.2/YouTube-Music-Web-Setup-3.3.2.exe
   InstallerSha256: 9784CCD5C3EC6F898A587CF4C74791B4EA1421171DF9BA6C8315DDAB49D59096
 ManifestType: installer
 ManifestVersion: 1.6.0

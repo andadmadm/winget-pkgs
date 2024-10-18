@@ -13,7 +13,7 @@ InstallModes:
 - silent
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/NethermindEth/nethermind/releases/download/1.23.0/nethermind-1.23.0-bcd3b8ae-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NethermindEth/nethermind/releases/download/1.23.0/nethermind-1.23.0-bcd3b8ae-windows-x64.zip
   InstallerSha256: 071D21CF1D919B5155C6BEE193B42392C458E37D2B35EE3446805327F8D4FA0A
 ManifestType: installer
 ManifestVersion: 1.5.0

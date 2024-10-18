@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hirosystems/clarinet/releases/download/v0.26.0/clarinet-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/hirosystems/clarinet/releases/download/v0.26.0/clarinet-windows-x64.msi
   InstallerSha256: ADE105FA878792BB35A2457E6CBF4831C3733950EA5527F4F17767331091A9FF
   ProductCode: '{490F6BD7-7A06-4585-8DAF-1A2625DB4030}'
 ManifestType: installer

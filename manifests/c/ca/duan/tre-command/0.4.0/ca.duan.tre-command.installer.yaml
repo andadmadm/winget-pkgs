@@ -4,7 +4,7 @@
 PackageIdentifier: ca.duan.tre-command
 PackageVersion: 0.4.0
 Installers:
-- InstallerUrl: https://github.com/dduan/tre/releases/download/v0.4.0/tre-v0.4.1-x86_64-pc-windows-msvc.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/dduan/tre/releases/download/v0.4.0/tre-v0.4.1-x86_64-pc-windows-msvc.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

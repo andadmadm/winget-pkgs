@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: trippy-0.7.0-x86_64-pc-windows-msvc\trip.exe
     PortableCommandAlias: trip
-  InstallerUrl: https://github.com/fujiapple852/trippy/releases/download/0.7.0/trippy-0.7.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/fujiapple852/trippy/releases/download/0.7.0/trippy-0.7.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: C97282F1266719AC28DC364C4BF6257DF6408EC59A6ABA5C608139146B3B6CA5
 ManifestType: installer
 ManifestVersion: 1.4.0

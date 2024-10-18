@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{1A917CA9-57E7-5A87-88B1-686A85ACB29A}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lencx/ChatGPT/releases/download/v0.4.2/ChatGPT_0.4.2_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/lencx/ChatGPT/releases/download/v0.4.2/ChatGPT_0.4.2_x64_en-US.msi
   InstallerSha256: 6F7B098838C796CF5E93721A9D6A2BF4D968481E268410030193B2A7139C5CCB
 ManifestType: installer
 ManifestVersion: 1.4.0

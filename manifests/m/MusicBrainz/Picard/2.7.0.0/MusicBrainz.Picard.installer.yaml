@@ -10,7 +10,7 @@ InstallerType: msix
 PackageFamilyName: MetaBrainzFoundationInc.org.musicbrainz.Picard_6cfbg5p5jt8h8
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/metabrainz/picard/releases/download/release-2.7/MusicBrainz-Picard-2.7.msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/metabrainz/picard/releases/download/release-2.7/MusicBrainz-Picard-2.7.msix
   InstallerSha256: B043384228771D3DEBF78CEDC5B26165AC5DE74B51A9B0B10570E6241F87FDB3
   SignatureSha256: 439C2B7467FEBCAD610B115A60C0064A594450918128FEA271F57CB2A4D548B8
 ManifestType: installer

@@ -11,7 +11,7 @@ Installers:
 - Architecture: x86
   NestedInstallerFiles:
   - RelativeFilePath: lsd-v1.1.2-i686-pc-windows-msvc/lsd.exe
-  InstallerUrl: https://github.com/lsd-rs/lsd/releases/download/v1.1.2/lsd-v1.1.2-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/lsd-rs/lsd/releases/download/v1.1.2/lsd-v1.1.2-i686-pc-windows-msvc.zip
   InstallerSha256: D42F4D5306C6CFC8112C8743A398F3E349DF65FBEAFB0653637C67836161707A
   Dependencies:
     PackageDependencies:
@@ -19,7 +19,7 @@ Installers:
 - Architecture: x64
   NestedInstallerFiles:
   - RelativeFilePath: lsd-v1.1.2-x86_64-pc-windows-msvc/lsd.exe
-  InstallerUrl: https://github.com/lsd-rs/lsd/releases/download/v1.1.2/lsd-v1.1.2-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/lsd-rs/lsd/releases/download/v1.1.2/lsd-v1.1.2-x86_64-pc-windows-msvc.zip
   InstallerSha256: B739FCD2DE1AE51367977FDB48CDBD296DBBE1605499FF20BAAE87E320EEF716
   Dependencies:
     PackageDependencies:

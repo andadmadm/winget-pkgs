@@ -6,7 +6,7 @@ PackageVersion: 1.2.1
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tecwindow/albayan/releases/download/1.2.1/AlbayanV1.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tecwindow/albayan/releases/download/1.2.1/AlbayanV1.2.1.exe
   InstallerSha256: D452420E2E43262AE4EF37706EB5B86EA1CFE5E105E59D86CAB7360F9872089E
 ManifestType: installer
 ManifestVersion: 1.6.0

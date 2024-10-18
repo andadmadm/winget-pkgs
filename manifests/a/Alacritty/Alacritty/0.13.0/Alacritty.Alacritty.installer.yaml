@@ -22,7 +22,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{87C21C74-DBD5-4584-89D5-46D9CD0C40A7}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alacritty/alacritty/releases/download/v0.13.0/Alacritty-v0.13.0-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/alacritty/alacritty/releases/download/v0.13.0/Alacritty-v0.13.0-installer.msi
   InstallerSha256: 034B61C31A64FA715CAA4F0554E31249EA277F3492AA49E8B514FDC95C8CF8FF
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{74DA413C-2E60-4151-9E56-AD3CC6320F7D}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/6.2.0.build.723/Papercut.Smtp.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/6.2.0.build.723/Papercut.Smtp.Setup.exe
   InstallerSha256: 7B6161DDDDB5BE11D240AF6D035615456E6EAA03171DECDB2476E4523F5FBDC6
   ProductCode: '{333217d4-ef7e-4b28-b135-5d5181f0c9d2}'
 ManifestType: installer

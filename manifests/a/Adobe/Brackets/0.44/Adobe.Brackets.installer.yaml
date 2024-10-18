@@ -11,7 +11,7 @@ InstallerSwitches:
   Custom: /QUIET /NORESTART
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adobe/brackets/releases/download/release-0.44/Brackets.Release.0.44.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adobe/brackets/releases/download/release-0.44/Brackets.Release.0.44.msi
   InstallerSha256: A24B62CA1DC8C3AD1F0FB84539892A815283E2BD327BB28F243FFDD7036109F5
   ProductCode: '{4BEC8136-EB86-4CE8-BD78-929F825FC247}'
 ManifestType: installer

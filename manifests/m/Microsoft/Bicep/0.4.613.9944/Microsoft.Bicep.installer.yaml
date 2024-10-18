@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/Azure/bicep/releases/download/v0.4.613/bicep-setup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/bicep/releases/download/v0.4.613/bicep-setup-win-x64.exe
   InstallerSha256: 4017616DA4A125F9DAF742B287831CEFD5B9167894AED4312C7CABB8D60787CE
   UpgradeBehavior: install
 ManifestType: installer

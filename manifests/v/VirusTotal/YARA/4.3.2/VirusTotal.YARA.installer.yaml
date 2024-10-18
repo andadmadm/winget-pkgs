@@ -4,7 +4,7 @@
 PackageIdentifier: VirusTotal.YARA
 PackageVersion: 4.3.2
 Installers:
-- InstallerUrl: https://github.com/VirusTotal/yara/releases/download/v4.3.2/yara-4.3.2-2150-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/VirusTotal/yara/releases/download/v4.3.2/yara-4.3.2-2150-win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

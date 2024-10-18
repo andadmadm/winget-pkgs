@@ -15,11 +15,11 @@ ReleaseDate: 2024-02-15
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/BirthdayResearch/defichain-app/releases/download/v4.0.9/DeFi-Wallet-Setup-4.0.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BirthdayResearch/defichain-app/releases/download/v4.0.9/DeFi-Wallet-Setup-4.0.9.exe
   InstallerSha256: 69B406F8B40D5FC5C1AEDE9C864E1F988786AA061214013B02993E7AF975326E
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/BirthdayResearch/defichain-app/releases/download/v4.0.9/DeFi-Wallet-Setup-4.0.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BirthdayResearch/defichain-app/releases/download/v4.0.9/DeFi-Wallet-Setup-4.0.9.exe
   InstallerSha256: 69B406F8B40D5FC5C1AEDE9C864E1F988786AA061214013B02993E7AF975326E
 ManifestType: installer
 ManifestVersion: 1.6.0

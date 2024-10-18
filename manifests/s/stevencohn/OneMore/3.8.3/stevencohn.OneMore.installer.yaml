@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: msi
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/3.8.3/OneMore_3.8.3_Setupx64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/3.8.3/OneMore_3.8.3_Setupx64.msi
   InstallerSha256: 4E702C8A97136FF96337E6E8B85C92CD7A23847366115542FAB13DD337CE375C
   ProductCode: '{46F56BAA-5839-4AC9-A8B7-9539C9E59032}'
 ManifestType: installer

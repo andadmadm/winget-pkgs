@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: delta-0.15.1-x86_64-pc-windows-msvc\delta.exe
     PortableCommandAlias: delta
-  InstallerUrl: https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-x86_64-pc-windows-msvc.zip
   InstallerSha256: 4BA69BA67EFF330B5479873704A0EC86820671C735F06998697E7D0F3E7335FA
 ManifestType: installer
 ManifestVersion: 1.4.0

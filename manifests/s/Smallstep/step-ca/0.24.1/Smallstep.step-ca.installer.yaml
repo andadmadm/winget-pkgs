@@ -10,7 +10,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: step-ca_0.24.1\step-ca.exe
     PortableCommandAlias: step-ca
-  InstallerUrl: https://github.com/smallstep/certificates/releases/download/v0.24.1/step-ca_windows_0.24.1_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/smallstep/certificates/releases/download/v0.24.1/step-ca_windows_0.24.1_amd64.zip
   InstallerSha256: 87A3BCA5080A95F135ABDCB7E2D340681886A7BBC388E23F249114EB85DFA56D
 Dependencies:
   PackageDependencies:

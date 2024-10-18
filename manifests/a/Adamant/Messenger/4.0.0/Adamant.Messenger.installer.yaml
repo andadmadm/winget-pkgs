@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
   ProductCode: e57d470b-66ea-5566-9a14-aea226c71c85
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Adamant-im/adamant-im/releases/download/v4.0.0/ADAMANT-Messenger-Setup-4.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Adamant-im/adamant-im/releases/download/v4.0.0/ADAMANT-Messenger-Setup-4.0.0.exe
   InstallerSha256: 34B4367986A146FEB580929D5F05A592BB536D434B5D43B3CDD28919AC279F3E
   ProductCode: e57d470b-66ea-5566-9a14-aea226c71c85
 ManifestType: installer

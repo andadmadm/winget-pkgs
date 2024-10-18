@@ -10,7 +10,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-02-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AssetRipper/AssetRipper/releases/download/1.0.7/AssetRipper_win_x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AssetRipper/AssetRipper/releases/download/1.0.7/AssetRipper_win_x64.zip
   InstallerSha256: 48822ABB84DFC6CF772EA8056ED54A2062508232638D311E3447CD63CDD8978F
 ManifestType: installer
 ManifestVersion: 1.6.0

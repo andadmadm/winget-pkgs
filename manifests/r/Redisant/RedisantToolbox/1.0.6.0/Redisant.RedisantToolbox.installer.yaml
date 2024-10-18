@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: RT-1.0.6.0-windows-x64\RT-1.0.6.0.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/redisant-toolbox-release/releases/download/v1.0.6.0/RT-1.0.6.0-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/redisant-toolbox-release/releases/download/v1.0.6.0/RT-1.0.6.0-windows-x64.zip
   InstallerSha256: E596471A9790E7AB97052C52C182E0E8A511E5618A55ABDBAB9AC4994345B63A
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: RT-1.0.6.0-windows-x64\RT-1.0.6.0.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/redisant-toolbox-release/releases/download/v1.0.6.0/RT-1.0.6.0-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/redisant-toolbox-release/releases/download/v1.0.6.0/RT-1.0.6.0-windows-x64.zip
   InstallerSha256: E596471A9790E7AB97052C52C182E0E8A511E5618A55ABDBAB9AC4994345B63A
   InstallerSwitches:
     Custom: /ALLUSERS

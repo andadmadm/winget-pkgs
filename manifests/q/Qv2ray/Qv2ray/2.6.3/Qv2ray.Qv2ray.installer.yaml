@@ -13,14 +13,14 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Qv2ray/Qv2ray/releases/download/v2.6.3/qv2ray-2.6.3-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.6.3/qv2ray-2.6.3-win64.exe
   InstallerSha256: 6E3386750AE422336BA34D86E96599316652A10065E72498A083963E8B08545F
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Qv2ray/Qv2ray/releases/download/v2.6.3/qv2ray-2.6.3-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.6.3/qv2ray-2.6.3-win32.exe
   InstallerSha256: 76BCF87E0546DDEEC5B15682D859A6D0A7163AF1E0F731C3618192C85A86D3C9
   UpgradeBehavior: install
 ManifestType: installer

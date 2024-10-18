@@ -4,7 +4,7 @@
 PackageIdentifier: TripleAGame.TripleA
 PackageVersion: 2.5.22294
 Installers:
-- InstallerUrl: https://github.com/triplea-game/triplea/releases/download/2.5.22294/TripleA_2.5.22294_windows-64bit.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/triplea-game/triplea/releases/download/2.5.22294/TripleA_2.5.22294_windows-64bit.exe
   Architecture: x64
   InstallerType: exe
   InstallerSha256: 0EDDC4E13BFF3A1BFCAD6A1D5F2429557552076D0C70F5FCD1AAF8F1CF889DEA

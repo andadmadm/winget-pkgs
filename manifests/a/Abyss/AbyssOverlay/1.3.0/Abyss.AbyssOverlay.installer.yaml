@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0.exe
   InstallerSha256: C9CBC018FFA7BD996D8497BAC666CCFC13BE7812967D08CC99C3DF84157EE4D2
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0.exe
   InstallerSha256: C9CBC018FFA7BD996D8497BAC666CCFC13BE7812967D08CC99C3DF84157EE4D2
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -30,7 +30,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0_x32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0_x32.exe
   InstallerSha256: 60CA0C89B8961687BEC495F28D0B875ED55263A975BFB04768378BBED6F12445
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -39,7 +39,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0_x32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chit132/abyss-overlay/releases/download/v1.3.0/Abyss.Overlay.Setup.v1.3.0_x32.exe
   InstallerSha256: 60CA0C89B8961687BEC495F28D0B875ED55263A975BFB04768378BBED6F12445
   InstallerSwitches:
     Custom: /ALLUSERS

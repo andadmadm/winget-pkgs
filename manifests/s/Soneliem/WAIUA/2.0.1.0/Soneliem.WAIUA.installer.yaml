@@ -10,13 +10,13 @@ ReleaseDate: 2022-07-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Soneliem/WAIUA/releases/download/v2.0.1.0/WAIUA.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Soneliem/WAIUA/releases/download/v2.0.1.0/WAIUA.exe
   InstallerSha256: 09065AFCF05E307F062D00855ABD10A407748BF0A3A9351464380EC14CF1A6FE
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Soneliem/WAIUA/releases/download/v2.0.1.0/WAIUA.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Soneliem/WAIUA/releases/download/v2.0.1.0/WAIUA.exe
   InstallerSha256: 09065AFCF05E307F062D00855ABD10A407748BF0A3A9351464380EC14CF1A6FE
   InstallerSwitches:
     Custom: /ALLUSERS

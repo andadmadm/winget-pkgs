@@ -19,7 +19,7 @@ Dependencies:
 ReleaseDate: 2022-10-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alacritty/alacritty/releases/download/v0.11.0/Alacritty-v0.11.0-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/alacritty/alacritty/releases/download/v0.11.0/Alacritty-v0.11.0-installer.msi
   InstallerSha256: 603D497068BFB552830EAE1F1553E674FD183B0AF0A2D666541914BF51ED1458
   ProductCode: '{17C2BE9D-0616-48C2-80A5-709CC5BA2975}'
 ManifestType: installer

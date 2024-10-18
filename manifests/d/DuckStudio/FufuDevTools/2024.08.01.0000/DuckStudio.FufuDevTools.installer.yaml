@@ -20,10 +20,10 @@ Protocols:
 - https
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.08.01.0000/Fufu_Dev_Tools_Setup_2024.08.01.0000.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.08.01.0000/Fufu_Dev_Tools_Setup_2024.08.01.0000.exe
   InstallerSha256: 368B188F0B9A3B2D03B8E1B5A0048BF22CC96368CB6A823B9F2DAFDBD1DC38CA
 - Architecture: x86
-  InstallerUrl: https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.08.01.0000/Fufu_Dev_Tools_Setup_2024.08.01.0000.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.08.01.0000/Fufu_Dev_Tools_Setup_2024.08.01.0000.exe
   InstallerSha256: 368B188F0B9A3B2D03B8E1B5A0048BF22CC96368CB6A823B9F2DAFDBD1DC38CA
 ManifestType: installer
 ManifestVersion: 1.6.0

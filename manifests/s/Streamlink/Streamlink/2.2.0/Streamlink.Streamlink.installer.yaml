@@ -6,7 +6,7 @@ PackageVersion: 2.2.0
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/streamlink/streamlink/releases/download/2.2.0/streamlink-2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/streamlink/releases/download/2.2.0/streamlink-2.2.0.exe
   InstallerSha256: CA6B9664AE56892AE6A003BAC8778A1458978E6457411CA4D17E2DA26C2A0B53
 ManifestType: installer
 ManifestVersion: 1.0.0

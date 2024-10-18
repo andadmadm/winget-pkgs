@@ -22,7 +22,7 @@ Dependencies:
 ReleaseDate: 2022-03-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/katahiromz/RisohEditor/releases/download/5.7.0/RisohEditor-5.7.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/katahiromz/RisohEditor/releases/download/5.7.0/RisohEditor-5.7.0-installer.exe
   InstallerSha256: 4E8B774A7735E88CA19108D5DF73B87CBE2A0F53CFD464C7ED3AE25F6CAAA70C
   ProductCode: '{AF7494D1-406F-4D04-A8FE-8F9DAB97F611}_is1'
 ManifestType: installer

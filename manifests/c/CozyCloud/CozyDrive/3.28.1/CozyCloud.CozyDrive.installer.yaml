@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.28.1/Cozy-Drive-Setup-3.28.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cozy-labs/cozy-desktop/releases/download/v3.28.1/Cozy-Drive-Setup-3.28.1.exe
   InstallerSha256: 15B960260D04419A3768885BCDB1948A69D0FEF82BF1AB7F1203952F2D97BE6D
   UpgradeBehavior: install
 ManifestType: installer

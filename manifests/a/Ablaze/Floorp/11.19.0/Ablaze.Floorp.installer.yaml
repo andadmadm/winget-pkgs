@@ -24,7 +24,7 @@ UpgradeBehavior: install
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.19.0/floorp-win64.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.19.0/floorp-win64.installer.exe
   InstallerSha256: 3ABCDA79206439C1664FAFBF44CE6B95652361BC3EB5D4BDEAB305E49C8184FA
   AppsAndFeaturesEntries:
   - DisplayName: Ablaze Floorp (x64 en-US)

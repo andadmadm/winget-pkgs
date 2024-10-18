@@ -50,7 +50,7 @@ FileExtensions:
 ReleaseDate: 2021-11-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sc0ty/subsync/releases/download/0.17/subsync-0.17.0-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sc0ty/subsync/releases/download/0.17/subsync-0.17.0-amd64.msi
   InstallerSha256: 6288F178565AB7C3823A6CB5C022D9B861E42207ED7DC8DA385F0AA26A4D5882
   ProductCode: '{8E2BF58C-CF5E-4C68-8A11-EC486AC33900}'
 ManifestType: installer

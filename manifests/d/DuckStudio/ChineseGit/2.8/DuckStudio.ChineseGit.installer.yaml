@@ -25,12 +25,12 @@ Protocols:
 ReleaseDate: 2024-07-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DuckDuckStudio/Chinese_git/releases/download/v2.8/Chinese_git_Setup_v2.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Chinese_git/releases/download/v2.8/Chinese_git_Setup_v2.8.exe
   InstallerSha256: 5c2a28a47cbce7850f53115d6283accb5020fa37eee910cd846145e7aa06849d
   AppsAndFeaturesEntries:
   - DisplayVersion: 'v2.8'
 - Architecture: x86
-  InstallerUrl: https://github.com/DuckDuckStudio/Chinese_git/releases/download/v2.8/Chinese_git_Setup_v2.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Chinese_git/releases/download/v2.8/Chinese_git_Setup_v2.8.exe
   InstallerSha256: 5c2a28a47cbce7850f53115d6283accb5020fa37eee910cd846145e7aa06849d
   AppsAndFeaturesEntries:
   - DisplayVersion: 'v2.8'

@@ -15,14 +15,14 @@ ReleaseDate: 2024-03-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/buttercup/buttercup-desktop/releases/download/v2.27.0/Buttercup-win-x64-2.27.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buttercup/buttercup-desktop/releases/download/v2.27.0/Buttercup-win-x64-2.27.0-installer.exe
   InstallerSha256: 89ABB63DC40C1A486F9AE3FDB05E0CFCF4A84BB24005604F516FAB0B90455DEC
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 4c001084-53b7-523b-b2ec-956799d8be55
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/buttercup/buttercup-desktop/releases/download/v2.27.0/Buttercup-win-x64-2.27.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buttercup/buttercup-desktop/releases/download/v2.27.0/Buttercup-win-x64-2.27.0-installer.exe
   InstallerSha256: 89ABB63DC40C1A486F9AE3FDB05E0CFCF4A84BB24005604F516FAB0B90455DEC
   InstallerSwitches:
     Custom: /allusers

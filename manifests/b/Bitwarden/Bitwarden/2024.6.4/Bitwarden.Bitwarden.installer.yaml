@@ -16,13 +16,13 @@ ReleaseDate: 2024-07-02
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2024.6.4/Bitwarden-Installer-2024.6.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2024.6.4/Bitwarden-Installer-2024.6.4.exe
   InstallerSha256: 0685E7222EF599C67435AE12ABF3B0276D9342ECAE740193E05FFEB13D6DE6F5
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2024.6.4/Bitwarden-Installer-2024.6.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2024.6.4/Bitwarden-Installer-2024.6.4.exe
   InstallerSha256: 0685E7222EF599C67435AE12ABF3B0276D9342ECAE740193E05FFEB13D6DE6F5
   InstallerSwitches:
     Custom: /allusers

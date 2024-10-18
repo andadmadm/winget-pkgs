@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-05-10
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/ClementTsang/bottom/releases/download/0.9.0/bottom_x86_64_installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClementTsang/bottom/releases/download/0.9.0/bottom_x86_64_installer.msi
   InstallerSha256: 07A917CFDFC6367F6F08459A9CD5CD30660E2675DD916B487B0FE72FDCD61425
   ProductCode: '{4BAD3238-BF1C-4B5B-9BA8-209BA3EA169D}'
 ManifestType: installer

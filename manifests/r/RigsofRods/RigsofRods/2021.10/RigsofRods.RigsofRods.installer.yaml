@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT /COMPONENTS=""
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RigsOfRods/rigs-of-rods/releases/download/2021.10/RoR_2021.10_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RigsOfRods/rigs-of-rods/releases/download/2021.10/RoR_2021.10_Setup.exe
   InstallerSha256: 8079ADD2FADF50D018FDB0B9229D3BA1DF86B181C8B9B22AC09DEE1EDB6CAECB
 ManifestType: installer
 ManifestVersion: 1.0.0

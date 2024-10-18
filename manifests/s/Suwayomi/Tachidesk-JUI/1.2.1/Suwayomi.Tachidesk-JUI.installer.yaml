@@ -15,7 +15,7 @@ Commands:
 ReleaseDate: 2022-01-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Suwayomi/Tachidesk-JUI/releases/download/v1.2.1/Tachidesk-JUI-windows-x64-1.2.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Suwayomi/Tachidesk-JUI/releases/download/v1.2.1/Tachidesk-JUI-windows-x64-1.2.1.msi
   InstallerSha256: 5120B9DEF140EAFC97863AE9BD54692CDAD3116A59FE311BD2833AE5BA6F5645
   ProductCode: '{BDB2522A-8B49-3111-9B4B-5F6DB30363C3}'
 ManifestType: installer

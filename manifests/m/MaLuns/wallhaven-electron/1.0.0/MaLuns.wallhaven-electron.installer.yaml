@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2020-10-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/MaLuns/wallhaven-electron/releases/download/v1.0.0/one-wallhaven.Setup.1.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MaLuns/wallhaven-electron/releases/download/v1.0.0/one-wallhaven.Setup.1.0.0.exe
   InstallerSha256: 9D78867B801892A3D53C80AA267C483C943E350DC56693A164B0CF18306B47DA
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/ramboxapp/community-edition/releases/download/0.7.8/Rambox-0.7.8-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/community-edition/releases/download/0.7.8/Rambox-0.7.8-win.exe
   InstallerSha256: 603A7BA124687F0A4071CF2FCD68DED2FFA96F6FE381E193382A06B4E8E31BDD
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/ramboxapp/community-edition/releases/download/0.7.8/Rambox-0.7.8-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/community-edition/releases/download/0.7.8/Rambox-0.7.8-win.exe
   InstallerSha256: 603A7BA124687F0A4071CF2FCD68DED2FFA96F6FE381E193382A06B4E8E31BDD
   InstallerSwitches:
     Custom: /ALLUSERS

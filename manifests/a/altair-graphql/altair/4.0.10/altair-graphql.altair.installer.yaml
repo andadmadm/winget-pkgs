@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/altair-graphql/altair/releases/download/v4.0.10/altair_4.0.10_x64_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/altair-graphql/altair/releases/download/v4.0.10/altair_4.0.10_x64_win.exe
   InstallerSha256: 64F79D639CEFAF46EA9CD7E833CF414170E0654BA6903ECDA8CB41964B4EB0BC
 ManifestType: installer
 ManifestVersion: 1.0.0

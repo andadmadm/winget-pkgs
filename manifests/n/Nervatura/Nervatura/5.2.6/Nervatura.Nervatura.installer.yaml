@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nervatura/nervatura/releases/download/v5.2.6/nervatura_5.2.6_windows_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nervatura/nervatura/releases/download/v5.2.6/nervatura_5.2.6_windows_x64.exe
   InstallerSha256: 08DAA9EB326CEB550B82643825A4A02A584FF899693F240CDA84FD163C8B42D0
 ManifestType: installer
 ManifestVersion: 1.5.0

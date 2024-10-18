@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/Texnomic/SecureDNS/releases/download/v0.3-alpha/Texnomic.SecureDNS.Terminal-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Texnomic/SecureDNS/releases/download/v0.3-alpha/Texnomic.SecureDNS.Terminal-x64.msi
   InstallerSha256: 7D7F2DA9635C12FACE59ADBE089FECF32AE3CA9EE25E6025B9143678F4A925A8
   UpgradeBehavior: install
   ProductCode: '{3564A7C5-F151-4830-A1E7-250DD8D7F713}'

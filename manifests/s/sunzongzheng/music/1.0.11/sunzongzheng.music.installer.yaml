@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sunzongzheng/music/releases/download/v1.0.11/player-1.0.11-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sunzongzheng/music/releases/download/v1.0.11/player-1.0.11-win.exe
   InstallerSha256: FDCA53DD137608855666AC630E27A2440F37615D896B0BE7ADA4F5B72DA09C2A
 ManifestType: installer
 ManifestVersion: 1.1.0

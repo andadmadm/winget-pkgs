@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/BornToBeRoot/NETworkManager/releases/download/2021.9.5.0/NETworkManager_2021.9.5.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BornToBeRoot/NETworkManager/releases/download/2021.9.5.0/NETworkManager_2021.9.5.0_Setup.exe
   InstallerSha256: 883188AD58FB936FCA82846A261840F67E19734C20093996CBCDA75F4CE41EAA
   UpgradeBehavior: install
 ManifestType: installer

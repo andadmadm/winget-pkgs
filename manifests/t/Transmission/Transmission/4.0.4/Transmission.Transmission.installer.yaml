@@ -18,7 +18,7 @@ FileExtensions:
 ReleaseDate: 2023-08-23
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/transmission/transmission/releases/download/4.0.4/transmission-4.0.4-qt5-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/transmission/transmission/releases/download/4.0.4/transmission-4.0.4-qt5-x86.msi
   InstallerSha256: 9C850EDA756CE5D2B8F9AE2DA9EBCDA76A27EFEE7A10F040B8D5C5B502EE0487
   Dependencies:
     PackageDependencies:
@@ -28,7 +28,7 @@ Installers:
   - DisplayName: Transmission 4.0.4 (24077e3511)
     UpgradeCode: '{1FB3C295-9BD4-4248-8C8B-B85CD11FE7C4}'
 - Architecture: x64
-  InstallerUrl: https://github.com/transmission/transmission/releases/download/4.0.4/transmission-4.0.4-qt5-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/transmission/transmission/releases/download/4.0.4/transmission-4.0.4-qt5-x64.msi
   InstallerSha256: 3317EC120481DBD36B75AF8D01CB397638073D91EF01F66EDC55E4AFBC8B2955
   Dependencies:
     PackageDependencies:

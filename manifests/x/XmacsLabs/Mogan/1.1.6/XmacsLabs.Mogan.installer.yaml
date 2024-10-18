@@ -13,7 +13,7 @@ FileExtensions:
 ReleaseDate: 2023-09-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/XmacsLabs/mogan/releases/download/v1.1.6/Mogan-v1.1.6-64bit-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/XmacsLabs/mogan/releases/download/v1.1.6/Mogan-v1.1.6-64bit-installer.exe
   InstallerSha256: 4E4FC2D7BBCEC2959D422C7EA3B164163C3BFD0215A8E566B9DE8D47376F58BB
   ProductCode: Mogan_is1
 ManifestType: installer

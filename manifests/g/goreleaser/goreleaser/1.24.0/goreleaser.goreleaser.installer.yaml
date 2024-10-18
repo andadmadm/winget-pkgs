@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: goreleaser.exe
         PortableCommandAlias: goreleaser
-    InstallerUrl: https://github.com/goreleaser/goreleaser/releases/download/v1.24.0/goreleaser_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goreleaser/goreleaser/releases/download/v1.24.0/goreleaser_Windows_x86_64.zip
     InstallerSha256: 251bf38fc28e56736be12192987c7925aa084998696dba19e1eba5570bcc8eb8
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: goreleaser.exe
         PortableCommandAlias: goreleaser
-    InstallerUrl: https://github.com/goreleaser/goreleaser/releases/download/v1.24.0/goreleaser_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goreleaser/goreleaser/releases/download/v1.24.0/goreleaser_Windows_i386.zip
     InstallerSha256: 2b1ec83c32b8d76f9aae94d8813956de3dc243284e5e6b1406f1adf6684d3469
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: goreleaser.exe
         PortableCommandAlias: goreleaser
-    InstallerUrl: https://github.com/goreleaser/goreleaser/releases/download/v1.24.0/goreleaser_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goreleaser/goreleaser/releases/download/v1.24.0/goreleaser_Windows_arm64.zip
     InstallerSha256: 364718814e20816e3a5af51783a6101731c3744c843afa9590d8337bf46aced8
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /VERYSILENT
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PurpleI2P/i2pd/releases/download/2.32.0/setup_i2pd_v2.32.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PurpleI2P/i2pd/releases/download/2.32.0/setup_i2pd_v2.32.0.exe
   InstallerSha256: EFCE291C34E4CF003A3E4852AABA5B33447D4E413FF68B1769E23F4457C41E3E
 ManifestType: installer
 ManifestVersion: 1.1.0

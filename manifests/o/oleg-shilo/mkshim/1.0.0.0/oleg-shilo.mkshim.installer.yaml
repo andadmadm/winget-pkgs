@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: mkshim.exe
   PortableCommandAlias: mkshim
 Installers:
-- InstallerUrl: https://github.com/oleg-shilo/mkshim/releases/download/v1.0.0.0/mkshim.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/oleg-shilo/mkshim/releases/download/v1.0.0.0/mkshim.zip
   Architecture: neutral
   InstallerSha256: 4D279EF418C99FF08410A773E19C33F3619F62899C55A87368DFA566351BECE2
 ManifestType: installer

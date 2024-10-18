@@ -13,7 +13,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/SquitchYT/Tess/releases/download/0.6.2/tess-0.6.2-setup-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SquitchYT/Tess/releases/download/0.6.2/tess-0.6.2-setup-x86_64.exe
   InstallerSha256: E8966B104385FEE46D43B5C33FED3492F29F6C279EA175165433B48C068388E6
   ProductCode: Tess_is1
 ManifestType: installer

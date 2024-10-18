@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.0/BotFramework-Emulator-4.14.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.0/BotFramework-Emulator-4.14.0-windows-setup.exe
   InstallerSha256: 8D74690EC2E25C044B0A0D98BDD879D733CA56CEDD2097756F20ACC0E417DD89
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.0/BotFramework-Emulator-4.14.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.0/BotFramework-Emulator-4.14.0-windows-setup.exe
   InstallerSha256: 8D74690EC2E25C044B0A0D98BDD879D733CA56CEDD2097756F20ACC0E417DD89
   InstallerSwitches:
     Custom: /ALLUSERS

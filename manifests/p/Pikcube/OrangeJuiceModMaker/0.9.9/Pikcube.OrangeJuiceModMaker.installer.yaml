@@ -7,13 +7,13 @@ InstallerType: inno
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/pikcube/OrangeJuiceModMaker/releases/download/v0.9.9/OJSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pikcube/OrangeJuiceModMaker/releases/download/v0.9.9/OJSetup.exe
   InstallerSha256: 215C3AB3CBC665E3B73D4D395AD9ADB4DDDC5244110CEF187BC13CF9901D6D24
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/pikcube/OrangeJuiceModMaker/releases/download/v0.9.9/OJSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pikcube/OrangeJuiceModMaker/releases/download/v0.9.9/OJSetup.exe
   InstallerSha256: 215C3AB3CBC665E3B73D4D395AD9ADB4DDDC5244110CEF187BC13CF9901D6D24
   InstallerSwitches:
     Custom: /CURRENTUSER

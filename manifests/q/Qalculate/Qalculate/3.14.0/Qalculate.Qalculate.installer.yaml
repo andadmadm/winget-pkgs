@@ -7,7 +7,7 @@ MinimumOSVersion: 6.1.7600
 InstallerType: msi
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Qalculate/qalculate-gtk/releases/download/v3.14.0/qalculate-3.14.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Qalculate/qalculate-gtk/releases/download/v3.14.0/qalculate-3.14.0-x64.msi
   InstallerSha256: 4A598BC07D13F7E14AC4FA2BF38EF403B43C73A805B9C1AF876510A6F223A9CD
   ProductCode: '{B1C32E31-537E-4395-9D6A-76148593530F}'
 ManifestType: installer

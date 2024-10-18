@@ -14,7 +14,7 @@ ProductCode: '{0F9E07AA-23F7-4975-9F97-71F0F758D5B7}'
 ReleaseDate: 2024-10-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/glzr-io/glazewm/releases/download/v3.4.0/glazewm-v3.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/glzr-io/glazewm/releases/download/v3.4.0/glazewm-v3.4.0.exe
   InstallerSha256: 53FAEAEF23059CB2E3711043B462F97FE9440381728E6C374C08350C97FC0DFA
 ManifestType: installer
 ManifestVersion: 1.6.0

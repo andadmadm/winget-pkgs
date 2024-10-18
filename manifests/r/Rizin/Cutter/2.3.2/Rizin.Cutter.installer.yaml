@@ -13,7 +13,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: Cutter-v2.3.2-Windows-x86_64/cutter.exe
     PortableCommandAlias: cutter
-  InstallerUrl: https://github.com/rizinorg/cutter/releases/download/v2.3.2/Cutter-v2.3.2-Windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/rizinorg/cutter/releases/download/v2.3.2/Cutter-v2.3.2-Windows-x86_64.zip
   InstallerSha256: E53A137809A610F939CE13744640F0DA67369E87FDB1B2545BE3E417C7781C8E
 ManifestType: installer
 ManifestVersion: 1.5.0

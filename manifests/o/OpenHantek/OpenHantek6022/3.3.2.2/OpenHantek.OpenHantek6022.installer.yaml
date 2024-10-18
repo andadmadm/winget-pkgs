@@ -4,7 +4,7 @@
 PackageIdentifier: OpenHantek.OpenHantek6022
 PackageVersion: 3.3.2.2
 Installers:
-- InstallerUrl: https://github.com/OpenHantek/OpenHantek6022/releases/download/3.3.2.2/openhantek_3.3.2.2-1_win_x64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/OpenHantek/OpenHantek6022/releases/download/3.3.2.2/openhantek_3.3.2.2-1_win_x64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

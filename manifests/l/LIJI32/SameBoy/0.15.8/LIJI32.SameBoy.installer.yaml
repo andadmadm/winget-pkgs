@@ -13,7 +13,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x86
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/LIJI32/SameBoy/releases/download/v0.15.8/sameboy_winsdl_v0.15.8.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/LIJI32/SameBoy/releases/download/v0.15.8/sameboy_winsdl_v0.15.8.zip
   InstallerSha256: 9583633193A4E5BDEC463C8195E9A8136259D1797FE713B1BA998E72447F5E56
 ManifestType: installer
 ManifestVersion: 1.5.0

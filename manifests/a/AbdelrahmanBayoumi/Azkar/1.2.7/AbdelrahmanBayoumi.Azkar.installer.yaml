@@ -6,10 +6,10 @@ PackageIdentifier: AbdelrahmanBayoumi.Azkar
 PackageVersion: 1.2.7
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.2.7/Azkar_windows-x32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.2.7/Azkar_windows-x32.exe
   InstallerSha256: af0999770a981117ba4d2903e15d135ad9baffff8dd88f619d5267eb19d231dc
 - Architecture: x64
-  InstallerUrl: https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.2.7/Azkar_windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.2.7/Azkar_windows-x64.exe
   InstallerSha256: 8aea918cafc720ca6d2145bb25173c57d6195c4e8cdb638f0e8573c95ce1e42e
 ManifestType: installer
 ManifestVersion: 1.5.0

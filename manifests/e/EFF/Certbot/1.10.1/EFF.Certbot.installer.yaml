@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-12-03
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/certbot/certbot/releases/download/v1.10.1/certbot-beta-installer-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/certbot/certbot/releases/download/v1.10.1/certbot-beta-installer-win32.exe
   InstallerSha256: 79FA0985ED5312E592F8F58943319913585DC433D8FD528AC41F800DF6AEF0D8
 ManifestType: installer
 ManifestVersion: 1.2.0

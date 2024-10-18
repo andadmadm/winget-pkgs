@@ -10,7 +10,7 @@ ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/filips123/PWAsForFirefox/releases/download/v2.6.1/firefoxpwa-2.6.1-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/filips123/PWAsForFirefox/releases/download/v2.6.1/firefoxpwa-2.6.1-x86.msi
   InstallerSha256: 903A394148148526245C9E881EABB3B644E98DDEEDB9C09E141C4437C73925F0
   Dependencies:
     PackageDependencies:
@@ -18,7 +18,7 @@ Installers:
   ProductCode: '{7EBCBE42-C7B2-405D-916B-F44AA7ACACDD}'
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/filips123/PWAsForFirefox/releases/download/v2.6.1/firefoxpwa-2.6.1-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/filips123/PWAsForFirefox/releases/download/v2.6.1/firefoxpwa-2.6.1-x86_64.msi
   InstallerSha256: 81846FA559037D9EC7F6D34E8367711537C45D468C8A92C74D39876434C64839
   Dependencies:
     PackageDependencies:

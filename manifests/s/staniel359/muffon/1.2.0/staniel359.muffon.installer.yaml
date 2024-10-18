@@ -14,11 +14,11 @@ UpgradeBehavior: install
 ReleaseDate: 2023-01-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/staniel359/muffon/releases/download/v1.2.0/muffon-1.2.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/staniel359/muffon/releases/download/v1.2.0/muffon-1.2.0-win-x64.exe
   InstallerSha256: E767DD6F7C2C2671E7342520130054F44DDA74D0B53F46ED427E4552976DAD2C
   Scope: machine
 - Architecture: x64
-  InstallerUrl: https://github.com/staniel359/muffon/releases/download/v1.2.0/muffon-1.2.0-win-x64-portable.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/staniel359/muffon/releases/download/v1.2.0/muffon-1.2.0-win-x64-portable.exe
   InstallerSha256: 9A93F40980369E05D07DBA37D7E97EDD95AD2D392AD0888333A5319347ECD989
   InstallerType: portable
 ManifestType: installer

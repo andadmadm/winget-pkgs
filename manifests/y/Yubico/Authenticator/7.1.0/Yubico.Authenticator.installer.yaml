@@ -28,7 +28,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%/Yubico/Yubico Authenticator'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Yubico/yubioath-flutter/releases/download/7.1.0/yubico-authenticator-7.1.0-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Yubico/yubioath-flutter/releases/download/7.1.0/yubico-authenticator-7.1.0-win64.msi
   InstallerSha256: D2DA781E5672E219FCA82BDAEE3B5CD502ED8AC74B8ABEBFC834B814BA68603C
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/seonglae/screencast/releases/download/1.0.2/Screencast.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/seonglae/screencast/releases/download/1.0.2/Screencast.exe
   InstallerSha256: 0BA7B1B1D0877381B7D2DC5AC9B28A9AF57CF598AD202860348EE8E46B7134FA
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -16,7 +16,7 @@ ReleaseDate: 2022-04-29
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x64.exe
   InstallerSha256: 8360D61F316F3645ED087B5C3E759E152C63D5FA07BF04F2924634DFBE279477
   Scope: machine
   InstallerSwitches:
@@ -26,7 +26,7 @@ Installers:
     ProductCode: RubyInstaller-3.2-x64-mingw-ucrt_is1
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x64.exe
   InstallerSha256: 8360D61F316F3645ED087B5C3E759E152C63D5FA07BF04F2924634DFBE279477
   AppsAndFeaturesEntries:
   - DisplayName: Ruby 3.2.0-1-x64
@@ -36,7 +36,7 @@ Installers:
     Custom: /CURRENTUSER
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x86.exe
   InstallerSha256: 409079E48443BB285CF4BC4BE627526C0BBB704D9D6B470EA1AD1A55228BBD14
   Scope: machine
   InstallerSwitches:
@@ -46,7 +46,7 @@ Installers:
     ProductCode: RubyInstaller-3.2-i386-mingw32_is1
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.0-1/rubyinstaller-devkit-3.2.0-1-x86.exe
   InstallerSha256: 409079E48443BB285CF4BC4BE627526C0BBB704D9D6B470EA1AD1A55228BBD14
   AppsAndFeaturesEntries:
   - DisplayName: Ruby 3.2.0-1-x86

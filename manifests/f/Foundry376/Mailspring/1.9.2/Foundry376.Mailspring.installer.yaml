@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/Foundry376/Mailspring/releases/download/1.9.2/MailspringSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Foundry376/Mailspring/releases/download/1.9.2/MailspringSetup.exe
   InstallerSha256: CEBF052D8A4BA46887050E24344B7C65EFD411F5B8DE7AE493ECA1C3C140B748
   InstallerSwitches:
     Silent: -s

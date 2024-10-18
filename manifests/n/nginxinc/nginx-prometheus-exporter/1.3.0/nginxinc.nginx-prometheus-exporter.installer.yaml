@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: nginx-prometheus-exporter.exe
         PortableCommandAlias: nginx-prometheus-exporter
-    InstallerUrl: https://github.com/nginxinc/nginx-prometheus-exporter/releases/download/v1.3.0/nginx-prometheus-exporter_1.3.0_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/nginxinc/nginx-prometheus-exporter/releases/download/v1.3.0/nginx-prometheus-exporter_1.3.0_windows_amd64.zip
     InstallerSha256: c4932168c87fed0690772ce2b85dc22b7e0a202865fcb079907ba167251f80dd
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: nginx-prometheus-exporter.exe
         PortableCommandAlias: nginx-prometheus-exporter
-    InstallerUrl: https://github.com/nginxinc/nginx-prometheus-exporter/releases/download/v1.3.0/nginx-prometheus-exporter_1.3.0_windows_386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/nginxinc/nginx-prometheus-exporter/releases/download/v1.3.0/nginx-prometheus-exporter_1.3.0_windows_386.zip
     InstallerSha256: 4784bf1993e6f235450e6bba3f389d78416bccd508a9c13c7eb19625e02b1281
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: nginx-prometheus-exporter.exe
         PortableCommandAlias: nginx-prometheus-exporter
-    InstallerUrl: https://github.com/nginxinc/nginx-prometheus-exporter/releases/download/v1.3.0/nginx-prometheus-exporter_1.3.0_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/nginxinc/nginx-prometheus-exporter/releases/download/v1.3.0/nginx-prometheus-exporter_1.3.0_windows_arm64.zip
     InstallerSha256: dce45778edbd6661fde773777b97db5d0718902a0e7e5767413947ae74a86a87
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

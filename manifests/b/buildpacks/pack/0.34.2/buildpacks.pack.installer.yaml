@@ -10,7 +10,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-06-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/buildpacks/pack/releases/download/v0.34.2/pack-v0.34.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/buildpacks/pack/releases/download/v0.34.2/pack-v0.34.2-windows.zip
   InstallerSha256: 15CF84D342BFBACE1C8FF4820891BA7AF96FAE268D36F9FFE335FD6DCD52DCA4
 ManifestType: installer
 ManifestVersion: 1.6.0

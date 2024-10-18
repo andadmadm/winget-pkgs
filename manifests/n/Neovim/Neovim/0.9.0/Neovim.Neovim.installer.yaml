@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2023-04-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/neovim/neovim/releases/download/v0.9.0/nvim-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/neovim/neovim/releases/download/v0.9.0/nvim-win64.msi
   InstallerSha256: ADC92C40EA4552DD57898A5F4EC1E635F65BA133340BC9B59C73165CC4CAE1BB
   ProductCode: '{A157E399-D5D4-4441-9327-43892CD324F3}'
 ManifestType: installer

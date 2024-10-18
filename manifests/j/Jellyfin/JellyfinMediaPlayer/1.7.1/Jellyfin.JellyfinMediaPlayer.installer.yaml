@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.7.1/JellyfinMediaPlayer-1.7.1-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.7.1/JellyfinMediaPlayer-1.7.1-windows-x64.exe
   InstallerSha256: 27151AEE03CEFEA6D220348B3275B9474AA169A850745D9066B0F4290A5FF24E
 ManifestType: installer
 ManifestVersion: 1.2.0

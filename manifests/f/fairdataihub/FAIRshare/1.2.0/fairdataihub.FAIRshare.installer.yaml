@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/fairdataihub/FAIRshare/releases/download/v1.2.0/FAIRshare-Setup-1.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fairdataihub/FAIRshare/releases/download/v1.2.0/FAIRshare-Setup-1.2.0.exe
   InstallerSha256: 92B725A5F799BC0EA7FC89831252A251E1D2447BA854A1B7EA2A652EA20F3B85
 ManifestType: installer
 ManifestVersion: 1.1.0

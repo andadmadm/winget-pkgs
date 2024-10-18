@@ -25,7 +25,7 @@ AppsAndFeaturesEntries:
   Publisher: Martí Climent
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/marticliment/WingetUI/releases/download/3.1.0-beta0/UniGetUI.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marticliment/WingetUI/releases/download/3.1.0-beta0/UniGetUI.Installer.exe
   InstallerSha256: 79D8266736B46D8B8959DD775702B275AE4B1936EE6485D01C31A1F62418B8DB
 ManifestType: installer
 ManifestVersion: 1.6.0

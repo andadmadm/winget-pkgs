@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zhaopengme/gitnote/releases/download/3.0.2/GitNote_setup_3.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zhaopengme/gitnote/releases/download/3.0.2/GitNote_setup_3.0.2.exe
   InstallerSha256: 40DAD2E82CDB11A893488151A82910381F0064DCF604CA18238CCC498A302ABE
 ManifestType: installer
 ManifestVersion: 1.1.0

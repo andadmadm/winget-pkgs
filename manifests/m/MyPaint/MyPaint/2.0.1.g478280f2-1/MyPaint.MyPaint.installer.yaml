@@ -14,10 +14,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mypaint/mypaint/releases/download/v2.0.1/mypaint-w64-2.0.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mypaint/mypaint/releases/download/v2.0.1/mypaint-w64-2.0.1-installer.exe
   InstallerSha256: 7D1D94822E9CDE8418CAE0A0B78AED72F080A03633FE76EED20A71025DEBB23D
 - Architecture: x86
-  InstallerUrl: https://github.com/mypaint/mypaint/releases/download/v2.0.1/mypaint-w32-2.0.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mypaint/mypaint/releases/download/v2.0.1/mypaint-w32-2.0.1-installer.exe
   InstallerSha256: A5B316C480AB0FE5F46F868F0238AFA8301ADEEF4743DFC8ECE5B4B186D4F6CF
 ManifestType: installer
 ManifestVersion: 1.2.0

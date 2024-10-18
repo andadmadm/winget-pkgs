@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/prey/prey-node-client/releases/download/v1.10.6/prey-windows-1.10.6-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/prey/prey-node-client/releases/download/v1.10.6/prey-windows-1.10.6-x64.msi
   InstallerSha256: B2C7372D4E7EC98A9DD5C7C68299DEA92066FD7574532C903181043D74B0CCC7
   ProductCode: '{24821B12-76A5-4AC9-BCD2-B8424648C29F}'
 ManifestType: installer

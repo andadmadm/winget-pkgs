@@ -13,7 +13,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/oliverschwendener/ueli/releases/download/v8.15.0/ueli-Setup-8.15.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oliverschwendener/ueli/releases/download/v8.15.0/ueli-Setup-8.15.0.exe
   InstallerSha256: 547AD940599F0E9CB3F7AF1A954D01E994C70D8C67DDDDB192947EA307F1770F
   UpgradeBehavior: install
 ManifestType: installer

@@ -21,7 +21,7 @@ AppsAndFeaturesEntries:
   ProductCode: '{342c8578-ef64-47ed-a3ca-348927f5b502}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/foldynl/QLog/releases/download/v0.38.0/qlog-installer0.38.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/foldynl/QLog/releases/download/v0.38.0/qlog-installer0.38.0.exe
   InstallerSha256: 1A5D63F8F533BFD80A81717ECB388637A6D82CED48A9ABC8C915FC965B2231FF
 ManifestType: installer
 ManifestVersion: 1.6.0

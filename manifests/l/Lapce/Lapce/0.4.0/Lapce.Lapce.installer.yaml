@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{9C09A374-1135-4782-959F-2DEC376A1DFA}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lapce/lapce/releases/download/v0.4.0/Lapce-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/lapce/lapce/releases/download/v0.4.0/Lapce-windows.msi
   InstallerSha256: AAC7B3DEE6169CA7767538B21733AEA5B017426346B62E98FDD7879EA16FD2B1
   ProductCode: '{AD2744E9-9124-4FD9-BD9D-2EFFC621C107}'
 ManifestType: installer

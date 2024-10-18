@@ -13,7 +13,7 @@ InstallModes:
 - silent
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/NethermindEth/nethermind/releases/download/1.25.4/nethermind-1.25.4-20b10b35-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NethermindEth/nethermind/releases/download/1.25.4/nethermind-1.25.4-20b10b35-windows-x64.zip
   InstallerSha256: C1067DBE0C8B38B3BE68D807E50B9DC05DFD935E3CD7718945F0DEEEEACA7D03
 ManifestType: installer
 ManifestVersion: 1.6.0

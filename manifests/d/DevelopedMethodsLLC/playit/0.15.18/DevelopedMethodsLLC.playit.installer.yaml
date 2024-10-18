@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2024-08-08
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/playit-cloud/playit-agent/releases/download/v0.15.18/playit-windows-x86-signed.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/playit-cloud/playit-agent/releases/download/v0.15.18/playit-windows-x86-signed.msi
   InstallerSha256: F9A8FF9C43C1741BCF58297647AA2AF280DD3CC71444F8281508AF8F42EDFA22
   ProductCode: '{BF6ECF0F-FF2A-48E6-B528-D145C6B79969}'
   AppsAndFeaturesEntries:
@@ -25,7 +25,7 @@ Installers:
     ProductCode: '{BF6ECF0F-FF2A-48E6-B528-D145C6B79969}'
     UpgradeCode: '{2640FEA4-3120-4DB0-93A9-6B04A4EFE7D2}'
 - Architecture: x64
-  InstallerUrl: https://github.com/playit-cloud/playit-agent/releases/download/v0.15.18/playit-windows-x86_64-signed.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/playit-cloud/playit-agent/releases/download/v0.15.18/playit-windows-x86_64-signed.msi
   InstallerSha256: 40EF812A8151F181DCB1C20308941DE13407778ED3179F74C0155D265C272B80
   ProductCode: '{29D34430-A732-4344-9743-90C98F7E697E}'
   AppsAndFeaturesEntries:

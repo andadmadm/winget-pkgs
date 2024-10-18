@@ -5,7 +5,7 @@ PackageIdentifier: sylviiu.ezytdl
 PackageVersion: 2.4.2
 InstallerType: nullsoft
 Installers:
-- InstallerUrl: https://github.com/sylviiu/ezytdl/releases/download/2.4.2/ezytdl-win32.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/sylviiu/ezytdl/releases/download/2.4.2/ezytdl-win32.exe
   Architecture: x64
   InstallerSha256: 2DAC13230B2ECC51793804D54691C04B1C7E5626846FC451DDCE9CAB55DD8A5A
 ManifestType: installer

@@ -14,13 +14,13 @@ AppsAndFeaturesEntries:
   ProductCode: 774f2290-3906-58eb-baae-35b0dc01c31e
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.142.0/standard-notes-3.142.0-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.142.0/standard-notes-3.142.0-win-ia32.exe
   InstallerSha256: 0CAC552AE23C9484520E0A164CDE6F31EED45BE60E43BFC472054B5D7711DFB8
 - Architecture: x64
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.142.0/standard-notes-3.142.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.142.0/standard-notes-3.142.0-win-x64.exe
   InstallerSha256: D7DA9782382325F51A3DBD3476EB0D21D159C5CB1405057DCB4727AD89E1EA8C
 - Architecture: neutral
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.142.0/standard-notes-3.142.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.142.0/standard-notes-3.142.0-win.exe
   InstallerSha256: C803952DB9EDDD69A71A0A9537633CFA14D4A3C7E7AA2F00BABBBB00E1105CD6
 ManifestType: installer
 ManifestVersion: 1.2.0

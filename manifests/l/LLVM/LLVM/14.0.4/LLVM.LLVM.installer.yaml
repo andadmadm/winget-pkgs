@@ -13,10 +13,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-25
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.4/LLVM-14.0.4-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.4/LLVM-14.0.4-win32.exe
   InstallerSha256: DFBA488AFB0F96F1D08034184517E2D444970998A3F702656EB96D2E814F0013
 - Architecture: x64
-  InstallerUrl: https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.4/LLVM-14.0.4-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.4/LLVM-14.0.4-win64.exe
   InstallerSha256: AF4D442E33C57FC284C12FF187E92E52A53FD3694E8673FCD61B5D4582C1E8B9
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -16,14 +16,14 @@ FileExtensions:
 Installers:
 - Architecture: neutral
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/troyeguo/koodo-reader/releases/download/v1.4.0/Koodo-Reader-1.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/troyeguo/koodo-reader/releases/download/v1.4.0/Koodo-Reader-1.4.0.exe
   InstallerSha256: 797149FFD50C7CBD31DBC077D1CB0726F715AA5CD812EB6FC32713139C973A92
   Scope: user
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
 - Architecture: neutral
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/troyeguo/koodo-reader/releases/download/v1.4.0/Koodo-Reader-1.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/troyeguo/koodo-reader/releases/download/v1.4.0/Koodo-Reader-1.4.0.exe
   InstallerSha256: 797149FFD50C7CBD31DBC077D1CB0726F715AA5CD812EB6FC32713139C973A92
   Scope: machine
   InstallerSwitches:

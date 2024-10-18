@@ -14,10 +14,10 @@ UpgradeBehavior: install
 ReleaseDate: 2023-07-16
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/univrsal/tuna/releases/download/v1.9.7/tuna-1.9.7-windows-x64-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/univrsal/tuna/releases/download/v1.9.7/tuna-1.9.7-windows-x64-Installer.exe
   InstallerSha256: 2648CCA828F5E49054AC621942C914364E1B1B554A2C3F3BB61AA1DB534B8A0A
 - Architecture: x64
-  InstallerUrl: https://github.com/univrsal/tuna/releases/download/v1.9.7/tuna-1.9.7-windows-x64-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/univrsal/tuna/releases/download/v1.9.7/tuna-1.9.7-windows-x64-Installer.exe
   InstallerSha256: 2648CCA828F5E49054AC621942C914364E1B1B554A2C3F3BB61AA1DB534B8A0A
 ManifestType: installer
 ManifestVersion: 1.5.0

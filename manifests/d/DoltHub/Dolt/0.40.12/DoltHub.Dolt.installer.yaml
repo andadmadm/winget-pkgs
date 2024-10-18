@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v0.40.12/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v0.40.12/dolt-windows-amd64.msi
   InstallerSha256: 7122CCA9D167C1F34F8EE9A847B2E293EC501169B9CE7E2867E370B6A74703D0
   ProductCode: '{555AD4A1-20BE-468E-92B2-CD303E70CD54}'
 ManifestType: installer

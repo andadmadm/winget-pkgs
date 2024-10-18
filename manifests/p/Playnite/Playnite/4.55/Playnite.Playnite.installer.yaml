@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2018-10-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/4.55/Playnite455.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/4.55/Playnite455.exe
   InstallerSha256: B57B9688EEB713AF7415A5CF90846C2C29841EAE6C990D946FAC49E402CA53F0
 ManifestType: installer
 ManifestVersion: 1.2.0

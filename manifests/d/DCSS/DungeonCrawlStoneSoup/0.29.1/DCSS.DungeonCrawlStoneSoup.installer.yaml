@@ -16,14 +16,14 @@ ReleaseDate: 2022-09-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/crawl/crawl/releases/download/0.29.1/dcss-0.29.1-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crawl/crawl/releases/download/0.29.1/dcss-0.29.1-win32-installer.exe
   InstallerSha256: 13B63417D578D9FC56145C45429FAE91D50AC9BEBBBEBE9BB8C08911B30B65A4
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: Crawl
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/crawl/crawl/releases/download/0.29.1/dcss-0.29.1-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crawl/crawl/releases/download/0.29.1/dcss-0.29.1-win32-installer.exe
   InstallerSha256: 13B63417D578D9FC56145C45429FAE91D50AC9BEBBBEBE9BB8C08911B30B65A4
   InstallerSwitches:
     Custom: /ALLUSERS

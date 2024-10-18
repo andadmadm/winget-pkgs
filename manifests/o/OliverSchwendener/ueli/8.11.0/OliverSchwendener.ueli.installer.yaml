@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oliverschwendener/ueli/releases/download/v8.11.0/ueli-Setup-8.11.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oliverschwendener/ueli/releases/download/v8.11.0/ueli-Setup-8.11.0.exe
   InstallerSha256: AEDD9CA081E2529DDB320057AC99F3AC23329AFAFF868834E575BD363EEBFCB1
 ManifestType: installer
 ManifestVersion: 1.1.0

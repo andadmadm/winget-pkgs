@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2019-06-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AiursoftWeb/Kahla.App/releases/download/v3.5.0/Kahla.Setup.3.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AiursoftWeb/Kahla.App/releases/download/v3.5.0/Kahla.Setup.3.5.0.exe
   InstallerSha256: B2EE2B9189CF357F6FDA0E3567DD7D1B07876F8875D452214A530FC72AF432D9
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -14,13 +14,13 @@ ReleaseDate: 2021-05-13
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/DeFiCh/app/releases/download/v2.3.5/DeFi-Wallet-Setup-2.3.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DeFiCh/app/releases/download/v2.3.5/DeFi-Wallet-Setup-2.3.5.exe
   InstallerSha256: 2C9CEDBD8254BA20F0DC8EDB280BA74E372FEF06F9B062C0B6C09FFB16BD83B6
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/DeFiCh/app/releases/download/v2.3.5/DeFi-Wallet-Setup-2.3.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DeFiCh/app/releases/download/v2.3.5/DeFi-Wallet-Setup-2.3.5.exe
   InstallerSha256: 2C9CEDBD8254BA20F0DC8EDB280BA74E372FEF06F9B062C0B6C09FFB16BD83B6
   InstallerSwitches:
     Custom: /ALLUSERS

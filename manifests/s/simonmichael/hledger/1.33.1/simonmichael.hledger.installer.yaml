@@ -15,7 +15,7 @@ FileExtensions:
 ReleaseDate: 2024-05-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/simonmichael/hledger/releases/download/1.33.1/hledger-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/simonmichael/hledger/releases/download/1.33.1/hledger-windows-x64.zip
   InstallerSha256: 657A63FDAF51E7DC26DA65705192D9F67E089449B756241D52AC3E65D0D3CA1E
 ManifestType: installer
 ManifestVersion: 1.6.0

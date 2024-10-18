@@ -10,7 +10,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RandomEngy/VidCoder/releases/download/v4.3-beta/VidCoder-4.3-Beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RandomEngy/VidCoder/releases/download/v4.3-beta/VidCoder-4.3-Beta.exe
   InstallerSha256: E706825EF0AA3A1BF127F0050600D46261E00A83B26AA43CA7229C7A7C300AA0
 ManifestType: installer
 ManifestVersion: 1.0.0

@@ -9,7 +9,7 @@ InstallerSwitches:
   Custom: /D=C:\Program Files (x86)\Ctrlr
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/RomanKubiak/ctrlr/releases/download/5.6.0/Ctrlr-5.6.0.exe # DisplayVersion is set incorrectly; 
+  InstallerUrl: https://gitpoxry.com/https://github.com/RomanKubiak/ctrlr/releases/download/5.6.0/Ctrlr-5.6.0.exe # DisplayVersion is set incorrectly; 
   InstallerSha256: C6A2955F9C91978FF215901AC6ABA5115CF900501B7C05CA5803C850DCF6F68A
   AppsAndFeaturesEntries:
   - DisplayName: Ctrlr

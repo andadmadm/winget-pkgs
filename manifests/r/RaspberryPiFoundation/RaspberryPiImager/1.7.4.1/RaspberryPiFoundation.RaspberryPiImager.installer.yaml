@@ -10,7 +10,7 @@ ReleaseDate: 2023-05-19
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/raspberrypi/rpi-imager/releases/download/v1.7.4.1/imager-1.7.4.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/raspberrypi/rpi-imager/releases/download/v1.7.4.1/imager-1.7.4.1.exe
   InstallerSha256: 68379302434516BDAC450DA4861A18A9F9D70600D814DC3AA3E71FE49F79932A
   ProductCode: Raspberry Pi Imager
 ManifestType: installer

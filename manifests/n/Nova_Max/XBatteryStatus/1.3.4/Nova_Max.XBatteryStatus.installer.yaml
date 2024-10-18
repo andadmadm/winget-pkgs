@@ -14,7 +14,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.5
 ProductCode: '{5E0FB4A6-A5E1-4BE0-930D-F34B64B592B6}'
 Installers:
-- InstallerUrl: https://github.com/tommaier123/XBatteryStatus/releases/download/V1.3.4/XBatteryStatus.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/tommaier123/XBatteryStatus/releases/download/V1.3.4/XBatteryStatus.msi
   Architecture: x64
   ProductCode: '{5E0FB4A6-A5E1-4BE0-930D-F34B64B592B6}'
   InstallerSha256: FE19584241070E2A9DD0F96678F370A3EED4964A89B67CBBAF5E26F903F413DB

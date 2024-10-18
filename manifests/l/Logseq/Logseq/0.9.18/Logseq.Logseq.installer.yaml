@@ -18,7 +18,7 @@ ProductCode: Logseq
 ReleaseDate: 2023-09-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/logseq/logseq/releases/download/0.9.18/Logseq-win-x64-0.9.18.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/logseq/logseq/releases/download/0.9.18/Logseq-win-x64-0.9.18.exe
   InstallerSha256: 29120700E6EA2A5AD6937E52D159DF5F28DCD39CEC975DEC2333C42DBA324181
 ManifestType: installer
 ManifestVersion: 1.5.0

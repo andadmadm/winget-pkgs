@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-07-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kimwalisch/primesieve-winget/releases/download/v8.0/Primesieve-8.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kimwalisch/primesieve-winget/releases/download/v8.0/Primesieve-8.0-win-x64.exe
   InstallerSha256: 655C7FA40364CE3CB095AA612DCA447773BD1518D089A6084609057DFF070FB3
 ManifestType: installer
 ManifestVersion: 1.1.0

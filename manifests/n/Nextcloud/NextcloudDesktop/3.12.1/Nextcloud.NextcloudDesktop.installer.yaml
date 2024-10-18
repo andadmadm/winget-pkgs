@@ -24,7 +24,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{FD2FCCA9-BB8F-4485-8F70-A0621B84A7F4}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nextcloud-releases/desktop/releases/download/v3.12.1/Nextcloud-3.12.1-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nextcloud-releases/desktop/releases/download/v3.12.1/Nextcloud-3.12.1-x64.msi
   InstallerSha256: 391E4DA2CFAAF1F7801A49D9EC41087A552F4E04CD9380329465D8781ACE520D
 ManifestType: installer
 ManifestVersion: 1.6.0

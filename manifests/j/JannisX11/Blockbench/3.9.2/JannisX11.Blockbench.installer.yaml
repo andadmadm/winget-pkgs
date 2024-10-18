@@ -16,7 +16,7 @@ FileExtensions:
 - bbmodel
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JannisX11/blockbench/releases/download/v3.9.2/Blockbench_3.9.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JannisX11/blockbench/releases/download/v3.9.2/Blockbench_3.9.2.exe
   InstallerSha256: 4DABAB790B83CBF84041B2A2E31237BF9EBA8401B34153E3212C586B80CECB5D
 ManifestType: installer
 ManifestVersion: 1.2.0

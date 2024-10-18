@@ -10,7 +10,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.OpenJDK.17
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/DevelopersCommunity/cmake-jmeter/releases/download/v5.6/JMeter-5.6-win32.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DevelopersCommunity/cmake-jmeter/releases/download/v5.6/JMeter-5.6-win32.msi
   InstallerSha256: A21DDBA942BB4054B61EB076B9546942770A07A2BE1937D2AF69B6E9B7C3935A
   ProductCode: '{B6EC85C7-6CFC-4DE1-97CD-A6804BCBF7F6}'
 ManifestType: installer

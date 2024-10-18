@@ -6,7 +6,7 @@ PackageVersion: 4.6.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/timschneeb/GalaxyBudsClient/releases/download/4.6.0/GalaxyBudsClient_Windows-64bit_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/timschneeb/GalaxyBudsClient/releases/download/4.6.0/GalaxyBudsClient_Windows-64bit_Setup.exe
   InstallerSha256: 53DA24A75214BFDCB8700BA07DE307446E69C45BB6D43E98A5F2B68E55F5A4A5
 InstallationMetadata:
   DefaultInstallLocation: '%PROGRAMFILES(X86)%\Galaxy Buds Manager'

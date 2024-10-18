@@ -28,7 +28,7 @@ FileExtensions:
 ReleaseDate: 2024-09-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zen-browser/desktop/releases/download/1.0.0-a.35/zen.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zen-browser/desktop/releases/download/1.0.0-a.35/zen.installer.exe
   InstallerSha256: DB38084FBD07F3545067C1AE91FE8D51B274EBF10FCCC71B2722C570AB3ED96E
 ManifestType: installer
 ManifestVersion: 1.6.0

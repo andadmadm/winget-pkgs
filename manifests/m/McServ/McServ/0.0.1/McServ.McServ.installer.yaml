@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-09-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DRSchlaubi/mcserv/releases/download/v0.0.1/mcserv-0.0.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DRSchlaubi/mcserv/releases/download/v0.0.1/mcserv-0.0.1.msi
   InstallerSha256: 36AFFEBA2BFFC2DD132504AA65CA094FD2E60840751124B600FB335B503AA911
   ProductCode: '{73F600AA-295A-4955-81A0-08E8FB9B5717}'
 ManifestType: installer

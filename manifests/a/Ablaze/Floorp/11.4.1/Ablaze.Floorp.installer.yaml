@@ -23,7 +23,7 @@ Installers:
   - silent
   - silentWithProgress
   UpgradeBehavior: install
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.4.1/floorp-win64.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.4.1/floorp-win64.installer.exe
   InstallerSha256: AB87CB6F0931FE4308817D5E153D9462D53F8A1CC3F73A344D8A817313AA8433
 ManifestType: installer
 ManifestVersion: 1.5.0

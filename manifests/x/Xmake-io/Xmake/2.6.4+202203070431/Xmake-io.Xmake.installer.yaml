@@ -14,10 +14,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/xmake-io/xmake/releases/download/v2.6.4/xmake-v2.6.4.win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmake-io/xmake/releases/download/v2.6.4/xmake-v2.6.4.win32.exe
   InstallerSha256: B69AF13A17C98D38D5B8A339088CB689D6391EEAC180B008FE21DAB51BB4CB01
 - Architecture: x64
-  InstallerUrl: https://github.com/xmake-io/xmake/releases/download/v2.6.4/xmake-v2.6.4.win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmake-io/xmake/releases/download/v2.6.4/xmake-v2.6.4.win64.exe
   InstallerSha256: 70790035EC0E25275F00461284FD5E2BF5B427A467FC3F7729E4D79647A998F2
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/martinvonz/jj/releases/download/v0.20.0/jj-v0.20.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinvonz/jj/releases/download/v0.20.0/jj-v0.20.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: CCD8C46AB0AEF70523779A9DE4BE14BEBB081AEDD671802B22AC627F5FB02C7E
 ManifestType: installer
 ManifestVersion: 1.6.0

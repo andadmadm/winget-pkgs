@@ -20,7 +20,7 @@ Installers:
     Scope: user
     InstallerSwitches:
       Custom: /CURRENTUSER
-  - InstallerUrl: https://github.com/cxasm/notepad--/releases/download/notepad-v2.7/Notepad--v2.7.0-plugin-Installer.exe
+  - InstallerUrl: https://gitpoxry.com/https://github.com/cxasm/notepad--/releases/download/notepad-v2.7/Notepad--v2.7.0-plugin-Installer.exe
     InstallerLocale: en-US
     Architecture: x64
     InstallerType: inno
@@ -28,7 +28,7 @@ Installers:
     Scope: user
     InstallerSwitches:
       Custom: /CURRENTUSER
-  - InstallerUrl: https://github.com/cxasm/notepad--/releases/download/notepad-v2.7/Notepad--v2.7.0-plugin-Installer.exe
+  - InstallerUrl: https://gitpoxry.com/https://github.com/cxasm/notepad--/releases/download/notepad-v2.7/Notepad--v2.7.0-plugin-Installer.exe
     InstallerLocale: en-US
     Architecture: x64
     InstallerType: inno

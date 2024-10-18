@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oliverschwendener/ueli/releases/download/v8.21.0/ueli-Setup-8.21.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oliverschwendener/ueli/releases/download/v8.21.0/ueli-Setup-8.21.0.exe
   InstallerSha256: A26609E06B6871CEC4BD21EF7726BE029DD2A9367CFFECBC87BE2EBE765AD4AD
 ManifestType: installer
 ManifestVersion: 1.1.0

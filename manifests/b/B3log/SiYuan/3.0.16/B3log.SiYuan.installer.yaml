@@ -13,14 +13,14 @@ ReleaseDate: 2024-05-28
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v3.0.16/siyuan-3.0.16-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v3.0.16/siyuan-3.0.16-win.exe
   InstallerSha256: C32B9F50C1B00A25B213953429A786B2A67AB96CBE6E2CF82427F379A65E99C8
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v3.0.16/siyuan-3.0.16-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v3.0.16/siyuan-3.0.16-win.exe
   InstallerSha256: C32B9F50C1B00A25B213953429A786B2A67AB96CBE6E2CF82427F379A65E99C8
   InstallerSwitches:
     Custom: /allusers

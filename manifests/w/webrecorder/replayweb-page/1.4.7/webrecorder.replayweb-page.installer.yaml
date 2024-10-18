@@ -16,7 +16,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/webrecorder/replayweb.page/releases/download/v1.4.7/ReplayWeb.page-1.4.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/webrecorder/replayweb.page/releases/download/v1.4.7/ReplayWeb.page-1.4.7.exe
   InstallerSha256: 2F87C92835A0D1CB0EE27F1C501573C88FB8392689FE90ED68905817472EFE36
   UpgradeBehavior: install
 ManifestType: installer

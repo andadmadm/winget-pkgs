@@ -9,7 +9,7 @@ Commands:
 - snyk-win
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/snyk/cli/releases/download/v1.1033.0/snyk-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/snyk/cli/releases/download/v1.1033.0/snyk-win.exe
   InstallerSha256: 7a35d24ac0bb6d240c67afedfe47c018cbc54dd7de204ad8c7a20495b1ebe038
 ManifestType: installer
 ManifestVersion: 1.2.0

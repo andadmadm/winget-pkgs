@@ -13,7 +13,7 @@ InstallerSwitches:
 ReleaseDate: 2024-03-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ollama/ollama/releases/download/v0.1.29/OllamaSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ollama/ollama/releases/download/v0.1.29/OllamaSetup.exe
   InstallerSha256: 2D0B744B80729D9B633848AE31F9998DD4C968CAE1F934DEAACC201DB7C87BEE
 ManifestType: installer
 ManifestVersion: 1.6.0

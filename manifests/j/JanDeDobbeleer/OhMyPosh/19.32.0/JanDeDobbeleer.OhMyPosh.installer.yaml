@@ -14,37 +14,37 @@ InstallModes:
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-amd64.exe
   InstallerSha256: 6DF47966AFFD59BE47CBED1EC333874C415FE747662E242A8EEE8F6A23BF16E8
   InstallerSwitches:
     Custom: /INSTALLER=winget /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-amd64.exe
   InstallerSha256: 6DF47966AFFD59BE47CBED1EC333874C415FE747662E242A8EEE8F6A23BF16E8
   InstallerSwitches:
     Custom: /INSTALLER=winget /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-386.exe
   InstallerSha256: 7074D8EA97F8377FEF5E1F465EDAB04E61887E69DFC1D8499F03B33948A80F79
   InstallerSwitches:
     Custom: /INSTALLER=winget /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-386.exe
   InstallerSha256: 7074D8EA97F8377FEF5E1F465EDAB04E61887E69DFC1D8499F03B33948A80F79
   InstallerSwitches:
     Custom: /INSTALLER=winget /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-arm64.exe
   InstallerSha256: 93657B7761DAE7B9E6D8A2713DA4702C90E72594857B54C9966DE9DAF9165AEB
   InstallerSwitches:
     Custom: /INSTALLER=winget /ALLUSERS
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.32.0/install-arm64.exe
   InstallerSha256: 93657B7761DAE7B9E6D8A2713DA4702C90E72594857B54C9966DE9DAF9165AEB
   InstallerSwitches:
     Custom: /INSTALLER=winget /CURRENTUSER

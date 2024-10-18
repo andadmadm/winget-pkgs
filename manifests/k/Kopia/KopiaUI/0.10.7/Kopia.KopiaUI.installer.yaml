@@ -15,13 +15,13 @@ ReleaseDate: 2022-04-07
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/kopia/kopia/releases/download/v0.10.7/KopiaUI-Setup-0.10.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kopia/kopia/releases/download/v0.10.7/KopiaUI-Setup-0.10.7.exe
   InstallerSha256: E83FC7189F5DFE395FA540B7F3F9CAABE76BEE272C2F88949323E0E807DB1DD2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/kopia/kopia/releases/download/v0.10.7/KopiaUI-Setup-0.10.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kopia/kopia/releases/download/v0.10.7/KopiaUI-Setup-0.10.7.exe
   InstallerSha256: E83FC7189F5DFE395FA540B7F3F9CAABE76BEE272C2F88949323E0E807DB1DD2
   InstallerSwitches:
     Custom: /ALLUSERS

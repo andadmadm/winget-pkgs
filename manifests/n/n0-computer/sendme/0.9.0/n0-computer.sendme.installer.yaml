@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/n0-computer/sendme/releases/download/v0.9.0/sendme-v0.9.0-windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/n0-computer/sendme/releases/download/v0.9.0/sendme-v0.9.0-windows-x86_64.zip
   InstallerSha256: FA215504FBE1909E94A193D389A711C5BB3B748F2E0026273D49D6C1298E62C5
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -8,7 +8,7 @@ Installers:
   MinimumOSVersion: 10.0.14316.0
   Architecture: neutral
   InstallerType: appx
-  InstallerUrl: https://github.com/kiwix/kiwix-js-windows/releases/download/v2.5.4-WikiMed/WikiMed-by-Kiwix-2.5.4-E.appx
+  InstallerUrl: https://gitpoxry.com/https://github.com/kiwix/kiwix-js-windows/releases/download/v2.5.4-WikiMed/WikiMed-by-Kiwix-2.5.4-E.appx
   InstallerSha256: 785BE1A79262D71739F556A9EE3A3E0EFAB65347F08DD63F83154ADF31988E88
   PackageFamilyName: Kiwix.WikiMed_qwjmsdmcnwx12
 ManifestType: installer

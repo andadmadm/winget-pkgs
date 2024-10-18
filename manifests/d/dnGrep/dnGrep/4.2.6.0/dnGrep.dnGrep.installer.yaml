@@ -8,7 +8,7 @@ Installers:
   InstallerType: wix
   Platform:
   - Windows.Desktop
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v4.2.6.0/dnGREP.4.2.6.x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v4.2.6.0/dnGREP.4.2.6.x86.msi
   InstallerSha256: ca0118f8e00c152ae069c8904f48840d4da8bb0cda1871355ad3af9eb76009ea
   ProductCode: '{B411953C-FF0C-4B6B-A0B7-378B8D12F382}'
   Scope: machine
@@ -25,7 +25,7 @@ Installers:
   InstallerType: wix
   Platform:
   - Windows.Desktop
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v4.2.6.0/dnGREP.4.2.6.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v4.2.6.0/dnGREP.4.2.6.x64.msi
   InstallerSha256: c5c347830d3a1feeac35e4cf2fb1efffe3b04ad9f9fba087f8b789eb0fd4f97a
   ProductCode: '{A7D8C4D3-2DF2-4F3C-9D31-5BE7B9F8B64F}'
   Scope: machine

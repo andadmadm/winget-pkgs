@@ -14,7 +14,7 @@ ReleaseDate: 2022-03-16
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v5.7.2/Fishing-Funds-Setup-5.7.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v5.7.2/Fishing-Funds-Setup-5.7.2.exe
   # InstallerUrl: https://download.1zilc.top/Fishing-Funds-Setup-5.7.2.exe
   InstallerSha256: E4A13D318A2D163FC7130961366382B1330C45BBB142510B51F74BFE30436507
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: ae35abb1-8d8b-57e0-bca5-967274c2df01
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v5.7.2/Fishing-Funds-Setup-5.7.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v5.7.2/Fishing-Funds-Setup-5.7.2.exe
   # InstallerUrl: https://download.1zilc.top/Fishing-Funds-Setup-5.7.2.exe
   InstallerSha256: E4A13D318A2D163FC7130961366382B1330C45BBB142510B51F74BFE30436507
   InstallerSwitches:

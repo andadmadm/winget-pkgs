@@ -23,10 +23,10 @@ FileExtensions:
 ReleaseDate: 2023-11-08
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.4.1/audacity-win-3.4.1-32bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.4.1/audacity-win-3.4.1-32bit.exe
   InstallerSha256: 8B9DCDC1710F8FB8D844A16B829A87440F0D9F3B7D40BB277D079D9797D901B1
 - Architecture: x64
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.4.1/audacity-win-3.4.1-64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.4.1/audacity-win-3.4.1-64bit.exe
   InstallerSha256: 324BAFC47F49E244E03B2B5CEFB184D1898A8CAC0B797577CE5C3251411E072D
 ManifestType: installer
 ManifestVersion: 1.5.0

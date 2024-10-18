@@ -14,8 +14,8 @@ NestedInstallerFiles:
     PortableCommandAlias: impulsar
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/aimotrens/impulsar/releases/download/v0.13.0/impulsar_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/aimotrens/impulsar/releases/download/v0.13.0/impulsar_windows_amd64.zip
     InstallerSha256: 36ff2dabedafa11642d8e1cad0e1b8cd081175bd191dbc4250d94256445ddce0
   - Architecture: arm64
-    InstallerUrl: https://github.com/aimotrens/impulsar/releases/download/v0.13.0/impulsar_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/aimotrens/impulsar/releases/download/v0.13.0/impulsar_windows_arm64.zip
     InstallerSha256: d2d4f10a4cb3a0a781aa49d076406833d650492ae5ee8e6b40252e24c2ec9640

@@ -22,7 +22,7 @@ NestedInstallerFiles:
   PortableCommandAlias: ds-load
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aserto-dev/ds-load/releases/download/v0.30.6/ds-load_0.30.6_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aserto-dev/ds-load/releases/download/v0.30.6/ds-load_0.30.6_windows_x86_64.zip
   InstallerSha256: 317f5ff61d16cbd0c492012c06ca0b3b5d0b514ee143592b4071cfd0d92dccaf
 ManifestType: installer
 ManifestVersion: 1.6.0

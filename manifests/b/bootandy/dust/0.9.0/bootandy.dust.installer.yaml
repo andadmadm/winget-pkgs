@@ -4,7 +4,7 @@
 PackageIdentifier: bootandy.dust
 PackageVersion: 0.9.0
 Installers:
-- InstallerUrl: https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-pc-windows-gnu.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-pc-windows-gnu.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: dust-v0.9.0-x86_64-pc-windows-gnu\dust.exe
     PortableCommandAlias: dust
   InstallerSha256: bf100a0ff88619c46fe1a60b9d30fa718cb3a961837420021f1b361c241515b2
-- InstallerUrl: https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-i686-pc-windows-gnu.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-i686-pc-windows-gnu.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

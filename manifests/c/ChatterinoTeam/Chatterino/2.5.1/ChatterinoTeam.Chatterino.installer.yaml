@@ -14,13 +14,13 @@ ReleaseDate: 2024-04-28
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Chatterino/chatterino2/releases/download/v2.5.1/Chatterino.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chatterino/chatterino2/releases/download/v2.5.1/Chatterino.Installer.exe
   InstallerSha256: F85FC6FC5721A2F489F4F932D785FE64E6CE0B2E71079E95DEDEFFB2C0BF5F0A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Chatterino/chatterino2/releases/download/v2.5.1/Chatterino.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chatterino/chatterino2/releases/download/v2.5.1/Chatterino.Installer.exe
   InstallerSha256: F85FC6FC5721A2F489F4F932D785FE64E6CE0B2E71079E95DEDEFFB2C0BF5F0A
   InstallerSwitches:
     Custom: /ALLUSERS

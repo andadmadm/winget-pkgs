@@ -10,7 +10,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: gyb\gyb.exe
     PortableCommandAlias: gyb
-  InstallerUrl: https://github.com/GAM-team/got-your-back/releases/download/v1.74/gyb-1.74-windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GAM-team/got-your-back/releases/download/v1.74/gyb-1.74-windows-x86_64.zip
   InstallerSha256: C99F9931300CB9DB5F36D7B1B38D431D1B6062A2A5D3C197B08A09476FEC577C
 ManifestType: installer
 ManifestVersion: 1.5.0

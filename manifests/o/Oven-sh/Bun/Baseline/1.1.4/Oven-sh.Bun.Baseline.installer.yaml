@@ -16,7 +16,7 @@ Dependencies:
 ReleaseDate: 2024-04-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oven-sh/bun/releases/download/bun-v1.1.4/bun-windows-x64-baseline.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/oven-sh/bun/releases/download/bun-v1.1.4/bun-windows-x64-baseline.zip
   InstallerSha256: 11D2D5FC74E012920D52BFBF956D66600A46B53583A3E0A2ED8011BBA870935B
 ManifestType: installer
 ManifestVersion: 1.6.0

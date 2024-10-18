@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-01-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/brimdata/brim/releases/download/v0.22.0/Brim-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brimdata/brim/releases/download/v0.22.0/Brim-Setup.exe
   InstallerSha256: 7E1405121612B524798E77A930CC5EDFE174C8713E791EF219CB09F87203CD5E
 ManifestType: installer
 ManifestVersion: 1.2.0

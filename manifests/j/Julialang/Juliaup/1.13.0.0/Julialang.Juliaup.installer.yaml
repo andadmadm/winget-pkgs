@@ -32,7 +32,7 @@ Installers:
 #     PortableCommandAlias: julia
 #   - RelativeFilePath: juliaup.exe
 #     PortableCommandAlias: juliaup
-#   InstallerUrl: https://github.com/JuliaLang/juliaup/releases/download/v1.13.0/juliaup-1.13.0-i686-pc-windows-gnu-portable.tar.gz
+#   InstallerUrl: https://gitpoxry.com/https://github.com/JuliaLang/juliaup/releases/download/v1.13.0/juliaup-1.13.0-i686-pc-windows-gnu-portable.tar.gz
 #   InstallerSha256: 80E50B4CCBBB20AE2BCE5A8FACBC9DD273514423B85B1A9D45CB7C5FE063631C
 # - Architecture: x64
 #   InstallerType: zip
@@ -42,7 +42,7 @@ Installers:
 #     PortableCommandAlias: julia
 #   - RelativeFilePath: juliaup.exe
 #     PortableCommandAlias: juliaup
-#   InstallerUrl: https://github.com/JuliaLang/juliaup/releases/download/v1.13.0/juliaup-1.13.0-x86_64-pc-windows-gnu-portable.tar.gz
+#   InstallerUrl: https://gitpoxry.com/https://github.com/JuliaLang/juliaup/releases/download/v1.13.0/juliaup-1.13.0-x86_64-pc-windows-gnu-portable.tar.gz
 #   InstallerSha256: A2A9C29402402405A10AD65F3496250E3AB856BBC655A41D3F8459D30277679D
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: frizbee.exe
         PortableCommandAlias: frizbee
-    InstallerUrl: https://github.com/stacklok/frizbee/releases/download/v0.0.9/frizbee_0.0.9_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/stacklok/frizbee/releases/download/v0.0.9/frizbee_0.0.9_windows_arm64.zip
     InstallerSha256: a002300ebf883d9f2675a6c7afa3c602c684ecc92e054b0447d794d828db9f89
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: frizbee.exe
         PortableCommandAlias: frizbee
-    InstallerUrl: https://github.com/stacklok/frizbee/releases/download/v0.0.9/frizbee_0.0.9_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/stacklok/frizbee/releases/download/v0.0.9/frizbee_0.0.9_windows_amd64.zip
     InstallerSha256: 20ff714de608ebd9e2b9e4e373573538557fb8381e27cffd85bf75493c20ac7c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

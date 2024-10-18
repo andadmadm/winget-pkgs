@@ -9,13 +9,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.23.1/Windows_StorageExplorer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.23.1/Windows_StorageExplorer.exe
   InstallerSha256: 16AAD3AEF473EF3226D8C1AEBAC77ADD570BB9FE958F96395341EAB6DCFD62E9
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.23.1/Windows_StorageExplorer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.23.1/Windows_StorageExplorer.exe
   InstallerSha256: 16AAD3AEF473EF3226D8C1AEBAC77ADD570BB9FE958F96395341EAB6DCFD62E9
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ProductCode: Playnite_is1
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/10.33/Playnite1033.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/10.33/Playnite1033.exe
   InstallerSha256: A8B164D1C9D2A3A0822921222B46D1F54B534DBD5B4485B2391EA424F0DCE9D7
 ManifestType: installer
 ManifestVersion: 1.6.0

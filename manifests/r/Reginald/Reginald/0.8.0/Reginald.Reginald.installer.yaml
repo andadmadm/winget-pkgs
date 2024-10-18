@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/giosali/reginald/releases/download/v0.8.0/Reginald-0.8.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/giosali/reginald/releases/download/v0.8.0/Reginald-0.8.0.msi
   InstallerSha256: 4321142DD5767898A5CB8A27FCF06FAE8B36E9821892B0AADF2A1209A1E24F8B
 ManifestType: installer
 ManifestVersion: 1.0.0

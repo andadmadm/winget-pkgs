@@ -9,7 +9,7 @@ InstallerType: nullsoft
 Scope: machine
 Installers:
 - InstallerSha256: A2CF0915AB2516951D30904F5E222082389B3DF0F1A91497179C67BBD7322D3C
-  InstallerUrl: https://github.com/Nexus-Mods/Vortex/releases/download/v1.4.4/vortex-setup-1.4.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nexus-Mods/Vortex/releases/download/v1.4.4/vortex-setup-1.4.4.exe
   Architecture: x64
 ManifestType: installer
 ManifestVersion: 1.2.0

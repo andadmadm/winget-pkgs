@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.3.1/OpenKneeboard-v1.3.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.3.1/OpenKneeboard-v1.3.1.msi
   InstallerSha256: 4929D3085D1CCB8D2C8FF0D4D6CCC7B76470435F2C86902D6688B46A474BAECA
   ProductCode: '{F662FFD6-D252-4528-820D-395EAF3211BD}'
 ManifestType: installer

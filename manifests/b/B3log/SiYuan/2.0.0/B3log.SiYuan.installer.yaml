@@ -14,7 +14,7 @@ ReleaseDate: 2022-04-20
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-2.0.0-win.exe
   InstallerSha256: 4DCA66B879E1EAC86B7CD8C9769B6F3CABC5084BF38B96B3FB151DD6EE16BB11
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-2.0.0-win.exe
   InstallerSha256: 4DCA66B879E1EAC86B7CD8C9769B6F3CABC5084BF38B96B3FB151DD6EE16BB11
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-2.0.0-win32.exe
   InstallerSha256: 19B3D64613EBD6BBEFF1383BD6A2E438077718338ED653BEE977CA673ED3D057
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.0.0/siyuan-2.0.0-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-2.0.0-win32.exe
   InstallerSha256: 19B3D64613EBD6BBEFF1383BD6A2E438077718338ED653BEE977CA673ED3D057
   InstallerSwitches:

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BornToBeRoot/NETworkManager/releases/download/2021.5.9.0/NETworkManager_2021.5.9.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BornToBeRoot/NETworkManager/releases/download/2021.5.9.0/NETworkManager_2021.5.9.0_Setup.exe
   InstallerSha256: 1D44A5A07975A8364DE742E061E0D72B3DD1CC03E02F4D87103A0767E3C7F7A2
 ManifestType: installer
 ManifestVersion: 1.1.0

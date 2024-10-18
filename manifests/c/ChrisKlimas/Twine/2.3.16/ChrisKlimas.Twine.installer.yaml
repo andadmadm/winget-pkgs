@@ -12,13 +12,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/klembot/twinejs/releases/download/2.3.16/twine_2.3.16_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klembot/twinejs/releases/download/2.3.16/twine_2.3.16_win.exe
   InstallerSha256: 5D9369ACF3243A6EF28545CC54EE938BDF322AE79EB78014CD8B47C0D9E67BD5
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/klembot/twinejs/releases/download/2.3.16/twine_2.3.16_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klembot/twinejs/releases/download/2.3.16/twine_2.3.16_win.exe
   InstallerSha256: 5D9369ACF3243A6EF28545CC54EE938BDF322AE79EB78014CD8B47C0D9E67BD5
   InstallerSwitches:
     Custom: /ALLUSERS

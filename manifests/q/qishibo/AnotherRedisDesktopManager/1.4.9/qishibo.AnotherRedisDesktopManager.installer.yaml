@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/Another-Redis-Desktop-Manager.1.4.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/Another-Redis-Desktop-Manager.1.4.9.exe
   InstallerSha256: 4D277434F99211950BB3A1ECB4A5D02E33BFC939CAA341A257D8BBD54EFAB4F6
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/Another-Redis-Desktop-Manager.1.4.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/Another-Redis-Desktop-Manager.1.4.9.exe
   InstallerSha256: 4D277434F99211950BB3A1ECB4A5D02E33BFC939CAA341A257D8BBD54EFAB4F6
   InstallerSwitches:
     Custom: /ALLUSERS

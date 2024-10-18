@@ -37,7 +37,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{B9AAC3BF-7191-57AC-2A97-D5EAD4264711}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.24+8_openj9-0.46.1/ibm-semeru-open-jdk_x64_windows_11.0.24_8_openj9-0.46.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.24+8_openj9-0.46.1/ibm-semeru-open-jdk_x64_windows_11.0.24_8_openj9-0.46.1.msi
   InstallerSha256: C5E9B1B0321677569402C43959CC44FAE95B29E65F1DD23D54A06D731BD0594D
   ProductCode: '{D9EAAF2A-3BE6-4939-BEF2-2F552EF55684}'
 ManifestType: installer

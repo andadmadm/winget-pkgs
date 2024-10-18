@@ -17,7 +17,7 @@ InstallerSwitches:
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jazzdelightsme/PowershellStub/releases/download/v1.0/PowershellStub.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jazzdelightsme/PowershellStub/releases/download/v1.0/PowershellStub.exe
   InstallerSha256: F0E3AAC6D5605D7507BE86D81F55092FC88D4AF53FC85AF9D4CFAF6DB7C876A4
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -19,7 +19,7 @@ Installers:
 - Architecture: x64
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x64.exe
   InstallerSha256: 63760AFF3EB3BB7C24CA093A298A3AFB67EA4343FCE4FB6FB47C9124BE258C3E
   InstallerSwitches:
     Silent: /silent /install
@@ -28,7 +28,7 @@ Installers:
 - Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x64.exe
   InstallerSha256: 63760AFF3EB3BB7C24CA093A298A3AFB67EA4343FCE4FB6FB47C9124BE258C3E
   InstallerSwitches:
     Silent: /silent /install
@@ -36,7 +36,7 @@ Installers:
 - Architecture: x86
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x86.exe
   InstallerSha256: 89267FCE4A09AECE9FD46126673C526D56183388D1ABA668B7D9BBA02C439F0D
   InstallerSwitches:
     Silent: /silent /install
@@ -44,7 +44,7 @@ Installers:
 - Architecture: x86
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/115.0.5790.102-1.1/ungoogled-chromium_115.0.5790.102-1.1_installer_x86.exe
   InstallerSha256: 89267FCE4A09AECE9FD46126673C526D56183388D1ABA668B7D9BBA02C439F0D
   InstallerSwitches:
     Silent: /silent /install

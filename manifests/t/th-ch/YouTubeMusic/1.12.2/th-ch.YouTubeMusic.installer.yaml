@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: "2021-07-01"
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/th-ch/youtube-music/releases/download/v1.12.2/YouTube-Music-Setup-1.12.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/th-ch/youtube-music/releases/download/v1.12.2/YouTube-Music-Setup-1.12.2.exe
   InstallerSha256: c3ca88b1934a078784b15b6b68121ad34660c1d6d7568513549f8c3713797324
 ManifestType: installer
 ManifestVersion: 1.5.0

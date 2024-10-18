@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/patrikx3/redis-ui/releases/download/v2021.10.125/p3x-redis-ui-electron-setup-win-2021.10.125.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/patrikx3/redis-ui/releases/download/v2021.10.125/p3x-redis-ui-electron-setup-win-2021.10.125.exe
   InstallerSha256: 144DDB0FDA4FFAC81E26982C78C9F09324C18E61F1AA6A2A216DAD6E0FB7BB3C
   UpgradeBehavior: install
 ManifestType: installer

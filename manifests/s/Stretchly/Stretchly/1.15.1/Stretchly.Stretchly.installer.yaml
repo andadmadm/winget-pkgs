@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-11-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hovancik/stretchly/releases/download/v1.15.1/Stretchly-Setup-1.15.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hovancik/stretchly/releases/download/v1.15.1/Stretchly-Setup-1.15.1.exe
   InstallerSha256: 417CAA2D5EE7AA07AEFC15B4C68685D870613564004F422D3E2F6969859D0AFE
 ManifestType: installer
 ManifestVersion: 1.5.0

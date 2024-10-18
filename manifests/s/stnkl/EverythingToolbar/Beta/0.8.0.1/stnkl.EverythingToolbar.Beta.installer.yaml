@@ -18,7 +18,7 @@ Dependencies:
 ReleaseDate: 2022-10-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stnkl/EverythingToolbar/releases/download/0.8.0-beta2/EverythingToolbar-0.8.0-beta2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stnkl/EverythingToolbar/releases/download/0.8.0-beta2/EverythingToolbar-0.8.0-beta2.msi
   InstallerSha256: E7C44B8C6FC15307C873941104A374CAF192C82558D794212AA46BCA1B5730E1
   ProductCode: '{D1F6E7E5-1C97-483B-9418-07FD7B8CB914}'
 ManifestType: installer

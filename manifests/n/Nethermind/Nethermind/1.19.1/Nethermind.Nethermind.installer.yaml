@@ -13,7 +13,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: Nethermind.Runner.exe
     PortableCommandAlias: nethermind
-  InstallerUrl: https://github.com/NethermindEth/nethermind/releases/download/1.19.1/nethermind-1.19.1-6fa13930-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NethermindEth/nethermind/releases/download/1.19.1/nethermind-1.19.1-6fa13930-windows-x64.zip
   InstallerSha256: 6FAB7CD219C2F00F199D838BD27E64439E4A10B41137E92DC0C34BB9F6567DB9
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/cryptomator/cryptomator/releases/download/1.8.0/Cryptomator-1.8.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cryptomator/cryptomator/releases/download/1.8.0/Cryptomator-1.8.0-x64.msi
   InstallerSha256: 05F38254AD288516F13BD1BDAF7D4F72316629F4D976DF2C49B144732149F4C8
   ProductCode: '{BE4F2CE1-36C3-34FC-AD5D-463291F558C5}'
 ManifestType: installer

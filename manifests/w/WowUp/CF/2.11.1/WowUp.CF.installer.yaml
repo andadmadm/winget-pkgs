@@ -7,7 +7,7 @@ InstallerType: nullsoft
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WowUp/WowUp.CF/releases/download/v2.11.1/WowUp-CF-Setup-2.11.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WowUp/WowUp.CF/releases/download/v2.11.1/WowUp-CF-Setup-2.11.1.exe
   InstallerSha256: 59A0F995C0F72FD2609052AE73731326A3CD0A577D9D819B3836E2D5FAC11D74
 ManifestType: installer
 ManifestVersion: 1.6.0

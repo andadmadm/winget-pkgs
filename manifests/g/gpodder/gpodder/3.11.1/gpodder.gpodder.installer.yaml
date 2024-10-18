@@ -14,7 +14,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gpodder/gpodder/releases/download/3.11.1/windows-gpodder-3.11.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gpodder/gpodder/releases/download/3.11.1/windows-gpodder-3.11.1-installer.exe
   InstallerSha256: D253324373A5B3FBDACA82854CF60EABDD70341EE1EEA6524DF2328E80569771
 ManifestType: installer
 ManifestVersion: 1.4.0

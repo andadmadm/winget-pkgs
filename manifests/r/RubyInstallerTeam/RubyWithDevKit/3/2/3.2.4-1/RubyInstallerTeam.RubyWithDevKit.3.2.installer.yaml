@@ -16,7 +16,7 @@ ReleaseDate: 2024-04-25
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x86.exe
   InstallerSha256: 432F56F311FA4FCAADEAB8541E6F8E55FE47C0DD79541888282E79B21025F57B
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -25,7 +25,7 @@ Installers:
     ProductCode: RubyInstaller-3.2-i386-mingw32_is1
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x86.exe
   InstallerSha256: 432F56F311FA4FCAADEAB8541E6F8E55FE47C0DD79541888282E79B21025F57B
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -34,7 +34,7 @@ Installers:
     ProductCode: RubyInstaller-3.2-i386-mingw32_is1
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x64.exe
   InstallerSha256: 8871AD0CFA4A8879BCD8172F9D10516706DAA0F3AA96850292AC76DE18CD3021
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -43,7 +43,7 @@ Installers:
     ProductCode: RubyInstaller-3.2-x64-mingw-ucrt_is1
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x64.exe
   InstallerSha256: 8871AD0CFA4A8879BCD8172F9D10516706DAA0F3AA96850292AC76DE18CD3021
   InstallerSwitches:
     Custom: /ALLUSERS

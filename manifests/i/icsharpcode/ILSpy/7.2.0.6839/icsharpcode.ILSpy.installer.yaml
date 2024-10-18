@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/icsharpcode/ILSpy/releases/download/v7.2-preview4/ILSpy_Installer_7.2.0.6839-preview4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/icsharpcode/ILSpy/releases/download/v7.2-preview4/ILSpy_Installer_7.2.0.6839-preview4.msi
   InstallerSha256: 252EC7A1CB1268210BE7D0C93BE721249A4E931C9E47B9D74BF1DFFA678AE8E5
   ProductCode: '{A12FDAB1-731B-4A98-9749-D4813EA69C63}'
 ManifestType: installer

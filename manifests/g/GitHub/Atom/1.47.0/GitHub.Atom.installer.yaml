@@ -13,11 +13,11 @@ InstallerSwitches:
 InstallerType: exe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/atom/atom/releases/download/v1.47.0/AtomSetup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.47.0/AtomSetup-x64.exe
   InstallerSha256: F7C5221CDBC100F744B95E4799C026BD3FD5AC5B5CFC126E29543F219C7A9610
   Scope: user
 - Architecture: x86
-  InstallerUrl: https://github.com/atom/atom/releases/download/v1.47.0/AtomSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.47.0/AtomSetup.exe
   InstallerSha256: 850894D57AB8AC46E4347822AE125BE7B60042445C7F30A951424FC8912D5880
   Scope: user
 ManifestType: installer

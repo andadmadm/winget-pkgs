@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-04-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AndresMorelos/Invoncify/releases/download/v1.14.0/Invoncify-Setup-1.14.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AndresMorelos/Invoncify/releases/download/v1.14.0/Invoncify-Setup-1.14.0.exe
   InstallerSha256: 5795AB71F18D194D749BB6D064E0834F1CE2C3288E3F1A4ECCC844E4DFF57D26
 ManifestType: installer
 ManifestVersion: 1.1.0

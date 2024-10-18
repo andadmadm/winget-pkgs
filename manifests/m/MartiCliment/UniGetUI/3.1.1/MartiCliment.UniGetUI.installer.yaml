@@ -25,13 +25,13 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/marticliment/UniGetUI/releases/download/3.1.1/WingetUI.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marticliment/UniGetUI/releases/download/3.1.1/WingetUI.Installer.exe
   InstallerSha256: DC03F02DF89F23F6F0AFA47B8B8830A81516D3D5D83095C1DA5C59760950C758
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/marticliment/UniGetUI/releases/download/3.1.1/WingetUI.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marticliment/UniGetUI/releases/download/3.1.1/WingetUI.Installer.exe
   InstallerSha256: DC03F02DF89F23F6F0AFA47B8B8830A81516D3D5D83095C1DA5C59760950C758
   InstallerSwitches:
     Custom: /ALLUSERS

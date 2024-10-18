@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ninja.exe
     PortableCommandAlias: ninja
-  InstallerUrl: https://github.com/ninja-build/ninja/releases/download/v1.11.1/ninja-win.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ninja-build/ninja/releases/download/v1.11.1/ninja-win.zip
   InstallerSha256: 524B344A1A9A55005EAF868D991E090AB8CE07FA109F1820D40E74642E289ABC
 ManifestType: installer
 ManifestVersion: 1.4.0

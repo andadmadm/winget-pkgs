@@ -13,13 +13,13 @@ ReleaseDate: 2018-03-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Molunerfinn/PicGo/releases/download/v1.4.3/picgo-setup-1.4.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Molunerfinn/PicGo/releases/download/v1.4.3/picgo-setup-1.4.3.exe
   InstallerSha256: 76CF13821833E839542091B968C195C19E88356A45A4D6F1B4D05768DE08EF9C
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Molunerfinn/PicGo/releases/download/v1.4.3/picgo-setup-1.4.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Molunerfinn/PicGo/releases/download/v1.4.3/picgo-setup-1.4.3.exe
   InstallerSha256: 76CF13821833E839542091B968C195C19E88356A45A4D6F1B4D05768DE08EF9C
   InstallerSwitches:
     Custom: /ALLUSERS

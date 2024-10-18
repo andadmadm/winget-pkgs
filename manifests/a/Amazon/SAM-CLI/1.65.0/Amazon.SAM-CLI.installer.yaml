@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aws/aws-sam-cli/releases/download/v1.65.0/AWS_SAM_CLI_64_PY3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/aws/aws-sam-cli/releases/download/v1.65.0/AWS_SAM_CLI_64_PY3.msi
   InstallerSha256: 4E538657170270336B2185ECC59F1C04DBF914E4F9C8548E9B21238BF26588AF
   ProductCode: '{DF9632C7-F0A4-4962-9F41-29822C06A1C2}'
 ManifestType: installer

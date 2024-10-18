@@ -4,7 +4,7 @@
 PackageIdentifier: SmokeCloud.FdsPp
 PackageVersion: 0.2.5
 Installers:
-- InstallerUrl: https://github.com/Smoke-Cloud/fdspp/releases/download/v0.2.5/FdsPpInstaller.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/Smoke-Cloud/fdspp/releases/download/v0.2.5/FdsPpInstaller.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

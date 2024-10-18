@@ -6,7 +6,7 @@ PackageIdentifier: Dmitry-Farafonov.MicSwitch
 PackageVersion: 1.0.253
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iXab3r/MicSwitch/releases/download/1.0.253/MicSwitchSetup.1.0.253.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iXab3r/MicSwitch/releases/download/1.0.253/MicSwitchSetup.1.0.253.exe
   InstallerSha256: 31626f820e53c8b9d5cf59eb2e543b43eae3a188543d69b6c02b6feddee52336
 ManifestType: installer
 ManifestVersion: 1.5.0

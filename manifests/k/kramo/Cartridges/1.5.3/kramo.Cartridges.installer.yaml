@@ -7,13 +7,13 @@ InstallerType: inno
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/kra-mo/cartridges/releases/download/v1.5.3/Cartridges.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kra-mo/cartridges/releases/download/v1.5.3/Cartridges.Setup.exe
   InstallerSha256: 017F7C851C72DA8D362A2C9D0328C598AA80E79A567906ED3B820B9A58789089
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/kra-mo/cartridges/releases/download/v1.5.3/Cartridges.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kra-mo/cartridges/releases/download/v1.5.3/Cartridges.Setup.exe
   InstallerSha256: 017F7C851C72DA8D362A2C9D0328C598AA80E79A567906ED3B820B9A58789089
   InstallerSwitches:
     Custom: /ALLUSERS

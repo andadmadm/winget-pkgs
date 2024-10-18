@@ -22,7 +22,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/martpie/museeks/releases/download/0.11.5/museeks-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martpie/museeks/releases/download/0.11.5/museeks-setup.exe
   InstallerSha256: 7d1197b6f316306182ff15474af10ba180834bd105ee30ea0aceb286364a57ea
   UpgradeBehavior: install
 ManifestType: installer

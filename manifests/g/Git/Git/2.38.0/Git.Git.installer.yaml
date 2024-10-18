@@ -18,19 +18,19 @@ ReleaseDate: 2022-10-03
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-32-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-32-bit.exe
   InstallerSha256: D1F4C6F9194743566B7E02FF4E437144FF102C16A6E3D3238500FB18CEFA6A07
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-32-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-32-bit.exe
   InstallerSha256: D1F4C6F9194743566B7E02FF4E437144FF102C16A6E3D3238500FB18CEFA6A07
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
   InstallerSha256: 49FA8D1F151E83B89C84E0CB9E400EE0D543D238960F506E487B5A39889FA2C8
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
   InstallerSha256: 49FA8D1F151E83B89C84E0CB9E400EE0D543D238960F506E487B5A39889FA2C8
 ManifestType: installer
 ManifestVersion: 1.2.0

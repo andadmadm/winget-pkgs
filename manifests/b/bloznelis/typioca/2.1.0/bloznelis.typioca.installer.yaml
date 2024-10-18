@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2023-02-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bloznelis/typioca/releases/download/2.1.0/typioca-win-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bloznelis/typioca/releases/download/2.1.0/typioca-win-amd64.exe
   InstallerSha256: 796FE88E1C76A3F5BAD3BDC38969CB9ED311BA603CA357B987EC31F33B9A4B49
 - Architecture: arm64
-  InstallerUrl: https://github.com/bloznelis/typioca/releases/download/2.1.0/typioca-win-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bloznelis/typioca/releases/download/2.1.0/typioca-win-arm64.exe
   InstallerSha256: 16A48ED3527651844C58B251E869193350046BCC3D275AB209F6BA218C2A447F
 ManifestType: installer
 ManifestVersion: 1.2.0

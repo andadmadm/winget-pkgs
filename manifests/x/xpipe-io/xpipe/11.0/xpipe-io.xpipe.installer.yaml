@@ -7,7 +7,7 @@ InstallerLocale: en-US
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xpipe-io/xpipe/releases/download/11.0/xpipe-installer-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/xpipe-io/xpipe/releases/download/11.0/xpipe-installer-windows-x86_64.msi
   InstallerSha256: f5bd9837b7d080093d7859a34c1afa70b0df087e9667c86c3870f5af0aeb8589
 ManifestType: installer
 ManifestVersion: 1.6.0

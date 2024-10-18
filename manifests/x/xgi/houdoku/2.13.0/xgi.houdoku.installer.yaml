@@ -13,13 +13,13 @@ ReleaseDate: 2023-07-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.13.0/Houdoku-Setup-2.13.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.13.0/Houdoku-Setup-2.13.0.exe
   InstallerSha256: 73C0ABD4D0D25600227C8DC9FF071188F3919E051714938D544A704CD5E09729
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.13.0/Houdoku-Setup-2.13.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.13.0/Houdoku-Setup-2.13.0.exe
   InstallerSha256: 73C0ABD4D0D25600227C8DC9FF071188F3919E051714938D544A704CD5E09729
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/sqlectron/sqlectron-gui/releases/download/v1.37.1/sqlectron-Setup-1.37.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sqlectron/sqlectron-gui/releases/download/v1.37.1/sqlectron-Setup-1.37.1.exe
   InstallerSha256: 807F9B464143C61A078DEB0DD983817C5F16AF78ACDF23E6AD0ECE5F79022ECA
   UpgradeBehavior: install
 ManifestType: installer

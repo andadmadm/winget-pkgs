@@ -19,7 +19,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2010.x86
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ripose-jp/Memento/releases/download/v0.5.6-beta/Memento_Windows_x86_64_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ripose-jp/Memento/releases/download/v0.5.6-beta/Memento_Windows_x86_64_Installer.exe
   InstallerSha256: EDFEA6E64932F85CDF05468B8AFB4D2CFF1AC3F3A00848299593A3886C8312FF
   ProductCode: Ripose Memento
   AppsAndFeaturesEntries:

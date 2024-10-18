@@ -16,7 +16,7 @@ FileExtensions:
 ReleaseDate: 2022-09-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Tribler/tribler/releases/download/v7.12.1/Tribler_7.12.1_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Tribler/tribler/releases/download/v7.12.1/Tribler_7.12.1_x64.exe
   InstallerSha256: 8BCDF517D23024BA63D58C1336FB65C3F412F6A36F44719F6583474F9AEC91FC
 ManifestType: installer
 ManifestVersion: 1.5.0

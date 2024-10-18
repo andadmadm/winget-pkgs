@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/4.0.1/authme-4.0.1-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/4.0.1/authme-4.0.1-windows-x64.msi
   InstallerSha256: B65B4B6F13B2BA195C5D6287BDAEA479F729A37814C590B62C467D8B1756A159
   ProductCode: '{6750AD35-944C-4DDC-99B0-FFED7103DDDB}'
 ManifestType: installer

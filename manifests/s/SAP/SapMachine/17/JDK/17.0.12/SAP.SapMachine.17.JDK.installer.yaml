@@ -37,7 +37,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{E2DEA63F-E4BD-4DED-B031-898B019786F6}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.12/sapmachine-jdk-17.0.12_windows-x64_bin.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.12/sapmachine-jdk-17.0.12_windows-x64_bin.msi
   InstallerSha256: CE036B86C5D2EAC8E6988A0B79C79D6093E71E52D9DB18C3F63081C799B9E7D2
   ProductCode: '{467D4F6E-EB00-4C7A-B91E-A1350C9FA053}'
 ManifestType: installer

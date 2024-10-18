@@ -16,7 +16,7 @@ FileExtensions:
 ReleaseDate: 2023-04-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/moshfeu/y2mp3/releases/download/v2.5.9-alpha/y2mp3-Setup-2.5.9-alpha.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moshfeu/y2mp3/releases/download/v2.5.9-alpha/y2mp3-Setup-2.5.9-alpha.exe
   InstallerSha256: FF4A5B7F43BF9E502B0748FED8B81D4CCC09AA3DBC4584CE6F8B82AC491CA596
 ManifestType: installer
 ManifestVersion: 1.4.0

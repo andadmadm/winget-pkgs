@@ -12,7 +12,7 @@ Installers:
   NestedInstallerType: nullsoft
   NestedInstallerFiles:
   - RelativeFilePath: git-cola-4.2.1.exe
-  InstallerUrl: https://github.com/git-cola/git-cola/releases/download/v4.2.1/git-cola-4.2.1.windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-cola/git-cola/releases/download/v4.2.1/git-cola-4.2.1.windows.zip
   InstallerSha256: AABF3C82DD3DA403D9BEBF3E6D2283AE82706B7A82725629AF0E8F3A24A62002
   InstallerSwitches:
     Silent: /S

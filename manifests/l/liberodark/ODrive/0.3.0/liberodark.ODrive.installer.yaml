@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/liberodark/ODrive/releases/download/0.3.0/OpenDrive.Setup.0.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/liberodark/ODrive/releases/download/0.3.0/OpenDrive.Setup.0.3.0.exe
   InstallerSha256: E87AEB496F74A3F97B2C7FB205C38EDA1F5A1AE7F85B446276A2326DF39EF75E
 ManifestType: installer
 ManifestVersion: 1.2.0

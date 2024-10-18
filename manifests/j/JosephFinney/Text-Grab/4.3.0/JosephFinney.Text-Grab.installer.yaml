@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.8
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/TheJoeFin/Text-Grab/releases/download/v4.3.0/Text-Grab.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TheJoeFin/Text-Grab/releases/download/v4.3.0/Text-Grab.exe
   InstallerSha256: CD76A0350F48FFF54EF64FDC8590412BBD5D8C562C012040D2E873EFDD3F46DE
 ManifestType: installer
 ManifestVersion: 1.6.0

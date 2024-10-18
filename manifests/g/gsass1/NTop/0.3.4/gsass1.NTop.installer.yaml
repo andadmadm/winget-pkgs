@@ -9,7 +9,7 @@ Commands:
 - ntop
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gsass1/NTop/releases/download/v0.3.4/ntop.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gsass1/NTop/releases/download/v0.3.4/ntop.exe
   InstallerSha256: 67AADF4B033DE1ACAEE2D84BE4A296C14BAA8288706E116435221733E93F9F50
 ManifestType: installer
 ManifestVersion: 1.2.0

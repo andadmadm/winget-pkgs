@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{7080DD39-FDE3-481C-992F-5E9531132059}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WetHat/OnenoteTaggingKit/releases/download/v5.1.8514/SetupTaggingKitWiX.5.1.8514.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WetHat/OnenoteTaggingKit/releases/download/v5.1.8514/SetupTaggingKitWiX.5.1.8514.msi
   InstallerSha256: F36D206B350D90C540CBE5E84572AEDB84794A6FA537A4E469C4A66F3875A110
 ManifestType: installer
 ManifestVersion: 1.5.0

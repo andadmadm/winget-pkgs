@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{8633B604-CBB1-4F1A-988A-2F038D70DDBC}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ottozumkeller/QR-Code-Reader/releases/download/v1.0.2/QR-Code-Reader-1.0.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ottozumkeller/QR-Code-Reader/releases/download/v1.0.2/QR-Code-Reader-1.0.2.msi
   InstallerSha256: D003A3218A9BF3C26B1E5BA78980AC1475ED2B87865B17DBC744D169B4CB2CF4
 ManifestType: installer
 ManifestVersion: 1.5.0

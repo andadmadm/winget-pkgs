@@ -13,7 +13,7 @@ FileExtensions:
 ReleaseDate: 2024-01-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/XmacsLabs/mogan/releases/download/v1.2.3/MoganResearch-v1.2.3-64bit-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/XmacsLabs/mogan/releases/download/v1.2.3/MoganResearch-v1.2.3-64bit-installer.exe
   InstallerSha256: D4559441EC2D9A608D44E69E0146EA3A3EF056E182FE17A828F67B0430D98552
   ProductCode: MoganResearch
 ManifestType: installer

@@ -14,13 +14,13 @@ ReleaseDate: 2022-06-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.9.0/Houdoku-Setup-2.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.9.0/Houdoku-Setup-2.9.0.exe
   InstallerSha256: 99F1F77D4D96282CB43EDFB3A1BEADAEC066914DA6B553FF5DF80177CF5CBBFD
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.9.0/Houdoku-Setup-2.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.9.0/Houdoku-Setup-2.9.0.exe
   InstallerSha256: 99F1F77D4D96282CB43EDFB3A1BEADAEC066914DA6B553FF5DF80177CF5CBBFD
   InstallerSwitches:
     Custom: /ALLUSERS

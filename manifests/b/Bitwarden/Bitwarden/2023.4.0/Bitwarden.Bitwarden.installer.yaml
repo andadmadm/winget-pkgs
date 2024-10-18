@@ -13,39 +13,39 @@ ReleaseDate: 2023-04-26
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
   InstallerSha256: 7C3C9D40418B0D93DD31ACF7FC8DAECA336D04ED887CB332B61E916358516FC9
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
   InstallerSha256: 7C3C9D40418B0D93DD31ACF7FC8DAECA336D04ED887CB332B61E916358516FC9
   InstallerSwitches:
     Custom: /allusers
   ElevationRequirement: elevationRequired
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
   InstallerSha256: 7C3C9D40418B0D93DD31ACF7FC8DAECA336D04ED887CB332B61E916358516FC9
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
   InstallerSha256: 7C3C9D40418B0D93DD31ACF7FC8DAECA336D04ED887CB332B61E916358516FC9
   InstallerSwitches:
     Custom: /allusers
   ElevationRequirement: elevationRequired
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
   InstallerSha256: 7C3C9D40418B0D93DD31ACF7FC8DAECA336D04ED887CB332B61E916358516FC9
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-Installer-2023.4.0.exe
   InstallerSha256: 7C3C9D40418B0D93DD31ACF7FC8DAECA336D04ED887CB332B61E916358516FC9
   InstallerSwitches:
     Custom: /allusers

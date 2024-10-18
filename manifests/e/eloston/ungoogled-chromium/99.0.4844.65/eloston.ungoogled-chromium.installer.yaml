@@ -23,11 +23,11 @@ ReleaseDate: 2022-03-09
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v99.0.4844.65-r961656-Win64/99.0.4844.65_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v99.0.4844.65-r961656-Win64/99.0.4844.65_ungoogled_mini_installer.exe
   InstallerSha256: 9F9CA700A521A204D55CEB8A11931379E1E3A4C7514CBA7EB3DA5177FD70C8C1
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v99.0.4844.65-r961656-Win64/99.0.4844.65_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v99.0.4844.65-r961656-Win64/99.0.4844.65_ungoogled_mini_installer.exe
   InstallerSha256: 9F9CA700A521A204D55CEB8A11931379E1E3A4C7514CBA7EB3DA5177FD70C8C1
   InstallerSwitches:
     Custom: --system-level

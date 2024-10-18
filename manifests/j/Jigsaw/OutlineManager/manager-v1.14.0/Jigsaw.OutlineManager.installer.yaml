@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-27
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/Jigsaw-Code/outline-server/releases/download/manager-v1.14.0/Outline-Manager.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jigsaw-Code/outline-server/releases/download/manager-v1.14.0/Outline-Manager.exe
   InstallerSha256: E1D1FEAE08774A18B0FF7FF469EA76EB24BDC9409C6A5BEA55AAE193766A37BA
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/buttercup/buttercup-desktop/releases/download/v2.14.2/Buttercup-win-x64-2.14.2-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buttercup/buttercup-desktop/releases/download/v2.14.2/Buttercup-win-x64-2.14.2-installer.exe
   InstallerSha256: 35FFB483C95137D8FEBDA0EF914EA532F1625F33B5D2B587D92B589341C714E9
 ManifestType: installer
 ManifestVersion: 1.1.0

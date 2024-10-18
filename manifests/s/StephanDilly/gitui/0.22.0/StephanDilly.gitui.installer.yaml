@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2022-11-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/extrawurst/gitui/releases/download/v0.22.0/gitui.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/extrawurst/gitui/releases/download/v0.22.0/gitui.msi
   InstallerSha256: 2312514CB421AB673DAD18B0D095B2CC3C71C05032F6B28614CB310D9FC24A8C
   ProductCode: '{69C52BB8-C08D-4D74-8C56-510400E1919E}'
 ManifestType: installer

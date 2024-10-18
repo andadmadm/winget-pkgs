@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{728C60C1-38C9-5878-A895-495AD8F0727F}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v2.5.0/steam-art-manager.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v2.5.0/steam-art-manager.msi
   InstallerSha256: 5F7B6B2D5B0387B68CD8446A97C92770CB66F0871ECF8A7352465FBCE47B028B
 ManifestType: installer
 ManifestVersion: 1.5.0

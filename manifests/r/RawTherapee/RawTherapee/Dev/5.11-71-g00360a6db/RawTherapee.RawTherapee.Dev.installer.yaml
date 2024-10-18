@@ -7,7 +7,7 @@ InstallerType: inno
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Beep6581/RawTherapee/releases/download/nightly-github-actions/RawTherapee_dev_win64_release.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Beep6581/RawTherapee/releases/download/nightly-github-actions/RawTherapee_dev_win64_release.exe
   InstallerSha256: 88A628EB5205E3ABAA218DEB849984AC9731FA090452D8F1EB689392436BDCD0
 ManifestType: installer
 ManifestVersion: 1.5.0

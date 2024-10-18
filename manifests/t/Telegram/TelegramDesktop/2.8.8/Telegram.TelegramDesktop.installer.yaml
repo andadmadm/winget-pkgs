@@ -17,7 +17,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v2.8.8/tsetup-x64.2.8.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v2.8.8/tsetup-x64.2.8.8.exe
   InstallerSha256: 4F995C4B9B27B08B431D6FAF5AFC614A882B5BB838EDBAD19C7ACD012CA1B23D
   UpgradeBehavior: install
 - InstallerLocale: en-US
@@ -26,7 +26,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v2.8.8/tsetup.2.8.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v2.8.8/tsetup.2.8.8.exe
   InstallerSha256: 7A5F29A15584BB90C2CF94B1D97AE893FB68F5A0343C0A5272480B67FF09D085
   UpgradeBehavior: install
 ManifestType: installer

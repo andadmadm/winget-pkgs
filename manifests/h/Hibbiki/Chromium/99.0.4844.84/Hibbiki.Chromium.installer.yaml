@@ -24,11 +24,11 @@ ReleaseDate: 2022-03-26
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Hibbiki/chromium-win64/releases/download/v99.0.4844.84-r1060/mini_installer.sync.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Hibbiki/chromium-win64/releases/download/v99.0.4844.84-r1060/mini_installer.sync.exe
   InstallerSha256: 9EF928B267CF8C3CA6B7FBB89B58259A2CDED5A06EB33CA266FFD019BBA7A007
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Hibbiki/chromium-win64/releases/download/v99.0.4844.84-r1060/mini_installer.sync.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Hibbiki/chromium-win64/releases/download/v99.0.4844.84-r1060/mini_installer.sync.exe
   InstallerSha256: 9EF928B267CF8C3CA6B7FBB89B58259A2CDED5A06EB33CA266FFD019BBA7A007
   InstallerSwitches:
     Custom: --system-level

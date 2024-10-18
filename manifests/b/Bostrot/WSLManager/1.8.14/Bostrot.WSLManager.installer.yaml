@@ -13,7 +13,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-05-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bostrot/wsl2-distro-manager/releases/download/v1.8.14/wsl2-distro-manager-v1.8.14.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/bostrot/wsl2-distro-manager/releases/download/v1.8.14/wsl2-distro-manager-v1.8.14.zip
   InstallerSha256: F458AA2A0F1C25A54022AC590413ACC39B6B9666B9392EB69653A0A05FF9985D
 ManifestType: installer
 ManifestVersion: 1.6.0

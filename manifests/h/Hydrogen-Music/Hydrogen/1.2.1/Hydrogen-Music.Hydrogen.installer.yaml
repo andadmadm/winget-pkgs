@@ -6,13 +6,13 @@ PackageVersion: 1.2.1
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/hydrogen-music/hydrogen/releases/download/1.2.1/Hydrogen-1.2.1-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydrogen-music/hydrogen/releases/download/1.2.1/Hydrogen-1.2.1-win64.exe
   InstallerSha256: F0CB3EFEB8ED20BDB7494B52F5D71689ABF2EC9FB3868339B1EE8C7CD811D69F
   InstallerSwitches:
     Silent: /S
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/hydrogen-music/hydrogen/releases/download/1.2.1/Hydrogen-1.2.1-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydrogen-music/hydrogen/releases/download/1.2.1/Hydrogen-1.2.1-win32.exe
   InstallerSha256: 99C086DDFA96CFD4FB6B00B2D381EBB32A5C6A04949FBE32558790B20958CB0F
   InstallerSwitches:
     Silent: /S

@@ -26,7 +26,7 @@ Installers:
   NestedInstallerType: exe # Qt Installer Framework
   NestedInstallerFiles:
   - RelativeFilePath: maskromtool-win-x86_64.exe
-  InstallerUrl: https://github.com/travisgoodspeed/maskromtool/releases/download/v2024-01-1/maskromtool-win-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/travisgoodspeed/maskromtool/releases/download/v2024-01-1/maskromtool-win-x86_64.zip
   InstallerSha256: 676B82E93674BE395CC9B1A978CC7440216C8E1B547BCA230CB952077EA60605
 ManifestType: installer
 ManifestVersion: 1.5.0

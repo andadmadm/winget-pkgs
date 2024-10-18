@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2023-03-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.4.2/OpenKneeboard-v1.4.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.4.2/OpenKneeboard-v1.4.2.msi
   InstallerSha256: 9EA884108AE00CAFD1E9758718DD098C0A02F3D3D72D38824B57E8848CF7789B
   ProductCode: '{5A8A312D-6C22-4D95-ADA2-8B21D40F076E}'
 ManifestType: installer

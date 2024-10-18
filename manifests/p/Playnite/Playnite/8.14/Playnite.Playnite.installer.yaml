@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-07-02
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/8.14/Playnite814.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/8.14/Playnite814.exe
   InstallerSha256: 5CFD01A3B0C768B169EA4818996870C0407AFA650437D5936ABE4A995F5B6DEB
 ManifestType: installer
 ManifestVersion: 1.2.0

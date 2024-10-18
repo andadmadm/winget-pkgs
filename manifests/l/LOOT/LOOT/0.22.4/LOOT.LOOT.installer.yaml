@@ -15,7 +15,7 @@ ProductCode: '{BF634210-A0D4-443F-A657-0DCE38040374}_is1'
 ReleaseDate: 2024-05-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/loot/loot/releases/download/0.22.4/loot_0.22.4-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/loot/loot/releases/download/0.22.4/loot_0.22.4-win64.exe
   InstallerSha256: 83651C49954634BB7B3560A8DF7D43ECBDDCFD30019164B133BBD6CE86519E4C
 ManifestType: installer
 ManifestVersion: 1.6.0

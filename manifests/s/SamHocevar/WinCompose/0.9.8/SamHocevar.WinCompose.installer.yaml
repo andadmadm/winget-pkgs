@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /VERYSILENT
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/samhocevar/wincompose/releases/download/v0.9.8/WinCompose-Setup-0.9.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/samhocevar/wincompose/releases/download/v0.9.8/WinCompose-Setup-0.9.8.exe
   InstallerSha256: 0037EA8607CC82D32AF36A3941FF9F4D5608118251CAE1717D6715F210305C2F
 ManifestType: installer
 ManifestVersion: 1.1.0

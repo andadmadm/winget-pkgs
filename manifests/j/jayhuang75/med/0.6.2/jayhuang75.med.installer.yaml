@@ -12,7 +12,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: med.exe
-  InstallerUrl: https://github.com/jayhuang75/rust-cli-med/releases/download/0.6.2/med-0.6.2-x86_64-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/jayhuang75/rust-cli-med/releases/download/0.6.2/med-0.6.2-x86_64-windows-msvc.zip
   InstallerSha256: 013C9833E24DB12197C7B1798A94B55EA0610F657BB894BFC6915F79C4E69132
 ManifestType: installer
 ManifestVersion: 1.4.0

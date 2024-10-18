@@ -15,7 +15,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: notation.exe
-  InstallerUrl: https://github.com/notaryproject/notation/releases/download/v1.0.0/notation_1.0.0_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/notaryproject/notation/releases/download/v1.0.0/notation_1.0.0_windows_amd64.zip
   InstallerSha256: C175270AF703CAA63473C8D9EA503AD07FFDCC91C7B95D30F4184DFE1374872C
 ManifestType: installer
 ManifestVersion: 1.5.0

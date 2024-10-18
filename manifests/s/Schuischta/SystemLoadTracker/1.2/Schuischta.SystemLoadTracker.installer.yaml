@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.8
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Schuischta/SystemLoadTracker/releases/download/release-1.2/SystemLoadTracker.1.2.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Schuischta/SystemLoadTracker/releases/download/release-1.2/SystemLoadTracker.1.2.zip
   InstallerSha256: DE7A2E0A552EFF9386A8C3DCF389B56AC7AEE2A989206E964B2B488E4EA0A1AF
 ManifestType: installer
 ManifestVersion: 1.6.0

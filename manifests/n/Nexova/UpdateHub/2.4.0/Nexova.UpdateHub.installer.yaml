@@ -9,7 +9,7 @@ InstallerSwitches:
   SilentWithProgress: /SilentWithProgress
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/NexovaDev/UpdateHub/releases/latest/download/UpdateHub-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/NexovaDev/UpdateHub/releases/latest/download/UpdateHub-x64.exe
   InstallerSha256: F1E44905005CD60513AC9E5FDC96E6EF33BACE1F1F57B0ED9138320F09B9C2B6
 ManifestType: installer
 ManifestVersion: 1.6.0

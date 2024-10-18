@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jopemachine/arvis/releases/download/v0.14.6/Arvis-Setup-0.14.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jopemachine/arvis/releases/download/v0.14.6/Arvis-Setup-0.14.6.exe
   InstallerSha256: E5444845D5EBF1976AA78B388C5367D92DC0C635698EA7D359A48A9655CDBC7B
 ManifestType: installer
 ManifestVersion: 1.1.0

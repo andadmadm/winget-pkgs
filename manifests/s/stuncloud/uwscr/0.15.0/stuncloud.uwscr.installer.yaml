@@ -17,13 +17,13 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: uwscr.exe
-  InstallerUrl: https://github.com/stuncloud/UWSCR/releases/download/0.15.0/UWSCRx64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/stuncloud/UWSCR/releases/download/0.15.0/UWSCRx64.zip
   InstallerSha256: 238CFC0C1EC2CD0DA43898EC1A502F1E4EAF1BAD308C4F7732D0A52BE955E71C
 - Architecture: x86
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: uwscr.exe
-  InstallerUrl: https://github.com/stuncloud/UWSCR/releases/download/0.15.0/UWSCRx86.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/stuncloud/UWSCR/releases/download/0.15.0/UWSCRx86.zip
   InstallerSha256: EBD2060E2B430125F3ECFABA5B9950C9972523EEE59D5D260A17E19609BB645E
 ManifestType: installer
 ManifestVersion: 1.6.0

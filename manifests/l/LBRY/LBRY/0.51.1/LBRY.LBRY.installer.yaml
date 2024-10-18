@@ -38,7 +38,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/lbryio/lbry-desktop/releases/download/v0.51.1/LBRY_0.51.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lbryio/lbry-desktop/releases/download/v0.51.1/LBRY_0.51.1.exe
   InstallerSha256: ADED3C1AA83B8D67EFA9E69A4B6516C7C02DE04BDDD6C6B6DBC39CDBCDBD2BB3
   UpgradeBehavior: install
 ManifestType: installer

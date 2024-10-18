@@ -142,10 +142,10 @@ FileExtensions:
 ReleaseDate: 2024-07-01
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/2.3.2/MPC-HC.2.3.2.x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/2.3.2/MPC-HC.2.3.2.x86.exe
   InstallerSha256: 779567EEA56AF6B297E6E7D406149FEC15333D2D320EDB9F3DD8D031A13A33FE
 - Architecture: x64
-  InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/2.3.2/MPC-HC.2.3.2.1.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/2.3.2/MPC-HC.2.3.2.1.x64.exe
   InstallerSha256: A454658D7C27CB39B5C1C71ABCC04E92FFF3773D9A94EFBA7D7C4F6839A414AD
 ManifestType: installer
 ManifestVersion: 1.6.0

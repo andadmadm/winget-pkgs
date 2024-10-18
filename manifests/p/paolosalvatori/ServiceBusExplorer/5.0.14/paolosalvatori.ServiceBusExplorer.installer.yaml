@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ./ServiceBusExplorer.exe
     PortableCommandAlias: ServiceBusExplorer
-  InstallerUrl: https://github.com/paolosalvatori/ServiceBusExplorer/releases/download/5.0.14/ServiceBusExplorer-5.0.14.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/paolosalvatori/ServiceBusExplorer/releases/download/5.0.14/ServiceBusExplorer-5.0.14.zip
   InstallerSha256: F6DD4C202E6849D523FA66DA6DDFB040347E5A2F590E79606DE34170711FF0CF
 ManifestType: installer
 ManifestVersion: 1.4.0

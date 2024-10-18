@@ -21,7 +21,7 @@ ReleaseDate: 2023-01-27
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/msys2/msys2-installer/releases/download/2023-01-27/msys2-x86_64-20230127.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/msys2/msys2-installer/releases/download/2023-01-27/msys2-x86_64-20230127.exe
   InstallerSha256: D05C0618027299E9A0834DE968596C41BD2012ED8B2534B114A3B9D3FCA56809
 ManifestType: installer
 ManifestVersion: 1.2.0

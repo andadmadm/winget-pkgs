@@ -11,10 +11,10 @@ NestedInstallerFiles:
 ReleaseDate: 2024-03-31
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/gokcehan/lf/releases/download/r32/lf-windows-386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gokcehan/lf/releases/download/r32/lf-windows-386.zip
   InstallerSha256: 11BADAC976FB9322CC0FDBEBD8DC8DDEAAA19CD717CEB2430D010FE9531BE495
 - Architecture: x64
-  InstallerUrl: https://github.com/gokcehan/lf/releases/download/r32/lf-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gokcehan/lf/releases/download/r32/lf-windows-amd64.zip
   InstallerSha256: 1B046A62A40D89E62238B8BF2B3FBDA53BACB91FC64E960A8BD3F8BE904E1231
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -16,7 +16,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kimwalisch/primesieve-winget/releases/download/v7.9/Primesieve-7.9-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kimwalisch/primesieve-winget/releases/download/v7.9/Primesieve-7.9-win-x64.exe
   InstallerSha256: A682C58DBAFB0F34E36C4332D8C75A085B2CCB7E57F6C59EF5218F19CB7A87B0
 ManifestType: installer
 ManifestVersion: 1.4.0

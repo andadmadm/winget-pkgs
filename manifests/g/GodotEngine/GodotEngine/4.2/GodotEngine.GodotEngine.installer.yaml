@@ -13,7 +13,7 @@ Installers:
     PortableCommandAlias: godot
   - RelativeFilePath: Godot_v4.2-stable_win32_console.exe
     PortableCommandAlias: godot_console
-  InstallerUrl: https://github.com/godotengine/godot/releases/download/4.2-stable/Godot_v4.2-stable_win32.exe.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.2-stable/Godot_v4.2-stable_win32.exe.zip
   InstallerSha256: 7C7523F8B2A472B5DE269AE97590ED7124FFF7C114288EADA3642E5B4B2C7B73
 - Architecture: x64
   NestedInstallerFiles:
@@ -21,7 +21,7 @@ Installers:
     PortableCommandAlias: godot
   - RelativeFilePath: Godot_v4.2-stable_win64_console.exe
     PortableCommandAlias: godot_console
-  InstallerUrl: https://github.com/godotengine/godot/releases/download/4.2-stable/Godot_v4.2-stable_win64.exe.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.2-stable/Godot_v4.2-stable_win64.exe.zip
   InstallerSha256: 15A5F8C39B18C839192E622E49CAFD36A095EE55225577574FB0935723C56397
 ManifestType: installer
 ManifestVersion: 1.5.0

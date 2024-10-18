@@ -17,7 +17,7 @@ ProductCode: Anki
 ReleaseDate: 2023-10-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/23.10/anki-23.10-windows-qt6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/23.10/anki-23.10-windows-qt6.exe
   InstallerSha256: 9A93874B98D5B0B81BA3A876A13106BE8102845FAF0578B7FEF508EDDF2FF8B4
 ManifestType: installer
 ManifestVersion: 1.5.0

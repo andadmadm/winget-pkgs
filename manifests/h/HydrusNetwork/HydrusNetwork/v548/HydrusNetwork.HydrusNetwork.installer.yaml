@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ProductCode: Hydrus Network_is1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hydrusnetwork/hydrus/releases/download/v548/Hydrus.Network.548.-.Windows.-.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydrusnetwork/hydrus/releases/download/v548/Hydrus.Network.548.-.Windows.-.Installer.exe
   InstallerSha256: 90BE63EC7340A88D0C9154485C9B9112F09313586C4EC6640B6B5B03F3CDFEDD
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -7,7 +7,7 @@ InstallerType: inno
 ReleaseDate: 2024-04-03
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/therealpaulgg/ssh-sync/releases/download/v1.0.0/ssh-sync-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/therealpaulgg/ssh-sync/releases/download/v1.0.0/ssh-sync-setup.exe
   InstallerSha256: 25AE4EBB95B8D6D68A6DE84D0FC3EA8F5C503BC09A3BC63CE3AC41591576FEE8
 ManifestType: installer
 ManifestVersion: 1.5.0

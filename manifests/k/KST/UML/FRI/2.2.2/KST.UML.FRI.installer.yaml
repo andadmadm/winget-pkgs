@@ -4,7 +4,7 @@
 PackageIdentifier: KST.UML.FRI
 PackageVersion: 2.2.2
 Installers:
-- InstallerUrl: https://github.com/umlfri/umlfri2/releases/download/v2.2.2/umlfri-setup-2.2.2.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/umlfri/umlfri2/releases/download/v2.2.2/umlfri-setup-2.2.2.exe
   Architecture: x86
   InstallerType: inno
   InstallerSha256: 5B5A171C7E4D72E94B4C53B3DE4BE3F215646634C0B403144F41E75B8F1CC9E5

@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/team-aie/app/releases/download/v0.15.5/aie-setup-0.15.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-aie/app/releases/download/v0.15.5/aie-setup-0.15.5.exe
   InstallerSha256: 9884EFEB57B6C038DC65A31F31FA0BF7AC18725110ECB55CEE1EDB24DD23FA0B
   UpgradeBehavior: install
 ManifestType: installer

@@ -11,7 +11,7 @@ PackageFamilyName: MetaBrainzFoundationInc.org.musicbrainz.Picard_6cfbg5p5jt8h8
 ReleaseDate: 2022-06-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/metabrainz/picard/releases/download/release-2.8.1/MusicBrainz-Picard-2.8.1.msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/metabrainz/picard/releases/download/release-2.8.1/MusicBrainz-Picard-2.8.1.msix
   InstallerSha256: 3AD1E6F887EBE8803D558C705CF62FFAE99C884A3A6AEF8CA7471480277C84F1
   SignatureSha256: FDE277C1C711C9570F05083F1407A40C16847A06B1FF32919571880F5C190392
 ManifestType: installer

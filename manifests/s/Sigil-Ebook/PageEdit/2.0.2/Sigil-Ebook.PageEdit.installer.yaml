@@ -19,13 +19,13 @@ Dependencies:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Sigil-Ebook/PageEdit/releases/download/2.0.2/PageEdit-2.0.2-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/PageEdit/releases/download/2.0.2/PageEdit-2.0.2-Windows-x64-Setup.exe
   InstallerSha256: 6A3540D10E90EED1878703B11BC61B1147961ED8A7EDD77F03A1695E1C80C8A0
   InstallerSwitches:
     Custom: /CURRENTUSER /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Sigil-Ebook/PageEdit/releases/download/2.0.2/PageEdit-2.0.2-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/PageEdit/releases/download/2.0.2/PageEdit-2.0.2-Windows-x64-Setup.exe
   InstallerSha256: 6A3540D10E90EED1878703B11BC61B1147961ED8A7EDD77F03A1695E1C80C8A0
   InstallerSwitches:
     Custom: /ALLUSERS /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"

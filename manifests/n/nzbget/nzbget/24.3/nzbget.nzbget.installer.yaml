@@ -8,7 +8,7 @@ Scope: machine
 ReleaseDate: 2024-09-12
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/nzbgetcom/nzbget/releases/download/v24.3/nzbget-24.3-bin-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nzbgetcom/nzbget/releases/download/v24.3/nzbget-24.3-bin-windows-setup.exe
   InstallerSha256: 6E22A91D0CBFB0E40FEF73AE4C45F60B0B5BB0A81A99E3F125589D20822485EC
 ManifestType: installer
 ManifestVersion: 1.6.0

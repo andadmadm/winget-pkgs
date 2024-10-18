@@ -10,7 +10,7 @@ InstallerType: portable
 ReleaseDate: 2023-04-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RandomEngy/VidCoder/releases/download/v9.4-beta/VidCoder-9.4-Beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RandomEngy/VidCoder/releases/download/v9.4-beta/VidCoder-9.4-Beta.exe
   InstallerSha256: C2E171FFDA8536BF5EF66097AFCE865A6C08BF4D8400C31C358138CA2DE0D985
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -5,7 +5,7 @@ PackageIdentifier: NDXCode.EclipseFlashTool
 PackageVersion: "1.8"
 InstallerType: portable
 Installers:
-- InstallerUrl: https://github.com/NDXCode/Eclipse-Flash-Tool/releases/download/v1.8-x86/Eclipse.Flash.Tool-v1.8-x86.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/NDXCode/Eclipse-Flash-Tool/releases/download/v1.8-x86/Eclipse.Flash.Tool-v1.8-x86.exe
   Architecture: x86
   InstallerSha256: 98AAFFCB8BAB56C7AE2E9B849F4A6CA49BA1A0372F3FADBEC711B6DDA849EDA5
 ManifestType: installer

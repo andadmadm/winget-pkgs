@@ -13,7 +13,7 @@ FileExtensions:
 ReleaseDate: 2024-04-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/reqable/reqable-app/releases/download/2.10.2/reqable-app-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/reqable/reqable-app/releases/download/2.10.2/reqable-app-windows-x86_64.exe
   InstallerSha256: 5638D297F13C4D336FC6EA35382E2901A243C98CA328C6CB470231C885CD6EEB
   ProductCode: '{64920BD9-D19F-4537-84AA-42BF46FEB27E}_is1'
 ManifestType: installer

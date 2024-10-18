@@ -16,14 +16,14 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/conan-io/conan/releases/download/1.40.1/conan-win-64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conan-io/conan/releases/download/1.40.1/conan-win-64.exe
   InstallerSha256: 98431866F0A08F446CB01D1913794ABA9AD8ECC0A3573384A17AB9231BDCD1ED
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/conan-io/conan/releases/download/1.40.1/conan-win-32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conan-io/conan/releases/download/1.40.1/conan-win-32.exe
   InstallerSha256: AEECA94E92C4462090031DD5395D4E530E1645881147BCC6E67860B48BA803F9
   UpgradeBehavior: install
 ManifestType: installer

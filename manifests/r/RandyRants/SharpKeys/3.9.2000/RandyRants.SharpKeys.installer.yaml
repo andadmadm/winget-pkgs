@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: user
-  InstallerUrl: https://github.com/randyrants/sharpkeys/releases/download/v3.9.2/sharpkeys392.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/randyrants/sharpkeys/releases/download/v3.9.2/sharpkeys392.msi
   InstallerSha256: 1893764D44B3189D2134B4F60C4493C7E7161BD0836A8F79CA1DE9542E345427
   ProductCode: '{23BDD0C3-22B7-4957-9DA2-13DFCF5AC4BE}'
   UpgradeBehavior: install

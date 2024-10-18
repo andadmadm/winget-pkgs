@@ -14,7 +14,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/scratch-for-discord/scratch-for-discord-app/releases/download/v1.2.3/Scratch-For-Discord-Setup-1.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/scratch-for-discord/scratch-for-discord-app/releases/download/v1.2.3/Scratch-For-Discord-Setup-1.2.3.exe
   InstallerSha256: C3B087A62C6A195494FB1D7C219B414475D663224F8EB26FA3B1453FFAF5009D
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -23,7 +23,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/scratch-for-discord/scratch-for-discord-app/releases/download/v1.2.3/Scratch-For-Discord-Setup-1.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/scratch-for-discord/scratch-for-discord-app/releases/download/v1.2.3/Scratch-For-Discord-Setup-1.2.3.exe
   InstallerSha256: C3B087A62C6A195494FB1D7C219B414475D663224F8EB26FA3B1453FFAF5009D
   InstallerSwitches:
     Custom: /ALLUSERS

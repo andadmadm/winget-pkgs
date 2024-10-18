@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/go-sqlcmd/releases/download/v0.14.0/sqlcmd_0.14.0-1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/go-sqlcmd/releases/download/v0.14.0/sqlcmd_0.14.0-1.msi
   InstallerSha256: ddc589bcdee655e05e5d757070133107b03880e8f349861a7a2fca7f8165f7c2
   ProductCode: '{2BAE0B97-976F-4737-897D-52A9CE49C3A0}'
 ManifestType: installer

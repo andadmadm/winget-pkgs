@@ -8,14 +8,14 @@ InstallerType: inno
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/DrewNaylor/guinget/releases/download/v0.3-beta/guinget_v0.3-beta-rev1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/guinget/releases/download/v0.3-beta/guinget_v0.3-beta-rev1.exe
   InstallerSha256: 70A279B755A518208264EF3C4DA8B9627ED2678AD056B151C41B8ACF54A06259
   InstallerSwitches:
     Silent: /VERYSILENT /ALLUSERS
     SilentWithProgress: /SILENT /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/DrewNaylor/guinget/releases/download/v0.3-beta/guinget_v0.3-beta-rev1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/guinget/releases/download/v0.3-beta/guinget_v0.3-beta-rev1.exe
   InstallerSha256: 70A279B755A518208264EF3C4DA8B9627ED2678AD056B151C41B8ACF54A06259
   InstallerSwitches:
     Silent: /VERYSILENT /CURRENTUSER

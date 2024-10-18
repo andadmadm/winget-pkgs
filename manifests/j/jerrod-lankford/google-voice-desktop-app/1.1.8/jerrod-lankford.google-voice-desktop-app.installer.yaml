@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jerrod-lankford/google-voice-desktop-app/releases/download/1.1.8/Voice-Desktop-Setup-1.1.8-WindowsX64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jerrod-lankford/google-voice-desktop-app/releases/download/1.1.8/Voice-Desktop-Setup-1.1.8-WindowsX64.exe
   InstallerSha256: 51B113DDE471AEE1E1C4C40D1D24ABA3DBD23448E6FC92B1B30ED8EE1B508BFB
 ManifestType: installer
 ManifestVersion: 1.2.0

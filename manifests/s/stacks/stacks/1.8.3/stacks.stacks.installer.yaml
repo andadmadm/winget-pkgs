@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stacks-task-manager/stacks/releases/download/v1.8.3/Stacks-Setup-1.8.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stacks-task-manager/stacks/releases/download/v1.8.3/Stacks-Setup-1.8.3.exe
   InstallerSha256: D5430A9BB6ABB5F27C766D6E5A8BE68506DACD7636EE5674C15D7B0F280C696B
 ManifestType: installer
 ManifestVersion: 1.1.0

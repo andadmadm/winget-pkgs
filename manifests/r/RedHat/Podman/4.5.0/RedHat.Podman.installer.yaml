@@ -11,7 +11,7 @@ ReleaseDate: 2023-04-14
 Installers:
 - Architecture: x64
   InstallerType: burn
-  InstallerUrl: https://github.com/containers/podman/releases/download/v4.5.0/podman-4.5.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v4.5.0/podman-4.5.0-setup.exe
   InstallerSha256: 2F2B4E71D6EF273680E6552A499E57C079CBE12F0ADA3358F2673B245D5EC7BF
   InstallerSwitches:
     InstallLocation: InstallFolder="<INSTALLPATH>"
@@ -22,7 +22,7 @@ Installers:
     UpgradeCode: '{F3E1F40A-A791-49B7-9BC6-050975293353}'
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/containers/podman/releases/download/v4.5.0/podman-v4.5.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v4.5.0/podman-v4.5.0.msi
   InstallerSha256: BE4C62469C19CDFB005119210180F29D1B72C1B823ECE9DA5CD2CCF11B05EB7F
   InstallerSwitches:
     InstallLocation: INSTALLDIR="<INSTALLPATH>"

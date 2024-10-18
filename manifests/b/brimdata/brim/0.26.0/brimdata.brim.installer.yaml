@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/brimdata/brim/releases/download/v0.26.0/Brim-Setup-0.26.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brimdata/brim/releases/download/v0.26.0/Brim-Setup-0.26.0.exe
   InstallerSha256: 5826079096E06766196D62B2231A2F0EEE8421982CE13AEF2BAD2D6CEC6BE161
 ManifestType: installer
 ManifestVersion: 1.0.0

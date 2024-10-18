@@ -61,7 +61,7 @@ FileExtensions:
 ProductCode: '{F102E394-0FA6-4AEA-826D-9FE699115BAB}_is1'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Ruben2776/PicView/releases/download/2.2.4/PicView-2.2.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ruben2776/PicView/releases/download/2.2.4/PicView-2.2.4.exe
   InstallerSha256: 84A55FB40CEBF93351E80ED2251C28E5E82CD777AD68722BA8F917D16DFE2A69
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -19,7 +19,7 @@ InstallerSwitches:
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/0install/0install-win/releases/download/2.24.6/zero-install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/0install/0install-win/releases/download/2.24.6/zero-install.exe
   InstallerSha256: 2D903593751095930B960D25A798D0BB3916DD75ECDA29724822E61A6944827A
   InstallerSwitches:
     Interactive: self deploy
@@ -27,7 +27,7 @@ Installers:
     Silent: self deploy --batch --background
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/0install/0install-win/releases/download/2.24.6/zero-install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/0install/0install-win/releases/download/2.24.6/zero-install.exe
   InstallerSha256: 2D903593751095930B960D25A798D0BB3916DD75ECDA29724822E61A6944827A
   InstallerSwitches:
     Interactive: self deploy --machine

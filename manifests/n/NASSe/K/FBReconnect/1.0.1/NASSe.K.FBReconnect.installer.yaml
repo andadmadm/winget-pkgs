@@ -5,7 +5,7 @@ PackageIdentifier: NASSe.K.FBReconnect
 PackageVersion: 1.0.1
 InstallerType: inno
 Installers:
-- InstallerUrl: https://github.com/manfred-mueller/FBReconnect/releases/download/1.0.1/FBReconnect-Setup-1.0.1.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/manfred-mueller/FBReconnect/releases/download/1.0.1/FBReconnect-Setup-1.0.1.exe
   Architecture: x64
   InstallerSha256: 7964A9B3C7947032F9295F9410A67F071F3DF720752E5AED5B566495E214E195
 ManifestType: installer

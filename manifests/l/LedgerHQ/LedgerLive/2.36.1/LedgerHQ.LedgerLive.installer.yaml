@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.36.1/ledger-live-desktop-2.36.1-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.36.1/ledger-live-desktop-2.36.1-win-x64.exe
   InstallerSha256: 68564C3ADF203C77E1A4816978064C840134C92922CB46DA5D262443AC354E89
 ManifestType: installer
 ManifestVersion: 1.1.0

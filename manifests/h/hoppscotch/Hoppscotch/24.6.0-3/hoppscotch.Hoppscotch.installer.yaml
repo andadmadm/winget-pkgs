@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{75553029-191D-517B-AAA3-B841B7DD3064}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hoppscotch/releases/releases/download/v24.6.0-3/Hoppscotch_win_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/hoppscotch/releases/releases/download/v24.6.0-3/Hoppscotch_win_x64.msi
   InstallerSha256: E5BFBDA3346229C0FB71E7299401FF89910415750E540A922E4C8A6630E9BF68
 ManifestType: installer
 ManifestVersion: 1.6.0

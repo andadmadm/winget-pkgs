@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/nashaofu/dingtalk/releases/download/v2.1.11/dingtalk-2.1.11-latest.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nashaofu/dingtalk/releases/download/v2.1.11/dingtalk-2.1.11-latest.exe
   InstallerSha256: 09E7EE9BEF2FE719469AB24AA2D095BB0074EBDCA9FE680988E4E19D7397C7EE
   UpgradeBehavior: install
 ManifestType: installer

@@ -11,10 +11,10 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{23f90fdd-9328-47ea-ab52-5380855a4b12}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cloudflare/cloudflared/releases/download/2022.8.2/cloudflared-windows-386.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cloudflare/cloudflared/releases/download/2022.8.2/cloudflared-windows-386.msi
   InstallerSha256: 774591908ABC39623A7B5C686D1C4A0E3E2684C621D7CC5DF5F49A234DC05CF2
 - Architecture: x64
-  InstallerUrl: https://github.com/cloudflare/cloudflared/releases/download/2022.8.2/cloudflared-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cloudflare/cloudflared/releases/download/2022.8.2/cloudflared-windows-amd64.msi
   InstallerSha256: 8EDEA1EFD067856CA45BA437ABB1752E551AC1FAF170B13B5D370A968976757A
 ManifestType: installer
 ManifestVersion: 1.4.0

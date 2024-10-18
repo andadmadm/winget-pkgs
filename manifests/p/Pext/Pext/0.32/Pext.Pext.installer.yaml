@@ -6,7 +6,7 @@ PackageVersion: "0.32"
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Pext/Pext/releases/download/v0.32/Pext.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Pext/Pext/releases/download/v0.32/Pext.exe
   InstallerSha256: ADF4C721E1AF19AD972D9B3165065CCF7E5B649DD110107E8E460C127A1B4F15
   ProductCode: Pext
 ManifestType: installer

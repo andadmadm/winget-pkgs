@@ -38,7 +38,7 @@ FileExtensions:
 ReleaseDate: 2022-04-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.3/LBRY_0.53.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lbryio/lbry-desktop/releases/download/v0.53.3/LBRY_0.53.3.exe
   InstallerSha256: 07438A392FE84B7EF463C350AAA5ECDA85F0F58A5846EBC7CC8BE7834434E058
 ManifestType: installer
 ManifestVersion: 1.1.0

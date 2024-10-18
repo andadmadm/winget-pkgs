@@ -34,14 +34,14 @@ FileExtensions:
 ReleaseDate: 2024-07-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.12_7.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.12_7.msi
   InstallerSha256: 84E94CAA3FAC04A173D8CEBB80AE77727EAEDD766D5BF4F66900AA64AA0B4F11
   ProductCode: '{E0CAD1B6-6CF5-4E33-9F85-18AAE8CDD8EE}'
   AppsAndFeaturesEntries:
   - ProductCode: '{E0CAD1B6-6CF5-4E33-9F85-18AAE8CDD8EE}'
     UpgradeCode: '{4E1CBF0B-065B-AEF8-D9EF-31CE714AFB90}'
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jdk_x64_windows_hotspot_17.0.12_7.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jdk_x64_windows_hotspot_17.0.12_7.msi
   InstallerSha256: 1E6DF6B445D9E995E86FD8225C658DF1411D3ABAB86B540CE4D2063C8A889835
   ProductCode: '{20108BEF-FA49-47AE-9551-495BED430689}'
   AppsAndFeaturesEntries:

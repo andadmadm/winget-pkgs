@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SaladTechnologies/salad-applications/releases/download/1.6.2/Salad-1.6.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SaladTechnologies/salad-applications/releases/download/1.6.2/Salad-1.6.2.exe
   InstallerSha256: FC1740AEEC27164024C1DD7AB51FC36395234CBA2A5E7FF5B3C641802D6D0597
 ManifestType: installer
 ManifestVersion: 1.6.0

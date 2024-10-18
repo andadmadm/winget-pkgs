@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: defang.exe
         PortableCommandAlias: defang
-    InstallerUrl: https://github.com/DefangLabs/defang/releases/download/v0.5.40/defang_0.5.40_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/DefangLabs/defang/releases/download/v0.5.40/defang_0.5.40_windows_arm64.zip
     InstallerSha256: 948fee20ef656d988ff4d1bb20057c081c418a6f2f5d9abb071a9e97a64e70a5
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: defang.exe
         PortableCommandAlias: defang
-    InstallerUrl: https://github.com/DefangLabs/defang/releases/download/v0.5.40/defang_0.5.40_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/DefangLabs/defang/releases/download/v0.5.40/defang_0.5.40_windows_amd64.zip
     InstallerSha256: 5de2e30e26f1d25d5631ce5038d56b4890ce6e30262e597f7541ae30de9864dd
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -37,7 +37,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/cnr-isti-vclab/meshlab/releases/download/Meshlab-2021.07/MeshLab2021.07-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cnr-isti-vclab/meshlab/releases/download/Meshlab-2021.07/MeshLab2021.07-windows.exe
   InstallerSha256: 097A0BA1C7CCD734C2CD793F73C139C2DD806A196BA6ECD7EE9B05615E13EDBE
   UpgradeBehavior: install
 ManifestType: installer

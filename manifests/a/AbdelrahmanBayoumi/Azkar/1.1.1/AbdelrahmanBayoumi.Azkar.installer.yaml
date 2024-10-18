@@ -17,10 +17,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-12
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.1.1/Azkar_windows-x32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.1.1/Azkar_windows-x32.exe
   InstallerSha256: D8CE5AD1ECD76C99D29BF4103EE581211132DF96144FF9197FDDDDA9AF757A49
 - Architecture: x64
-  InstallerUrl: https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.1.1/Azkar_windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.1.1/Azkar_windows-x64.exe
   InstallerSha256: F1971502677B8F3A974AA42E1FB4CC53FB2FB1BE1B16BB7A8155A9D8C0DE7B5A
 ManifestType: installer
 ManifestVersion: 1.1.0

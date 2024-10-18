@@ -5,7 +5,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Ultimaker/Cura/releases/download/4.6.0/Ultimaker.Cura-4.6.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ultimaker/Cura/releases/download/4.6.0/Ultimaker.Cura-4.6.0-win64.exe
   InstallerSha256: 226E52CDF2E9BBA167CA835A7923D30158FD865EC9E4218FFA259A86FE0B545C
   AppsAndFeaturesEntries:
   - DisplayName: Ultimaker Cura 4.6

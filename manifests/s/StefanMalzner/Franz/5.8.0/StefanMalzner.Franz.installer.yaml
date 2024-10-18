@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-02-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/meetfranz/franz/releases/download/v5.8.0/Franz-Setup-5.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/meetfranz/franz/releases/download/v5.8.0/Franz-Setup-5.8.0.exe
   InstallerSha256: 217CABDF219EB05EFEE1BB1B889F298803E261D647160D3EC4D982F474D6C8E0
 ManifestType: installer
 ManifestVersion: 1.1.0

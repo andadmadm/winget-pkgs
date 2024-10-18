@@ -11,7 +11,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Coloryr/ColorMC/releases/download/a27.2024.7.19/colormc-a27-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Coloryr/ColorMC/releases/download/a27.2024.7.19/colormc-a27-windows-x64.msi
   InstallerSha256: 23BAF16AF2EA87E08A4B7705BDE5B19975E172B742C14C29BC9BA66C76B2A19A
   ProductCode: '{BA2749D2-BBA4-4ACE-8E06-C4E111D43C1A}'
 ManifestType: installer

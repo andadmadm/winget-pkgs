@@ -16,7 +16,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/persepolisdm/persepolis/releases/download/4.3.0/persepolis_4.3.0.0_windows_64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/persepolisdm/persepolis/releases/download/4.3.0/persepolis_4.3.0.0_windows_64bit.exe
   InstallerSha256: E56C816254407C6F2CC5B39DF89FB0EC40D9E0CEDED92D704FE1A49D9F7C9816
 ManifestType: installer
 ManifestVersion: 1.6.0

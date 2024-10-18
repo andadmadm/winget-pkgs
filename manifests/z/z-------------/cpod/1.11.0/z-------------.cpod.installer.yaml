@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/z-------------/CPod/releases/download/v1.11.0/cumulonimbus-setup-1.11.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/z-------------/CPod/releases/download/v1.11.0/cumulonimbus-setup-1.11.0.exe
   InstallerSha256: 0ADA2E19550A9C5FD8C65F5F0706F4952C8835293F5F22A9DE73E38A12705FA3
 ManifestType: installer
 ManifestVersion: 1.1.0

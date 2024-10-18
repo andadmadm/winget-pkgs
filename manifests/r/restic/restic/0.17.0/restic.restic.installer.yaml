@@ -16,13 +16,13 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: restic_0.17.0_windows_386.exe
     PortableCommandAlias: restic
-  InstallerUrl: https://github.com/restic/restic/releases/download/v0.17.0/restic_0.17.0_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/restic/restic/releases/download/v0.17.0/restic_0.17.0_windows_386.zip
   InstallerSha256: EC72C50BDD6B49A4A045EE92E471C01596640426AA4F5CDFDCE2C2A975A2913D
 - Architecture: x64
   NestedInstallerFiles:
   - RelativeFilePath: restic_0.17.0_windows_amd64.exe
     PortableCommandAlias: restic
-  InstallerUrl: https://github.com/restic/restic/releases/download/v0.17.0/restic_0.17.0_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/restic/restic/releases/download/v0.17.0/restic_0.17.0_windows_amd64.zip
   InstallerSha256: 8578D2A63BBEDD34669ED4CD8B332FB3AECFD3480EA3EF6D0C692E6FC146CB3E
 ManifestType: installer
 ManifestVersion: 1.6.0

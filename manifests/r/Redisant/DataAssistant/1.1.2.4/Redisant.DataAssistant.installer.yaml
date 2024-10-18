@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: DA-1.1.2.4-windows\DA-1.1.2.4.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.4/DA-1.1.2.4-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.4/DA-1.1.2.4-windows.zip
   InstallerSha256: F7DD90269B9966194DCC92460335ABA51606EEA9B2593A0D669B960F1D8AED16
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: DA-1.1.2.4-windows\DA-1.1.2.4.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.4/DA-1.1.2.4-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.4/DA-1.1.2.4-windows.zip
   InstallerSha256: F7DD90269B9966194DCC92460335ABA51606EEA9B2593A0D669B960F1D8AED16
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -6,7 +6,7 @@ PackageVersion: "0.14"
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/chatty/chatty/releases/download/v0.14/Chatty_0.14_win_standalone_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chatty/chatty/releases/download/v0.14/Chatty_0.14_win_standalone_setup.exe
   InstallerSha256: B5047B2BCD629292C9137DE95136DF6033BC29DE37AEF4017E50D2BB611E603D
 ManifestType: installer
 ManifestVersion: 1.4.0

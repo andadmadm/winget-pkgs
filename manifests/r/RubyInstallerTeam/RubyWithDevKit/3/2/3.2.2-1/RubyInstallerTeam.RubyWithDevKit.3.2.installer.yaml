@@ -16,7 +16,7 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
   InstallerSha256: 678619631C7E0E9B06BD53FD50689B47770FB577A8E49A35F615D2C8691AA6B7
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -26,7 +26,7 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
   InstallerSha256: 678619631C7E0E9B06BD53FD50689B47770FB577A8E49A35F615D2C8691AA6B7
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -36,7 +36,7 @@ Installers:
 - Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x86.exe
   InstallerSha256: 920B800933027C12BCB7BE197AC6B49C680E8688F1593CB2BE7BC5C763B12720
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -46,7 +46,7 @@ Installers:
 - Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x86.exe
   InstallerSha256: 920B800933027C12BCB7BE197AC6B49C680E8688F1593CB2BE7BC5C763B12720
   InstallerSwitches:
     Custom: /CURRENTUSER

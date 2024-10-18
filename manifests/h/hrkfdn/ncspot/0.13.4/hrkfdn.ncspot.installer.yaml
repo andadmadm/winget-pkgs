@@ -14,7 +14,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hrkfdn/ncspot/releases/download/v0.13.4/ncspot-v0.13.4-windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/hrkfdn/ncspot/releases/download/v0.13.4/ncspot-v0.13.4-windows-x86_64.zip
   InstallerSha256: 0BC288A27413012D9EE16FD382FDCCF9E209916038B148F520EA55F7ECB663DD
 ManifestType: installer
 ManifestVersion: 1.5.0

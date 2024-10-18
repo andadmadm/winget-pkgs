@@ -11,10 +11,10 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2024-09-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/databricks/cli/releases/download/v0.227.0/databricks_cli_0.227.0_windows_amd64-signed.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/databricks/cli/releases/download/v0.227.0/databricks_cli_0.227.0_windows_amd64-signed.zip
   InstallerSha256: B3CFA5EB7415BE414FF7920705D136390FA089D00FB17892AE3C0370124AA749
 - Architecture: arm64
-  InstallerUrl: https://github.com/databricks/cli/releases/download/v0.227.0/databricks_cli_0.227.0_windows_arm64-signed.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/databricks/cli/releases/download/v0.227.0/databricks_cli_0.227.0_windows_arm64-signed.zip
   InstallerSha256: 5AB4DE8A689E9964F626DBD78D5EB0B1781A17C6867FC3F529AB55588CAC0E2E
 ManifestType: installer
 ManifestVersion: 1.5.0

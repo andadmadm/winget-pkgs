@@ -19,11 +19,11 @@ Dependencies:
 ReleaseDate: 2023-02-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/5.7.0/OneMore_5.7.0_Setupx64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/5.7.0/OneMore_5.7.0_Setupx64.msi
   InstallerSha256: 6F294448B8EEFEE3E50B3E42720AF4A6DD1D59F3C836EA453B5C260F386EFE8E
   ProductCode: '{E470D0A4-68C0-4528-A9AE-E58B423B2AB2}'
 - Architecture: x86
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/5.7.0/OneMore_5.7.0_Setupx86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/5.7.0/OneMore_5.7.0_Setupx86.msi
   InstallerSha256: 44CC248FB628A9DF8D13EAFC4FDDD79A8A941CBAD85335D90C2781280109B77F
   ProductCode: '{E470D0A4-68C0-4528-A9AE-E58B423B2AB2}'
 ManifestType: installer

@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-07-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BrettMayson/HEMTT/releases/download/v1.7.1/windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/BrettMayson/HEMTT/releases/download/v1.7.1/windows-x64.zip
   InstallerSha256: A0D1C1963E91DF2AFF0155734EC54A81C1C3621AE0D18AF4589CB99582C50439
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -4,7 +4,7 @@
 PackageIdentifier: bcssov.IronyModManager
 PackageVersion: 1.24.145
 Installers:
-- InstallerUrl: https://github.com/bcssov/IronyModManager/releases/download/v1.24.145/win-x64-setup.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/bcssov/IronyModManager/releases/download/v1.24.145/win-x64-setup.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: inno
@@ -14,7 +14,7 @@ Installers:
   Scope: machine
   InstallerSwitches:
     Custom: /ALLUSERS
-- InstallerUrl: https://github.com/bcssov/IronyModManager/releases/download/v1.24.145/win-x64-setup.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/bcssov/IronyModManager/releases/download/v1.24.145/win-x64-setup.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: inno

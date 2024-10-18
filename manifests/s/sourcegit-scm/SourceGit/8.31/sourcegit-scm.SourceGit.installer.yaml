@@ -9,10 +9,10 @@ NestedInstallerFiles:
 - RelativeFilePath: SourceGit\SourceGit.exe
 Installers:
 - Architecture: arm64
-  InstallerUrl: https://github.com/sourcegit-scm/sourcegit/releases/download/v8.31/sourcegit_8.31.win-arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sourcegit-scm/sourcegit/releases/download/v8.31/sourcegit_8.31.win-arm64.zip
   InstallerSha256: 59BD75D9C750C376A8AFFEDFAFAB3741960FDAEF33F40C817EFB829BDD2F1EC2
 - Architecture: x64
-  InstallerUrl: https://github.com/sourcegit-scm/sourcegit/releases/download/v8.31/sourcegit_8.31.win-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sourcegit-scm/sourcegit/releases/download/v8.31/sourcegit_8.31.win-x64.zip
   InstallerSha256: 5EE728A64C6F46B24306095DCFF703DFE483BB6BBEA74CA8106D54850420BD97
 ManifestType: installer
 ManifestVersion: 1.6.0

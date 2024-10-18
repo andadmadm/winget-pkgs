@@ -13,11 +13,11 @@ ProductCode: clink_chrisant996
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.4.21/clink.1.4.21.b59b76_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.4.21/clink.1.4.21.b59b76_setup.exe
   InstallerSha256: 986D8330E0023C15C8602CA07400DB9E8408794B19955A9F965A7B5400E4A5AE
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.4.21/clink.1.4.21.b59b76_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.4.21/clink.1.4.21.b59b76_setup.exe
   InstallerSha256: 986D8330E0023C15C8602CA07400DB9E8408794B19955A9F965A7B5400E4A5AE
 ManifestType: installer
 ManifestVersion: 1.4.0

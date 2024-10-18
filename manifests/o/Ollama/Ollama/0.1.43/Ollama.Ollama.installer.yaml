@@ -11,7 +11,7 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/ollama/ollama/releases/download/v0.1.43/OllamaSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ollama/ollama/releases/download/v0.1.43/OllamaSetup.exe
   InstallerSha256: 4E5904AACF9E99E9F405866F53F8EA5019CE10D7D4C209B4B3DC29DC14AE686D
   ProductCode: '{44E83376-CE68-45EB-8FC1-393500EB558C}_is1'
 ManifestType: installer

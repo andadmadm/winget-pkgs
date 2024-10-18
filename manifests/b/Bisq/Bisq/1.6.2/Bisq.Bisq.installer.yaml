@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT /NORESTART /SUPPRESSMSGBOXES
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.6.2/Bisq-64bit-1.6.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.6.2/Bisq-64bit-1.6.2.exe
   InstallerSha256: 9C45E2A92E1B2087998FECCFCDFDDF7F6111C3F9DC41466024A53D0953FDD22A
 ManifestType: installer
 ManifestVersion: 1.1.0

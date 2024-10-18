@@ -6,7 +6,7 @@ PackageVersion: 1.9.26
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/toitlang/jaguar/releases/download/v1.9.26/jag_installer_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/toitlang/jaguar/releases/download/v1.9.26/jag_installer_x64.exe
   InstallerSha256: 795C98C8D9B6F1DFED8B26D44C3C68B1C5FC21E75382E89EAA1527CD09602F3F
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -6,7 +6,7 @@ PackageVersion: 2.28.0
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.28.0/PathOfBuildingCommunity-Setup-2.28.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.28.0/PathOfBuildingCommunity-Setup-2.28.0.exe
   InstallerSha256: 345EDFF404D11F69B744669990D2BE5F6292F94CAB663EE640B1B88B1D65F61B
   InstallerSwitches:
     Silent: /S

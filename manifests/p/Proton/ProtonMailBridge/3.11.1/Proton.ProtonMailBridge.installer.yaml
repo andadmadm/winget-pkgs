@@ -59,7 +59,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-05-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ProtonMail/proton-bridge/releases/download/v3.11.1/Bridge-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ProtonMail/proton-bridge/releases/download/v3.11.1/Bridge-Installer.exe
   InstallerSha256: 859A6AECB8688466EEF6A61C851F25C185E6DA5FCFBD9F0366E6FA551825D7BB
 ManifestType: installer
 ManifestVersion: 1.6.0

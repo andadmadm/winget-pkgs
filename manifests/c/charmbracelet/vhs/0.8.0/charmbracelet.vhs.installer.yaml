@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: vhs_0.8.0_Windows_i386\vhs.exe
         PortableCommandAlias: vhs
-    InstallerUrl: https://github.com/charmbracelet/vhs/releases/download/v0.8.0/vhs_0.8.0_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/vhs/releases/download/v0.8.0/vhs_0.8.0_Windows_i386.zip
     InstallerSha256: 1ad3f7ca28243461d4c72e32856849c265f580507a23dd405288677139ed55f1
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: vhs_0.8.0_Windows_x86_64\vhs.exe
         PortableCommandAlias: vhs
-    InstallerUrl: https://github.com/charmbracelet/vhs/releases/download/v0.8.0/vhs_0.8.0_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/vhs/releases/download/v0.8.0/vhs_0.8.0_Windows_x86_64.zip
     InstallerSha256: 857058e28ef37742ff939457f69eb6b337c4599bad84d95fccfe30c2de6c0b62
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

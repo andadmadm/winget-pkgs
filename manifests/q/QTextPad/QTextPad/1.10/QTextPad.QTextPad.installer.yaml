@@ -8,7 +8,7 @@ Scope: machine
 ReleaseDate: 2023-05-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zrax/qtextpad/releases/download/1.10/qtextpad-win64-1.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zrax/qtextpad/releases/download/1.10/qtextpad-win64-1.10.exe
   InstallerSha256: 885F27947054B23F4E3C73574DA4EAFA76D971EEB94AFB7926C1ACD46352BB78
 ManifestType: installer
 ManifestVersion: 1.5.0

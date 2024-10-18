@@ -14,25 +14,25 @@ ReleaseDate: 2023-11-21
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86.exe
   InstallerSha256: F1CF3826A904625158CACA3AA2AF39031FBDA5982F1026FACC03BDE1357C640D
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86.exe
   InstallerSha256: F1CF3826A904625158CACA3AA2AF39031FBDA5982F1026FACC03BDE1357C640D
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86_64.exe
   InstallerSha256: 84DC99878A8C675543EF44D28D63C3A86140F8255A38467897CADC828ED56E86
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/6.4.0-1/streamlink-6.4.0-1-py311-x86_64.exe
   InstallerSha256: 84DC99878A8C675543EF44D28D63C3A86140F8255A38467897CADC828ED56E86
   InstallerSwitches:
     Custom: /ALLUSERS

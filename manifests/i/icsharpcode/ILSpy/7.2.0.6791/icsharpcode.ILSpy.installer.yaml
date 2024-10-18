@@ -8,7 +8,7 @@ InstallerType: wix
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/icsharpcode/ILSpy/releases/download/v7.2-preview3/ILSpy_Installer_7.2.0.6791-preview3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/icsharpcode/ILSpy/releases/download/v7.2-preview3/ILSpy_Installer_7.2.0.6791-preview3.msi
   InstallerSha256: 3BBE72B8B4E997D89517608FE09131870805A5CD54A14ED6F5DA8389058350E4
   ProductCode: '{A12FDAB1-731B-4A98-9749-D4813EA69C33}'
 ManifestType: installer

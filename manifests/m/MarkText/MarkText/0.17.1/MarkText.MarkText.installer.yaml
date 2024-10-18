@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
   ProductCode: 80b8d59a-8e25-5f52-8f55-48f4c6ccbd23
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe
   InstallerSha256: B9BF5A5D9307E190CDD12C05E6056DDBED54DCE3A1B4FDB28E7D61683AC799AA
 ManifestType: installer
 ManifestVersion: 1.4.0

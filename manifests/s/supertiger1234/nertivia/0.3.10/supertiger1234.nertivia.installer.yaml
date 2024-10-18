@@ -6,7 +6,7 @@ PackageVersion: 0.3.10
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/supertiger1234/nertivia-desktop-app/releases/download/v0.3.10/nertivia-Setup-0.3.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supertiger1234/nertivia-desktop-app/releases/download/v0.3.10/nertivia-Setup-0.3.10.exe
   InstallerSha256: F39AB853013703FE224849DB25BD78D1B5382476CC5F2CBF55985DA088C230C4
   ProductCode: '0b7151d7-8bbc-599b-ba9c-c7b6b2cd18b7'
 ManifestType: installer

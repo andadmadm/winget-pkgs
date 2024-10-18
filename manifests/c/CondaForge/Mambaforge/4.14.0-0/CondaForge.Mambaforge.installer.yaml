@@ -18,14 +18,14 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/4.14.0-0/Mambaforge-4.14.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/4.14.0-0/Mambaforge-4.14.0-0-Windows-x86_64.exe
   InstallerSha256: E7B4EF04CC3F39ADE35E2B7BAA2778514DB881800E1136CD9FA283931E547D95
   InstallerSwitches:
     Custom: /InstallationType=JustMe /AddToPath=0 /RegisterPython=0
   ProductCode: Mambaforge 4.14.0-0 (Python 3.10.6 64-bit)
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/4.14.0-0/Mambaforge-4.14.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/4.14.0-0/Mambaforge-4.14.0-0-Windows-x86_64.exe
   InstallerSha256: E7B4EF04CC3F39ADE35E2B7BAA2778514DB881800E1136CD9FA283931E547D95
   InstallerSwitches:
     Custom: /InstallationType=AllUsers /AddToPath=0 /RegisterPython=0

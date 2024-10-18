@@ -14,7 +14,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: GeoDa_1.20_win7+x86_Setup.exe
-  InstallerUrl: https://github.com/GeoDaCenter/geoda/releases/download/v1.20.0.36/GeoDa-Windows7+-x86-installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeoDaCenter/geoda/releases/download/v1.20.0.36/GeoDa-Windows7+-x86-installer.zip
   InstallerSha256: A1C51684CC24DFCD17936AB846CA8E4D0F4B5A7D7016E3ED0ECBC892CEB4D713
   Dependencies:
     PackageDependencies:
@@ -24,7 +24,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: GeoDa_1.20_win7+x64_Setup.exe
-  InstallerUrl: https://github.com/GeoDaCenter/geoda/releases/download/v1.20.0.36/GeoDa-Windows7+-x64-installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GeoDaCenter/geoda/releases/download/v1.20.0.36/GeoDa-Windows7+-x64-installer.zip
   InstallerSha256: 38EA01D893590E0A1DFDA4E336E354FBC15C815C6E417A83B4544EF6FC518DED
   Dependencies:
     PackageDependencies:

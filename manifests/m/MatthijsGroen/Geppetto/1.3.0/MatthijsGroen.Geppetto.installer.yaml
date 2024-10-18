@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/matthijsgroen/geppetto/releases/download/1.3.0/Geppetto.Setup.1.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/matthijsgroen/geppetto/releases/download/1.3.0/Geppetto.Setup.1.3.0.exe
   InstallerSha256: 53E820030B69F080CDDB309C0CF8F50220D1218593B5FDC8B6C72C6C496294DD
 ManifestType: installer
 ManifestVersion: 1.0.0

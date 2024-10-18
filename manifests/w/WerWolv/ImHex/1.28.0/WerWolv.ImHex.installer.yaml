@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/WerWolv/ImHex/releases/download/v1.28.0/imhex-1.28.0-Windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WerWolv/ImHex/releases/download/v1.28.0/imhex-1.28.0-Windows-x86_64.msi
   InstallerSha256: 9EEB071740303F80A816085A1A04AE9DE89513CB14E27D5B51B570009749EE43
   ProductCode: '{94E8EF19-7B6E-4FA5-BBB0-239C4BB5E105}'
 ManifestType: installer

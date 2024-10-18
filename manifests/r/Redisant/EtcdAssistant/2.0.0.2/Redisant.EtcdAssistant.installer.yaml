@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: EA-2.0.0.2-windows\EA-2.0.0.2.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/etcd-assistant-release/releases/download/v2.0.0.2/EA-2.0.0.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/etcd-assistant-release/releases/download/v2.0.0.2/EA-2.0.0.2-windows.zip
   InstallerSha256: 82A5103396C9B51163BEA88EE789A1A50231A7B972DD4590685461C959EE7A33
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: EA-2.0.0.2-windows\EA-2.0.0.2.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/etcd-assistant-release/releases/download/v2.0.0.2/EA-2.0.0.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/etcd-assistant-release/releases/download/v2.0.0.2/EA-2.0.0.2-windows.zip
   InstallerSha256: 82A5103396C9B51163BEA88EE789A1A50231A7B972DD4590685461C959EE7A33
   InstallerSwitches:
     Custom: /ALLUSERS

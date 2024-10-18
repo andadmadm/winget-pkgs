@@ -14,13 +14,13 @@ FileExtensions:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/23.3.4/dbeaver-ce-23.3.4-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/23.3.4/dbeaver-ce-23.3.4-x86_64-setup.exe
   InstallerSha256: 5C0ED6079B5C77243F6F3057C1BD08E2C0074FF61F4C17AB5E98031FC0DBE338
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/23.3.4/dbeaver-ce-23.3.4-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/23.3.4/dbeaver-ce-23.3.4-x86_64-setup.exe
   InstallerSha256: 5C0ED6079B5C77243F6F3057C1BD08E2C0074FF61F4C17AB5E98031FC0DBE338
   InstallerSwitches:
     Custom: /ALLUSERS

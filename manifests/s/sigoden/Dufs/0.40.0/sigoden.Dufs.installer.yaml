@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: dufs.exe
     PortableCommandAlias: dufs
-  InstallerUrl: https://github.com/sigoden/dufs/releases/download/v0.40.0/dufs-v0.40.0-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sigoden/dufs/releases/download/v0.40.0/dufs-v0.40.0-i686-pc-windows-msvc.zip
   InstallerSha256: 4240BA4CA4CDFC2BAB611469BFE18AB98DD3F7F2784956C6DE473B6BBE1FAF4D
   Dependencies:
     PackageDependencies:
@@ -21,7 +21,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: dufs.exe
     PortableCommandAlias: dufs
-  InstallerUrl: https://github.com/sigoden/dufs/releases/download/v0.40.0/dufs-v0.40.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sigoden/dufs/releases/download/v0.40.0/dufs-v0.40.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: A462A3490E5753C3725DC69F2EFBF3E72F2F72B42BD898D0EB246B3D9EAF3E94
   Dependencies:
     PackageDependencies:
@@ -31,7 +31,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: dufs.exe
     PortableCommandAlias: dufs
-  InstallerUrl: https://github.com/sigoden/dufs/releases/download/v0.40.0/dufs-v0.40.0-aarch64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sigoden/dufs/releases/download/v0.40.0/dufs-v0.40.0-aarch64-pc-windows-msvc.zip
   InstallerSha256: 70995624D6557C57A14148D143E2BA491BD2649DE373574078BB4384994984C2
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xmake-io/xmake/releases/download/v2.5.1/xmake-v2.5.1.win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmake-io/xmake/releases/download/v2.5.1/xmake-v2.5.1.win64.exe
   InstallerSha256: 46A39858A6433D73EF2EFB6C77564B61AE0FDCDFB6E7E94502A4FA0B3B772E2C
 ManifestType: installer
 ManifestVersion: 1.2.0

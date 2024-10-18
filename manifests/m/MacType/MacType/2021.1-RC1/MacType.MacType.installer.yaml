@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/snowie2000/mactype/releases/download/2021.1-rc1/MacTypeInstaller_2021.1-rc1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/snowie2000/mactype/releases/download/2021.1-rc1/MacTypeInstaller_2021.1-rc1.exe
   InstallerSha256: 3A73D19D4940B6308D07F1EB19A9B6DB007423F3D2EBBA1216F2DF224A8B01F5
 ManifestType: installer
 ManifestVersion: 1.1.0

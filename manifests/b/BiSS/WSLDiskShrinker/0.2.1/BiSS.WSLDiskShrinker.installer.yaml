@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-07-23
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/kxxt/WSLDiskShrinker/releases/download/v0.2.1/wsl-disk-shrinker-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kxxt/WSLDiskShrinker/releases/download/v0.2.1/wsl-disk-shrinker-setup.exe
   InstallerSha256: 783A17CA8A030FB3D450FB71FB8A22B4634B7AF2733AFAFFA2E62F3B39964465
 ManifestType: installer
 ManifestVersion: 1.1.0

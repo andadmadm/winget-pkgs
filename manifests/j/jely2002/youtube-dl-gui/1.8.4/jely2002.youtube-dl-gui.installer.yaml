@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jely2002/youtube-dl-gui/releases/download/v1.8.4/YouTube-Downloader-GUI-Setup-1.8.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jely2002/youtube-dl-gui/releases/download/v1.8.4/YouTube-Downloader-GUI-Setup-1.8.4.exe
   InstallerSha256: 0437BE7AA9DCD04511E8D2A9D8230209CFC21FB0EDAE9F77D2A08B3FD47D809A
 ManifestType: installer
 ManifestVersion: 1.1.0

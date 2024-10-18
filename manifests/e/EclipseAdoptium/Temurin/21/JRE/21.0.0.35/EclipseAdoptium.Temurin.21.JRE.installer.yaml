@@ -28,7 +28,7 @@ FileExtensions:
 - jsp
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21%2B35/OpenJDK21U-jre_x64_windows_hotspot_21_35.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21%2B35/OpenJDK21U-jre_x64_windows_hotspot_21_35.msi
   InstallerSha256: 8668C6733296DA59D38C140D692539BE4F2E9B19A2360685EF8612273DE065A0
 ManifestType: installer
 ManifestVersion: 1.5.0

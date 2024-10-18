@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-25
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/CorsixTH/CorsixTH/releases/download/v0.66/CorsixTHInstaller.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/CorsixTH/CorsixTH/releases/download/v0.66/CorsixTHInstaller.exe
   InstallerSha256: 84CC9BC12F813C07E20D711D88B804994B2C1FF88ECE650DD2C7E2B083455EF0
 ManifestType: installer
 ManifestVersion: 1.4.0

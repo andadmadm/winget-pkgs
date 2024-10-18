@@ -14,13 +14,13 @@ ReleaseDate: 2023-02-28
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/WavesHQ/app/releases/download/v3.2.6/DeFi-Wallet-Setup-3.2.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WavesHQ/app/releases/download/v3.2.6/DeFi-Wallet-Setup-3.2.6.exe
   InstallerSha256: 6A38CDEC3CCEA61F422CEE98F2571AA71A59C6E3AE25281F55623F89DFCF07A7
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/WavesHQ/app/releases/download/v3.2.6/DeFi-Wallet-Setup-3.2.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WavesHQ/app/releases/download/v3.2.6/DeFi-Wallet-Setup-3.2.6.exe
   InstallerSha256: 6A38CDEC3CCEA61F422CEE98F2571AA71A59C6E3AE25281F55623F89DFCF07A7
   InstallerSwitches:
     Custom: /ALLUSERS

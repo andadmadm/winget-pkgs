@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Kong/insomnia/releases/download/core@9.3.2/Insomnia.Core-9.3.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Kong/insomnia/releases/download/core@9.3.2/Insomnia.Core-9.3.2.exe
   InstallerSha256: 2F944D531A6FCBBE9F091B75F0766A8B9FE134126010338A560D6E49EA5B8E0A
 ManifestType: installer
 ManifestVersion: 1.6.0

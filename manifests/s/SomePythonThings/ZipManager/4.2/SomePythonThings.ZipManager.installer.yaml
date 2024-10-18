@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/martinet101/SomePythonThings-Zip-Manager/releases/download/4.2/SomePythonThings.Zip.Manager.WinAll.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinet101/SomePythonThings-Zip-Manager/releases/download/4.2/SomePythonThings.Zip.Manager.WinAll.exe
   InstallerSha256: DE10A357F4EF1804F1A81B92CD010B2E25381071A8EA6885B52A9E77063BD7E2
 ManifestType: installer
 ManifestVersion: 1.0.0

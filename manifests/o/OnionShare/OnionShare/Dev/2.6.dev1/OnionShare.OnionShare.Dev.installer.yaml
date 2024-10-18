@@ -16,11 +16,11 @@ Protocols:
 ReleaseDate: 2022-06-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/onionshare/onionshare/releases/download/v2.6.dev1/OnionShare-win64-2.6.dev1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/onionshare/onionshare/releases/download/v2.6.dev1/OnionShare-win64-2.6.dev1.msi
   InstallerSha256: 87004AFB13DE6587BC8C87FD3B806DBF44EB048A13D522900FC9A95FB9668EDD
   ProductCode: '{0252D0FE-2569-4832-88A8-630DC04FD9CF}'
 - Architecture: x86
-  InstallerUrl: https://github.com/onionshare/onionshare/releases/download/v2.6.dev1/OnionShare-win32-2.6.dev1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/onionshare/onionshare/releases/download/v2.6.dev1/OnionShare-win32-2.6.dev1.msi
   InstallerSha256: 46702A223453E582ED33140CFB3243C822624179F397D70FBE7F5E77D0516B6E
   ProductCode: '{0108C458-0BEB-450F-9946-5D0AC018640C}'
 ManifestType: installer

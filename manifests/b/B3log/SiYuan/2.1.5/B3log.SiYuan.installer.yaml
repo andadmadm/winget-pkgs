@@ -14,14 +14,14 @@ ReleaseDate: 2022-08-02
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win32.exe
   InstallerSha256: B4B58CCFBF332B31FD7717BA86A61D7ABDC6C78581A33250526985B11CE00A52
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win32.exe
   InstallerSha256: B4B58CCFBF332B31FD7717BA86A61D7ABDC6C78581A33250526985B11CE00A52
   InstallerSwitches:
     Custom: /allusers
@@ -29,14 +29,14 @@ Installers:
   ElevationRequirement: elevationRequired
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win.exe
   InstallerSha256: EF84AF8F35700C11F038895CCA06452C085DAF01E69B9A65817798439CA83F66
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-win.exe
   InstallerSha256: EF84AF8F35700C11F038895CCA06452C085DAF01E69B9A65817798439CA83F66
   InstallerSwitches:
     Custom: /allusers

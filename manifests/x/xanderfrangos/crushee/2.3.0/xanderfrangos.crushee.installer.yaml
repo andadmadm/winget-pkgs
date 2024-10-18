@@ -17,7 +17,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/xanderfrangos/crushee/releases/download/v2.3.0/Crushee-v2.3.0-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xanderfrangos/crushee/releases/download/v2.3.0/Crushee-v2.3.0-win-setup.exe
   InstallerSha256: CF416FFDA62D05235C92C9766FC025BCD811425DC92BC08FE098A16CF433BEE6
   UpgradeBehavior: install
 ManifestType: installer

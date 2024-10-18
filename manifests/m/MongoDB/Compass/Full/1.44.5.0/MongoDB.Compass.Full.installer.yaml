@@ -14,7 +14,7 @@ ProductCode: '{EC9AEFF3-4FF8-4937-BA34-DF38328680D5}'
 ReleaseDate: 2024-10-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mongodb-js/compass/releases/download/v1.44.5/mongodb-compass-1.44.5-win32-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mongodb-js/compass/releases/download/v1.44.5/mongodb-compass-1.44.5-win32-x64.msi
   InstallerSha256: DE4749792E5462C368E2E19E5DBD660E8EA097FAA22ED490FB58CF62F95054DD
 ManifestType: installer
 ManifestVersion: 1.6.0

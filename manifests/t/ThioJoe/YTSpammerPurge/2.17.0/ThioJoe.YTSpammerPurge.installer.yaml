@@ -7,7 +7,7 @@ InstallerType: portable
 Commands:
 - YTSpammerPurge
 Installers:
-- InstallerUrl: https://github.com/ThioJoe/YT-Spammer-Purge/releases/download/v2.17.0/YTSpammerPurge.2.17.0.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/ThioJoe/YT-Spammer-Purge/releases/download/v2.17.0/YTSpammerPurge.2.17.0.exe
   Architecture: x64
   InstallerSha256: 0E6503A3877F05B7F16933F2DB0BD5771E95220634A254C6F4A69C79678C7474
 ManifestType: installer

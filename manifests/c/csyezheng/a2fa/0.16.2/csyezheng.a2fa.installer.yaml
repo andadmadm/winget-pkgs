@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: a2fa.exe
   PortableCommandAlias: a2fa
 Installers:
-- InstallerUrl: https://github.com/csyezheng/a2fa/releases/download/v0.16.2/a2fa_Windows_x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/csyezheng/a2fa/releases/download/v0.16.2/a2fa_Windows_x86_64.zip
   Architecture: x64
   InstallerSha256: 6DA7ECB01FD577B0390971509487AB51C0BB20580EE8D0EFFEBE152816205A77
 ManifestType: installer

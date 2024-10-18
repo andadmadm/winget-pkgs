@@ -8,13 +8,13 @@ ReleaseDate: 2023-10-09
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v23.10.1/Trezor-Suite-23.10.1-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v23.10.1/Trezor-Suite-23.10.1-win-x64.exe
   InstallerSha256: 2BDB05B833A07B041C78DFCA639322719EEC6162A6DC06B00008BED200F99867
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v23.10.1/Trezor-Suite-23.10.1-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v23.10.1/Trezor-Suite-23.10.1-win-x64.exe
   InstallerSha256: 2BDB05B833A07B041C78DFCA639322719EEC6162A6DC06B00008BED200F99867
   InstallerSwitches:
     Custom: /ALLUSERS

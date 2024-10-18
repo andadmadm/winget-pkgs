@@ -17,7 +17,7 @@ Commands:
 ReleaseDate: 2022-02-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/balena-io/balena-cli/releases/download/v13.2.1/balena-cli-v13.2.1-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/balena-io/balena-cli/releases/download/v13.2.1/balena-cli-v13.2.1-windows-x64-installer.exe
   InstallerSha256: 093F022A98A4BF40761C44831C1245A1B5DE8C46E2EF59D09DB2A3D932C919D8
 ManifestType: installer
 ManifestVersion: 1.1.0

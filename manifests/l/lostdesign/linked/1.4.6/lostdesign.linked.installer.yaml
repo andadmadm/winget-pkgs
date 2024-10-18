@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lostdesign/linked/releases/download/v1.4.6/linked-Setup-1.4.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lostdesign/linked/releases/download/v1.4.6/linked-Setup-1.4.6.exe
   InstallerSha256: C1056211F071B40ED5EB7FB3742C4DF5847C4179CDC8DA1B99EFC6900B4B227E
 ManifestType: installer
 ManifestVersion: 1.1.0

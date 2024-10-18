@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2017-04-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cerebroapp/cerebro/releases/download/v0.2.8/cerebro-Setup-0.2.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cerebroapp/cerebro/releases/download/v0.2.8/cerebro-Setup-0.2.8.exe
   InstallerSha256: F85C2ADF8DF4AD455B845A425C9C49FE0F93153BECB075789D70ABC84B635483
 ManifestType: installer
 ManifestVersion: 1.2.0

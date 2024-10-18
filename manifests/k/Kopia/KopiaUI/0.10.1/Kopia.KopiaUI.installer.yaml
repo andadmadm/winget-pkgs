@@ -12,13 +12,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/kopia/kopia/releases/download/v0.10.1/KopiaUI-Setup-0.10.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kopia/kopia/releases/download/v0.10.1/KopiaUI-Setup-0.10.1.exe
   InstallerSha256: 1BE0A6500238D4AE7BD11693644262D567159ED04BDE051063531F97C282ADBA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/kopia/kopia/releases/download/v0.10.1/KopiaUI-Setup-0.10.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kopia/kopia/releases/download/v0.10.1/KopiaUI-Setup-0.10.1.exe
   InstallerSha256: 1BE0A6500238D4AE7BD11693644262D567159ED04BDE051063531F97C282ADBA
   InstallerSwitches:
     Custom: /ALLUSERS

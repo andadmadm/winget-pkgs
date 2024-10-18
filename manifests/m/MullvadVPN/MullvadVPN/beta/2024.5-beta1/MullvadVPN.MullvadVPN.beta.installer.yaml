@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-08-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2024.5-beta1/MullvadVPN-2024.5-beta1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2024.5-beta1/MullvadVPN-2024.5-beta1.exe
   InstallerSha256: f1b6c17803f44c1a736f7a2a32f0137fdda43dc80fb0b4e39701ad6b21edb4b1
   AppsAndFeaturesEntries:
   - DisplayVersion: 2024.5.0-beta1

@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/raindropio/desktop/releases/download/v5.4.8/RaindropInstaller.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/raindropio/desktop/releases/download/v5.4.8/RaindropInstaller.exe
   InstallerSha256: ADC2977021A7985E15CB4A73C7531BF86001539C0FF485B9A85ED1980BF1929E
 ManifestType: installer
 ManifestVersion: 1.0.0

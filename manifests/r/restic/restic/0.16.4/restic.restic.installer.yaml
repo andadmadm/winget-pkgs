@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: restic
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/restic/restic/releases/download/v0.16.4/restic_0.16.4_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/restic/restic/releases/download/v0.16.4/restic_0.16.4_windows_amd64.zip
   InstallerSha256: 911a1b84f2100d2ac691c0bb28955fd2ab65e76cb2dbe651b21f6072a508e2be
 ManifestType: installer
 ManifestVersion: 1.6.0

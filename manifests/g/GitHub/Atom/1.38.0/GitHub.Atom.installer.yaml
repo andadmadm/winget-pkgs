@@ -11,7 +11,7 @@ InstallerSwitches:
   Custom: /norestart
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/atom/atom/releases/download/v1.38.0/AtomSetup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.38.0/AtomSetup-x64.exe
   InstallerSha256: BBF472444C11321D53D940B14EAD289A8D1BE70A0D0DD74ACAAEA4573038D288
 ManifestType: installer
 ManifestVersion: 1.1.0

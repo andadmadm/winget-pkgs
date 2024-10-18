@@ -6,7 +6,7 @@ PackageVersion: "6.1"
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PolyMC/PolyMC/releases/download/6.1/PolyMC-Windows-Setup-6.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PolyMC/PolyMC/releases/download/6.1/PolyMC-Windows-Setup-6.1.exe
   InstallerSha256: A24C03E63449DB0F994C715115C7648E88182888305BE3554EF8F9A9215A0501
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.0.1/SwitchHosts_installer_4.0.1.6051.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.0.1/SwitchHosts_installer_4.0.1.6051.exe
   InstallerSha256: 4DCEA153B3B3398D7BF10DC36183008D78B7F3EC36A7D409AD1B46B74577E78B
 ManifestType: installer
 ManifestVersion: 1.1.0

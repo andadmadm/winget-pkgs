@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-09-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Timthreetwelve/WUView/releases/download/v0.5.22/WindowsUpdateViewer_0.5.22.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Timthreetwelve/WUView/releases/download/v0.5.22/WindowsUpdateViewer_0.5.22.0_Setup.exe
   InstallerSha256: F0E791527DC2DDC583D2ABD17AADF9FB9560637869C98725497E2FEF1B8A98BE
 ManifestType: installer
 ManifestVersion: 1.5.0

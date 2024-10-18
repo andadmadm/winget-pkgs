@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: istioctl.exe
     PortableCommandAlias: istioctl
-  InstallerUrl: https://github.com/istio/istio/releases/download/1.19.1/istioctl-1.19.1-win-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/istio/istio/releases/download/1.19.1/istioctl-1.19.1-win-amd64.zip
   InstallerSha256: 30F31FC53B4ED811DE78C1DA985BAEA325639687567133A8166749FEF328BB20
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/tom-james-watson/breaktimer-app/releases/download/v1.0.0/BreakTimer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tom-james-watson/breaktimer-app/releases/download/v1.0.0/BreakTimer.exe
   InstallerSha256: 515B7D5D4128B454A414678AA4865DED83DA9CE3634A7E9DE6ECBEE3DA01E89E
   UpgradeBehavior: install
 ManifestType: installer

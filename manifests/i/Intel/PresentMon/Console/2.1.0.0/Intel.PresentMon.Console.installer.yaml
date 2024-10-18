@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2024-06-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GameTechDev/PresentMon/releases/download/v2.1.0/PresentMon-2.1.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GameTechDev/PresentMon/releases/download/v2.1.0/PresentMon-2.1.0-x64.exe
   InstallerSha256: 721B10446D3C4C177AD823FBA9EC999FA062AF12F431453D9ED56B6326C58F48
 - Architecture: x86
-  InstallerUrl: https://github.com/GameTechDev/PresentMon/releases/download/v2.1.0/PresentMon-2.1.0-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GameTechDev/PresentMon/releases/download/v2.1.0/PresentMon-2.1.0-x86.exe
   InstallerSha256: E6F05C1B1B7095D21B82B904658B281315CDA79E897F229EB3D72BF3BD019188
 ManifestType: installer
 ManifestVersion: 1.6.0

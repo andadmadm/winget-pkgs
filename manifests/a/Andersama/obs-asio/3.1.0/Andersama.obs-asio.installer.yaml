@@ -6,7 +6,7 @@ PackageVersion: 3.1.0
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe
   InstallerSha256: AC83E90D02C24CFEEDCFF41FDEFB7D3B444EE3FD64FF7289CBCBD2173BEA33CD
   ProductCode: obs-asio
   Scope: machine

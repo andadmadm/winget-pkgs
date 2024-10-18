@@ -9,7 +9,7 @@ FileExtensions:
 - mp4
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/wagesj45/butterflow-ui/releases/download/1.1.0/butterflow_ui.setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/wagesj45/butterflow-ui/releases/download/1.1.0/butterflow_ui.setup.msi
   InstallerSha256: 2BFC590281746CAC65161B156B93F764F96D261A899E1DAA95BC2B04C0A241BF
   ProductCode: '{9FB90C3D-959D-43C6-ACEB-DE12C707F21C}'
 ManifestType: installer

@@ -6,7 +6,7 @@ PackageVersion: 4.13.0
 Installers:
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/stoplightio/prism/releases/download/v4.13.0/prism-cli-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stoplightio/prism/releases/download/v4.13.0/prism-cli-win.exe
   InstallerSha256: DABF93CCBA30CC59C7F09C7DD0E20E8E8590722F165F5F0D2D3E6F53DEA27B1A
   Commands:
   - prism

@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.26.781/IapDesktop.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.26.781/IapDesktop.msi
   InstallerSha256: E8E7A65CD9A63A6ED01DCBABFE29D36498A787D8DD771ADCEF62F63AC4313B01
   ProductCode: '{16691366-B558-4216-B369-A3ADB24A1124}'
 ManifestType: installer

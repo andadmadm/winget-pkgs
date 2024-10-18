@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: policy.exe
   PortableCommandAlias: policy
 Installers:
-- InstallerUrl: https://github.com/opcr-io/policy/releases/download/v0.2.4/policy0.2.4_windows_x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/opcr-io/policy/releases/download/v0.2.4/policy0.2.4_windows_x86_64.zip
   Architecture: x64
   InstallerSha256: EBE3A7AACF696709C41FBEE0086A9B92EB2931D09A58B63BB2BB643C4FC711D1
 ManifestType: installer

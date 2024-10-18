@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{C409CFF4-8FB2-3CE2-A47C-02DDBE080225}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tangshimin/MuJing/releases/download/v2.1.6/MuJing-2.1.6.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/tangshimin/MuJing/releases/download/v2.1.6/MuJing-2.1.6.msi
   InstallerSha256: CD3D2341DDC277CFE55B6F7963F05182FF66A0333E1BBE5E1AF3E20AF63477BB
   ProductCode: '{32AE149B-C3E2-35FD-80A9-7743364A80D0}'
 ManifestType: installer

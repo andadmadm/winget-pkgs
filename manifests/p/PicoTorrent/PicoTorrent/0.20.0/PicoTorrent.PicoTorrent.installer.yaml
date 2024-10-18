@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /passive /norestart
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/picotorrent/picotorrent/releases/download/v0.20.0/PicoTorrent-0.20.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/picotorrent/picotorrent/releases/download/v0.20.0/PicoTorrent-0.20.0-x64.exe
   InstallerSha256: 957CBAF61B162CEB9A41107B0AD30B4143BB946E82EF415523A0985C74BDAA2A
 ManifestType: installer
 ManifestVersion: 1.1.0

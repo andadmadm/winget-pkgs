@@ -6,7 +6,7 @@ PackageVersion: "2.3"
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/fluentmoheshwar/useful-tools/releases/download/v2.3/Useful_Tools_For_Windows_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluentmoheshwar/useful-tools/releases/download/v2.3/Useful_Tools_For_Windows_Installer.exe
   InstallerSha256: a02ca440c4d6fa7da1208435f0119e352d55cdf3e8ef793809e6d89d57d4e854
   ElevationRequirement: elevationRequired
 ManifestType: installer

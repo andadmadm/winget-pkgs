@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: doppler.exe
         PortableCommandAlias: doppler
-    InstallerUrl: https://github.com/DopplerHQ/cli/releases/download/3.69.0/doppler_3.69.0_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/DopplerHQ/cli/releases/download/3.69.0/doppler_3.69.0_windows_arm64.zip
     InstallerSha256: 7b3e7603f6922b6f1ad81a8ca00b2f633308777cecd44f481178269e474e93c2
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: doppler.exe
         PortableCommandAlias: doppler
-    InstallerUrl: https://github.com/DopplerHQ/cli/releases/download/3.69.0/doppler_3.69.0_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/DopplerHQ/cli/releases/download/3.69.0/doppler_3.69.0_windows_amd64.zip
     InstallerSha256: 4c5d662890d9c6a267e9e45cbd2a099ab5cb06c5dcaddf9ec82d630a99783de6
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

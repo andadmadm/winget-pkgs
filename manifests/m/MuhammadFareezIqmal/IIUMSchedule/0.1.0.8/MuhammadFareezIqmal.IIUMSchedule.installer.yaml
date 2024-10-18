@@ -8,13 +8,13 @@ InstallerType: inno
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/iqfareez/iium_schedule/releases/download/1.0.0-pre.8%2B11/iiumschedulesetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iqfareez/iium_schedule/releases/download/1.0.0-pre.8%2B11/iiumschedulesetup.exe
   InstallerSha256: 3306DB93741CA14C509EDF11E3DC3D7B6C71BF1FE9538DD9D2894DF68613ADCA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/iqfareez/iium_schedule/releases/download/1.0.0-pre.8%2B11/iiumschedulesetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iqfareez/iium_schedule/releases/download/1.0.0-pre.8%2B11/iiumschedulesetup.exe
   InstallerSha256: 3306DB93741CA14C509EDF11E3DC3D7B6C71BF1FE9538DD9D2894DF68613ADCA
   InstallerSwitches:
     Custom: /ALLUSERS

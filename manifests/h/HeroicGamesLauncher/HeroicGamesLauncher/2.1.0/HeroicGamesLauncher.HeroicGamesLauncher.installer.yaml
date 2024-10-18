@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.1.0/Heroic-Setup-2.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.1.0/Heroic-Setup-2.1.0.exe
   InstallerSha256: 9E460A50EC4569F6C132D633E227D715DBDA1CF3E0FBA78B2C5CC3BE96087EAD
 ManifestType: installer
 ManifestVersion: 1.1.0

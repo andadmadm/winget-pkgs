@@ -8,7 +8,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/veloren/airshipper/releases/latest/download/airshipper-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/veloren/airshipper/releases/latest/download/airshipper-windows.msi
   InstallerSha256: 734AD5707F8BAA86A59CF065FDF6657E99D11074F09DEBBD24018730B39D2CBE
   ProductCode: '{B66D08F6-B6B3-4952-8434-5934B813B36E}'
 ManifestType: installer

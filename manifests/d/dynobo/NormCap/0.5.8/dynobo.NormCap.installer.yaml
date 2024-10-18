@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{63EE06C1-0030-59D7-A5AE-31B45FC8261A}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dynobo/normcap/releases/download/v0.5.8/NormCap-0.5.8-x86_64-Windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dynobo/normcap/releases/download/v0.5.8/NormCap-0.5.8-x86_64-Windows.msi
   InstallerSha256: 98E2A7512785259AF31DF7EF0AB930BF6EBE7308621712100DF857AD0EBEDF75
   ProductCode: '{EC6248D1-BC16-4FB0-9745-F80BA0C9FDE8}'
 ManifestType: installer

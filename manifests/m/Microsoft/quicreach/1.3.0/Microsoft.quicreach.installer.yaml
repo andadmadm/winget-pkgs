@@ -8,7 +8,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/microsoft/quicreach/releases/download/v1.3.0/quicreach.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/quicreach/releases/download/v1.3.0/quicreach.msi
   InstallerSha256: 9885F256216B4927B6AAF3A5BA2FB114BBF14F0B49F007E634B8C4E7E55C8EBF
   ProductCode: '{4AAD5C08-B14B-4F19-B088-68D1BE60567A}'
 ManifestType: installer

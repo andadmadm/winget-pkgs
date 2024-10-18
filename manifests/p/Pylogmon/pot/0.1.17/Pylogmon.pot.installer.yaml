@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2023-04-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Pylogmon/pot/releases/download/0.1.17/pot_0.1.17_x64_zh-CN.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Pylogmon/pot/releases/download/0.1.17/pot_0.1.17_x64_zh-CN.msi
   InstallerSha256: 42CD72A672DF48E7FACB025646A8A80B4115B4A30E27B48017675FC1334A365A
   ProductCode: '{D89193DF-00BC-4FE5-88E9-68B4A87B0332}'
 ManifestType: installer

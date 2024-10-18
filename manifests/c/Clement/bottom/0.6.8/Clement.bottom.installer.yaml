@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/ClementTsang/bottom/releases/download/0.6.8/bottom_x86_64_installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClementTsang/bottom/releases/download/0.6.8/bottom_x86_64_installer.msi
   InstallerSha256: 43A860A1ECAC287CAF9745D774B0B2CE9C0A2A79D4048893E7649B0D8048EE58
   ProductCode: '{AF717CCB-7714-4F8D-AECE-B03262D97663}'
 ManifestType: installer

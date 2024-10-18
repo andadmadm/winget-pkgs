@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{C176C42C-79FF-520D-92A5-BAFDB20B1222}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aandrew-me/ytDownloader/releases/download/v3.15.0/YTDownloader_Win.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/aandrew-me/ytDownloader/releases/download/v3.15.0/YTDownloader_Win.msi
   InstallerSha256: C1739FF2D1800C85DAB190EFCB97E627554829D9B04D797245FD1A81493AA3E1
   ProductCode: '{6A2763F9-ECD6-4316-9843-AF435CA9A779}'
 ManifestType: installer

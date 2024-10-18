@@ -6,7 +6,7 @@ PackageVersion: 0.9.3
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/livebook-dev/livebook/releases/download/v0.9.3/LivebookInstall-v0.9.3-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/livebook-dev/livebook/releases/download/v0.9.3/LivebookInstall-v0.9.3-windows-x86_64.exe
   InstallerSha256: DD26B3F54D22207B253E0C01531A974B0CAB91AC4E6C7CB907EBDADC471C9082
   InstallerSwitches:
     Silent: /S

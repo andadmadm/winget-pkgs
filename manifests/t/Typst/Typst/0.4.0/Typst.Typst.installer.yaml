@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: typst-x86_64-pc-windows-msvc\typst.exe
     PortableCommandAlias: typst
-  InstallerUrl: https://github.com/typst/typst/releases/download/v0.4.0/typst-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/typst/typst/releases/download/v0.4.0/typst-x86_64-pc-windows-msvc.zip
   InstallerSha256: B7C0EECD20B31DD5DA59CE715178A32CD667DE6C71A7A591E8ABB849C264B891
 ManifestType: installer
 ManifestVersion: 1.4.0

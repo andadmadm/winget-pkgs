@@ -11,7 +11,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/xushengfeng/eSearch/releases/download/1.9.2/eSearch.Setup.1.9.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xushengfeng/eSearch/releases/download/1.9.2/eSearch.Setup.1.9.2.exe
   InstallerSha256: 3b2f36aff4049dda2e1afb4a57fcfe4cc69ca2a7d840811eca1f5ddf0f653799
 ManifestType: installer
 ManifestVersion: 1.2.0

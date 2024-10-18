@@ -7,7 +7,7 @@ InstallerType: inno
 ReleaseDate: 2024-07-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/igoogolx/lux/releases/download/v1.8.0/lux-1.8.0+1.8.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/igoogolx/lux/releases/download/v1.8.0/lux-1.8.0+1.8.0-windows-setup.exe
   InstallerSha256: 4158745DD6F2385963CD3E54398E639B75B087CFA132A6489C7C0F534F8E278A
 ManifestType: installer
 ManifestVersion: 1.5.0

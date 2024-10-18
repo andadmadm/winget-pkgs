@@ -11,13 +11,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v2.0.7/Rambox-2.0.7-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v2.0.7/Rambox-2.0.7-win-x64.exe
   InstallerSha256: BF9011523D21170A1833C079B8D5E0853FA457779DA69CD6A12283AD2B3F561B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v2.0.7/Rambox-2.0.7-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v2.0.7/Rambox-2.0.7-win-x64.exe
   InstallerSha256: BF9011523D21170A1833C079B8D5E0853FA457779DA69CD6A12283AD2B3F561B
   InstallerSwitches:
     Custom: /ALLUSERS

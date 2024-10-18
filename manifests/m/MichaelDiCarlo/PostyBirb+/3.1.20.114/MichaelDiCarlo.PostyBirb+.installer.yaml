@@ -4,7 +4,7 @@
 PackageIdentifier: MichaelDiCarlo.PostyBirb+
 PackageVersion: 3.1.20.114
 Installers:
-- InstallerUrl: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.20/postybirb-plus-setup-3.1.20.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.20/postybirb-plus-setup-3.1.20.exe
   Architecture: x64
   InstallerType: nullsoft
   InstallerSha256: A18D0FCA08311F385396A421613E959A6D61B7FF73F3CA64A4DBB7D958978C8F

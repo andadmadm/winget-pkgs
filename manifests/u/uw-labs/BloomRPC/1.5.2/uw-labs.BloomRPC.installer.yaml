@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bloomrpc/bloomrpc/releases/download/1.5.2/BloomRPC-Setup-1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bloomrpc/bloomrpc/releases/download/1.5.2/BloomRPC-Setup-1.5.2.exe
   InstallerSha256: 29410F8608169BFAB91868BFB58B7BC89349D385DE1B6AE4FD7195079C1B625C
 ManifestType: installer
 ManifestVersion: 1.1.0

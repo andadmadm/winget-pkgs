@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-06-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/IrosTheBeggar/mStream/releases/download/v5.1.13/mStream-Server-Setup-5.1.13.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/IrosTheBeggar/mStream/releases/download/v5.1.13/mStream-Server-Setup-5.1.13.exe
   InstallerSha256: A2882DB3709E93A205F1D2C2163D52FE5F6854607111BB47496E573E1668465F
 ManifestType: installer
 ManifestVersion: 1.2.0

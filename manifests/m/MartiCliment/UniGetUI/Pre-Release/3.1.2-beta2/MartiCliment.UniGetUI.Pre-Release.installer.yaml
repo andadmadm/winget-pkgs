@@ -25,13 +25,13 @@ ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/marticliment/UniGetUI/releases/download/3.1.2-beta2/UniGetUI.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marticliment/UniGetUI/releases/download/3.1.2-beta2/UniGetUI.Installer.exe
   InstallerSha256: FEC4EEF1B5ABD88EC8BE6AD381871479BEA54A10C5B156B8BEF40B1BDCFB2202
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/marticliment/UniGetUI/releases/download/3.1.2-beta2/UniGetUI.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marticliment/UniGetUI/releases/download/3.1.2-beta2/UniGetUI.Installer.exe
   InstallerSha256: FEC4EEF1B5ABD88EC8BE6AD381871479BEA54A10C5B156B8BEF40B1BDCFB2202
   InstallerSwitches:
     Custom: /ALLUSERS

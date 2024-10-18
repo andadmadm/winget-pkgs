@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
   ProductCode: '{4448FDE7-D519-4009-AFE2-0C5D0AA9C3D2}_is1'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/dev-proxy/releases/download/v0.20.1/dev-proxy-installer-win-x64-v0.20.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/dev-proxy/releases/download/v0.20.1/dev-proxy-installer-win-x64-v0.20.1.exe
   InstallerSha256: B294EF8ED09EA61C24D67C68CF81BAA662FB886E78D78E728EDE261B971AE177
 ManifestType: installer
 ManifestVersion: 1.6.0

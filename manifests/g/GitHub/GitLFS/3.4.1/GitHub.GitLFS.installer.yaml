@@ -6,7 +6,7 @@ PackageIdentifier: GitHub.GitLFS
 PackageVersion: 3.4.1
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/git-lfs/git-lfs/releases/download/v3.4.1/git-lfs-windows-v3.4.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-lfs/git-lfs/releases/download/v3.4.1/git-lfs-windows-v3.4.1.exe
   InstallerSha256: 0a7e5a4b8d3ed3e2732a783f89f79d7ee931603f9ca36b822f5938599482dc5f
 ManifestType: installer
 ManifestVersion: 1.5.0

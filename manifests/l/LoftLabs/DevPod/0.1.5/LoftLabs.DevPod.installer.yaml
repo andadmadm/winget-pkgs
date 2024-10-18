@@ -11,7 +11,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/loft-sh/devpod/releases/download/v0.1.5/DevPod_windows_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/loft-sh/devpod/releases/download/v0.1.5/DevPod_windows_x64_en-US.msi
   InstallerSha256: 08533C64A2A81025B447F411238AAFE490E11A2D6F01CCE884CC8952F6585E05
   ProductCode: '{17B912C1-4AA3-4CE4-9F63-335B5670E424}'
 ManifestType: installer

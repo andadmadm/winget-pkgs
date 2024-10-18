@@ -22,25 +22,25 @@ Dependencies:
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-Setup.exe
   InstallerSha256: 048758DCC45B84CD4512D3ECCB4D148AF6AD395A05F1E177113557152123F776
   InstallerSwitches:
     Custom: /CURRENTUSER /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-Setup.exe
   InstallerSha256: 048758DCC45B84CD4512D3ECCB4D148AF6AD395A05F1E177113557152123F776
   InstallerSwitches:
     Custom: /ALLUSERS /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-x64-Setup.exe
   InstallerSha256: 9DD6BF318DE813A0E2120DDE81C4D17A7F6B7C3C1C25312F3ADF68F23176713A
   InstallerSwitches:
     Custom: /CURRENTUSER /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.30/Sigil-1.9.30-Windows-x64-Setup.exe
   InstallerSha256: 9DD6BF318DE813A0E2120DDE81C4D17A7F6B7C3C1C25312F3ADF68F23176713A
   InstallerSwitches:
     Custom: /ALLUSERS /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"

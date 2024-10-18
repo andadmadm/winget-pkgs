@@ -8,7 +8,7 @@ Installers:
 - InstallerLocale: zh-CN
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/Pylogmon/pot/releases/download/0.1.10/pot_0.1.10_x64_zh-CN.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Pylogmon/pot/releases/download/0.1.10/pot_0.1.10_x64_zh-CN.msi
   InstallerSha256: 8153379FFB5381DA23CDC3FD1DA63599F533B253ECB8EA856CF4085B715FBABE
   ProductCode: '{DB378BA8-E441-4444-9A78-D6CFA1FD621C}'
 ManifestType: installer

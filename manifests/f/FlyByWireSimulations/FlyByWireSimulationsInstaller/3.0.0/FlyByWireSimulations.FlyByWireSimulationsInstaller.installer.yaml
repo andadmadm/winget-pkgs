@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/flybywiresim/installer/releases/download/v3.0.0/FlyByWire_Installer_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/flybywiresim/installer/releases/download/v3.0.0/FlyByWire_Installer_Setup.exe
   InstallerSha256: 7A580813124CB0FECDCDD61EF607247EF8E7E2AC0AA0D76FAA18132EAF81F67E
 ManifestType: installer
 ManifestVersion: 1.1.0

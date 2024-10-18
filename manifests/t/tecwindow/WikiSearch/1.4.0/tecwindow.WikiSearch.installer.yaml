@@ -6,7 +6,7 @@ PackageVersion: 1.4.0
 Installers:
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/tecwindow/WikiSearch/releases/download/V1.4.0/WikiSearchV1.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tecwindow/WikiSearch/releases/download/V1.4.0/WikiSearchV1.4.0.exe
   InstallerSha256: 527CBAC1F51AC252E2EC102606F105B18A1B56D6D8087CCD8FAB62FC259B872D
 ManifestType: installer
 ManifestVersion: 1.4.0

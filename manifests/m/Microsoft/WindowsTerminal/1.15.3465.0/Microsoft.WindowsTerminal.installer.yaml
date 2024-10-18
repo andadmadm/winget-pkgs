@@ -16,7 +16,7 @@ Installers:
   MinimumOSVersion: 10.0.19041.0
   Architecture: x64
   InstallerType: msix
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.15.3465.0/Microsoft.WindowsTerminal_Win10_1.15.3465.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.15.3465.0/Microsoft.WindowsTerminal_Win10_1.15.3465.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: CAFEF84E6C40260C30F9424193736C24337B93F1413008E47964E957EC1361A3
   SignatureSha256: 215A942B74B34BF319FA990C0C36D5ED74652C4EAD13B1BAAC5DD1D9CADB1C9F
   PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe
@@ -25,7 +25,7 @@ Installers:
   MinimumOSVersion: 10.0.19041.0
   Architecture: x86
   InstallerType: msix
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.15.3465.0/Microsoft.WindowsTerminal_Win10_1.15.3465.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.15.3465.0/Microsoft.WindowsTerminal_Win10_1.15.3465.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: CAFEF84E6C40260C30F9424193736C24337B93F1413008E47964E957EC1361A3
   SignatureSha256: 215A942B74B34BF319FA990C0C36D5ED74652C4EAD13B1BAAC5DD1D9CADB1C9F
   PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe
@@ -34,7 +34,7 @@ Installers:
   MinimumOSVersion: 10.0.19041.0
   Architecture: arm64
   InstallerType: msix
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.15.3465.0/Microsoft.WindowsTerminal_Win10_1.15.3465.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.15.3465.0/Microsoft.WindowsTerminal_Win10_1.15.3465.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: CAFEF84E6C40260C30F9424193736C24337B93F1413008E47964E957EC1361A3
   SignatureSha256: 215A942B74B34BF319FA990C0C36D5ED74652C4EAD13B1BAAC5DD1D9CADB1C9F
   PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe

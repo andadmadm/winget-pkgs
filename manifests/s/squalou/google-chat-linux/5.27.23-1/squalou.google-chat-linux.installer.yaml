@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-12-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/squalou/google-chat-linux/releases/download/5.27.23-1/google-chat-linux_Setup_5.27.23-1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/squalou/google-chat-linux/releases/download/5.27.23-1/google-chat-linux_Setup_5.27.23-1.exe
   InstallerSha256: 47CEAE7E2E3D06BE699F828974C48CCA3BCEBF144ACB7D1337A2D2245B638D5E
   ProductCode: f04f5cdd-5839-593a-915a-05394e69e2b7
 ManifestType: installer

@@ -15,7 +15,7 @@ Dependencies:
   - PackageIdentifier: Valve.Steam
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v2.1.1/Steam.Art.Manager_2.1.1_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v2.1.1/Steam.Art.Manager_2.1.1_x64_en-US.msi
   InstallerSha256: 8741C40EA9BC7EF70BA270BD6B721C66EE05E783679DC4B16E68B335178C399B
 ManifestType: installer
 ManifestVersion: 1.5.0

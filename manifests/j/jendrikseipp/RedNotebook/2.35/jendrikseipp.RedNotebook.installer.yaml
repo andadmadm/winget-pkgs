@@ -17,7 +17,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/jendrikseipp/rednotebook/releases/download/v2.35/rednotebook-2.35.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jendrikseipp/rednotebook/releases/download/v2.35/rednotebook-2.35.exe
   InstallerSha256: 36B1F42C46C663B2AEE3B30513FAD21DDDED32ED551B148B245A44964C4F587A
 ManifestType: installer
 ManifestVersion: 1.6.0

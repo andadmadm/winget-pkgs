@@ -4,7 +4,7 @@
 PackageIdentifier: skypjack.qsapecng
 PackageVersion: 2.0.0
 Installers:
-- InstallerUrl: https://github.com/skypjack/qsapecng/releases/download/v2.0.0/QSapecNG-2.0.0-win32.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/skypjack/qsapecng/releases/download/v2.0.0/QSapecNG-2.0.0-win32.exe
   Architecture: x64
   InstallerType: nullsoft
   InstallerSha256: 65B4D5D5EF525902270FAFF90FA2F9EF15EF12201A229882FC1D6FE1A6F1AA43

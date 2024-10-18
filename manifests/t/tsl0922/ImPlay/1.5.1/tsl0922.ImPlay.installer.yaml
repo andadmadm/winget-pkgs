@@ -156,7 +156,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{D7438EFE-D62A-4E94-A024-6E71AE1A7A63}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tsl0922/ImPlay/releases/download/1.5.1/ImPlay-1.5.1-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/tsl0922/ImPlay/releases/download/1.5.1/ImPlay-1.5.1-win64.msi
   InstallerSha256: EAAAB706367F73735D7D3D6E10286802850290235B33B63729F727A487E31EBA
   ProductCode: '{39C67AD7-24BA-4E4D-BDFB-D4F84AF8B71A}'
 ManifestType: installer

@@ -11,7 +11,7 @@ InstallerSwitches:
 ReleaseDate: 2022-05-27
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.170/OpenShellSetup_4_4_170.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.170/OpenShellSetup_4_4_170.exe
   InstallerSha256: 0417041CFFED3478F13A840E45EE304CCF8D1F9CA38E4126BC315161AC9F1669
 ManifestType: installer
 ManifestVersion: 1.1.0

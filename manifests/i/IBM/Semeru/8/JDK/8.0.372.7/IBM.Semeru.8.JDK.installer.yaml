@@ -4,13 +4,13 @@
 PackageIdentifier: IBM.Semeru.8.JDK
 PackageVersion: 8.0.372.7
 Installers:
-- InstallerUrl: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u372-b07_openj9-0.38.0/ibm-semeru-open-jdk_x86-32_windows_8u372b07_openj9-0.38.0.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u372-b07_openj9-0.38.0/ibm-semeru-open-jdk_x86-32_windows_8u372b07_openj9-0.38.0.msi
   InstallerLocale: en-US
   Architecture: x86
   InstallerType: wix
   InstallerSha256: 9AC662A26C17C772F322C4A16EC4AEDA2EC496582A361170DDA5D53AAF09D378
   ProductCode: '{8F3F1D00-1F1F-48C3-9402-87644AF4B5BA}'
-- InstallerUrl: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u372-b07_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_8u372b07_openj9-0.38.0.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u372-b07_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_8u372b07_openj9-0.38.0.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

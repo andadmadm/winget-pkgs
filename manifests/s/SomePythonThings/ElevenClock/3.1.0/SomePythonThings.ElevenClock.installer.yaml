@@ -10,7 +10,7 @@ InstallerType: inno
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/martinet101/ElevenClock/releases/download/3.1.0/ElevenClock.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinet101/ElevenClock/releases/download/3.1.0/ElevenClock.Installer.exe
   InstallerSha256: A780B13E2C9436E287D805F083B484A2FACA27B4F500063F122F850E10EC0172
 ManifestType: installer
 ManifestVersion: 1.1.0

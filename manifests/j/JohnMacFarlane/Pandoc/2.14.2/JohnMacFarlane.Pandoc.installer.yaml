@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.14.2/pandoc-2.14.2-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.14.2/pandoc-2.14.2-windows-x86_64.msi
   InstallerSha256: 659A3D6A3D71277C8A8767A0F69A9B6DE85A76EFF1887CE3FBA8C7FDF89A7695
   InstallerSwitches:
     Custom: ALLUSERS=2
@@ -23,7 +23,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.14.2/pandoc-2.14.2-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.14.2/pandoc-2.14.2-windows-x86_64.msi
   InstallerSha256: 659A3D6A3D71277C8A8767A0F69A9B6DE85A76EFF1887CE3FBA8C7FDF89A7695
   InstallerSwitches:
     Custom: ALLUSERS=1

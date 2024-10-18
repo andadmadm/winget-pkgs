@@ -26,7 +26,7 @@ FileExtensions:
 ReleaseDate: 2022-03-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.0.1/DesktopEditors_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.0.1/DesktopEditors_x64.exe
   InstallerSha256: C57770B58EB96CED22DCB2FF4AEA1F446447DA6D7DB2E79E5EBAADFC3DCE3FA4
   AppsAndFeaturesEntries:
   - Publisher: Ascensio System SIA
@@ -34,7 +34,7 @@ Installers:
     InstallerType: inno
     ProductCode: 'ONLYOFFICE Desktop Editors_is1'
 - Architecture: x86
-  InstallerUrl: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.0.1/DesktopEditors_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.0.1/DesktopEditors_x86.exe
   InstallerSha256: 40B1B4F1CB8521ACAB11766ED6FD3F782E2655B85B30E3EFBD7D31D32D9BC773
   AppsAndFeaturesEntries:
   - Publisher: Ascensio System SIA

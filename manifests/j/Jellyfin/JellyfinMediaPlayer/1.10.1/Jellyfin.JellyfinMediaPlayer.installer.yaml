@@ -15,7 +15,7 @@ ReleaseDate: 2024-05-17
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.10.1/JellyfinMediaPlayer-1.10.1-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.10.1/JellyfinMediaPlayer-1.10.1-windows-x64.exe
   InstallerSha256: 56613A23E532A1AA39FF0B259D13FBC8427AAC797FF06700017EB464BFF34D03
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -14,7 +14,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: burn
-  InstallerUrl: https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.8.1/JellyfinMediaPlayer-1.8.1-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.8.1/JellyfinMediaPlayer-1.8.1-windows-x64.exe
   InstallerSha256: 829E797ECD9BBDE5C362CAD90730CAED5E89406EB01D13913FFBAFE019BBEABD
 ManifestType: installer
 ManifestVersion: 1.4.0

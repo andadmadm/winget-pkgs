@@ -9,7 +9,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.7
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/numerunix/numfortune.avalonia.new/releases/download/2.0.1/numfortune.avalonia-2.0.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/numerunix/numfortune.avalonia.new/releases/download/2.0.1/numfortune.avalonia-2.0.1.exe
   InstallerSha256: 99CFD286DA08214D24A996338DF1631B29A21FE3015BC5BDEEC17B6F8E306393
 ManifestType: installer
 ManifestVersion: 1.5.0

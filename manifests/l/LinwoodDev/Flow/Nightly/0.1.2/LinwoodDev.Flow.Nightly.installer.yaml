@@ -13,13 +13,13 @@ ReleaseDate: 2023-04-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/LinwoodDev/Flow/releases/download/v0.1.2/linwood-flow-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodDev/Flow/releases/download/v0.1.2/linwood-flow-windows-setup.exe
   InstallerSha256: 90DB5185B94F9BC1184E898465143EE09C9798680575024CF8A3CB7B4E2312BD
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/LinwoodDev/Flow/releases/download/v0.1.2/linwood-flow-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodDev/Flow/releases/download/v0.1.2/linwood-flow-windows-setup.exe
   InstallerSha256: 90DB5185B94F9BC1184E898465143EE09C9798680575024CF8A3CB7B4E2312BD
   InstallerSwitches:
     Custom: /ALLUSERS

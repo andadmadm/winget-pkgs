@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-04-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cameronsutter/plottr_electron/releases/download/v2021.4.26/Plottr-win-installer-latest.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cameronsutter/plottr_electron/releases/download/v2021.4.26/Plottr-win-installer-latest.exe
   InstallerSha256: A8A62DA56DFE439EA6B879E9EB978D25D3678D0B79450AB9F212D198DC89BD5C
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sabnzbd/sabnzbd/releases/download/3.5.2/SABnzbd-3.5.2-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sabnzbd/sabnzbd/releases/download/3.5.2/SABnzbd-3.5.2-win-setup.exe
   InstallerSha256: 2FFC07FC8A42C5E15CF43849C2D01AA7C57CDE9111BD1CD201949A160976F8F6
 ManifestType: installer
 ManifestVersion: 1.1.0

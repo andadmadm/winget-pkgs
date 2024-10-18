@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/appium/appium-desktop/releases/download/v1.21.0-1/Appium-windows-1.21.0-1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/appium/appium-desktop/releases/download/v1.21.0-1/Appium-windows-1.21.0-1.exe
   InstallerSha256: D331399DD91D98F48221DB739D4DA7AD83E22BCA6202346ED4927BF58FDB91E4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/appium/appium-desktop/releases/download/v1.21.0-1/Appium-windows-1.21.0-1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/appium/appium-desktop/releases/download/v1.21.0-1/Appium-windows-1.21.0-1.exe
   InstallerSha256: D331399DD91D98F48221DB739D4DA7AD83E22BCA6202346ED4927BF58FDB91E4
   InstallerSwitches:
     Custom: /ALLUSERS

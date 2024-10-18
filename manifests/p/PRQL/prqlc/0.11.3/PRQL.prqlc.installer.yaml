@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-02-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PRQL/prql/releases/download/0.11.3/prqlc-v0.11.3-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/PRQL/prql/releases/download/0.11.3/prqlc-v0.11.3-x86_64-pc-windows-msvc.zip
   InstallerSha256: ECA5EAA417E98492E6DF001A834BBE843F1D3C49653C044817C369964A039CDE
 ManifestType: installer
 ManifestVersion: 1.5.0

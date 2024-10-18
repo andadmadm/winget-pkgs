@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: spacectl.exe
         PortableCommandAlias: spacectl
-    InstallerUrl: https://github.com/spacelift-io/spacectl/releases/download/v1.2.1/spacectl_1.2.1_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/spacelift-io/spacectl/releases/download/v1.2.1/spacectl_1.2.1_windows_arm64.zip
     InstallerSha256: 6583476b96f31586426bb5ef85eb83fac09b01a984176f74d26207c0132a97ef
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: spacectl.exe
         PortableCommandAlias: spacectl
-    InstallerUrl: https://github.com/spacelift-io/spacectl/releases/download/v1.2.1/spacectl_1.2.1_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/spacelift-io/spacectl/releases/download/v1.2.1/spacectl_1.2.1_windows_amd64.zip
     InstallerSha256: b00bba0dc5c8cc7492495aed26a740f44e8d39e46a7a62d6471da550395c5a2c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

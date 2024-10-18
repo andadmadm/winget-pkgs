@@ -8,7 +8,7 @@ InstallerType: msix
 PackageFamilyName: Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.1.1671.0/Microsoft.WindowsTerminal_1.1.1671.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.1.1671.0/Microsoft.WindowsTerminal_1.1.1671.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 35422FD395ADFE1D18E8B7735806DF478A65A2CCB24CB7AFEFD967E09D77BDB9
   SignatureSha256: C514E155CE11729CE47BBD3BF2477C6E3B2EFD7961C12F8A8DCFF74B624B1637
 ManifestType: installer

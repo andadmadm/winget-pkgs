@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-08-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/fission/fission/releases/download/v1.20.3/fission-v1.20.3-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fission/fission/releases/download/v1.20.3/fission-v1.20.3-windows-amd64.exe
   InstallerSha256: 2FC2731C38E997C29FB0F3ED178454E5D0435ED600816A1BF05D25C66A8BEB44
 ManifestType: installer
 ManifestVersion: 1.6.0

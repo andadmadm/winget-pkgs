@@ -6,7 +6,7 @@ PackageIdentifier: AlexanderKojevnikov.Spek
 PackageVersion: 0.8.5
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alexkay/spek/releases/download/v0.8.5/spek-0.8.5-beta.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/alexkay/spek/releases/download/v0.8.5/spek-0.8.5-beta.msi
   InstallerSha256: b869a697ea1a996505f628520a8a1fbabf200483928a806d5022dbbd89bc2121
   UpgradeCode: "{46D51DDF-5749-45E2-818B-1ACADF21C0D9}"
 ManifestType: installer

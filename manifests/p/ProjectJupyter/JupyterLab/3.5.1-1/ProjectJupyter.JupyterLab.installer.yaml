@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v3.5.1-1/JupyterLab-Setup-Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v3.5.1-1/JupyterLab-Setup-Windows.exe
   InstallerSha256: F62FC78662CAB5EBE2ABD2F47953622F0968F087BE4C4C77CAEEEAFF66CEB8E3
 ManifestType: installer
 ManifestVersion: 1.2.0

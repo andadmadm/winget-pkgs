@@ -18,7 +18,7 @@ FileExtensions:
 ReleaseDate: 2023-05-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pot-app/pot-desktop/releases/download/0.4.2/pot_0.4.2_x64_zh-CN.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pot-app/pot-desktop/releases/download/0.4.2/pot_0.4.2_x64_zh-CN.msi
   InstallerSha256: 34B0FC93C9E54D51984F3F58F0A6B2627A898FD46A252F6D91CBEF40C17B3CEF
   ProductCode: '{AF09E199-1CED-4699-B62D-2A9DE3FD2922}'
 ManifestType: installer

@@ -19,7 +19,7 @@ FileExtensions:
 ReleaseDate: 2019-12-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xanderfrangos/crushee/releases/download/v2.0.0/Crushee-v2.0.0-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xanderfrangos/crushee/releases/download/v2.0.0/Crushee-v2.0.0-win-setup.exe
   InstallerSha256: 52C3595F17CA373A686C520E260E5C5AE91BA713BF687A0C10CE1150A505951A
 ManifestType: installer
 ManifestVersion: 1.4.0

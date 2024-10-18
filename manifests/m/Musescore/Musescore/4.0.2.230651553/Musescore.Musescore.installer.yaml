@@ -20,7 +20,7 @@ FileExtensions:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651553-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651553-x86_64.msi
   InstallerSha256: 1E52CD551EB60549187DE43ADBBAEF8EAA5B39ED3AB1821E9C276D2B77EB2848
   ProductCode: '{85631FCF-88DD-42FD-8E2D-0A5F82CF631E}'
 ManifestType: installer

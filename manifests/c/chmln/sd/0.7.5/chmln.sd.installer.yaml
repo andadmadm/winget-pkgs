@@ -13,7 +13,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: b/x86_64-pc-windows-msvc/release/sd.exe
-  InstallerUrl: https://github.com/chmln/sd/releases/download/v0.7.5/sd.0.7.5-.x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chmln/sd/releases/download/v0.7.5/sd.0.7.5-.x86_64-pc-windows-msvc.zip
   InstallerSha256: B27672506F38C6A4BF6E26EC5DDCCE8497C42EAEEDBFFD43A1DE29E70E30F9EA
 ManifestType: installer
 ManifestVersion: 1.5.0

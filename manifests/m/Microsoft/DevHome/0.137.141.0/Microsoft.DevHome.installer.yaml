@@ -13,16 +13,16 @@ NestedInstallerFiles:
   - RelativeFilePath: 3139db9bf92d42b2974dec80f83733a0.msixbundle
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.137.141.0/Desktop_Windows.DevHome_0.137.141.0_arm64.x64.x86.msixbundle_Windows10_PreinstallKit.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.137.141.0/Desktop_Windows.DevHome_0.137.141.0_arm64.x64.x86.msixbundle_Windows10_PreinstallKit.zip
   InstallerSha256: 3FAECE9A31F0C4153A17F663EC9602C8011FE7285A99F06F01BBA36EB7BA529D
   SignatureSha256: 604304CCF242B1D49B0B53DB8D6D91CBC12AFE5C49FCEF41A8EE175725945EBE
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.137.141.0/Desktop_Windows.DevHome_0.137.141.0_arm64.x64.x86.msixbundle_Windows10_PreinstallKit.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.137.141.0/Desktop_Windows.DevHome_0.137.141.0_arm64.x64.x86.msixbundle_Windows10_PreinstallKit.zip
   InstallerSha256: 3FAECE9A31F0C4153A17F663EC9602C8011FE7285A99F06F01BBA36EB7BA529D
   SignatureSha256: 604304CCF242B1D49B0B53DB8D6D91CBC12AFE5C49FCEF41A8EE175725945EBE
 - Architecture: arm64
   InstallerType: zip
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.137.141.0/Desktop_Windows.DevHome_0.137.141.0_arm64.x64.x86.msixbundle_Windows10_PreinstallKit.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.137.141.0/Desktop_Windows.DevHome_0.137.141.0_arm64.x64.x86.msixbundle_Windows10_PreinstallKit.zip
   InstallerSha256: 3FAECE9A31F0C4153A17F663EC9602C8011FE7285A99F06F01BBA36EB7BA529D
   SignatureSha256: 604304CCF242B1D49B0B53DB8D6D91CBC12AFE5C49FCEF41A8EE175725945EBE
 ManifestType: installer

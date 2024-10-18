@@ -7,7 +7,7 @@ InstallerType: portable
 ReleaseDate: 2023-06-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/derrod/legendary/releases/download/0.20.33/legendary.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/derrod/legendary/releases/download/0.20.33/legendary.exe
   InstallerSha256: a64ba3d2a8b71ac8fc396320e7514e3b526e930bc2cc26c05967c3e31c46b130
   Commands:
   - legendary

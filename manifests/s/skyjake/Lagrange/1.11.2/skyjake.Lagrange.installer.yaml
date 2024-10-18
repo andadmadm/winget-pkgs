@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.11.2/lagrange_v1.11.2_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.11.2/lagrange_v1.11.2_windows-x64_setup.exe
   InstallerSha256: 8DF2D6A39B1617595E79138C77A8812EAACB7B78E48350F8B313A6A6ED05B3F8
   ProductCode: Lagrange_is1
 ManifestType: installer

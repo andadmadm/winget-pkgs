@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Foundry376/Mailspring/releases/download/1.10.3/MailspringSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Foundry376/Mailspring/releases/download/1.10.3/MailspringSetup.exe
   InstallerSha256: E6372BD21206290C90FC405E311EB61AC89ABE2A849970ED6927CE6930530A03
 ManifestType: installer
 ManifestVersion: 1.1.0

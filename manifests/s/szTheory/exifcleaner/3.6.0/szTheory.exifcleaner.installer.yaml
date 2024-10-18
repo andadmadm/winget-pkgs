@@ -21,7 +21,7 @@ FileExtensions:
 ReleaseDate: 2021-05-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-Setup-3.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-Setup-3.6.0.exe
   InstallerSha256: A0079432DA2B777828CD8FCC0F9D797AE77F50A2EAD2AAA23975E2860E87DAA1
 ManifestType: installer
 ManifestVersion: 1.5.0

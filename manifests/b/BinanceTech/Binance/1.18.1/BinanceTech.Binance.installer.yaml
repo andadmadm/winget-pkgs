@@ -12,7 +12,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/binance/desktop/releases/download/v1.18.1/binance-setup-1.18.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binance/desktop/releases/download/v1.18.1/binance-setup-1.18.1.exe
   InstallerSha256: 5546463E88517628F9A2828BB8E761C74FAAEF4500912AC4FAA8F8637E2A782D
   UpgradeBehavior: install
 ManifestType: installer

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: webtoon-dl.exe
         PortableCommandAlias: webtoon-dl
-    InstallerUrl: https://github.com/robinovitch61/webtoon-dl/releases/download/v0.0.8/webtoon-dl_0.0.8_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/robinovitch61/webtoon-dl/releases/download/v0.0.8/webtoon-dl_0.0.8_Windows_x86_64.zip
     InstallerSha256: 93d59f7049438ef1179def65c2ebc74cbf4e33cb867acc503350e75589e0dd33
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: webtoon-dl.exe
         PortableCommandAlias: webtoon-dl
-    InstallerUrl: https://github.com/robinovitch61/webtoon-dl/releases/download/v0.0.8/webtoon-dl_0.0.8_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/robinovitch61/webtoon-dl/releases/download/v0.0.8/webtoon-dl_0.0.8_Windows_arm64.zip
     InstallerSha256: 981837dab13529a807ab870338be73fc0ca35519512bf6a3072f4fe77f7cc5d5
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: webtoon-dl.exe
         PortableCommandAlias: webtoon-dl
-    InstallerUrl: https://github.com/robinovitch61/webtoon-dl/releases/download/v0.0.8/webtoon-dl_0.0.8_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/robinovitch61/webtoon-dl/releases/download/v0.0.8/webtoon-dl_0.0.8_Windows_i386.zip
     InstallerSha256: 9eaf124b1f7a65e7999a7f56db23d8703055abb0df93cec38518f72c48f74534
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

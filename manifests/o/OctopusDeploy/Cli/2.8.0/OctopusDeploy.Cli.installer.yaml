@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{4784B4AC-8025-4D46-AD5B-84B8B79EA6AD}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/OctopusDeploy/cli/releases/download/v2.8.0/octopus_2.8.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/OctopusDeploy/cli/releases/download/v2.8.0/octopus_2.8.0_windows_amd64.msi
   InstallerSha256: A428933EE73560119BD62C79D80A55324E6180117E1B0AF73500DF8635C2F7AD
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -4,7 +4,7 @@
 PackageIdentifier: jumppad.jumppad
 PackageVersion: 0.5.49
 Installers:
-- InstallerUrl: https://github.com/jumppad-labs/jumppad/releases/download/v0.5.49/jumppad_0.5.49_windows_x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/jumppad-labs/jumppad/releases/download/v0.5.49/jumppad_0.5.49_windows_x86_64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

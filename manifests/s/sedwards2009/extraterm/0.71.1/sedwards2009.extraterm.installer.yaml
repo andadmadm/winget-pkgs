@@ -8,7 +8,7 @@ Scope: machine
 ReleaseDate: 2023-05-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sedwards2009/extraterm/releases/download/v0.71.1/extratermqt-setup-0.71.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sedwards2009/extraterm/releases/download/v0.71.1/extratermqt-setup-0.71.1.exe
   InstallerSha256: AF1A9A6ED3DEF3F3F1DD2CD09CCF43061599488D2EDDAE21C4AA1A73F8986D3E
 ManifestType: installer
 ManifestVersion: 1.4.0

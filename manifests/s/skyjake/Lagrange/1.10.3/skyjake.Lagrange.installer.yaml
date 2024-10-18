@@ -16,7 +16,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.10.3/lagrange_v1.10.3_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.10.3/lagrange_v1.10.3_windows-x64_setup.exe
   InstallerSha256: 06836CD75E8BDD1790F6DCF3211700302F59D9059793F0D8174DAF5E8356E3FB
   ProductCode: Lagrange_is1
 ManifestType: installer

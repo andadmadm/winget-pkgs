@@ -7,7 +7,7 @@ InstallerType: wix
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/osquery/osquery/releases/download/5.6.0/osquery-5.6.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/osquery/osquery/releases/download/5.6.0/osquery-5.6.0.msi
   InstallerSha256: C480B7B0352FB19B952DF9C0331926F134B1234DA716C8B12B6A9C5E19CABCE9
   ProductCode: '{E77D29AC-0189-40BB-B81F-37EBE43C62A0}'
 ManifestType: installer

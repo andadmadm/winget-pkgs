@@ -18,7 +18,7 @@ Protocols:
 ReleaseDate: 2022-10-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tympanix/Electorrent/releases/download/v2.8.1/electorrent-Setup-2.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tympanix/Electorrent/releases/download/v2.8.1/electorrent-Setup-2.8.1.exe
   InstallerSha256: D7103ED028B9DC413ED55E28E02CBC6455FE9C85C91FF992D49F3E1709F72ADB
 ManifestType: installer
 ManifestVersion: 1.2.0

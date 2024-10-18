@@ -14,11 +14,11 @@ UpgradeBehavior: install
 ReleaseDate: 2023-01-14
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/loot/loot/releases/download/0.19.1/loot_0.19.1-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/loot/loot/releases/download/0.19.1/loot_0.19.1-win32.exe
   InstallerSha256: 6DFD6323C52DC1E1325920FA655847D8A4FB8FE153720491D875971859BFD741
   ProductCode: '{BF634210-A0D4-443F-A657-0DCE38040374}_is1'
 - Architecture: x64
-  InstallerUrl: https://github.com/loot/loot/releases/download/0.19.1/loot_0.19.1-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/loot/loot/releases/download/0.19.1/loot_0.19.1-win64.exe
   InstallerSha256: F06569A8A11D47EF0E9C7006FC712300FD2A0E716BBAE79A70DDD1CFC66FD9E9
   ProductCode: '{BF634210-A0D4-443F-A657-0DCE38040374}_is1'
 ManifestType: installer

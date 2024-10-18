@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PeterStrick/ViVeTool-GUI/releases/download/v1.6.2/ViVeTool.GUI.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PeterStrick/ViVeTool-GUI/releases/download/v1.6.2/ViVeTool.GUI.Setup.exe
   InstallerSha256: 24A12D30ECAC8207953AB247A710639EEF1AB20FD7DBAF6CD036E7CBC32A6BE3
 ManifestType: installer
 ManifestVersion: 1.1.0

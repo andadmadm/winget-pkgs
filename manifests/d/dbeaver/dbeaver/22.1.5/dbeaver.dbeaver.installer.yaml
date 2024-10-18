@@ -16,13 +16,13 @@ ReleaseDate: 2022-08-21
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/22.1.5/dbeaver-ce-22.1.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/22.1.5/dbeaver-ce-22.1.5-x86_64-setup.exe
   InstallerSha256: E329F3B21C11777FDE733CA834B65CDBE76D423DD032279CA35A9B5F121B57B3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/22.1.5/dbeaver-ce-22.1.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/22.1.5/dbeaver-ce-22.1.5-x86_64-setup.exe
   InstallerSha256: E329F3B21C11777FDE733CA834B65CDBE76D423DD032279CA35A9B5F121B57B3
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: PA-1.0.3.6-windows-x64\PA-1.0.3.6.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/pulsar-assistant-release/releases/download/v1.0.3.6/PA-1.0.3.6-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/pulsar-assistant-release/releases/download/v1.0.3.6/PA-1.0.3.6-windows-x64.zip
   InstallerSha256: 3C9CB7765A51C40A446A3507AFA3DB332C1F1ECA2ADA957B2FF82BC3C5A23182
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: PA-1.0.3.6-windows-x64\PA-1.0.3.6.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/pulsar-assistant-release/releases/download/v1.0.3.6/PA-1.0.3.6-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/pulsar-assistant-release/releases/download/v1.0.3.6/PA-1.0.3.6-windows-x64.zip
   InstallerSha256: 3C9CB7765A51C40A446A3507AFA3DB332C1F1ECA2ADA957B2FF82BC3C5A23182
   InstallerSwitches:
     Custom: /ALLUSERS

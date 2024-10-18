@@ -11,7 +11,7 @@ InstallerSwitches:
   SilentWithProgress: /VERYSILENT /NORESTART /ALLUSERS
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.14.0/Windows_StorageExplorer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.14.0/Windows_StorageExplorer.exe
   InstallerSha256: CE23365695170D948616E20ECA1B71D6CFC62A9063901E3EEFF6F1AE184F5054
 ManifestType: installer
 ManifestVersion: 1.1.0

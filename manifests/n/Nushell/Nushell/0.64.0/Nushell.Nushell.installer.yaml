@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2022-06-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nushell/nushell/releases/download/0.64.0/nu-0.64.0-x86_64-pc-windows-msvc.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nushell/nushell/releases/download/0.64.0/nu-0.64.0-x86_64-pc-windows-msvc.msi
   InstallerSha256: F832419A263128E27229441CCD3B8CC5410F49F0EB91FFFCEDA3ABDB46967FCB
   ProductCode: '{D3489DE6-521A-4FC3-8F40-A5CDDD7D3795}'
 ManifestType: installer

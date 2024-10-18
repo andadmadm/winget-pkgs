@@ -4,7 +4,7 @@ Installers:
   - Architecture: x64
     InstallerLocale: en-US
     InstallerType: exe
-    InstallerUrl: https://github.com/headlamp-k8s/headlamp/releases/download/v0.21.0/Headlamp-0.21.0-win-x64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/headlamp-k8s/headlamp/releases/download/v0.21.0/Headlamp-0.21.0-win-x64.exe
     InstallerSha256: 841105457d5e877b15da0f2b6830283f0b1a5f52f443d4a349519386a2edb223
     Scope: user
     InstallModes:

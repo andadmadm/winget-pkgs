@@ -17,7 +17,7 @@ Commands:
 ReleaseDate: 2022-03-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mesonbuild/meson/releases/download/0.62.0/meson-0.62.0-64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mesonbuild/meson/releases/download/0.62.0/meson-0.62.0-64.msi
   InstallerSha256: EAE01068D5434B2CCA66278F83682E72154FCA0EFC2E37D35970FA4CB1ECD7DA
   ProductCode: '{78131935-4DC8-4C7E-9546-82C5B9638D36}'
 ManifestType: installer

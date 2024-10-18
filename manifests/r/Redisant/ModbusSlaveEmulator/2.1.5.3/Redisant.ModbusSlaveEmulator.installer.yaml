@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MSE-2.1.5.3-windows\MSE.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/mse-release/releases/download/v2.1.5.3/MSE-2.1.5.3-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/mse-release/releases/download/v2.1.5.3/MSE-2.1.5.3-windows.zip
   InstallerSha256: 21766C28DFAF8074B6B7E35A306B40B9E1F48951ED0683008387FE81F04D06E6
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MSE-2.1.5.3-windows\MSE.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/mse-release/releases/download/v2.1.5.3/MSE-2.1.5.3-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/mse-release/releases/download/v2.1.5.3/MSE-2.1.5.3-windows.zip
   InstallerSha256: 21766C28DFAF8074B6B7E35A306B40B9E1F48951ED0683008387FE81F04D06E6
   InstallerSwitches:
     Custom: /ALLUSERS

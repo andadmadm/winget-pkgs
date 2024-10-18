@@ -11,7 +11,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
-- InstallerUrl: https://github.com/quotient-im/Quaternion/releases/download/0.0.95.1/quaternion-0.0.95.1-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/quotient-im/Quaternion/releases/download/0.0.95.1/quaternion-0.0.95.1-win64.zip
   Architecture: x64
   InstallerSha256: 6CA88E735DEC1AF40F2F6E53F325E26F94B4AD8815501052B3010B33443E38D9
 ManifestType: installer

@@ -18,14 +18,14 @@ ElevationRequirement: elevatesSelf
 ReleaseDate: 2024-04-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cli/cli/releases/download/v2.48.0/gh_2.48.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v2.48.0/gh_2.48.0_windows_amd64.msi
   InstallerSha256: 60ECA2584204FF54B5D84F5AD519A31C76DB69D94A04295BEC65DEDC35BF9DD8
   ProductCode: '{48A30CEE-C604-447E-B724-56DB66D553B5}'
   AppsAndFeaturesEntries:
   - ProductCode: '{48A30CEE-C604-447E-B724-56DB66D553B5}'
     UpgradeCode: '{8CFB9531-B959-4E1B-AA2E-4AF0FFCC4AF4}'
 - Architecture: x86
-  InstallerUrl: https://github.com/cli/cli/releases/download/v2.48.0/gh_2.48.0_windows_386.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v2.48.0/gh_2.48.0_windows_386.msi
   InstallerSha256: 46F45F55E2ABBA26CE85A738DA9CE0DA15D70AEFA2EB6E8F39445505C5121B80
   ProductCode: '{875BCF8E-10DF-4785-AC4B-77D0B7DF058B}'
   AppsAndFeaturesEntries:

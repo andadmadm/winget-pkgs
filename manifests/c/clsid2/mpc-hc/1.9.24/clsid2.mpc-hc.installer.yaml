@@ -143,11 +143,11 @@ FileExtensions:
 ReleaseDate: 2022-11-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/1.9.24/MPC-HC.1.9.24.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/1.9.24/MPC-HC.1.9.24.x64.exe
   InstallerSha256: 517F8BE9C09A447308905598F3285EC9A34ACEDC073726136A7283B42F5BD5FA
   ProductCode: '{2ACBF1FA-F5C3-4B19-A774-B22A31F231B9}_is1'
 - Architecture: x86
-  InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/1.9.24/MPC-HC.1.9.24.x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/1.9.24/MPC-HC.1.9.24.x86.exe
   InstallerSha256: 8DE3C61DE0F5C2188EFEEBB94A4EBFC57F16B8241486CD83C969A24497020039
   ProductCode: '{2624B969-7135-4EB1-B0F6-2D8C397B45F7}_is1'
 ManifestType: installer

@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{C065D567-9F0F-587A-AD0E-647F4083E34C}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/openai-translator/openai-translator/releases/download/v0.3.41/OpenAI.Translator_0.3.41_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/openai-translator/openai-translator/releases/download/v0.3.41/OpenAI.Translator_0.3.41_x64_en-US.msi
   InstallerSha256: 3870319131B14890581A36C7E5C0921E6F52F5F1939C2E5E46A73C4E5A1CDA2F
 ManifestType: installer
 ManifestVersion: 1.6.0

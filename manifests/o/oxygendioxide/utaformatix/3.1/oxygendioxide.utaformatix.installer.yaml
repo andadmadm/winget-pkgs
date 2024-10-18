@@ -19,7 +19,7 @@ FileExtensions:
 - xml
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oxygen-dioxide/utaformatix-electron/releases/download/v3.1/setup-UtaFormatix-win32-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oxygen-dioxide/utaformatix-electron/releases/download/v3.1/setup-UtaFormatix-win32-x64.exe
   InstallerSha256: EF98345ADC89811323154458AB48546E36299BF635E33094DD5603C99096334D
 ManifestType: installer
 ManifestVersion: 1.1.0

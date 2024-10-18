@@ -4,7 +4,7 @@
 PackageIdentifier: WFCD.WFInfo
 PackageVersion: 9.6.0
 Installers:
-- InstallerUrl: https://github.com/WFCD/WFinfo/releases/download/v9.6.0/WFInfo.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/WFCD/WFinfo/releases/download/v9.6.0/WFInfo.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

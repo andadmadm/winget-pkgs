@@ -13,10 +13,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HenriWahl/Nagstamon/releases/download/v3.6.0/Nagstamon-3.6.0-win64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HenriWahl/Nagstamon/releases/download/v3.6.0/Nagstamon-3.6.0-win64_setup.exe
   InstallerSha256: D74E9366ABB696B4FE08BDE3925599574D8F000D9F243DE1747A70A01AF78B7A
 - Architecture: x86
-  InstallerUrl: https://github.com/HenriWahl/Nagstamon/releases/download/v3.6.0/Nagstamon-3.6.0-win32_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HenriWahl/Nagstamon/releases/download/v3.6.0/Nagstamon-3.6.0-win32_setup.exe
   InstallerSha256: 705E3262BB52E0D76C716DE90DEB76DFFC4757E987F629E539F084F3FFB59DA2
 ManifestType: installer
 ManifestVersion: 1.2.0

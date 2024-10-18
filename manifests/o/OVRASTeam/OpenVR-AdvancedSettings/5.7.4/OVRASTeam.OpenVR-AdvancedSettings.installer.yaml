@@ -8,7 +8,7 @@ ProductCode: OpenVRAdvancedSettings
 ReleaseDate: 2023-10-09
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.7.4/AdvancedSettings-5.7.4-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.7.4/AdvancedSettings-5.7.4-Installer.exe
   InstallerSha256: E0FD372536CF30E15B1B19C64DBCE20FFA2CA6B655FA9FDA5C03A629FADD94EF
 ManifestType: installer
 ManifestVersion: 1.5.0

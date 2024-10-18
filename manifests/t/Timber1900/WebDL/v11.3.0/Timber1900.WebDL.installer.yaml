@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Timber1900/WebDL/releases/download/v11.3.0/WebDL.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Timber1900/WebDL/releases/download/v11.3.0/WebDL.exe
   InstallerSha256: 0964018C1612168D5251FAC35CB7761F9757C1BE9D647A47F1AF5A2473F1D47E
 ManifestType: installer
 ManifestVersion: 1.1.0

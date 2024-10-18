@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-04-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PureWriter/desktop/releases/download/1.4.0/PureWriter-1.4.2-Windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/PureWriter/desktop/releases/download/1.4.0/PureWriter-1.4.2-Windows-x64.msi
   InstallerSha256: 99A3E1B3AF0C385FE0E37877B73E22728D0B0F9F88C8696FE41B2B117D4100C1
   ProductCode: '{156A23E1-9D1A-373A-9057-375C608C76E5}'
 ManifestType: installer

@@ -5,7 +5,7 @@ PackageIdentifier: bdash-app.bdash
 PackageVersion: 1.16.3
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bdash-app/bdash/releases/download/v1.16.3/Bdash-Setup-1.16.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bdash-app/bdash/releases/download/v1.16.3/Bdash-Setup-1.16.3.exe
   InstallerSha256: e9c08e16f4c6f35834a61d910bce26694723c793a0a6504f6177c7c9df810964
 ManifestType: installer
 ManifestVersion: 1.5.0

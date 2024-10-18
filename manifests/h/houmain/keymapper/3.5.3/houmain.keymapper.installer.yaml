@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{D3B4DADB-1A7E-40B3-A6F0-EEB022317FC8}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/houmain/keymapper/releases/download/3.5.3/keymapper-3.5.3-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/houmain/keymapper/releases/download/3.5.3/keymapper-3.5.3-win64.msi
   InstallerSha256: 26CE3456DDABC12F6E78949650387BEC257B469922B3E6394D4D9E994C6C702D
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.14.4/SchemaCrawler-16.14.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.14.4/SchemaCrawler-16.14.4.msi
   InstallerSha256: 6D85F31EA5974DCB9A8EB40625164208C3E22A854E4C9197E4BCD0C88C16D7BE
   ProductCode: '{7666E914-CCCD-30AA-B6D7-135E4A2DDCC0}'
 ManifestType: installer

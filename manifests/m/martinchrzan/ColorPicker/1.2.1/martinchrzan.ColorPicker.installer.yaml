@@ -18,7 +18,7 @@ ReleaseDate: 2023-02-26
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/martinchrzan/ColorPicker/releases/download/1.2.1/Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinchrzan/ColorPicker/releases/download/1.2.1/Setup.msi
   InstallerSha256: 46E302CF877A57424E954C248E91D738DD88C1DB361EE3499FF79B523C7FEDFA
   InstallerSwitches:
     Silent: /quiet
@@ -26,7 +26,7 @@ Installers:
   UpgradeBehavior: install
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/martinchrzan/ColorPicker/releases/download/1.2.1/Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinchrzan/ColorPicker/releases/download/1.2.1/Setup.msi
   InstallerSha256: 46E302CF877A57424E954C248E91D738DD88C1DB361EE3499FF79B523C7FEDFA
   UpgradeBehavior: uninstallPrevious
 ManifestType: installer

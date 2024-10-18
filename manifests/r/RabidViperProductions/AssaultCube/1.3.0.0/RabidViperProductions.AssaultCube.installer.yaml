@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/assaultcube/AC/releases/download/v1.3.0.0/AssaultCube_v1.3.0.0_LockdownEdition.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/assaultcube/AC/releases/download/v1.3.0.0/AssaultCube_v1.3.0.0_LockdownEdition.exe
   InstallerSha256: 89C4EF751BE33221B3EE3FFBD6EF9362A5FD0C315D91F80C25CC020B355E290C
 ManifestType: installer
 ManifestVersion: 1.1.0

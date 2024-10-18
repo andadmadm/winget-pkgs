@@ -10,7 +10,7 @@ Dependencies:
   PackageDependencies:
    - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
-- InstallerUrl: https://github.com/snijderlab/align-cli/releases/download/v0.4.0/align.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/snijderlab/align-cli/releases/download/v0.4.0/align.exe
   Architecture: x64
   InstallerSha256: 718568CF93BDD1275767E837E9BAF2257A4D5BEE405C1D591673DB414980C2A1
 ManifestType: installer

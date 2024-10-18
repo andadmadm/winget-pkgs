@@ -11,14 +11,14 @@ ReleaseDate: 2024-07-16
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-x64.exe
   InstallerSha256: 8454F030216D95091DF90B4DC03BC41D102E66E8FB30FEA80D0FB40884D60FB4
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 71445fac-d6ef-5436-9da7-5a323762d7f5
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-x64.exe
   InstallerSha256: 8454F030216D95091DF90B4DC03BC41D102E66E8FB30FEA80D0FB40884D60FB4
   InstallerSwitches:
     Custom: /allusers
@@ -26,14 +26,14 @@ Installers:
   ElevationRequirement: elevationRequired
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-arm64.exe
   InstallerSha256: AF81924698064812E64BC23E0474EB7A1F23E27762A27F54526C0C3935584D62
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 71445fac-d6ef-5436-9da7-5a323762d7f5
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-arm64.exe
   InstallerSha256: AF81924698064812E64BC23E0474EB7A1F23E27762A27F54526C0C3935584D62
   InstallerSwitches:
     Custom: /allusers

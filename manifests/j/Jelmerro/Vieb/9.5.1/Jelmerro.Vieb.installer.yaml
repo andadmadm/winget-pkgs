@@ -17,14 +17,14 @@ ReleaseDate: 2023-01-20
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/9.5.1/Vieb.Setup.9.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/9.5.1/Vieb.Setup.9.5.1.exe
   InstallerSha256: 079254007E1BC38413D3693017C5D304E056946C73EA619E30B7619D737E6FA2
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: f3bf7f3e-61bc-51e0-bf16-52396b15579a
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/9.5.1/Vieb.Setup.9.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/9.5.1/Vieb.Setup.9.5.1.exe
   InstallerSha256: 079254007E1BC38413D3693017C5D304E056946C73EA619E30B7619D737E6FA2
   InstallerSwitches:
     Custom: /allusers

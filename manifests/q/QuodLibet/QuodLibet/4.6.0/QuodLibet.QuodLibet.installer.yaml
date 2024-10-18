@@ -7,7 +7,7 @@ InstallerType: nullsoft
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/quodlibet/quodlibet/releases/download/release-4.6.0/quodlibet-4.6.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/quodlibet/quodlibet/releases/download/release-4.6.0/quodlibet-4.6.0-installer.exe
   InstallerSha256: CF709EC266197B129B87BD26FB72E9BF5ED1BA7AE8C67907C1F0935208C9B06B
 ManifestType: installer
 ManifestVersion: 1.6.0

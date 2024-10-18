@@ -10,7 +10,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RandomEngy/VidCoder/releases/download/v6.22-beta/VidCoder-6.22-Beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RandomEngy/VidCoder/releases/download/v6.22-beta/VidCoder-6.22-Beta.exe
   InstallerSha256: 14FFA4222370E6C749C00BDFE981E1120EDAD6E17AF1E804258440998B05C8EE
 ManifestType: installer
 ManifestVersion: 1.0.0

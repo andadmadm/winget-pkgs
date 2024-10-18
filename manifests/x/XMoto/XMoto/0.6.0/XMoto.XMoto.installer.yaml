@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/xmoto/xmoto/releases/download/0.6.0/xmoto-0.6.0-win32-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmoto/xmoto/releases/download/0.6.0/xmoto-0.6.0-win32-setup.exe
   InstallerSha256: 035AD456B88B7D7A8425888AA6FF8243A46F0FC93DF88E3D28F7C2415034451E
 ManifestType: installer
 ManifestVersion: 1.1.0

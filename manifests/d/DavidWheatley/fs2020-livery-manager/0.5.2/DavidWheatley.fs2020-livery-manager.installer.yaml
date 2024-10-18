@@ -10,7 +10,7 @@ Installers:
 - Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/releases/download/v0.5.2/Liveries_Mega_Pack_Manager-0.5.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/releases/download/v0.5.2/Liveries_Mega_Pack_Manager-0.5.2-setup.exe
   InstallerSha256: DF2C4A309CF86380CEA3F24950A32845661701AFF989FEF044B778D6B1B11823
   InstallerSwitches:
     Silent: --silent
@@ -19,7 +19,7 @@ Installers:
 - Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/releases/download/v0.5.2/Liveries_Mega_Pack_Manager-0.5.2-setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/releases/download/v0.5.2/Liveries_Mega_Pack_Manager-0.5.2-setup.msi
   InstallerSha256: 64637538AC5C8733A2EAB7ED2D0E98B2C49001B2AD95BD9054D439579AC73EC7
   UpgradeBehavior: uninstallPrevious
 ManifestType: installer

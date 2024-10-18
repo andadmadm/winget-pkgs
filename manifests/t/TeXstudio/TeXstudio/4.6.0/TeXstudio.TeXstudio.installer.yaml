@@ -14,7 +14,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/texstudio-org/texstudio/releases/download/4.6.0/texstudio-4.6.0-win-qt6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/texstudio-org/texstudio/releases/download/4.6.0/texstudio-4.6.0-win-qt6.exe
   InstallerSha256: C6C17CCBCF5E4EAC4E722C59073D450F9B6DCE2792FEA7842B70FA91DEBB575B
 ManifestType: installer
 ManifestVersion: 1.4.0

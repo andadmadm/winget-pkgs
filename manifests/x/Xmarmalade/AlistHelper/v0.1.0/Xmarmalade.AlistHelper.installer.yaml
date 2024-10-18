@@ -12,14 +12,14 @@ ReleaseDate: 2023-05-23
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.0/AlistHelper_installer_v0.1.0_windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.0/AlistHelper_installer_v0.1.0_windows-x86_64.exe
   InstallerSha256: F54E0B79460AD7858C0846FEEC036C5B27671082E36D04660B68F77F97FE0E11
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: AlistHelper_is1
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.0/AlistHelper_installer_v0.1.0_windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.0/AlistHelper_installer_v0.1.0_windows-x86_64.exe
   InstallerSha256: F54E0B79460AD7858C0846FEEC036C5B27671082E36D04660B68F77F97FE0E11
   InstallerSwitches:
     Custom: /ALLUSERS

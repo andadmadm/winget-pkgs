@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-07-08
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/ShareX/ShareX/releases/download/v14.0.1/ShareX-14.0.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ShareX/ShareX/releases/download/v14.0.1/ShareX-14.0.1-setup.exe
   InstallerSha256: BD39922E3026F28EA05A28724412ED5AE5300DAA6A2980557EA1516D7F97695A
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Chit132/abyss-overlay/releases/download/v1.2.3/Abyss.Overlay.Setup.v1.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chit132/abyss-overlay/releases/download/v1.2.3/Abyss.Overlay.Setup.v1.2.3.exe
   InstallerSha256: EB0E3C5B4CD56B249269F22AC9B4F224094B3C0C6D799A45F594678985E36AA2
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Chit132/abyss-overlay/releases/download/v1.2.3/Abyss.Overlay.Setup.v1.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chit132/abyss-overlay/releases/download/v1.2.3/Abyss.Overlay.Setup.v1.2.3.exe
   InstallerSha256: EB0E3C5B4CD56B249269F22AC9B4F224094B3C0C6D799A45F594678985E36AA2
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

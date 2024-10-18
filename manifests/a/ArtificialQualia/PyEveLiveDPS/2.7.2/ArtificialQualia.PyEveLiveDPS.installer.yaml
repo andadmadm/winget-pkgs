@@ -4,7 +4,7 @@
 PackageIdentifier: ArtificialQualia.PyEveLiveDPS
 PackageVersion: 2.7.2
 Installers:
-- InstallerUrl: https://github.com/ArtificialQualia/PyEveLiveDPS/releases/download/v2.7.2/PELD-installer-v2.7.2b.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/ArtificialQualia/PyEveLiveDPS/releases/download/v2.7.2/PELD-installer-v2.7.2b.exe
   Architecture: x64
   InstallerType: inno
   InstallerSha256: c6be3de65f63226d7da3e794300209be8b550c20c540ef04032106e7de607ff1

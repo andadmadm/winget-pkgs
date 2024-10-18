@@ -8,13 +8,13 @@ ReleaseDate: 2022-07-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/quick123official/quick_redis_blog/releases/download/v2.7.1/QuickRedis-2.7.1-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/quick123official/quick_redis_blog/releases/download/v2.7.1/QuickRedis-2.7.1-win-ia32.exe
   InstallerSha256: 69E876A90129AB519D9F9B8AAEDAE0DF60A07FD0AFF0D250870F427A5BBCFF63
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/quick123official/quick_redis_blog/releases/download/v2.7.1/QuickRedis-2.7.1-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/quick123official/quick_redis_blog/releases/download/v2.7.1/QuickRedis-2.7.1-win-ia32.exe
   InstallerSha256: 69E876A90129AB519D9F9B8AAEDAE0DF60A07FD0AFF0D250870F427A5BBCFF63
   InstallerSwitches:
     Custom: /ALLUSERS

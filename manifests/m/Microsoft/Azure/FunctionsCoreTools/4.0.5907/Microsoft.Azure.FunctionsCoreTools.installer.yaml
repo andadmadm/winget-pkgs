@@ -12,14 +12,14 @@ Commands:
 - func
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5907/func-cli-4.0.5907-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5907/func-cli-4.0.5907-x86.msi
   InstallerSha256: 625008BEFA0FABEF2239C6252CD8B66BB5F1B219CFF71AC19C687B207EC6DA69
   ProductCode: '{6B556490-0F4C-47F4-9635-3AF41A373716}'
   AppsAndFeaturesEntries:
   - ProductCode: '{D18D554A-90A5-4DCB-80B5-5507282CEA95}'
     UpgradeCode: '{31C010A9-2414-4DB7-BFEA-A6F1D085382E}'
 - Architecture: x64
-  InstallerUrl: https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5907/func-cli-4.0.5907-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5907/func-cli-4.0.5907-x64.msi
   InstallerSha256: B5E384D2172F8B0252CAE9EF62843D6D9C4BAC978282000487AC72B83C1B8296
   ProductCode: '{9CB04B56-0BF9-4440-81FE-1AF4346BDF24}'
   AppsAndFeaturesEntries:

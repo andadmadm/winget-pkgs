@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2022.2.1/jitsi-meet.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jitsi/jitsi-meet-electron/releases/download/v2022.2.1/jitsi-meet.exe
   InstallerSha256: 25A32BEE7001B1901267C6F593CF01B12B6B81D90161C7C2CE0AC0111F81947C
 ManifestType: installer
 ManifestVersion: 1.1.0

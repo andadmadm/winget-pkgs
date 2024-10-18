@@ -37,7 +37,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{2FF7073A-1112-4866-B6F4-5A9863EC56C1}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.3/sapmachine-jdk-21.0.3_windows-x64_bin.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.3/sapmachine-jdk-21.0.3_windows-x64_bin.msi
   InstallerSha256: 539D0A6BD6EC7C51CCC0C1B840CBA72462F0FA3E8CE99A54D839EE1A6076CB00
   ProductCode: '{CF199E08-BEF9-4751-BFF5-7589DB1FF728}'
 ManifestType: installer

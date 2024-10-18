@@ -14,7 +14,7 @@ Commands:
 ReleaseDate: 2023-08-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.14.0/HttpToolkit-installer-1.14.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.14.0/HttpToolkit-installer-1.14.0.exe
   InstallerSha256: E81E0FD61E9F056D9EC9B97DB3C663D725B96D11DACDE9F6B613AEF1AD1E4DE8
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.0.5/ExpressLRS-Configurator-Setup-1.0.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.0.5/ExpressLRS-Configurator-Setup-1.0.5.exe
   InstallerSha256: 67DAABCA47D4FE3EF59FCAC503682D9C20604AED8C7086440D139E1F9324B3B2
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.0.5/ExpressLRS-Configurator-Setup-1.0.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.0.5/ExpressLRS-Configurator-Setup-1.0.5.exe
   InstallerSha256: 67DAABCA47D4FE3EF59FCAC503682D9C20604AED8C7086440D139E1F9324B3B2
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -6,7 +6,7 @@ PackageVersion: 2024.8.1
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/TiCodeX/SQLSchemaCompare/releases/download/v2024.8.1/SQLSchemaCompare-2024.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TiCodeX/SQLSchemaCompare/releases/download/v2024.8.1/SQLSchemaCompare-2024.8.1.exe
   InstallerSha256: 0EF5A8E235D5AA890CFEECF25DE457CBC46AE3ED9C7A40D09BF4011E2A24C4A0
 ManifestType: installer
 ManifestVersion: 1.6.0

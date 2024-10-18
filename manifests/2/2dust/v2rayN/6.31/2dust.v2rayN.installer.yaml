@@ -13,7 +13,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: v2rayN\v2rayN.exe
     PortableCommandAlias: v2rayN
-  InstallerUrl: https://github.com/2dust/v2rayN/releases/download/6.31/v2rayN.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/2dust/v2rayN/releases/download/6.31/v2rayN.zip
   InstallerSha256: 793361E439F6ACDDA59219595B0D8D15032FD173E2369FBD2F768BDC20DCB531
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -7,11 +7,11 @@ PackageVersion: 4.1.4
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/thonny/thonny/releases/download/v4.1.4/thonny-4.1.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thonny/thonny/releases/download/v4.1.4/thonny-4.1.4.exe
   InstallerSha256: bb600e31bf35c7dab7dc8b4f7830de6922fee5db4bb1854b89dfdb83de0ede69
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/thonny/thonny/releases/download/v4.1.4/thonny-4.1.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thonny/thonny/releases/download/v4.1.4/thonny-4.1.4.exe
   InstallerSha256: bb600e31bf35c7dab7dc8b4f7830de6922fee5db4bb1854b89dfdb83de0ede69
 ManifestType: installer
 ManifestVersion: 1.5.0

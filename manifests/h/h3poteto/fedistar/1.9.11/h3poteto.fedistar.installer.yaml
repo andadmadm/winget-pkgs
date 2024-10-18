@@ -17,7 +17,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%/fedistar'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/h3poteto/fedistar/releases/download/v1.9.11/fedistar_1.9.11_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/fedistar/releases/download/v1.9.11/fedistar_1.9.11_x64_en-US.msi
   InstallerSha256: BAC5FE30ABC3F4D8F4AC54A85E8792331DE9D43023B40C4AAC8A8CEE9A5A46DB
 ManifestType: installer
 ManifestVersion: 1.6.0

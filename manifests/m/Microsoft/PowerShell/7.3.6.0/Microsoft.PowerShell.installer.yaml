@@ -15,12 +15,12 @@ ReleaseDate: 2023-07-13
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x64.msi
   InstallerSha256: 758E130DC13708A72CEE29DB0B8EFD987376A4A4A22114C3B00D50CF7295D35E
   ProductCode: '{3E1D544C-E761-430F-B278-43E9FBFF0E4F}'
 - Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x86.msi
   InstallerSha256: 0D295F1AE6B6F0A5531AC33DF0A98126175312FC85252C77738D38CF28AA18EE
   ProductCode: '{02A236F6-A7AA-4B3C-81F7-1A1B781616E3}'
 - Architecture: arm
@@ -28,7 +28,7 @@ Installers:
   Platform:
   - Windows.Universal
   InstallerType: msix
-  InstallerUrl: https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win.msixbundle
   InstallerSha256: 055DE80CCE6190C4A38A73EB03F7DB7B9A698A9B1892F84E76813E77E0607258
   SignatureSha256: 43935BF2F735AF4EFCCEB39A8C5A9BD63CE2448BE11CED33153617F09F270209
   PackageFamilyName: Microsoft.PowerShell_8wekyb3d8bbwe
@@ -37,7 +37,7 @@ Installers:
   Platform:
   - Windows.Universal
   InstallerType: msix
-  InstallerUrl: https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win.msixbundle
   InstallerSha256: 055DE80CCE6190C4A38A73EB03F7DB7B9A698A9B1892F84E76813E77E0607258
   SignatureSha256: 43935BF2F735AF4EFCCEB39A8C5A9BD63CE2448BE11CED33153617F09F270209
   PackageFamilyName: Microsoft.PowerShell_8wekyb3d8bbwe

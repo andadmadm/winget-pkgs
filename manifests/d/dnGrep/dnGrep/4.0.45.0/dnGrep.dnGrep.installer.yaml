@@ -16,14 +16,14 @@ UpgradeBehavior: install
 ReleaseDate: 2023-07-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v4.0.45.0/dnGREP.4.0.45.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v4.0.45.0/dnGREP.4.0.45.x64.msi
   InstallerSha256: C6E942B755359975B01FFD56F8001776B474BE43B2DEB607B220C5C810FB5CA8
   ProductCode: '{21E7DC51-9604-44F7-8EDF-25A6C6647FC1}'
   AppsAndFeaturesEntries:
   - DisplayName: dnGrep 4.0.26 (x86)
 - InstallerLocale: en-US
   Architecture: x86
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v4.0.45.0/dnGREP.4.0.45.x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v4.0.45.0/dnGREP.4.0.45.x86.msi
   InstallerSha256: 5F05258B4211B36A433806A553E7BEE3B5B57B072B9A04C506454D376F4D7D33
   ProductCode: '{2CD666D3-7D24-476A-A2F2-D399FEB5BD3E}'
   AppsAndFeaturesEntries:

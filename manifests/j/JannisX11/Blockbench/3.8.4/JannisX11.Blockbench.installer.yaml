@@ -11,7 +11,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
-    InstallerUrl: https://github.com/JannisX11/blockbench/releases/download/v3.8.4/Blockbench_3.8.4.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/JannisX11/blockbench/releases/download/v3.8.4/Blockbench_3.8.4.exe
     InstallerSha256: D6CF2EA6341869477E14B8A5C24D0A9AED2FC0CF8B3F812E55A493AE94FAF392
 #    ProductCode: 
     Scope: user

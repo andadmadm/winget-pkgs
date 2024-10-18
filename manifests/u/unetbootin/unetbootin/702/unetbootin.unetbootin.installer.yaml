@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2021-02-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/unetbootin/unetbootin/releases/download/702/unetbootin-windows-702.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/unetbootin/unetbootin/releases/download/702/unetbootin-windows-702.exe
   InstallerSha256: 65BA5FF090BE1CC96DEC40509C9002582F4663634CB63B311941321907701483
 ManifestType: installer
 ManifestVersion: 1.2.0

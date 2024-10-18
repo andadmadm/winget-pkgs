@@ -13,7 +13,7 @@ InstallModes:
 - silent
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/NethermindEth/nethermind/releases/download/1.29.1/nethermind-1.29.1-dfea5240-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NethermindEth/nethermind/releases/download/1.29.1/nethermind-1.29.1-dfea5240-windows-x64.zip
   InstallerSha256: 4184022302966AE54C35DC7C60A3B1D333DAF72315E778DA9E93E4CEC1ADBF95
 ManifestType: installer
 ManifestVersion: 1.6.0

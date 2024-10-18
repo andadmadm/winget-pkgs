@@ -19,40 +19,40 @@ ReleaseDate: 2022-04-03
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x64_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x64_Setup.exe
   InstallerSha256: 662A27CEB4A16701AC262DA16518A2FD9AC1DEC9EA85602CEA3E0B7ADD254814
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /ALLUSERS
   UpgradeBehavior: install
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x64_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x64_Setup.exe
   InstallerSha256: 662A27CEB4A16701AC262DA16518A2FD9AC1DEC9EA85602CEA3E0B7ADD254814
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x86_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x86_Setup.exe
   InstallerSha256: B59108004A3DB323991F321719C4C7C31EAB5E39A4DAA495A0654D65282FA447
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /ALLUSERS
   UpgradeBehavior: install
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x86_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_x86_Setup.exe
   InstallerSha256: B59108004A3DB323991F321719C4C7C31EAB5E39A4DAA495A0654D65282FA447
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_arm64_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_arm64_Setup.exe
   InstallerSha256: C9C2C57CE959679FA2B6A00EC00C42B0E9771734433E9542A14FE30B5073BE2D
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /ALLUSERS
   UpgradeBehavior: install
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_arm64_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.0.1/WinDynamicDesktop_5.0.1_arm64_Setup.exe
   InstallerSha256: C9C2C57CE959679FA2B6A00EC00C42B0E9771734433E9542A14FE30B5073BE2D
   InstallerSwitches:
     Custom: /NORESTART /RESTARTAPPLICATIONS /CURRENTUSER

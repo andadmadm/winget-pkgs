@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-05-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Genivia/ugrep/releases/download/v6.0.0/ugrep-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Genivia/ugrep/releases/download/v6.0.0/ugrep-windows-x64.zip
   InstallerSha256: 782B2E49E727434DC644A21CD00FCBD351D73340B24C1743D56154BC96928118
 ManifestType: installer
 ManifestVersion: 1.5.0

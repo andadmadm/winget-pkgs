@@ -12,15 +12,15 @@ InstallModes:
 PackageFamilyName: Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.15.2002.0/Microsoft.WindowsTerminalPreview_Win10_1.15.2002.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.15.2002.0/Microsoft.WindowsTerminalPreview_Win10_1.15.2002.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 1F82FCD7A9AB5F89395FC4EAF614CD09DF598B5D906D21E2A9D76EC1B7B21CBE
   SignatureSha256: 915EBD5D81754E3401537913926CFEFC3EAC4BC815330B9A5F08E090B6CD99D4
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.15.2002.0/Microsoft.WindowsTerminalPreview_Win10_1.15.2002.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.15.2002.0/Microsoft.WindowsTerminalPreview_Win10_1.15.2002.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 1F82FCD7A9AB5F89395FC4EAF614CD09DF598B5D906D21E2A9D76EC1B7B21CBE
   SignatureSha256: 915EBD5D81754E3401537913926CFEFC3EAC4BC815330B9A5F08E090B6CD99D4
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.15.2002.0/Microsoft.WindowsTerminalPreview_Win10_1.15.2002.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.15.2002.0/Microsoft.WindowsTerminalPreview_Win10_1.15.2002.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 1F82FCD7A9AB5F89395FC4EAF614CD09DF598B5D906D21E2A9D76EC1B7B21CBE
   SignatureSha256: 915EBD5D81754E3401537913926CFEFC3EAC4BC815330B9A5F08E090B6CD99D4
 ManifestType: installer

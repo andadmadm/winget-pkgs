@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2020-01-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sidneys/pb-for-desktop/releases/download/v10.5.0/pb-for-desktop-10.5.0-setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sidneys/pb-for-desktop/releases/download/v10.5.0/pb-for-desktop-10.5.0-setup.msi
   InstallerSha256: DBE31FB02AAC322E48226D13D6B1A361E6EECC754C85D752423E117A7CCAC59D
   ProductCode: '{0BD1339C-42F7-4D22-8E66-837D2E083E73}'
 ManifestType: installer

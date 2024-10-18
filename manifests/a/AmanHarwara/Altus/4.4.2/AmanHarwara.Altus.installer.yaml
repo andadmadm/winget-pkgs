@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/4.4.2/Altus-Setup-4.4.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/4.4.2/Altus-Setup-4.4.2.exe
   InstallerSha256: 17ACBA040871E669D982A92788C80CA4CFE65E5C628E0825C2BD5ED6A85AEF01
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/4.4.2/Altus-Setup-4.4.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/4.4.2/Altus-Setup-4.4.2.exe
   InstallerSha256: 17ACBA040871E669D982A92788C80CA4CFE65E5C628E0825C2BD5ED6A85AEF01
   InstallerSwitches:
     Custom: /ALLUSERS

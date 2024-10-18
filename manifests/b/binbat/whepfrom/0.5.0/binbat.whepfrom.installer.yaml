@@ -11,13 +11,13 @@ UpgradeBehavior: install
 ReleaseDate: 2024-07-10
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/binbat/live777/releases/download/v0.5.0/whepfrom-v0.5.0-i686-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binbat/live777/releases/download/v0.5.0/whepfrom-v0.5.0-i686-pc-windows-msvc.exe
   InstallerSha256: 451CDA6502F89FE678F3E4E53B6F844A27FA2531D52BE773959A5637BE288467
   Dependencies:
     PackageDependencies:
       - PackageIdentifier: Microsoft.VCRedist.2015+.x86
 - Architecture: x64
-  InstallerUrl: https://github.com/binbat/live777/releases/download/v0.5.0/whepfrom-v0.5.0-x86_64-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binbat/live777/releases/download/v0.5.0/whepfrom-v0.5.0-x86_64-pc-windows-msvc.exe
   InstallerSha256: 4DD7CA1C6E5F7FDC799E8F7BF721A8F6CF7032F36EBA9633F162D0B1921542F8
   Dependencies:
     PackageDependencies:

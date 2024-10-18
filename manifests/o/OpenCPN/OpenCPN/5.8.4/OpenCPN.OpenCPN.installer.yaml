@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - DisplayVersion: 5.8.4-0+1637c28
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OpenCPN/OpenCPN/releases/download/Release_5.8.4/opencpn_5.8.4-0+627.1637c28_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenCPN/OpenCPN/releases/download/Release_5.8.4/opencpn_5.8.4-0+627.1637c28_setup.exe
   InstallerSha256: 36007B4A803529F82D3DE83D1ED4FD4782A21D9AFFD78A5C81DAF1E096C57BFE
 ManifestType: installer
 ManifestVersion: 1.5.0

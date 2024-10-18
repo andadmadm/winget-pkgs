@@ -14,7 +14,7 @@ ReleaseDate: 2022-04-11
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.9-win.exe
   InstallerSha256: F57664F4F4223B62C511424D14173CFC1864E16892C09EA94F1ABD0AC6246AC4
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.9-win.exe
   InstallerSha256: F57664F4F4223B62C511424D14173CFC1864E16892C09EA94F1ABD0AC6246AC4
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.9-win32.exe
   InstallerSha256: 963AC82BD1164E2D1E47D44F6473AE37B329DDF0B8B1E46DF34FAE56A345D677
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.9/siyuan-1.9.9-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.9-win32.exe
   InstallerSha256: 963AC82BD1164E2D1E47D44F6473AE37B329DDF0B8B1E46DF34FAE56A345D677
   InstallerSwitches:

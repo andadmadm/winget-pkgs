@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/JannisX11/blockbench/releases/download/v3.9.3/Blockbench_3.9.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JannisX11/blockbench/releases/download/v3.9.3/Blockbench_3.9.3.exe
   InstallerSha256: D39DD45C771D83F46F7F4106C7C0CEAD03073FA00EF5DE8822E6377754D8D3F8
   UpgradeBehavior: install
 ManifestType: installer

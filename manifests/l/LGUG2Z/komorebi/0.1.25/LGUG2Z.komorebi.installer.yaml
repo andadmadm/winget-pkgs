@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{F8B967B5-7E7B-4E3A-895B-B789EC898B54}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LGUG2Z/komorebi/releases/download/v0.1.25/komorebi-0.1.25-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/LGUG2Z/komorebi/releases/download/v0.1.25/komorebi-0.1.25-x86_64.msi
   InstallerSha256: D01D6598D7F01B5D0AABD37AE966C4B17EA94127B562010E413EE1B363C5DFEC
 ManifestType: installer
 ManifestVersion: 1.5.0

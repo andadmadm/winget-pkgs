@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-06-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rao-pics/core/releases/download/v0.6.3/Rao.Pics.Setup.0.6.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rao-pics/core/releases/download/v0.6.3/Rao.Pics.Setup.0.6.3.exe
   InstallerSha256: 670A9C375F8A3ED377D324BA1E2658E43832943F271352E6B5F2DE1852743CC4
   ProductCode: cfea3fbc-f027-54a7-9c71-073236b05f0a
 ManifestType: installer

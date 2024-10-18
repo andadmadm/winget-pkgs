@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /q
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v0.1.22/HTTP.Toolkit-0.1.22.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v0.1.22/HTTP.Toolkit-0.1.22.Setup.exe
   InstallerSha256: 8B76D84FED9E309E4119C1628B39DD44B8F862AB669DFF17D140C3ABFB1FAE8B
 ManifestType: installer
 ManifestVersion: 1.1.0

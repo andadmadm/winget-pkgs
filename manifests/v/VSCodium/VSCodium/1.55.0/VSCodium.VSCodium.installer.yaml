@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/VSCodium/vscodium/releases/download/1.55.0/VSCodiumSetup-x64-1.55.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/VSCodium/vscodium/releases/download/1.55.0/VSCodiumSetup-x64-1.55.0.exe
   InstallerSha256: 6BCA44E60244F279300C25CCA12248D2943BB845D7E4A33CE9179F818B3287D6
 ManifestType: installer
 ManifestVersion: 1.2.0

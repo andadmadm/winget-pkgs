@@ -15,7 +15,7 @@ Installers:
   NestedInstallerType: nullsoft
   NestedInstallerFiles:
   - RelativeFilePath: Pinokio Setup 2.0.4.exe
-  InstallerUrl: https://github.com/pinokiocomputer/pinokio/releases/download/2.0.4/Pinokio-2.0.4-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/pinokiocomputer/pinokio/releases/download/2.0.4/Pinokio-2.0.4-win32.zip
   InstallerSha256: 515CA5C26BC6C11B71873269D563551AF01513FEE3884DAA28CC8AC4816344AC
   ProductCode: f78f0b07-434a-5120-b014-8caf2017cc1a
 ManifestType: installer

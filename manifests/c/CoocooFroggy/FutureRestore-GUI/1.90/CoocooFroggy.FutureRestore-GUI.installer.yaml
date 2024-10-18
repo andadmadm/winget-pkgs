@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/CoocooFroggy/FutureRestore-GUI/releases/download/1.90/FutureRestore-GUI-Windows-1.90.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/CoocooFroggy/FutureRestore-GUI/releases/download/1.90/FutureRestore-GUI-Windows-1.90.msi
   InstallerSha256: DFEA12A673C5A0A81E369419D718FAFC4AC2EDFE25071B3FBB2A274862AF3BB0
   ProductCode: '{663EE77D-BC4A-35D9-B0F2-EA5A816861DC}'
 ManifestType: installer

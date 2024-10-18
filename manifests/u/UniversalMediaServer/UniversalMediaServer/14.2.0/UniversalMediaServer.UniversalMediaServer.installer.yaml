@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-06-30
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/14.2.0/UMS-14.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/14.2.0/UMS-14.2.0.exe
   InstallerSha256: E43F8AA161CAF34755EA7310391FEB8FAE8CCAF127495CA71148607C435C2C3C
 ManifestType: installer
 ManifestVersion: 1.6.0

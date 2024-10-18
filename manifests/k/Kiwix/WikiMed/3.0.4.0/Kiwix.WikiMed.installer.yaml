@@ -10,7 +10,7 @@ InstallerType: appx
 PackageFamilyName: Kiwix.WikiMed_qwjmsdmcnwx12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kiwix/kiwix-js-pwa/releases/download/v3.0.4-E/WikiMed-by-Kiwix-3.0.4-E.appx
+  InstallerUrl: https://gitpoxry.com/https://github.com/kiwix/kiwix-js-pwa/releases/download/v3.0.4-E/WikiMed-by-Kiwix-3.0.4-E.appx
   InstallerSha256: 2802E3E4D5F54F221DCA3E4D1D83864F4869A0EE93B51D227FF703D4FBE469B2
   SignatureSha256: 514FB6E64EC1535B14912381FF4159A797389B8ACF2363A9B0640E7126588659
 ManifestType: installer

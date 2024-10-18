@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/balena-io/etcher/releases/download/v1.5.88/balenaEtcher-Setup-1.5.88.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/balena-io/etcher/releases/download/v1.5.88/balenaEtcher-Setup-1.5.88.exe
   InstallerSha256: 96960036A9B8DCCBEED2F6E0B8950AF9C0EC8F06F3CE3376B72110D38A49A02C
 ManifestType: installer
 ManifestVersion: 1.1.0

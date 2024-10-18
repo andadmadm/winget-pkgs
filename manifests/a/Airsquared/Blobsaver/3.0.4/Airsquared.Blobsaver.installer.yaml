@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/airsquared/blobsaver/releases/download/v3.0.4/blobsaver-3.0.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/airsquared/blobsaver/releases/download/v3.0.4/blobsaver-3.0.4.exe
   InstallerSha256: E374EAA14ED30BDC87D25322F73CD6C146B684A37BF95A3C6D2AA5A8746029F7
 ManifestType: installer
 ManifestVersion: 1.0.0

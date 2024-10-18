@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-08-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ThaUnknown/miru/releases/download/v5.2.14/win-Miru-5.2.14-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ThaUnknown/miru/releases/download/v5.2.14/win-Miru-5.2.14-installer.exe
   InstallerSha256: 9CD20C61CC180A70EAFC9C96EC6A117CD622FDC37332F210317B36E02907885B
 ManifestType: installer
 ManifestVersion: 1.5.0

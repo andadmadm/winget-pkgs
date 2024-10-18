@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{533A37EE-3F1E-5DA5-AFE5-11B7394F1ABC}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_windows_x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_windows_x86_64.msi
   InstallerSha256: 1B8F025E5187E07D3807B46EE38DA46DAE8FFC6F04EE78F22EB9E9618DD570A8
 ManifestType: installer
 ManifestVersion: 1.6.0

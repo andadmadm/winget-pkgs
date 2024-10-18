@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adventuregamestudio/ags/releases/download/v3.6.1.28/AGS-3.6.1.28-P6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/adventuregamestudio/ags/releases/download/v3.6.1.28/AGS-3.6.1.28-P6.exe
   InstallerSha256: 5112E493E2C5BAEA41ABBCA3B382522D4A567EC712C23D4605ABEFB5B826B3B3
 ManifestType: installer
 ManifestVersion: 1.6.0

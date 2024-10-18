@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /Silent
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/TeraTermProject/teraterm/releases/download/v5.0/teraterm-5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TeraTermProject/teraterm/releases/download/v5.0/teraterm-5.0.exe
   InstallerSha256: 43A71423B088D3B510A89502A68A733BACD985AFB63DDAE96AF6A689C39F011B
 ManifestType: installer
 ManifestVersion: 1.6.0

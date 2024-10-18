@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sprout2000/elephicon/releases/download/v2.1.4/Elephicon-2.1.4-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/elephicon/releases/download/v2.1.4/Elephicon-2.1.4-win32-x64-installer.exe
   InstallerSha256: C69F866A5BC8A673688E3C7444E9F16F2917D77CF93733817D0E33770309E9B5
 ManifestType: installer
 ManifestVersion: 1.2.0

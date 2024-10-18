@@ -9,7 +9,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: ./Handle2.exe
-  InstallerUrl: https://github.com/PolarGoose/Handle2/releases/download/v1.0/Handle2.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/PolarGoose/Handle2/releases/download/v1.0/Handle2.zip
   InstallerSha256: 81AA7F3D0D8CCC8891EBAFBE65EE41637B2CA3C86CB64BD2505CCC6D9D4FE103
 ManifestType: installer
 ManifestVersion: 1.6.0

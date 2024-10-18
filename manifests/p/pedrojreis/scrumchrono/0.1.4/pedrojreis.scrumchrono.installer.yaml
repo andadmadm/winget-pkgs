@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ScrumChrono.exe
         PortableCommandAlias: ScrumChrono
-    InstallerUrl: https://github.com/pedrojreis/ScrumChrono/releases/download/v0.1.4/ScrumChrono_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/pedrojreis/ScrumChrono/releases/download/v0.1.4/ScrumChrono_Windows_i386.zip
     InstallerSha256: 6e96d82800508f78781c24e4ecab8a9ea878629c85ec7f1b42b34931a98f67c3
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ScrumChrono.exe
         PortableCommandAlias: ScrumChrono
-    InstallerUrl: https://github.com/pedrojreis/ScrumChrono/releases/download/v0.1.4/ScrumChrono_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/pedrojreis/ScrumChrono/releases/download/v0.1.4/ScrumChrono_Windows_arm64.zip
     InstallerSha256: bbbdc62a9fa7890716f26c82d72277f6d874627424632fa36997edffd35dcdff
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ScrumChrono.exe
         PortableCommandAlias: ScrumChrono
-    InstallerUrl: https://github.com/pedrojreis/ScrumChrono/releases/download/v0.1.4/ScrumChrono_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/pedrojreis/ScrumChrono/releases/download/v0.1.4/ScrumChrono_Windows_x86_64.zip
     InstallerSha256: e81735e98cf04e11a240ebc2ca34ac2e38d0ad24be765db253d72ce2360f9fdf
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

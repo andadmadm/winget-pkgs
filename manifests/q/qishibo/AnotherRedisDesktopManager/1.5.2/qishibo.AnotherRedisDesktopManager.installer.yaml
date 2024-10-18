@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.2/Another-Redis-Desktop-Manager.1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.2/Another-Redis-Desktop-Manager.1.5.2.exe
   InstallerSha256: 472459DC07BF6BF8222E8930B0091F9DEE909B8A44A3C86DB2446447EB7ADBEC
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.2/Another-Redis-Desktop-Manager.1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.2/Another-Redis-Desktop-Manager.1.5.2.exe
   InstallerSha256: 472459DC07BF6BF8222E8930B0091F9DEE909B8A44A3C86DB2446447EB7ADBEC
   InstallerSwitches:
     Custom: /ALLUSERS

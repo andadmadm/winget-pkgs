@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: FileSorter.exe
   PortableCommandAlias: filesorter
 Installers:
-- InstallerUrl: https://github.com/bc3tech/FileSorter/releases/download/0.2.70/Filesorter_0.2.70.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/bc3tech/FileSorter/releases/download/0.2.70/Filesorter_0.2.70.zip
   Architecture: x64
   InstallerSha256: A812CEF180AE0B84F53EA54870692B357BFC0F7C090175F4A35BDE5E5F0E49DE
 ManifestType: installer

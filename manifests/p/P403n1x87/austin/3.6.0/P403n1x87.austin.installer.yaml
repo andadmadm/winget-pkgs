@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2023-10-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/P403n1x87/austin/releases/download/v3.6.0/austin-3.6.0-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/P403n1x87/austin/releases/download/v3.6.0/austin-3.6.0-win64.zip
   InstallerSha256: 1A9389B7F72DF365B93D970361696D253A49E76A312D947B753E4264E0652C0A
 ManifestType: installer
 ManifestVersion: 1.6.0

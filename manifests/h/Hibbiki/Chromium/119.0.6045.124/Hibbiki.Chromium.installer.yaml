@@ -21,14 +21,14 @@ ReleaseDate: 2023-11-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Hibbiki/chromium-win64/releases/download/v119.0.6045.124-r1204232/mini_installer.sync.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Hibbiki/chromium-win64/releases/download/v119.0.6045.124-r1204232/mini_installer.sync.exe
   InstallerSha256: 4E1043BED6413104195BD25B4C8A2F855E9253A0704EF11F517C19B914DB7943
   InstallerSwitches:
     Silent: /silent /install
     SilentWithProgress: /silent /install
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Hibbiki/chromium-win64/releases/download/v119.0.6045.124-r1204232/mini_installer.sync.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Hibbiki/chromium-win64/releases/download/v119.0.6045.124-r1204232/mini_installer.sync.exe
   InstallerSha256: 4E1043BED6413104195BD25B4C8A2F855E9253A0704EF11F517C19B914DB7943
   InstallerSwitches:
     Custom: --system-level

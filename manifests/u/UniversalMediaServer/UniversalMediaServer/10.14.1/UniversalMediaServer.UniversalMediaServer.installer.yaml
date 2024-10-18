@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/10.14.1/UMS-10.14.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/10.14.1/UMS-10.14.1.exe
   InstallerSha256: 98FBD897BA9EA511DF59DF6BABFC39A2132A23FFF5677252732EDE370B601F49
 ManifestType: installer
 ManifestVersion: 1.1.0

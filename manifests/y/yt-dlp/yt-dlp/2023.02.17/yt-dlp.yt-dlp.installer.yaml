@@ -8,10 +8,10 @@ Commands:
 - yt-dlp
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/yt-dlp/yt-dlp/releases/download/2023.02.17/yt-dlp_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yt-dlp/yt-dlp/releases/download/2023.02.17/yt-dlp_x86.exe
   InstallerSha256: 88054B9348972948038188FFA7E87FBB4C3D75A17E9277D8DD9C518570D4340D
 - Architecture: x64
-  InstallerUrl: https://github.com/yt-dlp/yt-dlp/releases/download/2023.02.17/yt-dlp.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yt-dlp/yt-dlp/releases/download/2023.02.17/yt-dlp.exe
   InstallerSha256: 351777B6FA3CF2D375E11B6840995132FD0D91F1B377F8CA8FE4252BC7135E7B
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -11,14 +11,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: hugo.exe
     PortableCommandAlias: hugo
-  InstallerUrl: https://github.com/gohugoio/hugo/releases/download/v0.120.3/hugo_0.120.3_windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gohugoio/hugo/releases/download/v0.120.3/hugo_0.120.3_windows-amd64.zip
   InstallerSha256: 7C3CCCC669D4B53668F3D1115B10E9AC7A7D284A1A927BA76A2A7F3F296C11C7
 - Architecture: arm64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: hugo.exe
     PortableCommandAlias: hugo
-  InstallerUrl: https://github.com/gohugoio/hugo/releases/download/v0.120.3/hugo_0.120.3_windows-arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gohugoio/hugo/releases/download/v0.120.3/hugo_0.120.3_windows-arm64.zip
   InstallerSha256: 2E12586D509F74150D9FB318A21E79E077447EF6117AC69B7A27830B9DC5E95F
 ManifestType: installer
 ManifestVersion: 1.5.0

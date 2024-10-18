@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{13D8FC51-8410-5876-9677-DD0F4D3321FE}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Yidadaa/ChatGPT-Next-Web/releases/download/v2.9.3/ChatGPT.Next.Web_2.9.3_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Yidadaa/ChatGPT-Next-Web/releases/download/v2.9.3/ChatGPT.Next.Web_2.9.3_x64_en-US.msi
   InstallerSha256: D313D8943A03F6C2CB4F41F0AACD441C8A3E584FE7A5E6A33A19B386B3C3BC23
   ProductCode: '{7A88BF31-D1A8-4838-A4D3-FB4C36D05E9E}'
 ManifestType: installer

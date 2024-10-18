@@ -16,7 +16,7 @@ FileExtensions:
 ReleaseDate: 2022-10-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/4ian/GDevelop/releases/download/v5.1.148/GDevelop-5-Setup-5.1.148.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4ian/GDevelop/releases/download/v5.1.148/GDevelop-5-Setup-5.1.148.exe
   InstallerSha256: B8FA41E2A63F8385F8660CF442CCCB42E4C12A42946FB8C2BAF45E119FB5DFBC
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/monabuntur/PYPrime-2.x/releases/download/2.2/PYPrime.2.2.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/monabuntur/PYPrime-2.x/releases/download/2.2/PYPrime.2.2.Installer.exe
   InstallerSha256: 813C403EBB6F65924F6378DA2E873D1AE4B2BC00263EE31C531DBF479C4D8F28
 ManifestType: installer
 ManifestVersion: 1.1.0

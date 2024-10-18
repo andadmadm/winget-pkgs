@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2024-09-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mamba-org/micromamba-releases/releases/download/2.0.0-0/micromamba-win-64
+  InstallerUrl: https://gitpoxry.com/https://github.com/mamba-org/micromamba-releases/releases/download/2.0.0-0/micromamba-win-64
   InstallerSha256: 06AB9B072A9C36F8217EEE6C6684280B07839AB7BE9E8AC49B11D261B6FE7BAA
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Git.Git
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/git-lfs/git-lfs/releases/download/v3.4.0/git-lfs-windows-v3.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-lfs/git-lfs/releases/download/v3.4.0/git-lfs-windows-v3.4.0.exe
   InstallerSha256: AA509667D1D259DD506D52FF131E5889796696508B5EBC345E88FCAE8228C99E
   ProductCode: '{286391DE-F778-44EA-9375-1B21AAA04FF0}_is1'
 ManifestType: installer

@@ -15,13 +15,13 @@ ReleaseDate: 2022-05-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.3.1/BilibiliVideoDownload.Setup.3.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.3.1/BilibiliVideoDownload.Setup.3.3.1.exe
   InstallerSha256: 2E578B8818F5EE762FAC98889247EFFC6238F26FEC0E13EF6F004CC5A64EF77C
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.3.1/BilibiliVideoDownload.Setup.3.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.3.1/BilibiliVideoDownload.Setup.3.3.1.exe
   InstallerSha256: 2E578B8818F5EE762FAC98889247EFFC6238F26FEC0E13EF6F004CC5A64EF77C
   InstallerSwitches:
     Custom: /ALLUSERS

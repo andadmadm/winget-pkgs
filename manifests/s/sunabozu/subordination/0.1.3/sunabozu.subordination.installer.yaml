@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: --silent
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sunabozu/subordination/releases/download/v0.1.3/subordination-Setup-0.1.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sunabozu/subordination/releases/download/v0.1.3/subordination-Setup-0.1.3.exe
   InstallerSha256: 83A196880AC2287FBE3D60F9189157F03AF25C5FB521C404E83EC039E1CC6B80
   Scope: user
 ManifestType: installer

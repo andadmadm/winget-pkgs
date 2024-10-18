@@ -14,13 +14,13 @@ ReleaseDate: 2022-03-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/oxen-io/session-desktop/releases/download/v1.7.9/session-desktop-win-1.7.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oxen-io/session-desktop/releases/download/v1.7.9/session-desktop-win-1.7.9.exe
   InstallerSha256: 7201653A3F0E83BB079C1A145318C887A03C5995735384CE0634E6EC074E9FE5
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/oxen-io/session-desktop/releases/download/v1.7.9/session-desktop-win-1.7.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oxen-io/session-desktop/releases/download/v1.7.9/session-desktop-win-1.7.9.exe
   InstallerSha256: 7201653A3F0E83BB079C1A145318C887A03C5995735384CE0634E6EC074E9FE5
   InstallerSwitches:
     Custom: /ALLUSERS

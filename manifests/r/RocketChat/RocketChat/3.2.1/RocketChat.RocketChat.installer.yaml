@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.2.1/rocketchat-setup-3.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.2.1/rocketchat-setup-3.2.1.exe
   InstallerSha256: 2954CF68334EB404B3F74D16735CEFAD69228CA5542C39EB33E878BC0F023CD5
 ManifestType: installer
 ManifestVersion: 1.1.0

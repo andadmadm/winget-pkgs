@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: RMQA-1.2.0.0-windows\RMQA-1.2.0.0.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/rabbitmq-assistant-release/releases/download/v1.2.0.0/RMQA-1.2.0.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/rabbitmq-assistant-release/releases/download/v1.2.0.0/RMQA-1.2.0.0-windows.zip
   InstallerSha256: EF0A8613056F07C217F0AC2367AA261B00477254355358B9E0602C4E108E957A
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: RMQA-1.2.0.0-windows\RMQA-1.2.0.0.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/rabbitmq-assistant-release/releases/download/v1.2.0.0/RMQA-1.2.0.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/rabbitmq-assistant-release/releases/download/v1.2.0.0/RMQA-1.2.0.0-windows.zip
   InstallerSha256: EF0A8613056F07C217F0AC2367AA261B00477254355358B9E0602C4E108E957A
   InstallerSwitches:
     Custom: /ALLUSERS

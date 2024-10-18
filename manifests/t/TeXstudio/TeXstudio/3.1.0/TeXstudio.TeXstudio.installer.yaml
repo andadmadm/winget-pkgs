@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/texstudio-org/texstudio/releases/download/3.1.0/texstudio-3.1.0-win-qt5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/texstudio-org/texstudio/releases/download/3.1.0/texstudio-3.1.0-win-qt5.exe
   InstallerSha256: 511C232993E47D943ACF7FB0553AC085188A133FE9455F92250F706F32851B17
 ManifestType: installer
 ManifestVersion: 1.0.0

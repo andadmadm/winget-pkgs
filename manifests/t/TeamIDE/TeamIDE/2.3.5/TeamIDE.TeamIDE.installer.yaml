@@ -11,14 +11,14 @@ ReleaseDate: 2023-07-14
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/team-ide/teamide/releases/download/v2.3.5/TeamIDE-win-2.3.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-ide/teamide/releases/download/v2.3.5/TeamIDE-win-2.3.5.exe
   InstallerSha256: D586FD66A8D1A0CFB16CE9B49C8B2D9118CF4601F426949965FBEDA7C0BF21AE
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 172835c5-70dc-55ce-9e45-09ffc162cd57
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/team-ide/teamide/releases/download/v2.3.5/TeamIDE-win-2.3.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-ide/teamide/releases/download/v2.3.5/TeamIDE-win-2.3.5.exe
   InstallerSha256: D586FD66A8D1A0CFB16CE9B49C8B2D9118CF4601F426949965FBEDA7C0BF21AE
   InstallerSwitches:
     Custom: /allusers

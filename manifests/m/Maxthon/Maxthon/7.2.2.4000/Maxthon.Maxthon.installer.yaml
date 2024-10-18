@@ -45,28 +45,28 @@ FileExtensions:
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x86.exe
   InstallerSha256: 94D854B66E70AB9E6624DA67366D6666033F4CC1CE15B5DE6F08E15F2994301E
   InstallerSwitches:
     Custom: --do-not-launch-chrome
   ProductCode: Maxthon
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x86.exe
   InstallerSha256: 94D854B66E70AB9E6624DA67366D6666033F4CC1CE15B5DE6F08E15F2994301E
   InstallerSwitches:
     Custom: --do-not-launch-chrome --system-level
   ProductCode: Maxthon
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x64.exe
   InstallerSha256: 464D9EA5897CEB55CF3614E87F5D770A3D3C58AD0BFE6862507999D59AA80DB3
   InstallerSwitches:
     Custom: --do-not-launch-chrome
   ProductCode: Maxthon
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maxthon/update/releases/download/7.2.2.4000/maxthon_7.2.2.4000_x64.exe
   InstallerSha256: 464D9EA5897CEB55CF3614E87F5D770A3D3C58AD0BFE6862507999D59AA80DB3
   InstallerSwitches:
     Custom: --do-not-launch-chrome --system-level

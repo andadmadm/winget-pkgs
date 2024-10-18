@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/Electron-Cash/Electron-Cash/releases/download/4.2.7/Electron-Cash-4.2.7-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Electron-Cash/Electron-Cash/releases/download/4.2.7/Electron-Cash-4.2.7-setup.exe
   InstallerSha256: 14C198D980A35D8A5B16D39EAD78D17E76A444142D442D512165DC41E87F5B7B
 ManifestType: installer
 ManifestVersion: 1.1.0

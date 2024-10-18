@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.14/GDLauncher-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.14/GDLauncher-win-setup.exe
   InstallerSha256: 57288F9FF154DE94E204C8A6664067FC0637F4C49BC62560E0D39A98A762A3E2
   UpgradeBehavior: install
 ManifestType: installer

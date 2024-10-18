@@ -8,7 +8,7 @@ InstallerType: inno
 ReleaseDate: 2022-12-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kimwalisch/primecount-winget/releases/download/v7.6/Primecount-7.6-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kimwalisch/primecount-winget/releases/download/v7.6/Primecount-7.6-win-x64.exe
   InstallerSha256: 6A7885B6C3F0E1BFD2A96DEDC0888591A27917462B125C8999C04DB9C58147D6
 ManifestType: installer
 ManifestVersion: 1.2.0

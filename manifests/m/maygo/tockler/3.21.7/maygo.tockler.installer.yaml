@@ -15,25 +15,25 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-ia32.exe
   InstallerSha256: F19326DA8CA1C85CA2E95ABC2AD87FEEF0522D53B8B113E85522609AD4710297
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-ia32.exe
   InstallerSha256: F19326DA8CA1C85CA2E95ABC2AD87FEEF0522D53B8B113E85522609AD4710297
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-x64.exe
   InstallerSha256: C4637AF4B5F0D034926BFD4AE8CF898F44950E9EFB4CB67FC05042B7E5B37BD0
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.21.7/tockler-3.21.7-setup-win-x64.exe
   InstallerSha256: C4637AF4B5F0D034926BFD4AE8CF898F44950E9EFB4CB67FC05042B7E5B37BD0
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.57.2/PowerToysSetup-0.57.2-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.57.2/PowerToysSetup-0.57.2-x64.exe
   InstallerSha256: 92D657A001578AEE5B5A3F0748AC7C89C54C870BB86221A5ECFFF1506BD57C41
 ManifestType: installer
 ManifestVersion: 1.1.0

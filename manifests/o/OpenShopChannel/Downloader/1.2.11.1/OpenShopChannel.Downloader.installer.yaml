@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dhtdht020/osc-dl/releases/download/1.2.11.1/oscdl-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dhtdht020/osc-dl/releases/download/1.2.11.1/oscdl-installer.exe
   InstallerSha256: E0B4BFB444CCBE38AE73FE72D3B214A665C2393E056C81C665B8CA0CF532CC1E
 ManifestType: installer
 ManifestVersion: 1.1.0

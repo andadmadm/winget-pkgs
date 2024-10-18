@@ -24,7 +24,7 @@ Dependencies:
 ReleaseDate: 2022-05-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ksnip/ksnip/releases/download/v1.10.0/ksnip-1.10.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ksnip/ksnip/releases/download/v1.10.0/ksnip-1.10.0.msi
   InstallerSha256: 8E23535F7FBEBD3F2A63ADD6490524BC76D4774284938DE8F83A3ED084D6AACA
   ProductCode: '{58A754AF-A0CF-4158-8C38-3165B2519B44}'
 ManifestType: installer

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hackaru-app/hackaru-desktop/releases/download/v1.5.18/hackaru-desktop-v1.5.18.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hackaru-app/hackaru-desktop/releases/download/v1.5.18/hackaru-desktop-v1.5.18.exe
   InstallerSha256: 8B7AF1E516C18A3A4EAFC89F74951E9999A0965515628DD6B7E165449672F66D
 ManifestType: installer
 ManifestVersion: 1.2.0

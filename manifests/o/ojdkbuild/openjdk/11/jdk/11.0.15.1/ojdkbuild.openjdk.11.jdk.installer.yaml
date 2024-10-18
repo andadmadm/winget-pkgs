@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-05-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.15.9-1/java-11-openjdk-11.0.15.9-1.windows.ojdkbuild.x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.15.9-1/java-11-openjdk-11.0.15.9-1.windows.ojdkbuild.x86_64.msi
   InstallerSha256: 344E55F22FC25D42B6C4A090FA3FBA4710202E3062E6737792C277833D844D02
   ProductCode: '{A7B295A2-A639-42E3-8F28-569DDCA11D13}'
 ManifestType: installer

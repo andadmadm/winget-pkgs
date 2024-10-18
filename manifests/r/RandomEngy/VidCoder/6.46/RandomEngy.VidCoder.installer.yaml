@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RandomEngy/VidCoder/releases/download/v6.46/VidCoder-6.46.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RandomEngy/VidCoder/releases/download/v6.46/VidCoder-6.46.exe
   InstallerSha256: 31C674A2AC0FF3A8582770B127465EC5A4B90AE18D1398862496480182E5E49D
 ManifestType: installer
 ManifestVersion: 1.1.0

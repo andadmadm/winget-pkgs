@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: zh-CN
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/qingfeng346/Scorpio-CSharp/releases/download/v2.3.5/sco-2.3.5-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/qingfeng346/Scorpio-CSharp/releases/download/v2.3.5/sco-2.3.5-win-x64.msi
   InstallerSha256: 8479DBAAE2875DB7ECC97A0DEAAD0953AB35EC64D835B1B642AE9FC9BCC322C0
   ProductCode: '{E9C087A7-D1DC-451E-80F5-59B0BCC5ADD2}'
 ManifestType: installer

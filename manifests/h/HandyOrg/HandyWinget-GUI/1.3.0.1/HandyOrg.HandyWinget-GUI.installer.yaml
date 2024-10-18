@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: msi
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/HandyOrg/HandyWinGet/releases/download/v1.3.0.1/Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/HandyOrg/HandyWinGet/releases/download/v1.3.0.1/Setup.msi
   InstallerSha256: DF6578BDE38275D7398B4D09DBC981D2A19FE11596B5A4BA8D4482D0A37CCCDA
   ProductCode: '{CDC1EDAF-DD9C-4995-8CEB-0DF51D42F375}'
 ManifestType: installer

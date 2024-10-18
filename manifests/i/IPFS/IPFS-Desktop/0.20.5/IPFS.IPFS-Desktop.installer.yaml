@@ -14,13 +14,13 @@ ReleaseDate: 2022-04-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.5/IPFS-Desktop-Setup-0.20.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.5/IPFS-Desktop-Setup-0.20.5.exe
   InstallerSha256: 696735852DEB56A24AFE211926E948DBAAD6CA12535020B696D017049C13C51C
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.5/IPFS-Desktop-Setup-0.20.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.5/IPFS-Desktop-Setup-0.20.5.exe
   InstallerSha256: 696735852DEB56A24AFE211926E948DBAAD6CA12535020B696D017049C13C51C
   InstallerSwitches:
     Custom: /ALLUSERS

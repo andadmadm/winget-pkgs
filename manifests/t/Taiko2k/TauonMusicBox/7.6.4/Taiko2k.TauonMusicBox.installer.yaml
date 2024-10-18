@@ -20,7 +20,7 @@ FileExtensions:
 ReleaseDate: 2023-04-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Taiko2k/TauonMusicBox/releases/download/v7.6.4/TauonMusicBox.v7.6.4-1.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Taiko2k/TauonMusicBox/releases/download/v7.6.4/TauonMusicBox.v7.6.4-1.x64.exe
   InstallerSha256: D2AE60F80DE42AD78A260A1BF8FE83309B179FA2AD7ED9F913D14AEF8EF042EF
 ManifestType: installer
 ManifestVersion: 1.2.0

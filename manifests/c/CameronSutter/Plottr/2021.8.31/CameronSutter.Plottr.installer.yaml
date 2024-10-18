@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/cameronsutter/plottr_electron/releases/download/v2021.8.31/Plottr-win-installer-latest.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cameronsutter/plottr_electron/releases/download/v2021.8.31/Plottr-win-installer-latest.exe
   InstallerSha256: 05F17AD463BDEBC415022E7B6C282FF722751874B8FE5283D5ED334CB68F4827
   UpgradeBehavior: install
 ManifestType: installer

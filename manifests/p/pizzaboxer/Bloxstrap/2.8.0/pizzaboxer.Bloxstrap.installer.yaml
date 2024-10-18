@@ -23,7 +23,7 @@ Dependencies:
 ReleaseDate: 2024-10-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bloxstraplabs/bloxstrap/releases/download/v2.8.0/Bloxstrap-v2.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bloxstraplabs/bloxstrap/releases/download/v2.8.0/Bloxstrap-v2.8.0.exe
   InstallerSha256: 90842A4B97876D51D8471D78F6AEA71AAD0A83F30F7440D19FC9DB96490354E2
 ManifestType: installer
 ManifestVersion: 1.5.0

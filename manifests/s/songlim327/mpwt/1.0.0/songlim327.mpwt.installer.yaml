@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: mpwt.exe
         PortableCommandAlias: mpwt
-    InstallerUrl: https://github.com/songlim327/mpwt/releases/download/1.0.0/mpwt_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/songlim327/mpwt/releases/download/1.0.0/mpwt_Windows_x86_64.zip
     InstallerSha256: e9f04e9039a6b16fd588c7453c828458017ca3e3944c6b64f132392f619ef209
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

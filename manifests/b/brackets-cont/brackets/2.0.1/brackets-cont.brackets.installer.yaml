@@ -9,7 +9,7 @@ InstallerSwitches:
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/brackets-cont/brackets/releases/download/v2.0.1/Brackets.2.0.1ml.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brackets-cont/brackets/releases/download/v2.0.1/Brackets.2.0.1ml.exe
   InstallerSha256: EDC5DA4DA36298E4EF752BFBFC72F77F7D778E47C70B73B745AFDBF6B5CB313D
 ManifestType: installer
 ManifestVersion: 1.0.0

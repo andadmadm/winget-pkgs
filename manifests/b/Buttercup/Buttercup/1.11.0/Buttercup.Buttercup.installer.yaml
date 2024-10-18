@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2018-11-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/buttercup/buttercup-desktop/releases/download/v1.11.0/buttercup-desktop-setup-1.11.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buttercup/buttercup-desktop/releases/download/v1.11.0/buttercup-desktop-setup-1.11.0.exe
   InstallerSha256: C6504808D40E7A0ECC539A0745F0D5523EB442388F0B7BA2BF3070AEB4FC3AC3
 ManifestType: installer
 ManifestVersion: 1.2.0

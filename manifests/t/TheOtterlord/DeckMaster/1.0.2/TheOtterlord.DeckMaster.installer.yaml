@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2021-06-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.exe
   InstallerSha256: 4700BD3071CE634E7EA4185AAF99BE9C59829DA4032ADE4896F9FDD51FACD07E
 ManifestType: installer
 ManifestVersion: 1.5.0

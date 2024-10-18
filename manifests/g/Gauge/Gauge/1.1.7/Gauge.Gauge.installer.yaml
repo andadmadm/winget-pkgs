@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/getgauge/gauge/releases/download/v1.1.7/gauge-1.1.7-windows.x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/getgauge/gauge/releases/download/v1.1.7/gauge-1.1.7-windows.x86_64.exe
   InstallerSha256: 15679A17B48FE4F42221A6E116EBFC66E9B0DF879886C32F58DCB7F915AC3D0A
 ManifestType: installer
 ManifestVersion: 1.1.0

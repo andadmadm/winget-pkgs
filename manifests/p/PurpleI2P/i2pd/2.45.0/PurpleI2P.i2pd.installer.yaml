@@ -8,7 +8,7 @@ Scope: machine
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/PurpleI2P/i2pd/releases/download/2.45.0/setup_i2pd_v2.45.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PurpleI2P/i2pd/releases/download/2.45.0/setup_i2pd_v2.45.0.exe
   InstallerSha256: 0A6747548EB20778FCE89F7DA7497CA8A0119A2F06D0ABCF71D773C2C4CD83DD
 ManifestType: installer
 ManifestVersion: 1.2.0

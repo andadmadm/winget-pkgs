@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adamyg/mcwin32/releases/download/4.8.30-229/mcwin32-build229-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/adamyg/mcwin32/releases/download/4.8.30-229/mcwin32-build229-setup.exe
   InstallerSha256: 37B7B5C0B761ADFC419E90CCE4BA26E2328B0604F518179AFF7D685093EA5FFC
 ManifestType: installer
 ManifestVersion: 1.6.0

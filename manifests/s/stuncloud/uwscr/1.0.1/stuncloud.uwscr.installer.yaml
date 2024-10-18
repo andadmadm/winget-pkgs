@@ -17,10 +17,10 @@ FileExtensions:
 ReleaseDate: 2024-05-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/stuncloud/UWSCR/releases/download/1.0.1/UWSCRx64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/stuncloud/UWSCR/releases/download/1.0.1/UWSCRx64.zip
   InstallerSha256: 7FF99E887722603FC5926CD3DB2C58A84AD97F9D7BE6DF125DA13636B71F78D5
 - Architecture: x64
-  InstallerUrl: https://github.com/stuncloud/UWSCR/releases/download/1.0.1/UWSCRx64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/stuncloud/UWSCR/releases/download/1.0.1/UWSCRx64.zip
   InstallerSha256: 7FF99E887722603FC5926CD3DB2C58A84AD97F9D7BE6DF125DA13636B71F78D5
 ManifestType: installer
 ManifestVersion: 1.6.0

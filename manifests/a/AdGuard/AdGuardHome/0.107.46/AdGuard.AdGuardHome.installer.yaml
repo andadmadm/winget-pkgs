@@ -12,13 +12,13 @@ NestedInstallerFiles:
 ReleaseDate: 2024-03-20
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.46/AdGuardHome_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.46/AdGuardHome_windows_386.zip
   InstallerSha256: FBAA18656AA6F009CB7614343C398D01A95AECBB60B9F379EEAD511AB389925B
 - Architecture: x64
-  InstallerUrl: https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.46/AdGuardHome_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.46/AdGuardHome_windows_amd64.zip
   InstallerSha256: E63EA26976F4D158C842FD979AF677BFB67F3820F348C2660603C72C60638625
 - Architecture: arm64
-  InstallerUrl: https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.46/AdGuardHome_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.46/AdGuardHome_windows_arm64.zip
   InstallerSha256: 542A53B750B8E01BF36DE4CD15B3E9F301511EACECD615185BE544456681B0CB
 ManifestType: installer
 ManifestVersion: 1.6.0

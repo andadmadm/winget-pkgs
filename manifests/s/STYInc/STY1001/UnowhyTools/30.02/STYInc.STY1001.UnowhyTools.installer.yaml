@@ -13,7 +13,7 @@ UnsupportedOSArchitectures:
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/STY1001/Unowhy-Tools/releases/download/v30.02/Unowhy.Tools.30.02.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/STY1001/Unowhy-Tools/releases/download/v30.02/Unowhy.Tools.30.02.Installer.exe
   InstallerSha256: C5A2FAB562ED8BEC66BF750F30D999077F24C68DAEE4BD63758F608E7EA6D817
 ManifestType: installer
 ManifestVersion: 1.6.0

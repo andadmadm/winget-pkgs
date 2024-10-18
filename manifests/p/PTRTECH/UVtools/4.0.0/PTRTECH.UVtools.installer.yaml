@@ -72,7 +72,7 @@ FileExtensions:
 ProductCode: '{2BC64EEA-1E10-4B4F-A642-BF0714E51C45}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sn4k3/UVtools/releases/download/v4.0.0/UVtools_win-x64_v4.0.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sn4k3/UVtools/releases/download/v4.0.0/UVtools_win-x64_v4.0.0.msi
   InstallerSha256: 395587B102E937E3FF08C5242483FCA9B8DC7B0F27D9DF8613100BC5023DBAD3
 ManifestType: installer
 ManifestVersion: 1.5.0

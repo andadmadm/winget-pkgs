@@ -16,25 +16,25 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-x64.exe
   InstallerSha256: 518F31C8179807A1833BAB46BF57E751B90B5D84162C0E27E8E7C5F9B1FD5CC8
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-x64.exe
   InstallerSha256: 518F31C8179807A1833BAB46BF57E751B90B5D84162C0E27E8E7C5F9B1FD5CC8
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-arm64.exe
   InstallerSha256: 6C2384AF2432E3A56EAA234859FACD1605DD6F907A72FC039C58E2D2D3CE4C90
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-setup-arm64.exe
   InstallerSha256: 6C2384AF2432E3A56EAA234859FACD1605DD6F907A72FC039C58E2D2D3CE4C90
   InstallerSwitches:
     Custom: /ALLUSERS

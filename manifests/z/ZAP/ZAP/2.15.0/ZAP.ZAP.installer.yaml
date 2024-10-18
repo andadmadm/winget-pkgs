@@ -20,7 +20,7 @@ Dependencies:
   - PackageIdentifier: EclipseAdoptium.Temurin.11.JRE
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zaproxy/zaproxy/releases/download/v2.15.0/ZAP_2_15_0_windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zaproxy/zaproxy/releases/download/v2.15.0/ZAP_2_15_0_windows.exe
   InstallerSha256: 28b348dd65116ddabbbbd98b7f84864a0bb0f98d656266f2f08bfd010ae51c57
 ManifestType: installer
 ManifestVersion: 1.6.0

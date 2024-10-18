@@ -15,7 +15,7 @@ Dependencies:
 ReleaseDate: 2024-03-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/typst/typst/releases/download/v0.11.0/typst-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/typst/typst/releases/download/v0.11.0/typst-x86_64-pc-windows-msvc.zip
   InstallerSha256: BED0F4868B39DCECC29F5E654589CDD1FBB334F11965D1FE704AE29E29AB1A45
 ManifestType: installer
 ManifestVersion: 1.6.0

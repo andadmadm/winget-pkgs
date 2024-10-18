@@ -10,7 +10,7 @@ InstallerSwitches:
 ReleaseDate: 2024-09-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jeffvli/feishin/releases/download/v0.10.0/Feishin-0.10.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jeffvli/feishin/releases/download/v0.10.0/Feishin-0.10.0-win-x64.exe
   InstallerSha256: 803456453AD4B5BCD6FF656C0AE0A24370ECAA6BFDB0D773E001AFD00F6CFB9B
   ProductCode: 5e237764-c1a1-5856-bdf0-e4274e3b5310
 ManifestType: installer

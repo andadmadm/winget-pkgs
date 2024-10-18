@@ -24,7 +24,7 @@ FileExtensions:
 ReleaseDate: 2021-09-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/easymodo/qimgv/releases/download/v1.0.2/qimgv-x64_1.0.2-video.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/easymodo/qimgv/releases/download/v1.0.2/qimgv-x64_1.0.2-video.exe
   InstallerSha256: F351C3D44A62DC1287A8B2A46647C6FBFE38AC94000E9FA454652416D1B60843
   ProductCode: '{5E9AB208-B553-414A-828D-945F642CDBE1}_is1'
 ManifestType: installer

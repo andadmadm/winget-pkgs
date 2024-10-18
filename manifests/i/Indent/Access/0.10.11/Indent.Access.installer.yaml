@@ -10,7 +10,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: access.exe
     PortableCommandAlias: access
-  InstallerUrl: https://github.com/indentapis/access/releases/download/v0.10.11/access_0.10.11_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/indentapis/access/releases/download/v0.10.11/access_0.10.11_windows_amd64.zip
   InstallerSha256: 76A7BE7E7B16BDAE0DE4416DC12EE8A4F72A8BAB263FCB52531EFE719E934E65
 ManifestType: installer
 ManifestVersion: 1.4.0

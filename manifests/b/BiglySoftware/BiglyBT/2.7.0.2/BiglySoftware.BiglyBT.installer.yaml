@@ -24,10 +24,10 @@ Dependencies:
 ProductCode: 0112-2557-8304-7048
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BiglySoftware/BiglyBT/releases/download/v2.7.0.2/GitHub_BiglyBT_Installer64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BiglySoftware/BiglyBT/releases/download/v2.7.0.2/GitHub_BiglyBT_Installer64.exe
   InstallerSha256: 2F3DA1FAD8D5841A913F1E73AA6160B0C3149BC0ACA6D1638A439FF5560A00BE
 - Architecture: x86
-  InstallerUrl: https://github.com/BiglySoftware/BiglyBT/releases/download/v2.7.0.2/GitHub_BiglyBT_Installer32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BiglySoftware/BiglyBT/releases/download/v2.7.0.2/GitHub_BiglyBT_Installer32.exe
   InstallerSha256: D1C37458071696E20813EA6455787061DE825F24C83D0A502CBA1A2193367E7A
 ManifestType: installer
 ManifestVersion: 1.1.0

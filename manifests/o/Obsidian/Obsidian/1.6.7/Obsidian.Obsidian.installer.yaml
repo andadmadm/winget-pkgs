@@ -15,42 +15,42 @@ ReleaseDate: 2024-07-18
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
   InstallerSha256: A5F647BE9200C9CD82FD0BDD8B86FA6A8ED958FBC7E1651EA7E921C282A17F1F
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: bd400747-f0c1-5638-a859-982036102edf
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
   InstallerSha256: A5F647BE9200C9CD82FD0BDD8B86FA6A8ED958FBC7E1651EA7E921C282A17F1F
   InstallerSwitches:
     Custom: /allusers
   ProductCode: bd400747-f0c1-5638-a859-982036102edf
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
   InstallerSha256: A5F647BE9200C9CD82FD0BDD8B86FA6A8ED958FBC7E1651EA7E921C282A17F1F
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: bd400747-f0c1-5638-a859-982036102edf
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
   InstallerSha256: A5F647BE9200C9CD82FD0BDD8B86FA6A8ED958FBC7E1651EA7E921C282A17F1F
   InstallerSwitches:
     Custom: /allusers
   ProductCode: bd400747-f0c1-5638-a859-982036102edf
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
   InstallerSha256: A5F647BE9200C9CD82FD0BDD8B86FA6A8ED958FBC7E1651EA7E921C282A17F1F
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: bd400747-f0c1-5638-a859-982036102edf
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe
   InstallerSha256: A5F647BE9200C9CD82FD0BDD8B86FA6A8ED958FBC7E1651EA7E921C282A17F1F
   InstallerSwitches:
     Custom: /allusers

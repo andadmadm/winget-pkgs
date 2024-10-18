@@ -13,13 +13,13 @@ ReleaseDate: 2022-04-10
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.8.7/LeafView-1.8.7-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.8.7/LeafView-1.8.7-win32-x64-installer.exe
   InstallerSha256: F44C243BCE5A85DE4944AFD51577FC702A712AB65C5D71639037820737F89546
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.8.7/LeafView-1.8.7-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.8.7/LeafView-1.8.7-win32-x64-installer.exe
   InstallerSha256: F44C243BCE5A85DE4944AFD51577FC702A712AB65C5D71639037820737F89546
   InstallerSwitches:
     Custom: /ALLUSERS

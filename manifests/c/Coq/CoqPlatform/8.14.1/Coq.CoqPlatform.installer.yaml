@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/coq/platform/releases/download/2022.01.0/Coq-Platform-8.14.2022.01-installer-windows-i686_signed.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/coq/platform/releases/download/2022.01.0/Coq-Platform-8.14.2022.01-installer-windows-i686_signed.exe
   InstallerSha256: D45A07422C3CA017142515E8CEF7C995C280EBB107326398CCAE02AAC31D563E
   ProductCode: Coq
 ManifestType: installer

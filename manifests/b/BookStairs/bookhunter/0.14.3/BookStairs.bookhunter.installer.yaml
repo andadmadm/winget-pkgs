@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: bookhunter_0.14.3_windows_amd64\bookhunter.exe
     PortableCommandAlias: bookhunter
-  InstallerUrl: https://github.com/bookstairs/bookhunter/releases/download/v0.14.3/bookhunter_0.14.3_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/bookstairs/bookhunter/releases/download/v0.14.3/bookhunter_0.14.3_windows_amd64.zip
   InstallerSha256: BF82850C4F48B9294A1E7859E8535E85A27307D16EA47893BF0262AF07A1F94D
 ManifestType: installer
 ManifestVersion: 1.5.0

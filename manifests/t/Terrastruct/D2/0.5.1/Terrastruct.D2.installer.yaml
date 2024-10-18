@@ -10,7 +10,7 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/terrastruct/d2/releases/download/v0.5.1/d2-v0.5.1-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/terrastruct/d2/releases/download/v0.5.1/d2-v0.5.1-windows-amd64.msi
   InstallerSha256: F01E8DECF78A8DDEABE534BBBFA0E63C10C00F8A33D4D98D53DC42ED9B878B72
   ProductCode: '{3A188370-5FC9-4920-988E-8DAE4BE8597D}'
 ManifestType: installer

@@ -13,7 +13,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kovidgoyal/calibre/releases/download/v7.20.0/calibre-portable-installer-7.20.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kovidgoyal/calibre/releases/download/v7.20.0/calibre-portable-installer-7.20.0.exe
   InstallerSha256: 575BA5319D068F2A05814384EF4C5554713DAA6A243B82646EA6B2DF46C49741
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -19,14 +19,14 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/obsproject/obs-studio/releases/download/27.0.1/OBS-Studio-27.0.1-Full-Installer-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsproject/obs-studio/releases/download/27.0.1/OBS-Studio-27.0.1-Full-Installer-x64.exe
   InstallerSha256: 9345C15E7C6E1544AA20C8310F89D967E0A4B16894D2607669DA017433F18E10
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/obsproject/obs-studio/releases/download/27.0.1/OBS-Studio-27.0.1-Full-Installer-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsproject/obs-studio/releases/download/27.0.1/OBS-Studio-27.0.1-Full-Installer-x86.exe
   InstallerSha256: 4B4607EFC8F014773C1D67ABB25C728D0C6D7F84762650FA55D19F9303C1C562
   UpgradeBehavior: install
 ManifestType: installer

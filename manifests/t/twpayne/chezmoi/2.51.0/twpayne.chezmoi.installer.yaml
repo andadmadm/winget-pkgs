@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: chezmoi.exe
         PortableCommandAlias: chezmoi
-    InstallerUrl: https://github.com/twpayne/chezmoi/releases/download/v2.51.0/chezmoi_2.51.0_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/twpayne/chezmoi/releases/download/v2.51.0/chezmoi_2.51.0_windows_amd64.zip
     InstallerSha256: 0487de24fa4690acf5179041ab35f5d66936824e2074b896a6b4975c95ff89dd
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: chezmoi.exe
         PortableCommandAlias: chezmoi
-    InstallerUrl: https://github.com/twpayne/chezmoi/releases/download/v2.51.0/chezmoi_2.51.0_windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/twpayne/chezmoi/releases/download/v2.51.0/chezmoi_2.51.0_windows_i386.zip
     InstallerSha256: 6a99fed8164fa2a1857fa5647dbdf469d2f574e52793f3379942a047768907ca
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: chezmoi.exe
         PortableCommandAlias: chezmoi
-    InstallerUrl: https://github.com/twpayne/chezmoi/releases/download/v2.51.0/chezmoi_2.51.0_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/twpayne/chezmoi/releases/download/v2.51.0/chezmoi_2.51.0_windows_arm64.zip
     InstallerSha256: e362c95460575831ac037ab9fb9f435f1f578ce52fa60ec0e5e34c2d55211175
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

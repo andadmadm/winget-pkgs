@@ -10,7 +10,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{12EB6E84-F64E-4B2F-BAA1-D78A5C4895BE}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LionelJouin/PiP-Tool/releases/download/1.1.2/PiP-Tool.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/LionelJouin/PiP-Tool/releases/download/1.1.2/PiP-Tool.msi
   InstallerSha256: 1AB3C5EAE280D57BADA02A12BF0F8A6E23871A0D9671DA89B4614AF2B8A2CEF3
   ProductCode: '{2E1B7DFD-2F4D-46BB-B0D8-191179111B6B}'
 ManifestType: installer

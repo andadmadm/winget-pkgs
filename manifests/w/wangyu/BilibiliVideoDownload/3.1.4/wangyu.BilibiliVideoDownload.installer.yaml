@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.4/BilibiliVideoDownload.Setup.3.1.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.4/BilibiliVideoDownload.Setup.3.1.4.exe
   InstallerSha256: 5C002D4EE06EE3AFA579D4FDC843AA73DA7AACBD6416B05D06AEBEE3AD7C2754
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.4/BilibiliVideoDownload.Setup.3.1.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.4/BilibiliVideoDownload.Setup.3.1.4.exe
   InstallerSha256: 5C002D4EE06EE3AFA579D4FDC843AA73DA7AACBD6416B05D06AEBEE3AD7C2754
   InstallerSwitches:
     Custom: /ALLUSERS

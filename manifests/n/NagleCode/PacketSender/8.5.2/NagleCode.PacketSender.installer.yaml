@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-10-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dannagle/PacketSender/releases/download/v8.5.2/PacketSender_x64_v8.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dannagle/PacketSender/releases/download/v8.5.2/PacketSender_x64_v8.5.2.exe
   InstallerSha256: 3CDA2D5CC30A230146296AC9CE0E6AF4F2E644B706D37F64D0033251DD07A352
 ManifestType: installer
 ManifestVersion: 1.5.0

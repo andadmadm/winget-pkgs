@@ -6,7 +6,7 @@ PackageVersion: 2023.2.0
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/opentrack/opentrack/releases/download/opentrack-2023.2.0/opentrack-2023.2.0-win32-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/opentrack/opentrack/releases/download/opentrack-2023.2.0/opentrack-2023.2.0-win32-setup.exe
   InstallerSha256: 5240FF43C84A5C5B25FC8B192C6CA21BD3955A7CCE8383757BA362806AB75C32
   AppsAndFeaturesEntries:
     - DisplayName: opentrack version opentrack-2023.2.0

@@ -14,25 +14,25 @@ ReleaseDate: 2022-09-16
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86.exe
   InstallerSha256: EB5D68AFB3EA4EB950A6DEBD6F8E482F624946AF5F924B8C4B3B2E87B40603B3
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86.exe
   InstallerSha256: EB5D68AFB3EA4EB950A6DEBD6F8E482F624946AF5F924B8C4B3B2E87B40603B3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86_64.exe
   InstallerSha256: 051BCACF6264AF4EFA63AEFC04AE2DF83857E101B1184949FB8956DE55C4A75A
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/windows-builds/releases/download/5.0.0-1/streamlink-5.0.0-1-py310-x86_64.exe
   InstallerSha256: 051BCACF6264AF4EFA63AEFC04AE2DF83857E101B1184949FB8956DE55C4A75A
   InstallerSwitches:
     Custom: /CURRENTUSER

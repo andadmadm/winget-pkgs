@@ -13,13 +13,13 @@ ReleaseDate: 2024-01-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.33.0/IPFS-Desktop-Setup-0.33.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.33.0/IPFS-Desktop-Setup-0.33.0.exe
   InstallerSha256: 460093AAE25CE5287D7E22CB8E2A81C876C64F87A403AED95D822DE76263D7BC
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.33.0/IPFS-Desktop-Setup-0.33.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.33.0/IPFS-Desktop-Setup-0.33.0.exe
   InstallerSha256: 460093AAE25CE5287D7E22CB8E2A81C876C64F87A403AED95D822DE76263D7BC
   InstallerSwitches:
     Custom: /ALLUSERS

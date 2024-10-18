@@ -14,15 +14,15 @@ AppsAndFeaturesEntries:
   ProductCode: 774f2290-3906-58eb-baae-35b0dc01c31e
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.129.0/standard-notes-3.129.0-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.129.0/standard-notes-3.129.0-win-ia32.exe
   InstallerSha256: E552E29A7B81E8EBFAA18A57AE62C4A315462229E117F163619DA809CB110AC8
   ProductCode: 774f2290-3906-58eb-baae-35b0dc01c31e
 - Architecture: x64
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.129.0/standard-notes-3.129.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.129.0/standard-notes-3.129.0-win-x64.exe
   InstallerSha256: 6C6919CC17B006132723A55C87297C5F59681EC52441BB1B08BCCF0A35B329F3
   ProductCode: 774f2290-3906-58eb-baae-35b0dc01c31e
 - Architecture: neutral
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.129.0/standard-notes-3.129.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.129.0/standard-notes-3.129.0-win.exe
   InstallerSha256: 2D18510D1D1BDDC39C86011DF59D3FB28A6BF91C5400B86D7B7D337813323D57
   ProductCode: 774f2290-3906-58eb-baae-35b0dc01c31e
 ManifestType: installer

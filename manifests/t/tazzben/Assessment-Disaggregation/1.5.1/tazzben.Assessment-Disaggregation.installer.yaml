@@ -17,7 +17,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.5.1/Assessment.Disaggregation-1.5.1.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.5.1/Assessment.Disaggregation-1.5.1.Setup.exe
   InstallerSha256: 8B02782EBC53E492BF122AC6F1CAC9FC29B6AE511777F8BF2C435D2C4BB0408A
 ManifestType: installer
 ManifestVersion: 1.0.0

@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/Maximus5/ConEmu/releases/download/v21.06.27/ConEmuSetup.210627.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Maximus5/ConEmu/releases/download/v21.06.27/ConEmuSetup.210627.exe
   InstallerSha256: 50ABB0A141BB33542FEDC228F5E910DB1BC880C217F603CCA358206AD4893D38
   InstallerSwitches:
     Silent: /p:x64 /quiet /norestart
@@ -24,7 +24,7 @@ Installers:
   Architecture: x86
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/Maximus5/ConEmu/releases/download/v21.06.27/ConEmuSetup.210627.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Maximus5/ConEmu/releases/download/v21.06.27/ConEmuSetup.210627.exe
   InstallerSha256: 50ABB0A141BB33542FEDC228F5E910DB1BC880C217F603CCA358206AD4893D38
   InstallerSwitches:
     Silent: /p:x86 /quiet /norestart

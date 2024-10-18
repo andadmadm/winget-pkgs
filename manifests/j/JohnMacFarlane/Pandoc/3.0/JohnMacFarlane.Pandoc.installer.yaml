@@ -15,14 +15,14 @@ ReleaseDate: 2023-01-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/3.0/pandoc-3.0-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/3.0/pandoc-3.0-windows-x86_64.msi
   InstallerSha256: 49BDFE386B192AB4093B87902355E3667F74780E19E3530FCE57799AAA6976D9
   InstallerSwitches:
     Custom: ALLUSERS=2
   ProductCode: '{589E413F-EB0D-419E-AF42-39B79A33EC37}'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/3.0/pandoc-3.0-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/3.0/pandoc-3.0-windows-x86_64.msi
   InstallerSha256: 49BDFE386B192AB4093B87902355E3667F74780E19E3530FCE57799AAA6976D9
   InstallerSwitches:
     Custom: ALLUSERS=1

@@ -13,7 +13,7 @@ InstallerSwitches:
 ReleaseDate: 2023-09-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/cli-v2023.9.0/bw-windows-2023.9.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/cli-v2023.9.0/bw-windows-2023.9.0.zip
   InstallerSha256: B529E15E94D1365799BE9567CCD742A84A038F71CFC2125741854FCA5AEDCB4B
 ManifestType: installer
 ManifestVersion: 1.5.0

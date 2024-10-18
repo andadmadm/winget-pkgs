@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ComtradeChart-1.0.0.7-windows\ComtradeChart.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/comtrade-chart-assistant/releases/download/v1.0.0.7/ComtradeChart-1.0.0.7-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/comtrade-chart-assistant/releases/download/v1.0.0.7/ComtradeChart-1.0.0.7-windows.zip
   InstallerSha256: DE3C6D398A8E66908CA6AB75FAAD406456762F4EA21227E225297957F2497568
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ComtradeChart-1.0.0.7-windows\ComtradeChart.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/comtrade-chart-assistant/releases/download/v1.0.0.7/ComtradeChart-1.0.0.7-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/comtrade-chart-assistant/releases/download/v1.0.0.7/ComtradeChart-1.0.0.7-windows.zip
   InstallerSha256: DE3C6D398A8E66908CA6AB75FAAD406456762F4EA21227E225297957F2497568
   InstallerSwitches:
     Custom: /ALLUSERS

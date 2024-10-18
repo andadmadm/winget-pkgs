@@ -13,7 +13,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles(x86)%\cloudflared'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cloudflare/cloudflared/releases/download/2024.8.2/cloudflared-windows-386.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cloudflare/cloudflared/releases/download/2024.8.2/cloudflared-windows-386.msi
   InstallerSha256: 7B5A472E0C4D74AE704F202301F27AB7FC775379CFFE561B999166FA33B9C786
   ProductCode: '{8E3BB85F-D143-4C9A-984C-FE3AECDB5D9C}'
   AppsAndFeaturesEntries:
@@ -22,7 +22,7 @@ Installers:
     ProductCode: '{8E3BB85F-D143-4C9A-984C-FE3AECDB5D9C}'
     UpgradeCode: '{23f90fdd-9328-47ea-ab52-5380855a4b12}'
 - Architecture: x64
-  InstallerUrl: https://github.com/cloudflare/cloudflared/releases/download/2024.8.2/cloudflared-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cloudflare/cloudflared/releases/download/2024.8.2/cloudflared-windows-amd64.msi
   InstallerSha256: EA37A8D58B568B4DF2C369F3CEDD9D90371DEFB21D8100A046C9B1E9E2525200
   ProductCode: '{7AF7C26F-D865-4B65-B3E1-B3DCA869BA72}'
   AppsAndFeaturesEntries:

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/cryptomator/cryptomator/releases/download/1.9.3/Cryptomator-1.9.3-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cryptomator/cryptomator/releases/download/1.9.3/Cryptomator-1.9.3-x64.msi
   InstallerSha256: 769310D33EDAD3A4C5DA5A8F0C00A2A59A536B47307D5E708C08D535C06FDD59
   ProductCode: '{C9F46F88-1113-3734-89BC-EF9758DA3065}'
 ManifestType: installer

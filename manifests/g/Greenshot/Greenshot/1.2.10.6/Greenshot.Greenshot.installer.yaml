@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
   ProductCode: Greenshot_is1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe
   InstallerSha256: 1687311B4E7A3720BE20490E8ED6CC772A32336A7BED8896E475B8EC616C6B81
 ManifestType: installer
 ManifestVersion: 1.6.0

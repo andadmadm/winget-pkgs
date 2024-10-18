@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sindresorhus/caprine/releases/download/v2.54.0/Caprine-Setup-2.54.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sindresorhus/caprine/releases/download/v2.54.0/Caprine-Setup-2.54.0.exe
   InstallerSha256: DC12ABD1AB7F751188B405FD35D24B3B6405943F27B41BADFF0941015D4CD1A2
 ManifestType: installer
 ManifestVersion: 1.1.0

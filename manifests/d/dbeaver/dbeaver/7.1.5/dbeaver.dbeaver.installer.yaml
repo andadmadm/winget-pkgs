@@ -16,13 +16,13 @@ ReleaseDate: 2020-08-16
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/7.1.5/dbeaver-ce-7.1.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/7.1.5/dbeaver-ce-7.1.5-x86_64-setup.exe
   InstallerSha256: 822966A04F6CD50ADC492BFE1C248B384E6E60FA51D2BA4826F9939358E3B47B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/7.1.5/dbeaver-ce-7.1.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/7.1.5/dbeaver-ce-7.1.5-x86_64-setup.exe
   InstallerSha256: 822966A04F6CD50ADC492BFE1C248B384E6E60FA51D2BA4826F9939358E3B47B
   InstallerSwitches:
     Custom: /ALLUSERS

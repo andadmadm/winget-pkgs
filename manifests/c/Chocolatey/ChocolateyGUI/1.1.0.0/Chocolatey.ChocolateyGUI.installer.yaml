@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chocolatey/ChocolateyGUI/releases/download/1.1.0/ChocolateyGUI.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/chocolatey/ChocolateyGUI/releases/download/1.1.0/ChocolateyGUI.msi
   InstallerSha256: F9D8438928B99EC935E026E3B978966159BA9796E49586CE41235A1D0D6B206E
   ProductCode: '{371FB148-3A23-4CD3-994C-D7E6B1D173CF}'
 ManifestType: installer

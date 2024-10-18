@@ -4,7 +4,7 @@
 PackageIdentifier: evansmurithi.cloak
 PackageVersion: 0.2.0
 Installers:
-- InstallerUrl: https://github.com/evansmurithi/cloak/releases/download/v0.2.0/cloak-v0.2.0-x86_64-pc-windows-msvc.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/evansmurithi/cloak/releases/download/v0.2.0/cloak-v0.2.0-x86_64-pc-windows-msvc.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -15,7 +15,7 @@ Installers:
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
-- InstallerUrl: https://github.com/evansmurithi/cloak/releases/download/v0.2.0/cloak-v0.2.0-i686-pc-windows-msvc.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/evansmurithi/cloak/releases/download/v0.2.0/cloak-v0.2.0-i686-pc-windows-msvc.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

@@ -11,7 +11,7 @@ Dependencies:
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/Orange-OpenSource/hurl/releases/download/4.1.0/hurl-4.1.0-x86_64-pc-windows-msvc-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Orange-OpenSource/hurl/releases/download/4.1.0/hurl-4.1.0-x86_64-pc-windows-msvc-installer.exe
   InstallerSha256: 896B38711CA43E2DCFE3F5A5E96954E62A76F78C5700E846BD367F6696B07317
 ManifestType: installer
 ManifestVersion: 1.1.0

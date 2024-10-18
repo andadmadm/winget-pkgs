@@ -20,7 +20,7 @@ Commands:
 ReleaseDate: 2022-04-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/volta-cli/volta/releases/download/v1.0.7/volta-1.0.7-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/volta-cli/volta/releases/download/v1.0.7/volta-1.0.7-windows-x86_64.msi
   InstallerSha256: 5DF252F4EC9B83958C6541EA8383F361A64384CAD1608F5DF0EC4858548B3A72
   ProductCode: '{F246222E-0BC1-4BD5-AF20-1809F7AF6B0D}'
 ManifestType: installer

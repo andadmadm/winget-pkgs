@@ -24,10 +24,10 @@ FileExtensions:
 ReleaseDate: 2022-02-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/atom/atom/releases/download/v1.59.0/AtomSetup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.59.0/AtomSetup-x64.exe
   InstallerSha256: 292261C52DB3C70A0C46A1D988F5FE923AF0E237A05E52F27D868B0E4F639C15
 - Architecture: x86
-  InstallerUrl: https://github.com/atom/atom/releases/download/v1.59.0/AtomSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.59.0/AtomSetup.exe
   InstallerSha256: 3FB0061D30ED390AC5A67E4DC46D1EECD573D81F27472F00EBCB01F9BDAF3FEF
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -11,14 +11,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: scrcpy-win64-v1.25\scrcpy.exe
     PortableCommandAlias: scrcpy
-  InstallerUrl: https://github.com/Genymobile/scrcpy/releases/download/v1.25/scrcpy-win64-v1.25.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Genymobile/scrcpy/releases/download/v1.25/scrcpy-win64-v1.25.zip
   InstallerSha256: DB65125E9C65ACD00359EFB7CEA9C05F63CC7CCD5833000CD243CC92F5053028
 - Architecture: x86
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: scrcpy-win32-v1.25\scrcpy.exe
     PortableCommandAlias: scrcpy
-  InstallerUrl: https://github.com/Genymobile/scrcpy/releases/download/v1.25/scrcpy-win32-v1.25.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Genymobile/scrcpy/releases/download/v1.25/scrcpy-win32-v1.25.zip
   InstallerSha256: D9422CAFECB28D9DF9DD8490B492BC2E573F8962854163294BA85B239BECC0A3
 ManifestType: installer
 ManifestVersion: 1.4.0

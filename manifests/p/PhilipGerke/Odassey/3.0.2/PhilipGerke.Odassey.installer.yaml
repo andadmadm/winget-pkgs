@@ -16,7 +16,7 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2022-06-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pgerke/get-odassey/releases/download/v3.0.2/Odassey_win_x64_v3.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pgerke/get-odassey/releases/download/v3.0.2/Odassey_win_x64_v3.0.2.exe
   InstallerSha256: 5688E6A5A85B30B26E888911819916819A64B78D83C4077DCCC379277045E877
 ManifestType: installer
 ManifestVersion: 1.1.0

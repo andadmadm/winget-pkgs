@@ -5,7 +5,7 @@ PackageIdentifier: RCharan.wiki
 PackageVersion: "1.0"
 InstallerType: inno
 Installers:
-- InstallerUrl: https://github.com/charanravi-online/wiki/releases/download/v1.0/install_wiki.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/charanravi-online/wiki/releases/download/v1.0/install_wiki.exe
   Architecture: x64
   InstallerSha256: D193EF108263CDAE6BEAAE1CB0A4E13930724F8666DBE84E23F9ACE4CE3679F3
 ManifestType: installer

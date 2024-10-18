@@ -21,14 +21,14 @@ ReleaseDate: 2022-06-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/8.1.0/Vieb.Setup.8.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/8.1.0/Vieb.Setup.8.1.0.exe
   InstallerSha256: F4CEBE0FEDF8B25DAC4DB1A6B69A7452F2ED5B22DAE43C72CA7C3EDAB9882212
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: f3bf7f3e-61bc-51e0-bf16-52396b15579a
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/8.1.0/Vieb.Setup.8.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/8.1.0/Vieb.Setup.8.1.0.exe
   InstallerSha256: F4CEBE0FEDF8B25DAC4DB1A6B69A7452F2ED5B22DAE43C72CA7C3EDAB9882212
   InstallerSwitches:
     Custom: /allusers

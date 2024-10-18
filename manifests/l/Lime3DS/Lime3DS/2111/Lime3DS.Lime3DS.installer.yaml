@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2024-04-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Lime3DS/Lime3DS/releases/download/2111/lime3ds-2111-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lime3DS/Lime3DS/releases/download/2111/lime3ds-2111-windows-msvc.zip
   InstallerSha256: AE514F7C969590E9236627551FC09D15C052DBC5F7B72D6D98F81F3C5C6A2FAD
 ManifestType: installer
 ManifestVersion: 1.6.0

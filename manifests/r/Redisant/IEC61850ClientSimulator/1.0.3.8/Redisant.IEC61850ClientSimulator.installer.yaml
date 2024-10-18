@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC61850ClientSimulator-1.0.3.8-windows\IEC61850ClientSimulator.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/iec61850-client-simulator-release/releases/download/v1.0.3.8/IEC61850ClientSimulator-1.0.3.8-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/iec61850-client-simulator-release/releases/download/v1.0.3.8/IEC61850ClientSimulator-1.0.3.8-windows.zip
   InstallerSha256: 9F4135DF6874360853AE621E82C20404670E3B163E796E2AA59DE93B8D661607
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC61850ClientSimulator-1.0.3.8-windows\IEC61850ClientSimulator.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/iec61850-client-simulator-release/releases/download/v1.0.3.8/IEC61850ClientSimulator-1.0.3.8-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/iec61850-client-simulator-release/releases/download/v1.0.3.8/IEC61850ClientSimulator-1.0.3.8-windows.zip
   InstallerSha256: 9F4135DF6874360853AE621E82C20404670E3B163E796E2AA59DE93B8D661607
   InstallerSwitches:
     Custom: /ALLUSERS

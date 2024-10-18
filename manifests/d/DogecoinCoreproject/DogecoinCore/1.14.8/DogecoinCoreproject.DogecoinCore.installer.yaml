@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-08-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dogecoin/dogecoin/releases/download/v1.14.8/dogecoin-1.14.8-win64-setup-unsigned.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dogecoin/dogecoin/releases/download/v1.14.8/dogecoin-1.14.8-win64-setup-unsigned.exe
   InstallerSha256: B3761466A402CBE1D1CE7265697EEA24FCD37799A81AEFC02D395CA80D3A00FB
 ManifestType: installer
 ManifestVersion: 1.6.0

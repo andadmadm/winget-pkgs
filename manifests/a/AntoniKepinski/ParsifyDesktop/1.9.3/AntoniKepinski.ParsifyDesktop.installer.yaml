@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-03-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/parsify-dev/desktop/releases/download/v1.9.3/Parsify-Desktop-1.9.3-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/parsify-dev/desktop/releases/download/v1.9.3/Parsify-Desktop-1.9.3-win-x64.exe
   InstallerSha256: 4F4DFCC75A8F3CD298D4B9AE362D9AC2A633D69F29912CD4BA4EB78C0A03EA3F
 ManifestType: installer
 ManifestVersion: 1.1.0

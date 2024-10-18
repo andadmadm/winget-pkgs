@@ -22,7 +22,7 @@ NestedInstallerFiles:
   PortableCommandAlias: wsl-perf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/sirredbeard/wslinternals/releases/download/0.0.14/0.0.14.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sirredbeard/wslinternals/releases/download/0.0.14/0.0.14.zip
   InstallerSha256: 6E667966954FBF670A340F213970D2CBDFFC58061B85A66833F9540DABCE8069
 ManifestType: installer
 ManifestVersion: 1.5.0

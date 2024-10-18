@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{1FD89884-C606-4304-B9F0-F82C47FF7676}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Suwayomi/Suwayomi-VaadinUI/releases/download/v1.12.0/Tachidesk.Vaadin.UI-1.12.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Suwayomi/Suwayomi-VaadinUI/releases/download/v1.12.0/Tachidesk.Vaadin.UI-1.12.0.msi
   InstallerSha256: CC8D7B5163AB60EB401D94B9489533B9F97AB32FA37DD61EDE8FF4B013AC7AFB
 ManifestType: installer
 ManifestVersion: 1.5.0

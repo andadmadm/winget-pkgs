@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2023-09-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Vencord/Vesktop/releases/download/v0.3.3/Vesktop-Setup-0.3.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Vencord/Vesktop/releases/download/v0.3.3/Vesktop-Setup-0.3.3.exe
   InstallerSha256: 948EA481D57CE0B847DE8DD4F5D36459934234463DFBAA16F560EE129AD4D6E9
 ManifestType: installer
 ManifestVersion: 1.5.0

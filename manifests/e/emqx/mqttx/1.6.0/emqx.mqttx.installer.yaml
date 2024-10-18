@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/emqx/MQTTX/releases/download/v1.6.0/MQTTX.Setup.1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/emqx/MQTTX/releases/download/v1.6.0/MQTTX.Setup.1.6.0.exe
   InstallerSha256: 3ACB81A6536D9EEC992CA00B86E450EB55103152C5FB89C0AFB7E6FA4153968D
   UpgradeBehavior: install
 ManifestType: installer

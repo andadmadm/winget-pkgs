@@ -6,7 +6,7 @@ PackageVersion: 3.1.1
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/calendulish/steam-tools-ng/releases/download/v3.1.1/steam-tools-ng-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/calendulish/steam-tools-ng/releases/download/v3.1.1/steam-tools-ng-setup.exe
   InstallerSha256: 2FE0721F0DE466725C2218050CBAAA73D568898A0DBFF3D44FA09FA1476CBE3E
 ManifestType: installer
 ManifestVersion: 1.4.0

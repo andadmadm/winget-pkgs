@@ -22,7 +22,7 @@ FileExtensions:
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/NuclearDevelopers/Dichromate/releases/download/108.0.5359.99/dichromate-108.0.5359.99.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/NuclearDevelopers/Dichromate/releases/download/108.0.5359.99/dichromate-108.0.5359.99.exe
   InstallerSha256: 9C623AA222ADA3A495FD88CB8C08691822DA409494BC168E7CB9EF62DA5D3750
 ManifestType: installer
 ManifestVersion: 1.2.0

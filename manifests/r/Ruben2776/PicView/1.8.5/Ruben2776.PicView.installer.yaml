@@ -61,7 +61,7 @@ ReleaseDate: 2023-05-30
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/Ruben2776/PicView/releases/download/1.8.5/PicView-1.8.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ruben2776/PicView/releases/download/1.8.5/PicView-1.8.5.exe
   InstallerSha256: A83C88A85D69FF81FE58F376CED8AE188A629875DE63CCFBDC1486826F6070CA
   ProductCode: '{F102E394-0FA6-4AEA-826D-9FE699115BAB}_is1'
 ManifestType: installer

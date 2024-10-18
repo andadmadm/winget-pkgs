@@ -9,7 +9,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/Azure/azqr/releases/download/v.0.18.0/azqr-windows-latest-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azqr/releases/download/v.0.18.0/azqr-windows-latest-amd64.exe
   InstallerSha256: D2BE9CAA07A89A839B028D5070E60DA17ACFEA73A86989F806233080D1DEE38D
 ManifestType: installer
 ManifestVersion: 1.4.0

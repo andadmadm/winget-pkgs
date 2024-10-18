@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{962A3AC1-1A1C-3C55-BA7D-7E8CBE63BD5E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AlchemistSimulator/Alchemist/releases/download/34.0.16/alchemist-34.0.16.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/AlchemistSimulator/Alchemist/releases/download/34.0.16/alchemist-34.0.16.msi
   InstallerSha256: 8B6859656966EEBA43BB79D65881D40D40DC87C6E292D7B223806E82B1A4FE44
 ManifestType: installer
 ManifestVersion: 1.6.0

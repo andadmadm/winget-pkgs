@@ -9,7 +9,7 @@ Commands:
 - trh
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GDATASoftwareAG/TypeRefHasher/releases/download/v1.0.0/trh.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/GDATASoftwareAG/TypeRefHasher/releases/download/v1.0.0/trh.msi
   InstallerSha256: E308F5199F4F4972252784DD6B8A39CB542A566B1B75E040F130388E177F5E0B
   ProductCode: '{36DF3DA8-5511-45F0-B4C2-A63BD5B16041}'
 ManifestType: installer

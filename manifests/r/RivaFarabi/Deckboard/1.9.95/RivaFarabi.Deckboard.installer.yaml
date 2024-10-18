@@ -15,7 +15,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/rivafarabi/deckboard/releases/download/v1.9.95/Deckboard-Setup-1.9.95.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rivafarabi/deckboard/releases/download/v1.9.95/Deckboard-Setup-1.9.95.exe
   InstallerSha256: 046A292993C0CC745E7FCBF415B43CE633C263E2F4AD16EB877C7ADB7E427ECE
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/rivafarabi/deckboard/releases/download/v1.9.95/Deckboard-Setup-1.9.95.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rivafarabi/deckboard/releases/download/v1.9.95/Deckboard-Setup-1.9.95.exe
   InstallerSha256: 046A292993C0CC745E7FCBF415B43CE633C263E2F4AD16EB877C7ADB7E427ECE
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

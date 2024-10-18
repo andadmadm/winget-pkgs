@@ -49,7 +49,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: msi
-    InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/8.2.6.6/ImageGlass_8.2.6.6_x64.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/8.2.6.6/ImageGlass_8.2.6.6_x64.msi
     InstallerSha256: e65de109ef388e730b553b0fe8eb495d696badd25e8ef59b692ef67046e653ca
     ProductCode: "{599251C9-761B-44BC-BB7E-3F383760C563}"
     Scope: machine
@@ -57,7 +57,7 @@ Installers:
     UpgradeBehavior: install
   - Architecture: x86
     InstallerType: msi
-    InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/8.2.6.6/ImageGlass_8.2.6.6_x86.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/8.2.6.6/ImageGlass_8.2.6.6_x86.msi
     InstallerSha256: ade1cc70fc29c2a94a634a5445fc802263eaf621fcdbb922cd0c46ab3db7d7af
     ProductCode: "{2A8F094E-4952-4A13-AA4D-BEE12528A0DB}"
     Scope: machine

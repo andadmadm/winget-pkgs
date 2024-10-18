@@ -18,7 +18,7 @@ Dependencies:
 ProductCode: Wasmer_is1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/wasmerio/wasmer/releases/download/v4.3.7/wasmer-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/wasmerio/wasmer/releases/download/v4.3.7/wasmer-windows.exe
   InstallerSha256: 45DD377C2ED427F44A131056697BBE36C00760639E26496B6AA0A747111A2FC8
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -17,7 +17,7 @@ FileExtensions:
 ReleaseDate: 2023-04-06
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/webrecorder/replayweb.page/releases/download/v1.7.14/ReplayWeb.page-1.7.14.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/webrecorder/replayweb.page/releases/download/v1.7.14/ReplayWeb.page-1.7.14.exe
   InstallerSha256: 1E22FE0E98F6663F9D8E9DBFE9A900FF71D12102ADD9C62981BFB352148DD9AE
 ManifestType: installer
 ManifestVersion: 1.2.0

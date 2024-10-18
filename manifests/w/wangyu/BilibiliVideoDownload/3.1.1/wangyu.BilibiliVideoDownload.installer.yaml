@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.1/BilibiliVideoDownload.Setup.3.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.1/BilibiliVideoDownload.Setup.3.1.1.exe
   InstallerSha256: 37C6FE573080984F74BE7A70D1CA1667E8A7A536C5023DCE8252F324F4A61995
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.1/BilibiliVideoDownload.Setup.3.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.1/BilibiliVideoDownload.Setup.3.1.1.exe
   InstallerSha256: 37C6FE573080984F74BE7A70D1CA1667E8A7A536C5023DCE8252F324F4A61995
   InstallerSwitches:
     Custom: /ALLUSERS

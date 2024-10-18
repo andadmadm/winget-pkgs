@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2021-10-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/crow-translate/crow-translate/releases/download/2.9.1/crow-translate-2.9.1-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crow-translate/crow-translate/releases/download/2.9.1/crow-translate-2.9.1-win64.exe
   InstallerSha256: AB667E0E346D64BE058FA160FF67F18D402AD9828974BE1266FC5907DB0B3913
   ProductCode: Crow Translate
 ManifestType: installer

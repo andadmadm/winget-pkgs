@@ -15,14 +15,14 @@ ReleaseDate: 2022-08-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-windows-x86_64.msi
   InstallerSha256: 7D543E03466EB618269AE9E49F1794DDD73860DA180F3ACEA53B0F5F97350259
   InstallerSwitches:
     Custom: ALLUSERS=2
   ProductCode: '{366AC84A-6A67-4F5B-8B30-8948359615D8}'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-windows-x86_64.msi
   InstallerSha256: 7D543E03466EB618269AE9E49F1794DDD73860DA180F3ACEA53B0F5F97350259
   InstallerSwitches:
     Custom: ALLUSERS=1

@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-07-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/canonical/multipass/releases/download/v1.10.1/multipass-1.10.1%2Bwin-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/canonical/multipass/releases/download/v1.10.1/multipass-1.10.1%2Bwin-win64.exe
   InstallerSha256: 171E5EAF350816414079FC26FBF1A54013443349B3B27E1BBBE273F0DA983CCC
 ManifestType: installer
 ManifestVersion: 1.2.0

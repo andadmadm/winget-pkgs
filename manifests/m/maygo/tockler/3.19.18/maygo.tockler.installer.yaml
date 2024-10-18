@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-x64.exe
   InstallerSha256: 7E07766AB30B7DF82557F52C155E4C6A8E90D87D9EB4BA831694F385576619D0
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -23,7 +23,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-x64.exe
   InstallerSha256: 7E07766AB30B7DF82557F52C155E4C6A8E90D87D9EB4BA831694F385576619D0
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -32,7 +32,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-ia32.exe
   InstallerSha256: 904DB4BE0EBC84B311432F483647400607E955D338BB1373EFE1B69B2AD896A3
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -41,7 +41,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MayGo/tockler/releases/download/v3.19.18/tockler-3.19.18-setup-win-ia32.exe
   InstallerSha256: 904DB4BE0EBC84B311432F483647400607E955D338BB1373EFE1B69B2AD896A3
   InstallerSwitches:
     Custom: /ALLUSERS

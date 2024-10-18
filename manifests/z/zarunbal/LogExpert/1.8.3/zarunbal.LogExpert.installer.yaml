@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: logexpert
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/zarunbal/LogExpert/releases/download/v1.8.3/LogExpert.1.8.3.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/zarunbal/LogExpert/releases/download/v1.8.3/LogExpert.1.8.3.zip
   InstallerSha256: EC1F733269E7ED4F5E7776B64484665950E3BF2855601AC900D82B86A8733930
 ManifestType: installer
 ManifestVersion: 1.6.0

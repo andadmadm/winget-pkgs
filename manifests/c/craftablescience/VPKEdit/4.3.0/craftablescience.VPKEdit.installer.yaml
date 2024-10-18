@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2024-09-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/craftablescience/VPKEdit/releases/download/v4.3.0/VPKEdit-Windows-Installer-msvc-Release.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/craftablescience/VPKEdit/releases/download/v4.3.0/VPKEdit-Windows-Installer-msvc-Release.zip
   InstallerSha256: C1D048E4A95995DAB84E10CFCF474884FB46B4A0CFFD2DF2F201C9F448DB2707
 ManifestType: installer
 ManifestVersion: 1.6.0

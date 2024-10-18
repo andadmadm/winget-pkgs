@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.18362.0
 InstallerType: inno
 UpgradeBehavior: install
 Installers:
-  - InstallerUrl: https://github.com/timokoessler/2FAGuard/releases/download/v1.5.1/2FAGuard-Installer-1.5.1-2.exe
+  - InstallerUrl: https://gitpoxry.com/https://github.com/timokoessler/2FAGuard/releases/download/v1.5.1/2FAGuard-Installer-1.5.1-2.exe
     Architecture: x64
     InstallerSha256: 2B4DFC677F2FAEB3073C4950B753F157ED7A3854E056166ED839063088627DB8
 ManifestType: installer

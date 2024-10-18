@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/DaxStudio/DaxStudio/releases/download/v2.16.2/DaxStudio_2_16_2_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaxStudio/DaxStudio/releases/download/v2.16.2/DaxStudio_2_16_2_setup.exe
   InstallerSha256: 703999828773E93501B47B9244BE5A61E675D70B56EF5AA3D1BABE90B51908A0
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -26,7 +26,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/DaxStudio/DaxStudio/releases/download/v2.16.2/DaxStudio_2_16_2_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaxStudio/DaxStudio/releases/download/v2.16.2/DaxStudio_2_16_2_setup.exe
   InstallerSha256: 703999828773E93501B47B9244BE5A61E675D70B56EF5AA3D1BABE90B51908A0
   InstallerSwitches:
     Custom: /CURRENTUSER

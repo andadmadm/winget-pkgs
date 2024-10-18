@@ -19,13 +19,13 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v3.0.4/tsetup-x64.3.0.4.beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v3.0.4/tsetup-x64.3.0.4.beta.exe
   InstallerSha256: 274BF4B1686B179B38E053EBC12D453C36D2C14C45BD346FB1BAEE20156F162E
   UpgradeBehavior: install
 - Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v3.0.4/tsetup.3.0.4.beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v3.0.4/tsetup.3.0.4.beta.exe
   InstallerSha256: F16C47D2EE052820C3E2D46F11C0CC83D86FEAD8A2DF546C6FA1A07C6774765B
   UpgradeBehavior: install
 ManifestType: installer

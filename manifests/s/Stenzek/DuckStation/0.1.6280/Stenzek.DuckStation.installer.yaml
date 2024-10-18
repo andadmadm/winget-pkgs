@@ -7,7 +7,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
-- InstallerUrl: https://github.com/stenzek/duckstation/releases/download/latest/duckstation-windows-x64-release.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/stenzek/duckstation/releases/download/latest/duckstation-windows-x64-release.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

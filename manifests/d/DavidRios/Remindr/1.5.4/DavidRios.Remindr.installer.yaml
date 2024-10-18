@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/MrDavidRios/remindr_releases/releases/download/v1.5.4/Remindr-Setup-1.5.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MrDavidRios/remindr_releases/releases/download/v1.5.4/Remindr-Setup-1.5.4.exe
   InstallerSha256: F66D6CB6954CFD0E470162D87DD9BEE6993630556495C5FB115C7060DB74C5BB
 ManifestType: installer
 ManifestVersion: 1.1.0

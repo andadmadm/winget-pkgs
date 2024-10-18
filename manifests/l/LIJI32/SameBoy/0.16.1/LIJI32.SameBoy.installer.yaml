@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-12-23
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/LIJI32/SameBoy/releases/download/v0.16.1/sameboy_winsdl_v0.16.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/LIJI32/SameBoy/releases/download/v0.16.1/sameboy_winsdl_v0.16.1.zip
   InstallerSha256: 7D5C9A72AFBEC27970500FFA559ADED434BD6750E16379B845C8B87E5A82B16C
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -25,7 +25,7 @@ FileExtensions:
 ReleaseDate: 2018-12-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/darktable-org/darktable/releases/download/release-2.6.0/darktable-2.6.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/darktable-org/darktable/releases/download/release-2.6.0/darktable-2.6.0-win64.exe
   InstallerSha256: 54CE952F64ACA88528E132EE3DA98ED1C98F986E54E5EFFC5E5F31998F63661A
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{869D7B3B-A7C9-4E19-AC94-190305391ED1}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aws/aws-sam-cli/releases/download/v1.102.0/AWS_SAM_CLI_64_PY3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/aws/aws-sam-cli/releases/download/v1.102.0/AWS_SAM_CLI_64_PY3.msi
   InstallerSha256: A5A64C26F14A939152C79CFA0CA7263330AAFC5AE89A54A66AC303481735D1DF
 ManifestType: installer
 ManifestVersion: 1.5.0

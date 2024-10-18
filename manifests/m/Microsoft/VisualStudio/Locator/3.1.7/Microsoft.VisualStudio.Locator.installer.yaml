@@ -10,7 +10,7 @@ Installers:
   - Windows.Desktop
   Architecture: x86
   InstallerType: portable
-  InstallerUrl: https://github.com/microsoft/vswhere/releases/download/3.1.7/vswhere.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/vswhere/releases/download/3.1.7/vswhere.exe
   InstallerSha256: C54F3B7C9164EA9A0DB8641E81ECDDA80C2664EF5A47C4191406F848CC07C662
   InstallModes:
   - silent

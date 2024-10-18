@@ -9,7 +9,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tecwindow/SoundTranscriber/releases/download/V1.3.2/SoundTranscriberV1.3.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tecwindow/SoundTranscriber/releases/download/V1.3.2/SoundTranscriberV1.3.2.exe
   InstallerSha256: 156630C96AF8BD9FF914DAC1910B9B13A8CE522FF219CB871B51C38DB88372CE
 ManifestType: installer
 ManifestVersion: 1.5.0

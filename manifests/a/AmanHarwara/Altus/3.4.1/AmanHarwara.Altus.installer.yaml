@@ -14,13 +14,13 @@ ReleaseDate: 2020-01-20
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/3.4.1/Altus-Setup-3.4.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/3.4.1/Altus-Setup-3.4.1.exe
   InstallerSha256: 5937679A18C3A7EB0B3A32399F5F381D640B86B4049C05C2963BEA2F6A69BEA5
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/3.4.1/Altus-Setup-3.4.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/3.4.1/Altus-Setup-3.4.1.exe
   InstallerSha256: 5937679A18C3A7EB0B3A32399F5F381D640B86B4049C05C2963BEA2F6A69BEA5
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT /ALLUSERS
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/DrewNaylor/guinget/releases/download/v0.2.0.1-alpha/guinget_v0.2.0.1-alpha.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/guinget/releases/download/v0.2.0.1-alpha/guinget_v0.2.0.1-alpha.exe
   InstallerSha256: 370C4B4EC99FEC59FCBFB369F9D1B9FDDBD3BB97FEC5B0224F7000DCCC04BDDB
 ManifestType: installer
 ManifestVersion: 1.1.0

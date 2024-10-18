@@ -6,7 +6,7 @@ PackageVersion: 3.2.2
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/JaydenDev/Catalyst/releases/download/v3.2.2/catalyst-3.2.2.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JaydenDev/Catalyst/releases/download/v3.2.2/catalyst-3.2.2.Setup.exe
   InstallerSha256: 9D950FB4A4AD449FD8DF4E8F12FC1B1D31E4D9FCAF93D3BB2BB1767B86636F26
   AppsAndFeaturesEntries:
   - DisplayName: catalyst

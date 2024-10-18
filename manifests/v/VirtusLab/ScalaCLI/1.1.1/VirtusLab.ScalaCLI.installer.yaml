@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{C74FC9A1-9381-40A6-882F-9044C603ABD9}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/VirtusLab/scala-cli/releases/download/v1.1.1/scala-cli-x86_64-pc-win32.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/VirtusLab/scala-cli/releases/download/v1.1.1/scala-cli-x86_64-pc-win32.msi
   InstallerSha256: FC4AE2B0BE914DDEF7F11033AE20701D0369F3457A0A6AA23D22E7C0EE665ACE
 ManifestType: installer
 ManifestVersion: 1.5.0

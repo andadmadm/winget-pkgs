@@ -17,14 +17,14 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.105.4/tutanota-desktop-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.105.4/tutanota-desktop-win.exe
   InstallerSha256: 0E49FE06A985344C0C046B64F592164EA793114AB9844092B321B59FF8A0A9AF
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: 450699d2-1c81-5ee5-aec6-08dddb7af9d7
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.105.4/tutanota-desktop-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.105.4/tutanota-desktop-win.exe
   InstallerSha256: 0E49FE06A985344C0C046B64F592164EA793114AB9844092B321B59FF8A0A9AF
   InstallerSwitches:
     Custom: /ALLUSERS

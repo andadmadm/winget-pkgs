@@ -21,13 +21,13 @@ ProductCode: f3bf7f3e-61bc-51e0-bf16-52396b15579a
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/6.1.0/Vieb.Setup.6.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/6.1.0/Vieb.Setup.6.1.0.exe
   InstallerSha256: 02A0A5EA956075DB3E19922AE144E6E9E9AE158E5F10333DF56F3865159D3FB6
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/6.1.0/Vieb.Setup.6.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/6.1.0/Vieb.Setup.6.1.0.exe
   InstallerSha256: 02A0A5EA956075DB3E19922AE144E6E9E9AE158E5F10333DF56F3865159D3FB6
   InstallerSwitches:
     Custom: /ALLUSERS

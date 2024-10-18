@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Cactus-Network/cactus-blockchain/releases/download/v1.2.11/CactusSetup-1.2.11.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Cactus-Network/cactus-blockchain/releases/download/v1.2.11/CactusSetup-1.2.11.exe
   InstallerSha256: 1CF3A29635C9CF9599901B697285063614963323736E5A677720DD26E2A89C5E
   ProductCode: 'cactus-blockchain'
 ManifestType: installer

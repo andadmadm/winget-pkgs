@@ -23,11 +23,11 @@ ReleaseDate: 2022-04-05
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v100.0.4896.75-r972766-Win64/100.0.4896.75_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v100.0.4896.75-r972766-Win64/100.0.4896.75_ungoogled_mini_installer.exe
   InstallerSha256: C687BE3B33D21465717307A081AA6315A1A8869B43F04DB1FA4E5634B8620ECC
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v100.0.4896.75-r972766-Win64/100.0.4896.75_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v100.0.4896.75-r972766-Win64/100.0.4896.75_ungoogled_mini_installer.exe
   InstallerSha256: C687BE3B33D21465717307A081AA6315A1A8869B43F04DB1FA4E5634B8620ECC
   InstallerSwitches:
     Custom: --system-level

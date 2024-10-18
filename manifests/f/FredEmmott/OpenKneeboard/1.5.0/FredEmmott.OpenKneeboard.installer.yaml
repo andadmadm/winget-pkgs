@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{843C9331-0610-4AB1-9CF9-5305C896FB5B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.5.0/OpenKneeboard-v1.5.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.5.0/OpenKneeboard-v1.5.0.msi
   InstallerSha256: 0762B555BF484C8A386E75CEC96DEA6933155123EE84F6423C76B0AC17F131FD
 ManifestType: installer
 ManifestVersion: 1.5.0

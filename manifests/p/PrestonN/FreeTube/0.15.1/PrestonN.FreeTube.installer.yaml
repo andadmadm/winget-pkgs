@@ -14,7 +14,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.15.1-beta/freetube-0.15.1-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.15.1-beta/freetube-0.15.1-setup-x64.exe
   InstallerSha256: BA9B74FF0A6BE9EF21BC4BF9C495911FF59EB351129FD43BAE12C7DDAB173695
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -23,7 +23,7 @@ Installers:
     ProductCode: 609c326f-6a5e-5cd1-9fc0-6e966fad073f
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.15.1-beta/freetube-0.15.1-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.15.1-beta/freetube-0.15.1-setup-x64.exe
   InstallerSha256: BA9B74FF0A6BE9EF21BC4BF9C495911FF59EB351129FD43BAE12C7DDAB173695
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2024-02-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kubernetes-sigs/kind/releases/download/v0.22.0/kind-windows-amd64
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes-sigs/kind/releases/download/v0.22.0/kind-windows-amd64
   InstallerSha256: 0F5F119B65968C814ED737002EB6067C67D8BED405E671AE566076138152A241
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qmk/qmk_toolbox/releases/download/0.2.2/qmk_toolbox_install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qmk/qmk_toolbox/releases/download/0.2.2/qmk_toolbox_install.exe
   InstallerSha256: 038D2C11B73308A4B893897168250D4B3E88B70413490235EB71966811B4AD9A
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -19,7 +19,7 @@ FileExtensions:
 - url
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/macchrome/winchrome/releases/download/v96.0.4664.93-r929512-Win64/96.0.4664.93_ungoogled_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/macchrome/winchrome/releases/download/v96.0.4664.93-r929512-Win64/96.0.4664.93_ungoogled_mini_installer.exe
   InstallerSha256: 02C4F5641DE37206D235D7B56B696C9725723E9B94DAE0102CDEE19209DBFA79
 ManifestType: installer
 ManifestVersion: 1.1.0

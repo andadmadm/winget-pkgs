@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: './CowabungaLite/CowabungaLite.exe'
     PortableCommandAlias: cowabungalite
-  InstallerUrl: https://github.com/Avangelista/CowabungaLiteWindows/releases/download/1.0.0/CowabungaLite.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Avangelista/CowabungaLiteWindows/releases/download/1.0.0/CowabungaLite.zip
   InstallerSha256: 7EB2BAB003604682E9D5A9748A29AEC5FAB138AC4E2267E159C988A34ADE9E24
 # This can be uncommented once we can use mixed sources
 #  Dependencies:

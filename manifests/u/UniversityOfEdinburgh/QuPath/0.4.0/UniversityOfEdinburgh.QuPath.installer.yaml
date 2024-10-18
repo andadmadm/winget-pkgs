@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qupath/qupath/releases/download/v0.4.0/QuPath-0.4.0-Windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/qupath/qupath/releases/download/v0.4.0/QuPath-0.4.0-Windows.msi
   InstallerSha256: 6B2401C22A762B63468130F7ABDBF60912398642B7114B5A3A86A9D72D5EC347
   ProductCode: '{DC9738B2-7846-37F8-9A73-1DB1E4A2CE2C}'
 ManifestType: installer

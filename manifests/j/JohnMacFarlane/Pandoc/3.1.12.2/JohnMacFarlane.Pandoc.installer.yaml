@@ -18,13 +18,13 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-windows-x86_64.msi
   InstallerSha256: 31C39D40E54DC37E217DE6F1803D351E5649168F7B4E9D6387BE2CBF1B787E8C
   InstallerSwitches:
     Custom: ALLUSERS="2"
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-windows-x86_64.msi
   InstallerSha256: 31C39D40E54DC37E217DE6F1803D351E5649168F7B4E9D6387BE2CBF1B787E8C
   InstallerSwitches:
     Custom: ALLUSERS=1

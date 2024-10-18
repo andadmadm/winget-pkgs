@@ -9,7 +9,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: DiscordChatExporter.exe
-  InstallerUrl: https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.41.1/DiscordChatExporter.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.41.1/DiscordChatExporter.zip
   InstallerSha256: 69CB82381E7C51C35182600B71E24C41E261E6D505575C73FEDA1F789E081CD8
 ManifestType: installer
 ManifestVersion: 1.4.0

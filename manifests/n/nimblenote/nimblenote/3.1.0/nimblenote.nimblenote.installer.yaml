@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/nimblenote/nimblenote/releases/download/v3.1.0/nimblenote-3.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nimblenote/nimblenote/releases/download/v3.1.0/nimblenote-3.1.0.exe
   InstallerSha256: A9138B79D6D32615D19E61786A3E929787129CE87D5A7248F5493D972E307829
   UpgradeBehavior: install
 ManifestType: installer

@@ -10,7 +10,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Scope: machine
 Installers:
-- InstallerUrl: https://github.com/microsoft/GDK/archive/refs/tags/March_2023_Update_2.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/GDK/archive/refs/tags/March_2023_Update_2.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: burn

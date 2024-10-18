@@ -9,11 +9,11 @@ UpgradeBehavior: install
 ReleaseDate: 2024-07-16
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Xanashi/Icaros/releases/download/v3.3.3b2/Icaros_v3.3.3_b2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xanashi/Icaros/releases/download/v3.3.3b2/Icaros_v3.3.3_b2.exe
   InstallerSha256: 0F49FEFAC21C88CD8D819DA75FBAD7BA8787C2DB3070366A52D6173D4CC4B0DD
   ProductCode: Icaros_is1
 - Architecture: x64
-  InstallerUrl: https://github.com/Xanashi/Icaros/releases/download/v3.3.3b2/Icaros_v3.3.3_b2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xanashi/Icaros/releases/download/v3.3.3b2/Icaros_v3.3.3_b2.exe
   InstallerSha256: 0F49FEFAC21C88CD8D819DA75FBAD7BA8787C2DB3070366A52D6173D4CC4B0DD
   ProductCode: Icaros_is1
 ManifestType: installer

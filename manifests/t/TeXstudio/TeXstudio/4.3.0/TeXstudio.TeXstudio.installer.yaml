@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/texstudio-org/texstudio/releases/download/4.3.0/texstudio-4.3.0-win-qt5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/texstudio-org/texstudio/releases/download/4.3.0/texstudio-4.3.0-win-qt5.exe
   InstallerSha256: 78851D1B5A5DE51680964F498D7D336D069A962BA3EC0BB147D7F18AB27F30E9
 ManifestType: installer
 ManifestVersion: 1.1.0

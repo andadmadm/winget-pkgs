@@ -17,7 +17,7 @@ FileExtensions:
 ReleaseDate: 2021-07-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v9.0/Beeftext-9.0-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v9.0/Beeftext-9.0-Installer.exe
   InstallerSha256: 056F9464FBC12D7F27F65B3C4825B27CBAD758ED4EFC4F5E6F179845B4091688
 ManifestType: installer
 ManifestVersion: 1.2.0

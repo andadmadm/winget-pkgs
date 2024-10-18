@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-03-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Vencord/Vesktop/releases/download/v1.5.1/Vesktop-Setup-1.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Vencord/Vesktop/releases/download/v1.5.1/Vesktop-Setup-1.5.1.exe
   InstallerSha256: 147203F26C82657C17393230142901D92618A433731D66BA76C3F7B5FAF220EE
 ManifestType: installer
 ManifestVersion: 1.5.0

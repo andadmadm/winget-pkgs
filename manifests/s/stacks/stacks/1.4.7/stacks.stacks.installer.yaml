@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/stacks-task-manager/stacks/releases/download/v1.4.7/Stacks-Setup-1.4.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stacks-task-manager/stacks/releases/download/v1.4.7/Stacks-Setup-1.4.7.exe
   InstallerSha256: 3FCB9843786C15AD3B3997A432AC9E78A8AFC4ED03B1216CBF77CC109B2ABB32
   UpgradeBehavior: install
 ManifestType: installer

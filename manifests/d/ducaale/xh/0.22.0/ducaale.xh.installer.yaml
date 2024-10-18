@@ -13,7 +13,7 @@ Installers:
     PortableCommandAlias: xh
   - RelativeFilePath: .\xh-v0.22.0-x86_64-pc-windows-msvc\xh.exe
     PortableCommandAlias: xhs
-  InstallerUrl: https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: CBAEABBFECE018E05F1EF0E380B5B797C61524B11662598BC444402BCB0607D0
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -22,7 +22,7 @@ Dependencies:
     - PackageIdentifier: Oracle.JavaRuntimeEnvironment
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/jindrapetrik/jpexs-decompiler/releases/download/version18.3.4/ffdec_18.3.4_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jindrapetrik/jpexs-decompiler/releases/download/version18.3.4/ffdec_18.3.4_setup.exe
   InstallerSha256: D7FD169D649EBD6A5BD2A5DCCAD6A9BA1726E4FC67345DA44D15CE5D910A59F1
 ManifestType: installer
 ManifestVersion: 1.4.0

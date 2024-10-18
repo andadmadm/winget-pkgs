@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.0.3/SwitchHosts_installer_4.0.3.6070.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.0.3/SwitchHosts_installer_4.0.3.6070.exe
   InstallerSha256: 4CC45FA551080CE8A124DA152BC4ADF72FD0658A72FAA7A28D7A7E9CA7080D96
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.0.3/SwitchHosts_installer_4.0.3.6070.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.0.3/SwitchHosts_installer_4.0.3.6070.exe
   InstallerSha256: 4CC45FA551080CE8A124DA152BC4ADF72FD0658A72FAA7A28D7A7E9CA7080D96
   InstallerSwitches:
     Custom: /ALLUSERS

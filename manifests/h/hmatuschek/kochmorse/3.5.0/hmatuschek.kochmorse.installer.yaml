@@ -9,7 +9,7 @@ AppsAndFeaturesEntries:
   ProductCode: Koch Morse
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/hmatuschek/kochmorse/releases/download/v3.5.0/kochmorse-3.5.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hmatuschek/kochmorse/releases/download/v3.5.0/kochmorse-3.5.0-setup.exe
   InstallerSha256: CB1CA9319C30B8598FFA1CEDA61873F3543DD489641FB8519A95D8D3D678C9CE
 ManifestType: installer
 ManifestVersion: 1.5.0

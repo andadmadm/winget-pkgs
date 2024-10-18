@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: armaria.exe
         PortableCommandAlias: armaria
-    InstallerUrl: https://github.com/JonathanHope/armaria/releases/download/v0.0.39/armaria_0.0.39_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/JonathanHope/armaria/releases/download/v0.0.39/armaria_0.0.39_windows_amd64.zip
     InstallerSha256: 0bdf65ada52fd1e4c3c8d69f9d2241b5d730520f79455486d8741ede6c4d0031
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

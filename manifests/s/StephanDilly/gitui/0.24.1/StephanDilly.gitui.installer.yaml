@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{C1CADE63-A601-4E02-96CC-FB921D5B174E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/extrawurst/gitui/releases/download/v0.24.1/gitui.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/extrawurst/gitui/releases/download/v0.24.1/gitui.msi
   InstallerSha256: 4CB67B456B875ECC42C86E3FB3A786E1A8D84E2FCF12427F631FCB7B67915BBA
 ManifestType: installer
 ManifestVersion: 1.5.0

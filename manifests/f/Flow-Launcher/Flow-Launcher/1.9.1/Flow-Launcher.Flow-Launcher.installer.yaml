@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.9.1/Flow-Launcher-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.9.1/Flow-Launcher-Setup.exe
   InstallerSha256: 4C9DE4943362BEF9A05DAB6D1C14B8B6DB3CDCB3C049915BC93B8083D9C5FF8C
 ManifestType: installer
 ManifestVersion: 1.1.0

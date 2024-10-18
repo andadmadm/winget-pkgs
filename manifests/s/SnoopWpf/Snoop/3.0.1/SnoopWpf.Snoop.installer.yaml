@@ -15,7 +15,7 @@ Installers:
   Architecture: x86
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/snoopwpf/snoopwpf/releases/download/v3.0.1/Snoop.3.0.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/snoopwpf/snoopwpf/releases/download/v3.0.1/Snoop.3.0.1.msi
   InstallerSha256: 729C22BDAF92F437C1181F7DF36E2EB9EFE818EA0773990ACCD9654E8389BE4D
   InstallerSwitches:
     Custom: /NORESTART

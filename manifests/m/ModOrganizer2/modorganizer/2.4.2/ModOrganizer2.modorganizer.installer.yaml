@@ -26,7 +26,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.exe
   InstallerSha256: 46ABD8AA57E23A231C67BA4A215561B532E5AB06B4943C370C2D954DF7C685FD
   InstallerSwitches:
     Silent: /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-

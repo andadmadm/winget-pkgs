@@ -13,7 +13,7 @@ InstallModes:
 ReleaseDate: 2024-10-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/amir1376/ab-download-manager/releases/download/v1.2.0/ABDownloadManager_1.2.0_windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amir1376/ab-download-manager/releases/download/v1.2.0/ABDownloadManager_1.2.0_windows.exe
   InstallerSha256: 53DAB38953055343EB5D32DFB439C85F7C48B60777355ED0DE829AA475C7323C
 ManifestType: installer
 ManifestVersion: 1.6.0

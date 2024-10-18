@@ -6,7 +6,7 @@ PackageVersion: 2.14.4
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/ankurk91/google-chat-electron/releases/download/2.14.4/google-chat-electron-setup-win-x64-2.14.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankurk91/google-chat-electron/releases/download/2.14.4/google-chat-electron-setup-win-x64-2.14.4.exe
   InstallerSha256: EC279A511379DA36819C00465633A3B49A6B9AC16695FF90B2CD877D483C83A5
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -8,7 +8,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.6
 Installers:
-- InstallerUrl: https://github.com/mpvnet-player/mpv.net/releases/download/v7.0.0.2-beta/mpv.net-v7.0.0.2-beta-setup.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/mpvnet-player/mpv.net/releases/download/v7.0.0.2-beta/mpv.net-v7.0.0.2-beta-setup.exe
   Architecture: x64
   InstallerSha256: 576E684F5E378EE7EF9205646C4E5B3420C684B4B157165F67AEB1F596D742C8
 ManifestType: installer

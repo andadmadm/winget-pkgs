@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nexus-Mods/Vortex/releases/download/v1.6.10/vortex-setup-1.6.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nexus-Mods/Vortex/releases/download/v1.6.10/vortex-setup-1.6.10.exe
   InstallerSha256: 59B679C4A9662199FD8A671655C48D9D857B296DC89BA8083C566F31E60CEF0B
 ManifestType: installer
 ManifestVersion: 1.2.0

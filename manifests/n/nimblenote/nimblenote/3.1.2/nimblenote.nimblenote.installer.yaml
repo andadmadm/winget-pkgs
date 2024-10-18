@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nimblenote/nimblenote/releases/download/v3.1.2/nimblenote-3.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nimblenote/nimblenote/releases/download/v3.1.2/nimblenote-3.1.2.exe
   InstallerSha256: 1A1A0DC90493BD23191A50270727ACD44FB6D0CADC2DBF17D08DB97314F443BE
 ManifestType: installer
 ManifestVersion: 1.0.0

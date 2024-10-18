@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ROCKETMQ-2.0.0.3-windows\ROCKETMQ-2.0.0.3.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/rocketmq-assistant-release/releases/download/v2.0.0.3/ROCKETMQ-2.0.0.3-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/rocketmq-assistant-release/releases/download/v2.0.0.3/ROCKETMQ-2.0.0.3-windows.zip
   InstallerSha256: 3D57E073F92277F5101F4CAA53B098FF8395930455B624F857D69E9A5E54A031
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ROCKETMQ-2.0.0.3-windows\ROCKETMQ-2.0.0.3.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/rocketmq-assistant-release/releases/download/v2.0.0.3/ROCKETMQ-2.0.0.3-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/rocketmq-assistant-release/releases/download/v2.0.0.3/ROCKETMQ-2.0.0.3-windows.zip
   InstallerSha256: 3D57E073F92277F5101F4CAA53B098FF8395930455B624F857D69E9A5E54A031
   InstallerSwitches:
     Custom: /ALLUSERS

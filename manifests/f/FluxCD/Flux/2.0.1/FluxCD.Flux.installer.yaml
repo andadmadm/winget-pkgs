@@ -4,7 +4,7 @@
 PackageIdentifier: FluxCD.Flux
 PackageVersion: 2.0.1
 Installers:
-- InstallerUrl: https://github.com/fluxcd/flux2/releases/download/v2.0.1/flux_2.0.1_windows_amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/fluxcd/flux2/releases/download/v2.0.1/flux_2.0.1_windows_amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

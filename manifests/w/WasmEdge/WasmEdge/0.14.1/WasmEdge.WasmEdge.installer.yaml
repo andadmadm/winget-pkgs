@@ -20,7 +20,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%/WasmEdge'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-windows.msi
   InstallerSha256: 698C7ED88F39B9EBEEF5A235AE321677E11B68B5EB27E0D90E180CB9D13846C3
 ManifestType: installer
 ManifestVersion: 1.6.0

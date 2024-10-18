@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2021.4/MullvadVPN-2021.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2021.4/MullvadVPN-2021.4.exe
   InstallerSha256: 282E922E18599B4AE4E2EFF38830345847BB01D9F1824D4E4F4C71123C23A875
   UpgradeBehavior: install
 ManifestType: installer

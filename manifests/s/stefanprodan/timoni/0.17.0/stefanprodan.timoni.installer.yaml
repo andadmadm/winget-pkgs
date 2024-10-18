@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: timoni.exe
   PortableCommandAlias: timoni
 Installers:
-- InstallerUrl: https://github.com/stefanprodan/timoni/releases/download/v0.17.0/timoni_0.17.0_windows_amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/stefanprodan/timoni/releases/download/v0.17.0/timoni_0.17.0_windows_amd64.zip
   Architecture: x64
   InstallerSha256: 2636604C5C19EB65E9B84FAFE4A05C1A7BEBE5D8D0BD0BCB88327A9F6607BB71
 ManifestType: installer

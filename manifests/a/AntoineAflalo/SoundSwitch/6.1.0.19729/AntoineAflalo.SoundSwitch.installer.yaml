@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/Belphemur/SoundSwitch/releases/download/v6.1.0/SoundSwitch_v6.1.0.19729_Release_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Belphemur/SoundSwitch/releases/download/v6.1.0/SoundSwitch_v6.1.0.19729_Release_Installer.exe
   InstallerSha256: F621CB87BD3782AA14CF6AB75BDBCFEB08C24A3D1E4A57B92EC7F8E30C2E15E4
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /ALLUSERS
@@ -22,7 +22,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/Belphemur/SoundSwitch/releases/download/v6.1.0/SoundSwitch_v6.1.0.19729_Release_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Belphemur/SoundSwitch/releases/download/v6.1.0/SoundSwitch_v6.1.0.19729_Release_Installer.exe
   InstallerSha256: F621CB87BD3782AA14CF6AB75BDBCFEB08C24A3D1E4A57B92EC7F8E30C2E15E4
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /CURRENTUSER

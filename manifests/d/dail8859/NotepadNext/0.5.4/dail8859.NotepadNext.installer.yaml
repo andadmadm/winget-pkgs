@@ -9,13 +9,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dail8859/NotepadNext/releases/download/v0.5.4/NotepadNext-v0.5.4-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dail8859/NotepadNext/releases/download/v0.5.4/NotepadNext-v0.5.4-Installer.exe
   InstallerSha256: A45822E2777D4A6848538A0D3102784578FD95815D34F45B3A9DE139C04EB2A6
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dail8859/NotepadNext/releases/download/v0.5.4/NotepadNext-v0.5.4-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dail8859/NotepadNext/releases/download/v0.5.4/NotepadNext-v0.5.4-Installer.exe
   InstallerSha256: A45822E2777D4A6848538A0D3102784578FD95815D34F45B3A9DE139C04EB2A6
   InstallerSwitches:
     Custom: /ALLUSERS

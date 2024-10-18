@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/seonglae/intuiter/releases/download/0.8.1/Intuiter.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/seonglae/intuiter/releases/download/0.8.1/Intuiter.exe
   InstallerSha256: 81D90E95F613A7066EA062F42205B7254B4AA8E97DDE8B535E457F049C28612E
 ManifestType: installer
 ManifestVersion: 1.1.0

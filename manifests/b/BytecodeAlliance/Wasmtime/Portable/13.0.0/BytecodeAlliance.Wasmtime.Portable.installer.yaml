@@ -13,7 +13,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: wasmtime-v13.0.0-x86_64-windows\wasmtime.exe
     PortableCommandAlias: wasmtime
-  InstallerUrl: https://github.com/bytecodealliance/wasmtime/releases/download/v13.0.0/wasmtime-v13.0.0-x86_64-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/bytecodealliance/wasmtime/releases/download/v13.0.0/wasmtime-v13.0.0-x86_64-windows.zip
   InstallerSha256: AD1DEA7C069EEDA2432D4344221B05C46D146AAA7F5B16CBD468932E9FDAAC76
 ManifestType: installer
 ManifestVersion: 1.5.0

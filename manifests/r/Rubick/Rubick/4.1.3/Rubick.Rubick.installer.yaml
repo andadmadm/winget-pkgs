@@ -14,13 +14,13 @@ ReleaseDate: 2023-11-02
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.1.3/rubick-Setup-4.1.3-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.1.3/rubick-Setup-4.1.3-x64.exe
   InstallerSha256: 3A3DD7DF79D3BACC12004CAA19B1EEE6DC54BA927A88C8A4EDCF03AC83DA97AE
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.1.3/rubick-Setup-4.1.3-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.1.3/rubick-Setup-4.1.3-x64.exe
   InstallerSha256: 3A3DD7DF79D3BACC12004CAA19B1EEE6DC54BA927A88C8A4EDCF03AC83DA97AE
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -15,7 +15,7 @@ ReleaseDate: 2024-09-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/24.7.1-2/Mambaforge-24.7.1-2-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/24.7.1-2/Mambaforge-24.7.1-2-Windows-x86_64.exe
   InstallerSha256: D96CCB0D471784CD5C3C6672DCC1F16B19BB6587BF410A6434C51CDAA4E20D69
   InstallerSwitches:
     Custom: /InstallationType=JustMe
@@ -24,7 +24,7 @@ Installers:
   RequireExplicitUpgrade: true
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/24.7.1-2/Mambaforge-24.7.1-2-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/24.7.1-2/Mambaforge-24.7.1-2-Windows-x86_64.exe
   InstallerSha256: D96CCB0D471784CD5C3C6672DCC1F16B19BB6587BF410A6434C51CDAA4E20D69
   InstallerSwitches:
     Custom: /InstallationType=AllUsers

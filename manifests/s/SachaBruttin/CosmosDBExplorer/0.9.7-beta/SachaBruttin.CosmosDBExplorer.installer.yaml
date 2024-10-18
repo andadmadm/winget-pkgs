@@ -8,7 +8,7 @@ Platform:
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/sachabruttin/CosmosDbExplorer/releases/download/v0.9.7-beta/install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sachabruttin/CosmosDbExplorer/releases/download/v0.9.7-beta/install.exe
   InstallerSha256: 52D33DD7662BED8CCDBA5235AB9D7431DE7009DB10579ABA17BAFDB48E14539D
 ManifestType: installer
 ManifestVersion: 1.1.0

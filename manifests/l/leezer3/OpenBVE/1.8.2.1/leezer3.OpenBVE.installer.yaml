@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/leezer3/OpenBVE/releases/download/1.8.2.1/openBVE-1.8.2.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/leezer3/OpenBVE/releases/download/1.8.2.1/openBVE-1.8.2.1-setup.exe
   InstallerSha256: 93BB01AC5CC7A637A748CCE29240B6620973AC5AAF095FB382FE59F65805DDA6
 ManifestType: installer
 ManifestVersion: 1.0.0

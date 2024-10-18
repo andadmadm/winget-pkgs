@@ -12,12 +12,12 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: fend.exe
     PortableCommandAlias: fend
-  InstallerUrl: https://github.com/printfn/fend/releases/download/v1.4.1/fend-1.4.1-windows-x64-exe.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/printfn/fend/releases/download/v1.4.1/fend-1.4.1-windows-x64-exe.zip
   InstallerSha256: 5739DFAFFC76C5B502380B1BD816596381E6DEDA091AC5753CD7A85F1EEE12E6
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/printfn/fend/releases/download/v1.4.1/fend-1.4.1-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/printfn/fend/releases/download/v1.4.1/fend-1.4.1-windows-x64.msi
   InstallerSha256: 916AD832B56F6EA8D62BF4EDF0EAA190FB82BEFF597AF96E6CC5C130FA1F88E9
   ProductCode: '{E60DB715-701C-4BB7-8890-961854D138B1}'
   AppsAndFeaturesEntries:

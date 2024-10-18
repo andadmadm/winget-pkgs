@@ -19,7 +19,7 @@ Dependencies:
 ReleaseDate: 2017-07-30
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/nullpomino/nullpomino/releases/download/v7.5.0/NullpoMino7.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nullpomino/nullpomino/releases/download/v7.5.0/NullpoMino7.5.0.exe
   InstallerSha256: 7832876E3E5E31695A22053BD058BFDF552B99578ACEC10C8E9A730072062414
 ManifestType: installer
 ManifestVersion: 1.4.0

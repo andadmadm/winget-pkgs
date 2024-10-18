@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{D2CDA1BB-8820-5305-9E19-FBF5FC5D3B54}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/VSCodeConfigHelper/v4/releases/download/v4.0.10/vscch_4.0.10_x64_zh-CN.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/VSCodeConfigHelper/v4/releases/download/v4.0.10/vscch_4.0.10_x64_zh-CN.msi
   InstallerSha256: F4CF948C10568CEB57B4EFBC90D63EB8F227AB7040E72FEE76A835CA76FDA03E
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -11,7 +11,7 @@ InstallerSwitches:
   Custom: /currentuser
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/7.1.0/dbeaver-ce-7.1.0-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/7.1.0/dbeaver-ce-7.1.0-x86_64-setup.exe
   InstallerSha256: 017E8AB1E47DD19255E7E3DF963F5157578274D4C825BAA2D6D3E3838B1A1BC9
 ManifestType: installer
 ManifestVersion: 1.1.0

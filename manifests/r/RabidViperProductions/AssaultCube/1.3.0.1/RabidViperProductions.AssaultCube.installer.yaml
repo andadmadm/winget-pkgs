@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-01-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/assaultcube/AC/releases/download/v1.3.0.1/AssaultCube_v1.3.0.1_LockdownEdition_RC2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/assaultcube/AC/releases/download/v1.3.0.1/AssaultCube_v1.3.0.1_LockdownEdition_RC2.exe
   InstallerSha256: 2073161155FC781D85D35A58286452C88260765DEB9F8BE0CDA08C559E36FEB8
 ManifestType: installer
 ManifestVersion: 1.1.0

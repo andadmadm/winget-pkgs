@@ -15,7 +15,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: zls.exe
     PortableCommandAlias: zls
-  InstallerUrl: https://github.com/zigtools/zls/releases/download/0.12.0/zls-x86_64-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/zigtools/zls/releases/download/0.12.0/zls-x86_64-windows.zip
   InstallerSha256: 9656942A98E6D582B8E1D7486D0D3523EE80B0120D4A1D0740E963E45EA88954
 ManifestType: installer
 ManifestVersion: 1.6.0

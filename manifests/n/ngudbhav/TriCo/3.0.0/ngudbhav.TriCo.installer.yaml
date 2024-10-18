@@ -12,14 +12,14 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.0.0/Setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.0.0/Setup-x64.exe
   InstallerSha256: 9A95A43943168480B928C4B752906EE941D37E4C96C8DED0AC998C2F386B82E1
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.0.0/Setup-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.0.0/Setup-x86.exe
   InstallerSha256: 1350DD460C498C8BF7ECFF53651E50123C2D82149AAA4B46BF7D5DAA4016C0AD
   UpgradeBehavior: install
 ManifestType: installer

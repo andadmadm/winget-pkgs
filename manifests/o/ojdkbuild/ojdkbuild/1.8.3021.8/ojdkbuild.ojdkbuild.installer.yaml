@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-07-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86_64.msi
   InstallerSha256: 179B86C66373483922A4F4EDEB88DF4B7290361450C4E068C76DF8C44A3B0889
   ProductCode: '{34626124-7681-4616-89CE-1EDC74F1516E}'
 ManifestType: installer

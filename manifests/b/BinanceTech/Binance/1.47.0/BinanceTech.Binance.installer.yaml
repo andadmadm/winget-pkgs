@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-09-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/binance/desktop/releases/download/v1.47.0/binance-setup-1.47.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binance/desktop/releases/download/v1.47.0/binance-setup-1.47.0.exe
   InstallerSha256: 7F7B838CAE23343D13BCC38D1E473164819ADF3F70F885D8E4151E9A7FBC358D
 ManifestType: installer
 ManifestVersion: 1.5.0

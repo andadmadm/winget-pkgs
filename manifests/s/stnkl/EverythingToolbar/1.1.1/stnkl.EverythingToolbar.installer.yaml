@@ -18,7 +18,7 @@ Dependencies:
 Installers:
 - Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/srwi/EverythingToolbar/releases/download/1.1.1/EverythingToolbar-1.1.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/srwi/EverythingToolbar/releases/download/1.1.1/EverythingToolbar-1.1.1.msi
   InstallerSha256: 971366BF8455EFF46BEFAE2C2042675C04C7F257A68C7120F2DF015C77CED92C
   ProductCode: '{85F08065-DC9C-427F-832C-77CE642D6C4C}'
 ManifestType: installer

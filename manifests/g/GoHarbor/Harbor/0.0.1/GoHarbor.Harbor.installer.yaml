@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: harbor
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/goharbor/harbor-cli/releases/download/v0.0.1/harbor_0.0.1_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/goharbor/harbor-cli/releases/download/v0.0.1/harbor_0.0.1_windows_amd64.zip
   InstallerSha256: 022DF598D371ADD16DC23F30310C4EF35B92145C2894921AED387E1606128363
 ManifestType: installer
 ManifestVersion: 1.6.0

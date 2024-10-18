@@ -4,7 +4,7 @@
 PackageIdentifier: VisualBoyAdvance-M.VisualBoyAdvance-M
 PackageVersion: 2.1.5
 Installers:
-- InstallerUrl: https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.5/visualboyadvance-m-Win-x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.5/visualboyadvance-m-Win-x86_64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

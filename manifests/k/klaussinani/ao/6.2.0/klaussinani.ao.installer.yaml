@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/klaussinani/ao/releases/download/v6.2.0/ao-setup-6.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klaussinani/ao/releases/download/v6.2.0/ao-setup-6.2.0.exe
   InstallerSha256: CE92DD25BFD6816AA0DB2D08E065E3F569078CF9A9E65BAEEBF71A8941C22E5D
 ManifestType: installer
 ManifestVersion: 1.1.0

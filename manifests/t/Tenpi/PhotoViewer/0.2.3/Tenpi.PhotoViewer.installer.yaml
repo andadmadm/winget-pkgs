@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-08-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Moebits/Photo-Viewer/releases/download/v0.2.3/Photo.Viewer.Setup.0.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Moebits/Photo-Viewer/releases/download/v0.2.3/Photo.Viewer.Setup.0.2.3.exe
   InstallerSha256: 236308CDEC21CA75CE5EB28F4C04775C9B6F6DDB2B74CE5E917F1550BD546EA5
 ManifestType: installer
 ManifestVersion: 1.6.0

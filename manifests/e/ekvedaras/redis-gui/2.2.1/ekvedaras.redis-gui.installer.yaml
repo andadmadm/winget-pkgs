@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-01-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ekvedaras/redis-gui/releases/download/v2.2.1/redis-gui-Setup-2.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ekvedaras/redis-gui/releases/download/v2.2.1/redis-gui-Setup-2.2.1.exe
   InstallerSha256: C730749708E29BFD83F71E931AAFD02F48C4CE88E2718D6FD7C9A6CD41800828
 ManifestType: installer
 ManifestVersion: 1.2.0

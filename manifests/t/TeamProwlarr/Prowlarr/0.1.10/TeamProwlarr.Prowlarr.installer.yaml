@@ -15,10 +15,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Prowlarr/Prowlarr/releases/download/v0.1.10.1375/Prowlarr.develop.0.1.10.1375.windows-core-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Prowlarr/Prowlarr/releases/download/v0.1.10.1375/Prowlarr.develop.0.1.10.1375.windows-core-x64-installer.exe
   InstallerSha256: BE352A15D20B694E968BB48872217D6A6C250420DDCBB71B79241628A29BEFED
 - Architecture: x86
-  InstallerUrl: https://github.com/Prowlarr/Prowlarr/releases/download/v0.1.10.1375/Prowlarr.develop.0.1.10.1375.windows-core-x86-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Prowlarr/Prowlarr/releases/download/v0.1.10.1375/Prowlarr.develop.0.1.10.1375.windows-core-x86-installer.exe
   InstallerSha256: F8F3B88D6B0524ACB49B157C2EF2ABACCC8A8386CDEA69363EC6E5B3265DEB05
 ManifestType: installer
 ManifestVersion: 1.1.0

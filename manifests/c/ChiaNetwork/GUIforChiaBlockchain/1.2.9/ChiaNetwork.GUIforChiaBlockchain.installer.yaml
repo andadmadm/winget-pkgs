@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Chia-Network/chia-blockchain/releases/download/1.2.9/ChiaSetup-1.2.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chia-Network/chia-blockchain/releases/download/1.2.9/ChiaSetup-1.2.9.exe
   InstallerSha256: C5DAE10D06B8775F7A6E1D08708107761FDF7652C2A461981C5D526673158F24
 ManifestType: installer
 ManifestVersion: 1.0.0

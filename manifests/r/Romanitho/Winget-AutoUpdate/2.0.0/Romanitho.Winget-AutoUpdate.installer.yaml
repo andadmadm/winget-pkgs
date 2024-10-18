@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ProductCode: Winget-AutoUpdate
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/Romanitho/Winget-AutoUpdate/releases/download/v2.0.0/WAU.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/Romanitho/Winget-AutoUpdate/releases/download/v2.0.0/WAU.msi
     InstallerSha256: 9A8E2EB0185BDBEE16178944F184C20D0C1474B7EE040AB2F5B199BB66331042
 ManifestType: installer
 ManifestVersion: 1.6.0

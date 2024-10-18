@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-06-27
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Jackett/Jackett/releases/download/v0.22.221/Jackett.Installer.Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jackett/Jackett/releases/download/v0.22.221/Jackett.Installer.Windows.exe
   InstallerSha256: 0305FD9A4C6ABA14141E7FBAB8C1FC0F6105C189141CBB5200098F193257E059
 ManifestType: installer
 ManifestVersion: 1.6.0

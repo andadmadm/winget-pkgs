@@ -15,7 +15,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/maurizuki/O2/releases/download/v2.2.3/O2-2.2.3-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maurizuki/O2/releases/download/v2.2.3/O2-2.2.3-setup.exe
   InstallerSha256: 0F64379FAA631861EDCA78FA695D829BDA3B365998CE541D623917FB8B783ADA
   UpgradeBehavior: install
 ManifestType: installer

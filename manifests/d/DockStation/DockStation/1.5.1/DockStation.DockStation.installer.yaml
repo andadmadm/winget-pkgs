@@ -7,11 +7,11 @@ PackageVersion: 1.5.1
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/DockStation/dockstation/releases/download/v1.5.1/dockstation-setup-1.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DockStation/dockstation/releases/download/v1.5.1/dockstation-setup-1.5.1.exe
   InstallerSha256: ca7b287bcce8fd6138dc385821738c56b1363a3ddb26db4c4b2d9b4adc3a05fb
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/DockStation/dockstation/releases/download/v1.5.1/dockstation-setup-1.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DockStation/dockstation/releases/download/v1.5.1/dockstation-setup-1.5.1.exe
   InstallerSha256: ca7b287bcce8fd6138dc385821738c56b1363a3ddb26db4c4b2d9b4adc3a05fb
 ManifestType: installer
 ManifestVersion: 1.5.0

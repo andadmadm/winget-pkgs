@@ -7,7 +7,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/kubernetes/minikube/releases/download/v1.22.0/minikube-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/minikube/releases/download/v1.22.0/minikube-installer.exe
   InstallerSha256: 200C88286DEB28ECC5674DB3DC8560DC5A28A8ED1133941397DEE9FC44426A23
   InstallerLocale: en-US
   UpgradeBehavior: install

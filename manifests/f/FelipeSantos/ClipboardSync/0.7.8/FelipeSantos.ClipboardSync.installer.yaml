@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/felipecrs/clipboard-sync/releases/download/v0.7.8/Clipboard.Sync-0.7.8.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/felipecrs/clipboard-sync/releases/download/v0.7.8/Clipboard.Sync-0.7.8.Setup.exe
   InstallerSha256: ED4FA9DC3BA020E612080324B55D88B2137886F12F56D49454E5A89C82558009
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -16,7 +16,7 @@ InstallerSwitches:
   Custom: /norestart
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/moonlight-stream/moonlight-qt/releases/download/v4.2.0/MoonlightSetup-4.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moonlight-stream/moonlight-qt/releases/download/v4.2.0/MoonlightSetup-4.2.0.exe
   InstallerSha256: 9F2B829085B05A8DC65FD2BBCBD6A3FFF5833AB2AB87B27D1872E98AC77B3507
 ManifestType: installer
 ManifestVersion: 1.2.0

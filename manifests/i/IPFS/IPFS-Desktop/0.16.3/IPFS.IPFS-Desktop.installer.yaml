@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.16.3/IPFS-Desktop-Setup-0.16.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.16.3/IPFS-Desktop-Setup-0.16.3.exe
   InstallerSha256: 1E2EE2C0E01BA036286A25010176ABE82CA04B0935697FBA5408FCEE2DF811BF
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.16.3/IPFS-Desktop-Setup-0.16.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.16.3/IPFS-Desktop-Setup-0.16.3.exe
   InstallerSha256: 1E2EE2C0E01BA036286A25010176ABE82CA04B0935697FBA5408FCEE2DF811BF
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -16,15 +16,15 @@ Dependencies:
 PackageFamilyName: Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.22.2702.0/Microsoft.WindowsTerminalPreview_1.22.2702.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.22.2702.0/Microsoft.WindowsTerminalPreview_1.22.2702.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 9B9F76B6006EAA5EECF8FE8A931B9332450B84DB3F094D007825B818D515A4CA
   SignatureSha256: BE699E1C72C9423F843F856838C7A8D4C9DE5DD89AF365765D079248F93CDDD7
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.22.2702.0/Microsoft.WindowsTerminalPreview_1.22.2702.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.22.2702.0/Microsoft.WindowsTerminalPreview_1.22.2702.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 9B9F76B6006EAA5EECF8FE8A931B9332450B84DB3F094D007825B818D515A4CA
   SignatureSha256: BE699E1C72C9423F843F856838C7A8D4C9DE5DD89AF365765D079248F93CDDD7
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.22.2702.0/Microsoft.WindowsTerminalPreview_1.22.2702.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.22.2702.0/Microsoft.WindowsTerminalPreview_1.22.2702.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 9B9F76B6006EAA5EECF8FE8A931B9332450B84DB3F094D007825B818D515A4CA
   SignatureSha256: BE699E1C72C9423F843F856838C7A8D4C9DE5DD89AF365765D079248F93CDDD7
 ManifestType: installer

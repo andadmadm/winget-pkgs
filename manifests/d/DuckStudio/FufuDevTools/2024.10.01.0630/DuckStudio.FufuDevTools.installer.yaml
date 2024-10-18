@@ -20,10 +20,10 @@ Protocols:
 ReleaseDate: 2024-10-02
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.10.01.0630/Fufu_Dev_Tools_Setup_2024.10.01.0630.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.10.01.0630/Fufu_Dev_Tools_Setup_2024.10.01.0630.exe
   InstallerSha256: 2F785A4A5BC9FEBF282A267CA3D9819F8B8345AEA8786C70C106CCD1D12F7D69
 - Architecture: x64
-  InstallerUrl: https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.10.01.0630/Fufu_Dev_Tools_Setup_2024.10.01.0630.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Fufu_Dev_Tools/releases/download/2024.10.01.0630/Fufu_Dev_Tools_Setup_2024.10.01.0630.exe
   InstallerSha256: 2F785A4A5BC9FEBF282A267CA3D9819F8B8345AEA8786C70C106CCD1D12F7D69
 ManifestType: installer
 ManifestVersion: 1.6.0

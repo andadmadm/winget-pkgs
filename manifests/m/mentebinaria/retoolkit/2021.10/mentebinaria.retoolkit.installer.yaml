@@ -43,7 +43,7 @@ Commands:
 ReleaseDate: 2021-10-01
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/mentebinaria/retoolkit/releases/download/2021.10/retoolkit_2021.10_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mentebinaria/retoolkit/releases/download/2021.10/retoolkit_2021.10_setup.exe
   InstallerSha256: A8463A327D88CC471DB047D85D20D0C605290E9B1713FCCF885049CA7924D7C4
   ProductCode: '{BB46345D-F5E9-408E-AA39-64A5EDD92E30}_is1'
 ManifestType: installer

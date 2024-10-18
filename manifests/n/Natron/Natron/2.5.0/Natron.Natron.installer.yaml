@@ -11,14 +11,14 @@ ReleaseDate: 2022-12-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/NatronGitHub/Natron/releases/download/v2.5.0/Natron-2.5.0-Windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NatronGitHub/Natron/releases/download/v2.5.0/Natron-2.5.0-Windows-x86_64.zip
   InstallerSha256: CAED0B649FF2515B963F0B4FC009EB451A41D8BA3D6E5D4260253DD9E104C517
   InstallerSwitches:
     Custom: /CURRENTUSER
   ElevationRequirement: elevationRequired
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/NatronGitHub/Natron/releases/download/v2.5.0/Natron-2.5.0-Windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NatronGitHub/Natron/releases/download/v2.5.0/Natron-2.5.0-Windows-x86_64.zip
   InstallerSha256: CAED0B649FF2515B963F0B4FC009EB451A41D8BA3D6E5D4260253DD9E104C517
   InstallerSwitches:
     Custom: /ALLUSERS

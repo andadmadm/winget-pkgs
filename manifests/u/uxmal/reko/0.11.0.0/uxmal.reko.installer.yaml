@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/uxmal/reko/releases/download/version-0.11.0/Reko-0.11.0-x64-c93d2c59c8.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/uxmal/reko/releases/download/version-0.11.0/Reko-0.11.0-x64-c93d2c59c8.msi
   InstallerSha256: D2F2C15A97847E3053092611B382C7001FC2270B87E5BBD70166B7E8E529F0CA
   ProductCode: '{D99B33BB-C1E6-410C-BA7A-95AAFE44E32F}'
 ManifestType: installer

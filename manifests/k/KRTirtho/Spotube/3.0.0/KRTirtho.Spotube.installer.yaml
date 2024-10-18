@@ -10,13 +10,13 @@ ReleaseDate: 2023-07-02
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-windows-x86_64-setup.exe
   InstallerSha256: F64A30EB2631993A2DB54A43D60F49D6C012BFA959C6BFFEEC3B3A45509AA9F9
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-windows-x86_64-setup.exe
   InstallerSha256: F64A30EB2631993A2DB54A43D60F49D6C012BFA959C6BFFEEC3B3A45509AA9F9
   InstallerSwitches:
     Custom: /ALLUSERS

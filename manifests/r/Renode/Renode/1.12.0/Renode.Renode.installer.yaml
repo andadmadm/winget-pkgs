@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/renode/renode/releases/download/v1.12.0/renode_1.12.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/renode/renode/releases/download/v1.12.0/renode_1.12.0.msi
   InstallerSha256: 8FFFE700E56EA565AEE4010125A20C740F4DA4314A1FE1B5D583212A1856456C
   ProductCode: '{E395357E-9622-4340-9302-6B850C826E6E}'
   UpgradeBehavior: install

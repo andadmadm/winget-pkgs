@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/torakiki/pdfsam/releases/download/v5.0.2/pdfsam-5.0.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/torakiki/pdfsam/releases/download/v5.0.2/pdfsam-5.0.2.msi
   InstallerSha256: 06FAEC50FF4230C417E9F4B62C7B1B97A01AB451403E4C9709AF0012E2EC1C6B
   ProductCode: '{315C2CC4-4036-45AA-9D6B-010A3219EEC8}'
 ManifestType: installer

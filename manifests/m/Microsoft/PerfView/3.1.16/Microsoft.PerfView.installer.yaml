@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2024-10-11
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/perfview/releases/download/v3.1.16/PerfView.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/perfview/releases/download/v3.1.16/PerfView.exe
   InstallerSha256: A7B3744DBA4D127CF58B790BB7F8FC8048F4D797DFF1C4956E9DE8F435FDCE85
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/perfview/releases/download/v3.1.16/PerfView.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/perfview/releases/download/v3.1.16/PerfView.exe
   InstallerSha256: A7B3744DBA4D127CF58B790BB7F8FC8048F4D797DFF1C4956E9DE8F435FDCE85
 ManifestType: installer
 ManifestVersion: 1.6.0

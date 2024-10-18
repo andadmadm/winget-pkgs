@@ -4,7 +4,7 @@
 PackageIdentifier: Exercism.CLI
 PackageVersion: 3.1.0
 Installers:
-- InstallerUrl: https://github.com/exercism/cli/releases/download/v3.1.0/exercism-windows-32bit.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/exercism/cli/releases/download/v3.1.0/exercism-windows-32bit.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: exercism.exe
     PortableCommandAlias: exercism
   InstallerSha256: 865C63C6D4B85A19EE290925EA679B22ECF7AE02C397D1C609287A9D1F37CC8A
-- InstallerUrl: https://github.com/exercism/cli/releases/download/v3.1.0/exercism-windows-64bit.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/exercism/cli/releases/download/v3.1.0/exercism-windows-64bit.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

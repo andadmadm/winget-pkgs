@@ -8,7 +8,7 @@ Scope: user
 ReleaseDate: 2023-11-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/maximmax42/Discord-CustomRP/releases/download/1.17.16/CustomRP.1.17.16.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maximmax42/Discord-CustomRP/releases/download/1.17.16/CustomRP.1.17.16.exe
   InstallerSha256: 8A9A507148177332FE9937ACCC2EA0BF0A8D18D81C30631BB3BDABC9C0A947D3
 ManifestType: installer
 ManifestVersion: 1.5.0

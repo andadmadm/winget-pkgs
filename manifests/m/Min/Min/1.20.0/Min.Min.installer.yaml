@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/minbrowser/min/releases/download/v1.20.0/min-1.20.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/minbrowser/min/releases/download/v1.20.0/min-1.20.0-setup.exe
   InstallerSha256: 391ACD16C7538938393A173064EF647C574F4F08FC64A9899E4EBD078BF8B830
   UpgradeBehavior: install
 ManifestType: installer

@@ -7,7 +7,7 @@ MinimumOSVersion: 6.1.7600
 InstallerType: msi
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Qalculate/libqalculate/releases/download/v3.11.0/qalculate-3.11.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Qalculate/libqalculate/releases/download/v3.11.0/qalculate-3.11.0-x64.msi
   InstallerSha256: 27CEBB2943C0C9618013FA797BD6D55951F101F3D6ADE9650D81E15ADA1FBFC5
   ProductCode: '{790F2572-831B-4471-99A3-E783BA8CBC43}'
 ManifestType: installer

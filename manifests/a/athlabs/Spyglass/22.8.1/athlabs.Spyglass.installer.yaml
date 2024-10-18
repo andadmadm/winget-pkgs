@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/a5huynh/spyglass/releases/download/v2022.8.1/Spyglass_22.8.1_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/a5huynh/spyglass/releases/download/v2022.8.1/Spyglass_22.8.1_x64_en-US.msi
   InstallerSha256: ACB5BB6D0A9FAD5C895C3AC94770D0FA3F4B31832C1B952BC02470D401C8B801
   ProductCode: '{3F9C2DE6-4557-4714-9FBF-C0DB923169A6}'
 ManifestType: installer

@@ -19,13 +19,13 @@ Dependencies:
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/rocksdanister/lively/releases/download/v1.7.2.6/lively_setup_x86_full_v1726.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rocksdanister/lively/releases/download/v1.7.2.6/lively_setup_x86_full_v1726.exe
   InstallerSha256: 8BF189DC5A0CDAB5DB905CBFF4907D796D416F50DF82EAEDBC7E2C20E1A38CC2
   InstallerSwitches:
     Custom: /CURRENTUSER /NODEPENDENCIES
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/rocksdanister/lively/releases/download/v1.7.2.6/lively_setup_x86_full_v1726.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rocksdanister/lively/releases/download/v1.7.2.6/lively_setup_x86_full_v1726.exe
   InstallerSha256: 8BF189DC5A0CDAB5DB905CBFF4907D796D416F50DF82EAEDBC7E2C20E1A38CC2
   InstallerSwitches:
     Custom: /ALLUSERS /NODEPENDENCIES

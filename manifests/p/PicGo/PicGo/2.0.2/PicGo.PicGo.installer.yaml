@@ -13,13 +13,13 @@ ReleaseDate: 2019-01-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Molunerfinn/PicGo/releases/download/v2.0.2/picgo-setup-2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Molunerfinn/PicGo/releases/download/v2.0.2/picgo-setup-2.0.2.exe
   InstallerSha256: FA5780A4A0398C879B4C76FEA7262B73C298573095D84DCD09FE5D0701A1E4EB
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Molunerfinn/PicGo/releases/download/v2.0.2/picgo-setup-2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Molunerfinn/PicGo/releases/download/v2.0.2/picgo-setup-2.0.2.exe
   InstallerSha256: FA5780A4A0398C879B4C76FEA7262B73C298573095D84DCD09FE5D0701A1E4EB
   InstallerSwitches:
     Custom: /ALLUSERS

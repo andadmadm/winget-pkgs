@@ -13,13 +13,13 @@ ReleaseDate: 2024-03-07
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-218.240307.1/tutanota-desktop-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-218.240307.1/tutanota-desktop-win.exe
   InstallerSha256: 3CCE60369FF14D93229F739AD53771691424BA0248C380FCAB9F087EE4634C6E
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-218.240307.1/tutanota-desktop-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-218.240307.1/tutanota-desktop-win.exe
   InstallerSha256: 3CCE60369FF14D93229F739AD53771691424BA0248C380FCAB9F087EE4634C6E
   InstallerSwitches:
     Custom: /ALLUSERS

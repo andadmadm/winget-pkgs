@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: slm
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RevoLand/Steam-Library-Manager/releases/download/v1.7.1.0/Steam.Library.Manager.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/RevoLand/Steam-Library-Manager/releases/download/v1.7.1.0/Steam.Library.Manager.zip
   InstallerSha256: DFCF9CFF89B7D0C682F3B895A64397BFF307ECA853D340F8DAC4D58C2C0F70F3
 ManifestType: installer
 ManifestVersion: 1.5.0

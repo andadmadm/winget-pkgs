@@ -8,10 +8,10 @@ Commands:
 - glazewm
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/glzr-io/glazewm/releases/download/v2.1.1/GlazeWM_x86_2.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/glzr-io/glazewm/releases/download/v2.1.1/GlazeWM_x86_2.1.1.exe
   InstallerSha256: 0CBE283E9890B0B465E24196B8525C6C64FEB83B4652F5B8985DA71668D85827
 - Architecture: x64
-  InstallerUrl: https://github.com/glzr-io/glazewm/releases/download/v2.1.1/GlazeWM_x64_2.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/glzr-io/glazewm/releases/download/v2.1.1/GlazeWM_x64_2.1.1.exe
   InstallerSha256: A534B649CF0076AD024688681AD01CBAF44E23CACA1FC46F9A208202FF640C2C
 ManifestType: installer
 ManifestVersion: 1.5.0

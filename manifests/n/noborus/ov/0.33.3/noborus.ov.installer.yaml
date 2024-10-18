@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ov.exe
         PortableCommandAlias: ov
-    InstallerUrl: https://github.com/noborus/ov/releases/download/v0.33.3/ov_0.33.3_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/noborus/ov/releases/download/v0.33.3/ov_0.33.3_windows_arm64.zip
     InstallerSha256: 928ed8a223e1a8a2e551bab14bfbd4173c9895be08a5d40531c727caee2b8bfc
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ov.exe
         PortableCommandAlias: ov
-    InstallerUrl: https://github.com/noborus/ov/releases/download/v0.33.3/ov_0.33.3_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/noborus/ov/releases/download/v0.33.3/ov_0.33.3_windows_amd64.zip
     InstallerSha256: 9a9a220e60297c2d6e40af9d788e2848513399dae7ccab09cecdfcdc28ca7ade
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ov.exe
         PortableCommandAlias: ov
-    InstallerUrl: https://github.com/noborus/ov/releases/download/v0.33.3/ov_0.33.3_windows_386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/noborus/ov/releases/download/v0.33.3/ov_0.33.3_windows_386.zip
     InstallerSha256: 95f671edffd9978aac2aa8d603a3242a4c57f10cb3701f9bbf8e717f1be99f96
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

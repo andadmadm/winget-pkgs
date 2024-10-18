@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Dummerle/Rare/releases/download/1.7.0/Rare-1.7.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Dummerle/Rare/releases/download/1.7.0/Rare-1.7.0.msi
   InstallerSha256: FB6B6CC53EF5FE00FFAF2150D121E99220265CFE20648BB7EF111E56FF285097
   ProductCode: '{42275ADD-9085-4A96-AD5E-5D34ED2A1030}'
 ManifestType: installer

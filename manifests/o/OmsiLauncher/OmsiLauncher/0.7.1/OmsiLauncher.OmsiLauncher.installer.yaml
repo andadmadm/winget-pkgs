@@ -8,7 +8,7 @@ MinimumOSVersion: 10.0.0.0
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/NyCodeGHG/omsi-launcher/releases/download/v0.7.1/omsi-launcher-0.7.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/NyCodeGHG/omsi-launcher/releases/download/v0.7.1/omsi-launcher-0.7.1.msi
   InstallerSha256: 78BF5B7DEBE597A9616709970D37BE42797A13922B0D87F36962EFF13DD87A28
   ProductCode: '{18356D3B-CEA6-3D0F-96BB-FDD230F89BC1}'
 ManifestType: installer

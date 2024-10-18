@@ -20,11 +20,11 @@ ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
   InstallerSha256: D7059A66B4598384CCD7DF4556AD59A516EE99A722C0D38E5DE75C1BAD39BA6C
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
   InstallerSha256: D7059A66B4598384CCD7DF4556AD59A516EE99A722C0D38E5DE75C1BAD39BA6C
 ManifestType: installer
 ManifestVersion: 1.4.0

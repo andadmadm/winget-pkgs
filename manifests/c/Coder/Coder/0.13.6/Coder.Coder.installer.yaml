@@ -6,7 +6,7 @@ PackageVersion: 0.13.6
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/coder/coder/releases/download/v0.13.6/coder_0.13.6_windows_amd64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/coder/coder/releases/download/v0.13.6/coder_0.13.6_windows_amd64_installer.exe
   InstallerSha256: 6D78961C5A3FB10720D86E1A9196D3D8BEC59599B98B6C4200991C7576748BA2
 ManifestType: installer
 ManifestVersion: 1.2.0

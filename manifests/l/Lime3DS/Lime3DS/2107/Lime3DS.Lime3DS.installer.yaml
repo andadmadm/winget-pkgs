@@ -9,7 +9,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: lime3ds-2107-windows-msvc\lime.exe
-  InstallerUrl: https://github.com/Lime3DS/Lime3DS/releases/download/2107/lime3ds-2107-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lime3DS/Lime3DS/releases/download/2107/lime3ds-2107-windows-msvc.zip
   InstallerSha256: 9212249DA4BEEC252A96567376C118112F19250DA9149B8658C4FD5B1E74FD99
   Dependencies:
     PackageDependencies:

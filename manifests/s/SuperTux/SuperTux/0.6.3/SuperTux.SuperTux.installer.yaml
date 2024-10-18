@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{93E16F4E-0A68-422A-8ADC-47BE5B9433B2}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/SuperTux/supertux/releases/download/v0.6.3/SuperTux-v0.6.3-win32.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/SuperTux/supertux/releases/download/v0.6.3/SuperTux-v0.6.3-win32.msi
   InstallerSha256: 8DA658FA2B055E98685814575D372D1CE96D779AB9DEA83CDED9C97B2E66DC82
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stacks-task-manager/stacks/releases/download/v1.5.6/Stacks-Setup-1.5.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stacks-task-manager/stacks/releases/download/v1.5.6/Stacks-Setup-1.5.6.exe
   InstallerSha256: 174AB29BAE78E7D1A3C104FBCCC9A505A2CF810D2A1F130408A8F58DC5B13C2F
 ManifestType: installer
 ManifestVersion: 1.0.0

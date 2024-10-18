@@ -9,7 +9,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: AssetRipper.exe
-  InstallerUrl: https://github.com/AssetRipper/AssetRipper/releases/download/0.3.1.0/AssetRipper_win_x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AssetRipper/AssetRipper/releases/download/0.3.1.0/AssetRipper_win_x64.zip
   InstallerSha256: C481528671F9B04DD8786DE069AA2A244EAF767452B134C0EEE70FCC360A7D6F
 ManifestType: installer
 ManifestVersion: 1.4.0

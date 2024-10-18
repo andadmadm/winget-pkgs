@@ -9,10 +9,10 @@ Commands:
 - cloud-nuke
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.35.0/cloud-nuke_windows_amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.35.0/cloud-nuke_windows_amd64.exe
   InstallerSha256: 6D2B269DF0A15EF0FFB916E187552B0C2917408B4BF12E7BD4EEACC2998E16AD
 - Architecture: x86
-  InstallerUrl: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.35.0/cloud-nuke_windows_386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.35.0/cloud-nuke_windows_386.exe
   InstallerSha256: 27785FC9070976B694C67B575755C6B370A46B8CE90AD84768F533604EB8D056
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -15,13 +15,13 @@ FileExtensions:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.3.3/dbeaver-ce-21.3.3-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.3.3/dbeaver-ce-21.3.3-x86_64-setup.exe
   InstallerSha256: 80F70593D0855DD7900CBC92175220164BDD7DE5567FA6BF2D2F8CA7F9BD61C8
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.3.3/dbeaver-ce-21.3.3-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.3.3/dbeaver-ce-21.3.3-x86_64-setup.exe
   InstallerSha256: 80F70593D0855DD7900CBC92175220164BDD7DE5567FA6BF2D2F8CA7F9BD61C8
   InstallerSwitches:
     Custom: /ALLUSERS

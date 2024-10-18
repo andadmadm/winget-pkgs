@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-07-12
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/namazso/SecureUxTheme/releases/download/v2.2.0/ThemeTool.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/namazso/SecureUxTheme/releases/download/v2.2.0/ThemeTool.exe
   InstallerSha256: F4C17504ABEFB71EB0C21D022A9DFB11E6A7CE58E0F281CE0138DE76D570B9DC
 ManifestType: installer
 ManifestVersion: 1.6.0

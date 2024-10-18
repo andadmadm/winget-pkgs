@@ -18,10 +18,10 @@ Protocols:
 - tg
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v3.2.5/tsetup-x64.3.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v3.2.5/tsetup-x64.3.2.5.exe
   InstallerSha256: F61966D3B08BD8BE20AB4CBF69E737D188E3822D1D65A15DF720E188A14F9412
 - Architecture: x86
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v3.2.5/tsetup.3.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v3.2.5/tsetup.3.2.5.exe
   InstallerSha256: D034A9316039C65AFDE57F89E7D9F7EA2CE906D62621F2D879E0D8ADDA01B9FA
 ManifestType: installer
 ManifestVersion: 1.0.0

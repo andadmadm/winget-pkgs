@@ -14,7 +14,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/sabnzbd/sabnzbd/releases/download/3.7.0/SABnzbd-3.7.0-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sabnzbd/sabnzbd/releases/download/3.7.0/SABnzbd-3.7.0-win-setup.exe
   InstallerSha256: 380C775C6FD6A65D1C84B4F49FBA04BD7FBFE23BCBE7881F64E72E8B4A68473B
 ManifestType: installer
 ManifestVersion: 1.2.0

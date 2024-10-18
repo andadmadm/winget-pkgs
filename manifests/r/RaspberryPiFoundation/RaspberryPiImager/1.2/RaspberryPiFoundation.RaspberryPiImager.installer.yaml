@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/raspberrypi/rpi-imager/releases/download/v1.2/imager.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/raspberrypi/rpi-imager/releases/download/v1.2/imager.exe
   InstallerSha256: F2252626D43E1B6340E6D05354D73DBEE4F9E859179A4C4C5E584A965AD04C14
 ManifestType: installer
 ManifestVersion: 1.1.0

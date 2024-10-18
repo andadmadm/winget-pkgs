@@ -6,7 +6,7 @@ PackageVersion: "0.5"
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/freeorion/freeorion/releases/download/v0.5/FreeOrion_v0.5_Win32_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/freeorion/freeorion/releases/download/v0.5/FreeOrion_v0.5_Win32_Setup.exe
   InstallerSha256: 939977A3EF2472F3D5D286EAFA55FD059F120792ECE86B12ED7FD5295F0F89F2
 ManifestType: installer
 ManifestVersion: 1.4.0

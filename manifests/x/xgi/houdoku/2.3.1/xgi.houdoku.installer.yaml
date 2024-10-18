@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.3.1/Houdoku-Setup-2.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.3.1/Houdoku-Setup-2.3.1.exe
   InstallerSha256: 83FFA86232987B62B596A4504DED78BC2382737BDE75CE990D3B71E4F8832601
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.3.1/Houdoku-Setup-2.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.3.1/Houdoku-Setup-2.3.1.exe
   InstallerSha256: 83FFA86232987B62B596A4504DED78BC2382737BDE75CE990D3B71E4F8832601
   InstallerSwitches:
     Custom: /ALLUSERS

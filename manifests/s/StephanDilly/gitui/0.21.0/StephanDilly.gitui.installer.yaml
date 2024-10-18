@@ -15,7 +15,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/extrawurst/gitui/releases/download/v0.21.0/gitui.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/extrawurst/gitui/releases/download/v0.21.0/gitui.msi
   InstallerSha256: AD73381249701EFC7D0E712378B08C5D893D80C1EE747D264D1795117D37190A
   ProductCode: '{4290D830-8139-405D-BB84-02CEA813170C}'
 ManifestType: installer

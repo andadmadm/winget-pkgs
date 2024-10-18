@@ -14,13 +14,13 @@ ReleaseDate: 2024-01-09
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.12.1/siyuan-2.12.1-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.12.1/siyuan-2.12.1-win.exe
   InstallerSha256: 2F73EB13B710337163F9EEAE0F1E6863D90E78D19101320553EDF62C2F8126A9
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.12.1/siyuan-2.12.1-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.12.1/siyuan-2.12.1-win.exe
   InstallerSha256: 2F73EB13B710337163F9EEAE0F1E6863D90E78D19101320553EDF62C2F8126A9
   InstallerSwitches:
     Custom: /allusers

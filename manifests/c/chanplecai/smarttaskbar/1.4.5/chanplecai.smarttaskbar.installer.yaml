@@ -6,7 +6,7 @@ PackageIdentifier: chanplecai.smarttaskbar
 PackageVersion: 1.4.5
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Oliviaophia/SmartTaskbar/releases/download/v1.4.5/SmartTaskbar_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Oliviaophia/SmartTaskbar/releases/download/v1.4.5/SmartTaskbar_Setup.exe
   InstallerSha256: a7b08377906a3d41bfd54141f8bba8bd5c81cc07e157d7cdb63b23f71fde9a98
 ManifestType: installer
 ManifestVersion: 1.5.0

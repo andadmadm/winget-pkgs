@@ -8,7 +8,7 @@ Scope: user
 Installers:
 - Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/mar10/wsgidav/releases/download/v4.1.0/WsgiDAV-4.1.0.0-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mar10/wsgidav/releases/download/v4.1.0/WsgiDAV-4.1.0.0-win64.msi
   InstallerSha256: 8AB6EA8976944F62B859A5473089D7099FF601487FEDEBB1F27FB1BB9797CEEC
   ProductCode: '{F8112A23-81BE-4AC6-8874-3ADBAAF8984D}'
 ManifestType: installer

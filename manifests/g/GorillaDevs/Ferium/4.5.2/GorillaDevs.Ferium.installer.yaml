@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-02-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gorilla-devs/ferium/releases/download/v4.5.2/ferium-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gorilla-devs/ferium/releases/download/v4.5.2/ferium-windows-msvc.zip
   InstallerSha256: 6c3ad11d1463dc4157739166fa72448190891077b2c9fc6d07eb9a2033ee8d87
   Dependencies:
     PackageDependencies:

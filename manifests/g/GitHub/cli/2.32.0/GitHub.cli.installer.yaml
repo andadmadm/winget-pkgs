@@ -15,7 +15,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/cli/cli/releases/download/v2.32.0/gh_2.32.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v2.32.0/gh_2.32.0_windows_amd64.msi
   InstallerSha256: AB528494DBA8E2351859A3AC8CF8C9A88ACE3C05BDA25DEA838320AB07F37BB0
   ProductCode: "{458E038F-D662-4964-A623-A30F9F88F9CE}"
 ManifestType: installer

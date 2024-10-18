@@ -17,7 +17,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/igoravl/TfsCmdlets/releases/download/v2.1.1%2B2511.1/TfsCmdlets-2.1.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/igoravl/TfsCmdlets/releases/download/v2.1.1%2B2511.1/TfsCmdlets-2.1.1.msi
   InstallerSha256: 0D16DF780462F0356ECC04240A0E907179EB30EA284B02DDF62604B2818C6E81
   ProductCode: '{CED1785B-4A4F-433E-9CEC-CD425EB51136}'
 ManifestType: installer

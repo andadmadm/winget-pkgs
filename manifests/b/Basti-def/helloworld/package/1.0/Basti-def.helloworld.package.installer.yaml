@@ -10,7 +10,7 @@ Dependencies:
   PackageDependencies:
      - PackageIdentifier: Microsoft.WindowsTerminal
 Installers:
-- InstallerUrl: https://github.com/Basti-def/helloworld-test/releases/download/helloworld/helloworld.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/Basti-def/helloworld-test/releases/download/helloworld/helloworld.exe
   Architecture: x64
   InstallerSha256: FECA806B5C56229F7EBC22E8CDAC1EB8AA866E73212B5E19CE4EFBC6AF4264EB
 ManifestType: installer

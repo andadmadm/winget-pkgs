@@ -13,13 +13,13 @@ InstallerSwitches:
   SilentWithProgress: /SILENT
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Chatterino/chatterino2/releases/download/v2.4.6/Chatterino.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chatterino/chatterino2/releases/download/v2.4.6/Chatterino.Installer.exe
   InstallerSha256: 066712A08126243402CC707565ACCFEACC26BB32D8AC75367E99A4AE1AEC2F6F
   Scope: machine
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
-  InstallerUrl: https://github.com/Chatterino/chatterino2/releases/download/v2.4.6/Chatterino.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chatterino/chatterino2/releases/download/v2.4.6/Chatterino.Installer.exe
   InstallerSha256: 066712A08126243402CC707565ACCFEACC26BB32D8AC75367E99A4AE1AEC2F6F
   Scope: user
   InstallerSwitches:

@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-10-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/usebruno/bruno/releases/download/v1.33.1/bruno_1.33.1_x64_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/usebruno/bruno/releases/download/v1.33.1/bruno_1.33.1_x64_win.exe
   InstallerSha256: 340403E3236018ED7DFB7785CB3A11F65F0DB5B8316AC32E29526D18E02135CC
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -24,7 +24,7 @@ UpgradeBehavior: install
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.17.3/floorp-win64.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.17.3/floorp-win64.installer.exe
   InstallerSha256: F11C8533C079174D68ECC1081B6D5064A2BA32BB2BEA477F787235AD6A65CF1A
 ManifestType: installer
 ManifestVersion: 1.6.0

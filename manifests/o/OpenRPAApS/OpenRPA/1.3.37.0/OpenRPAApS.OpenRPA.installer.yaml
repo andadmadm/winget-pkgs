@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/open-rpa/openrpa/releases/download/1.3.37/OpenRPA.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/open-rpa/openrpa/releases/download/1.3.37/OpenRPA.msi
   InstallerSha256: 1E34AB2919C1A11F9B31D55C678A30897557C204702486A50AE283626C8B49FD
   ProductCode: '{AE072734-D5AB-41F7-BCDF-A9DDE92E969A}'
 ManifestType: installer

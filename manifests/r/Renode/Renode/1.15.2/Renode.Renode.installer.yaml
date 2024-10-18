@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{7E549C3F-A15A-4101-8071-9D52A16A28F6}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/renode/renode/releases/download/v1.15.2/renode_1.15.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/renode/renode/releases/download/v1.15.2/renode_1.15.2.msi
   InstallerSha256: 6DC9E18BA120E71263980C84350C8929C88C7133BE4BA8A131636DFBA4B1F41A
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -30,7 +30,7 @@ Dependencies:
     MinimumVersion: 14.28.29913.0
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/dothq/browser-desktop/releases/download/87.0-2021-05-28/dot-87.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dothq/browser-desktop/releases/download/87.0-2021-05-28/dot-87.0.exe
   InstallerSha256: E63543C00DA237EEE7D07EE8F794CB6E79857B2C5C2085B376FDC897E3843ADE
 ManifestType: installer
 ManifestVersion: 1.6.0

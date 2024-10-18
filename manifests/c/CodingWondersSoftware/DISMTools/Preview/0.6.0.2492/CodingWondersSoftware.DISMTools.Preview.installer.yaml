@@ -6,7 +6,7 @@ PackageVersion: 0.6.0.2492
 InstallerType: inno
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/CodingWonders/DISMTools/releases/download/v0.6_pre_2492/dt_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/CodingWonders/DISMTools/releases/download/v0.6_pre_2492/dt_setup.exe
   InstallerSha256: 276E899B6139C838ACDBE6996A39D94820C4B28A5803937781D98F46780F1525
 ManifestType: installer
 ManifestVersion: 1.6.0

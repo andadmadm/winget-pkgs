@@ -8,7 +8,7 @@ Commands:
 - spectral
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stoplightio/spectral/releases/download/v6.11.0/spectral.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stoplightio/spectral/releases/download/v6.11.0/spectral.exe
   InstallerSha256: 0661BB8DF7212A3CEB8B7BC1E0050823FFF033972D51ED359031196349A780B7
 ManifestType: installer
 ManifestVersion: 1.5.0

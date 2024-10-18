@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/binance/desktop/releases/download/v1.19.0/binance-setup-1.19.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binance/desktop/releases/download/v1.19.0/binance-setup-1.19.0.exe
   InstallerSha256: 07C01D6DEFD4DDF7DBB76532729E45F4CF2622A6B82B75EC9EFB6B622019B525
   UpgradeBehavior: install
 ManifestType: installer

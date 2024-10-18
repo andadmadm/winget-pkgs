@@ -41,11 +41,11 @@ AppsAndFeaturesEntries:
   ProductCode: LightBurn_is1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LightBurnSoftware/deployment/releases/download/1.3.00/LightBurn-v1.3.00.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LightBurnSoftware/deployment/releases/download/1.3.00/LightBurn-v1.3.00.exe
   InstallerSha256: A870180C799BEBB80158C5E4D4A49A66D0FE2DA5D7DB65DE0828B3E225433C75
   ProductCode: LightBurn_is1
 - Architecture: x86
-  InstallerUrl: https://github.com/LightBurnSoftware/deployment/releases/download/1.3.00/LightBurn-32Bit-v1.3.00.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LightBurnSoftware/deployment/releases/download/1.3.00/LightBurn-32Bit-v1.3.00.exe
   InstallerSha256: AC428A69FA8C63EF17BDF0C62D97E6C26EA6CEDF5E0BC66453EA55970A0DA66D
   ProductCode: LightBurn_is1
 ManifestType: installer

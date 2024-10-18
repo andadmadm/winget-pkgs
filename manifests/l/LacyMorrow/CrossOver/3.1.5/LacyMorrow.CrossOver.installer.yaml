@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lacymorrow/crossover/releases/download/v3.1.5/CrossOver-3.1.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lacymorrow/crossover/releases/download/v3.1.5/CrossOver-3.1.5.exe
   InstallerSha256: 4427DEA1F1C3C9B0EA78163F302E7CFBCA5096B4D50690C6D5E177E912B8612E
 ManifestType: installer
 ManifestVersion: 1.4.0

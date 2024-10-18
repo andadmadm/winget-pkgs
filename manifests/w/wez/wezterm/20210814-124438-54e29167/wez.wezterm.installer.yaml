@@ -8,7 +8,7 @@ InstallerType: inno
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/wez/wezterm/releases/download/20210814-124438-54e29167/WezTerm-20210814-124438-54e29167-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/wez/wezterm/releases/download/20210814-124438-54e29167/WezTerm-20210814-124438-54e29167-setup.exe
   InstallerSha256: D9B44378C4E566B3143752ABE5E145D69A7FB9B111BD4EC8BDC86DBDB7CAE072
 ManifestType: installer
 ManifestVersion: 1.0.0

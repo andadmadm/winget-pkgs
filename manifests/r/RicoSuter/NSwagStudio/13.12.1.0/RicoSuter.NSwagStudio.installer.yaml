@@ -5,7 +5,7 @@ InstallerType: msi
 Installers:
 - Architecture: x86
   InstallerType: msi
-  InstallerUrl: https://github.com/RicoSuter/NSwag/releases/download/NSwag-Build-1136/NSwagStudio.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RicoSuter/NSwag/releases/download/NSwag-Build-1136/NSwagStudio.msi
   InstallerSha256: 0435CF929987435ABBBA73260F3E3C90D75716368EF421153F9F4D357E06EE73
   ProductCode: "{87C6463E-D989-4622-816B-0318A2A49408}"
 ManifestType: installer

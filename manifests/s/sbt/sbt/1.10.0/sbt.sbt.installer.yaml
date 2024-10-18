@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
   Publisher: Scala Center
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/sbt/sbt/releases/download/v1.10.0/sbt-1.10.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sbt/sbt/releases/download/v1.10.0/sbt-1.10.0.msi
   InstallerSha256: 72A76AA9F03B9A6873D20BE8A7C540C5734EC910468300FB0CEE1FFE92F98764
 ManifestType: installer
 ManifestVersion: 1.6.0

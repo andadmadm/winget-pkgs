@@ -11,7 +11,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Serraniel/DiscordMediaLoader/releases/download/v1.3.0.0/Discord_Media_Loader_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Serraniel/DiscordMediaLoader/releases/download/v1.3.0.0/Discord_Media_Loader_Setup.exe
   InstallerSha256: 0A0FE038F655E9BC6343A9A6F43F2AECA1EF90EE7CE61DB0D822CC3C76908855
 ManifestType: installer
 ManifestVersion: 1.1.0

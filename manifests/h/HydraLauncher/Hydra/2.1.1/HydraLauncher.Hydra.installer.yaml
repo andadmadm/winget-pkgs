@@ -12,13 +12,13 @@ ReleaseDate: 2024-09-15
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/hydralauncher/hydra/releases/download/v2.1.1/hydralauncher-2.1.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydralauncher/hydra/releases/download/v2.1.1/hydralauncher-2.1.1-setup.exe
   InstallerSha256: C8C19B0D5E580267FF742C16C296E626CBF6C000CB3FB49177749DC2B307B72B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/hydralauncher/hydra/releases/download/v2.1.1/hydralauncher-2.1.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydralauncher/hydra/releases/download/v2.1.1/hydralauncher-2.1.1-setup.exe
   InstallerSha256: C8C19B0D5E580267FF742C16C296E626CBF6C000CB3FB49177749DC2B307B72B
   InstallerSwitches:
     Custom: /ALLUSERS

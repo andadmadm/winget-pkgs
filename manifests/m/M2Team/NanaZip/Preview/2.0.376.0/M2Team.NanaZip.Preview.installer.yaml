@@ -62,15 +62,15 @@ PackageFamilyName: 40174MouriNaruto.NanaZipPreview_gnj4mf6z9tkrc
 ReleaseDate: 2022-09-12
 Installers:
 - Architecture: arm64
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/2.0.376/40174MouriNaruto.NanaZipPreview_2.0.376.0_gnj4mf6z9tkrc.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/2.0.376/40174MouriNaruto.NanaZipPreview_2.0.376.0_gnj4mf6z9tkrc.msixbundle
   InstallerSha256: A741A9D1D73B3ADBE3980E7338FC45148FA591DADC1F644C29F912BD7E7A15CF
   SignatureSha256: BE427F343AEAEBCEC8A473E9FD0646E95371801CA2B2E5D75844EBE375805C83
 - Architecture: x86
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/2.0.376/40174MouriNaruto.NanaZipPreview_2.0.376.0_gnj4mf6z9tkrc.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/2.0.376/40174MouriNaruto.NanaZipPreview_2.0.376.0_gnj4mf6z9tkrc.msixbundle
   InstallerSha256: A741A9D1D73B3ADBE3980E7338FC45148FA591DADC1F644C29F912BD7E7A15CF
   SignatureSha256: BE427F343AEAEBCEC8A473E9FD0646E95371801CA2B2E5D75844EBE375805C83
 - Architecture: x64
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/2.0.376/40174MouriNaruto.NanaZipPreview_2.0.376.0_gnj4mf6z9tkrc.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/2.0.376/40174MouriNaruto.NanaZipPreview_2.0.376.0_gnj4mf6z9tkrc.msixbundle
   InstallerSha256: A741A9D1D73B3ADBE3980E7338FC45148FA591DADC1F644C29F912BD7E7A15CF
   SignatureSha256: BE427F343AEAEBCEC8A473E9FD0646E95371801CA2B2E5D75844EBE375805C83
 ManifestType: installer

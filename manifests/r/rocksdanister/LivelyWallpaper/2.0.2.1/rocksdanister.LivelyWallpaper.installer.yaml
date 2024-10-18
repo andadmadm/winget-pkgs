@@ -19,13 +19,13 @@ ReleaseDate: 2022-06-10
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/rocksdanister/lively/releases/download/v2.0.2.1/lively_setup_x86_full_v2021.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rocksdanister/lively/releases/download/v2.0.2.1/lively_setup_x86_full_v2021.exe
   InstallerSha256: 66FEA3857D50F9F4DBE2C6DF2630D567DF283067CB4B90F36C27C3C9CC1D90D4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/rocksdanister/lively/releases/download/v2.0.2.1/lively_setup_x86_full_v2021.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rocksdanister/lively/releases/download/v2.0.2.1/lively_setup_x86_full_v2021.exe
   InstallerSha256: 66FEA3857D50F9F4DBE2C6DF2630D567DF283067CB4B90F36C27C3C9CC1D90D4
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -4,7 +4,7 @@
 PackageIdentifier: Mr1cecream.Modbreeze
 PackageVersion: 0.4.0
 Installers:
-- InstallerUrl: https://github.com/Mr1cecream/Modbreeze/releases/download/v0.4.0/modbreeze-windows-x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/Mr1cecream/Modbreeze/releases/download/v0.4.0/modbreeze-windows-x86_64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -13,7 +13,7 @@ Installers:
     PortableCommandAlias: godot
   - RelativeFilePath: Godot_v4.3-stable_mono_win32/Godot_v4.3-stable_mono_win32_console.exe
     PortableCommandAlias: godot_console
-  InstallerUrl: https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_mono_win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_mono_win32.zip
   InstallerSha256: 3E8D9B2EA62237852A582D1F81BF428620E5194F86A414F7B032BE6759ACD984
 - Architecture: x64
   NestedInstallerFiles:
@@ -21,7 +21,7 @@ Installers:
     PortableCommandAlias: godot
   - RelativeFilePath: Godot_v4.3-stable_mono_win64/Godot_v4.3-stable_mono_win64_console.exe
     PortableCommandAlias: godot_console
-  InstallerUrl: https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_mono_win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_mono_win64.zip
   InstallerSha256: 63A214ACEFED9A2DF6C2BEB0808AD0B4CFBC306AC5B4AACB7DCB33C344330006
 ManifestType: installer
 ManifestVersion: 1.6.0

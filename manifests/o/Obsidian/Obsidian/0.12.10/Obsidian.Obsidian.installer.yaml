@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v0.12.10/Obsidian.0.12.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v0.12.10/Obsidian.0.12.10.exe
   InstallerSha256: E8BE4E3F589FC5525B711DD9A3878AE22984DC6081BA5DC7807827A445C2792A
   UpgradeBehavior: install
 ManifestType: installer

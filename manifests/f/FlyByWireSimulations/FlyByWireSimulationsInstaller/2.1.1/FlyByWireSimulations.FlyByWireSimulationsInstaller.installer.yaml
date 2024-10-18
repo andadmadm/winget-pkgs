@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/flybywiresim/installer/releases/download/v2.1.1/FlyByWire_Installer_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/flybywiresim/installer/releases/download/v2.1.1/FlyByWire_Installer_Setup.exe
   InstallerSha256: 3FB1E2E2B0D77C4FF1A993EA0B10B06767B58B021D81A7CD373D2338FB899966
 ManifestType: installer
 ManifestVersion: 1.1.0

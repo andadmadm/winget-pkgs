@@ -11,7 +11,7 @@ Scope: user
 ReleaseDate: 2022-02-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/martinet101/ElevenClock/releases/download/3.2.3/ElevenClock.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinet101/ElevenClock/releases/download/3.2.3/ElevenClock.Installer.exe
   InstallerSha256: FDD881E07C66F34ADC6734B90019661696F6286A4E6D18E4FE4EFF826A5739ED
 ManifestType: installer
 ManifestVersion: 1.1.0

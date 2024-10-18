@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.2.0/Sigma.file.manager.1.2.0.Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.2.0/Sigma.file.manager.1.2.0.Windows.exe
   InstallerSha256: 991BC4174C3996A8A982A73444E96701E386362A8FE203AB76ADAF949189E2CD
   UpgradeBehavior: install
 ManifestType: installer

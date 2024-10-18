@@ -48,7 +48,7 @@ FileExtensions:
 ReleaseDate: 2020-07-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sc0ty/subsync/releases/download/0.16/subsync-0.16.0-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sc0ty/subsync/releases/download/0.16/subsync-0.16.0-amd64.msi
   InstallerSha256: CDC0998D4084608C604685323C24FBFD20C410DE4F833C2FC564A3E02B1BE436
   ProductCode: '{B4689409-FE7C-46F2-B8A7-9F4A26906056}'
 ManifestType: installer

@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.23/GDLauncher-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.23/GDLauncher-win-setup.exe
   InstallerSha256: 45D438DE0226FF8B74F38F2FE258E28B3AD97AFCD8C7AEA3A195154A74A2850E
   AppsAndFeaturesEntries:
   - DisplayName: GDLauncher 1.1.23

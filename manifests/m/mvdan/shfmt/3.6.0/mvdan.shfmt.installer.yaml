@@ -11,10 +11,10 @@ FileExtensions:
 ReleaseDate: 2022-12-12
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/mvdan/sh/releases/download/v3.6.0/shfmt_v3.6.0_windows_386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mvdan/sh/releases/download/v3.6.0/shfmt_v3.6.0_windows_386.exe
   InstallerSha256: 3753ABFACA1BEAF80A81E084C7947E60E2A08076270950D76197F4997FC122D0
 - Architecture: x64
-  InstallerUrl: https://github.com/mvdan/sh/releases/download/v3.6.0/shfmt_v3.6.0_windows_amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mvdan/sh/releases/download/v3.6.0/shfmt_v3.6.0_windows_amd64.exe
   InstallerSha256: 18122D910BA434BE366588F37C302C309CDE4CA5403F93285254A3CF96839D01
 ManifestType: installer
 ManifestVersion: 1.2.0

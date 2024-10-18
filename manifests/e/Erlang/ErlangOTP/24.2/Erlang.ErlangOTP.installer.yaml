@@ -14,11 +14,11 @@ FileExtensions:
 - hrl
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-24.2/otp_win64_24.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-24.2/otp_win64_24.2.exe
   InstallerSha256: C22052C4920F06A9044F514A427B1C4116DA6DB6D6D6070EEDEB2955F1F6869B
   ProductCode: Erlang OTP 24 (12.2)
 - Architecture: x86
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-24.2/otp_win32_24.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-24.2/otp_win32_24.2.exe
   InstallerSha256: 608C4375E6695FBBD53CF478E41C62AEF820F73E8DE5F16C3885A277CBFB31EA
   ProductCode: Erlang OTP 24 (12.2)
 ManifestType: installer

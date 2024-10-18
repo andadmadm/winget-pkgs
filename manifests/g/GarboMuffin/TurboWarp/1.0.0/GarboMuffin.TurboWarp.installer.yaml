@@ -18,25 +18,25 @@ FileExtensions:
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-ia32.exe
   InstallerSha256: E2DBE4A027A68254EEBF7AFDC3AE0FA0A9A6F336242E4B6025BC16DBBB783F85
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-ia32.exe
   InstallerSha256: E2DBE4A027A68254EEBF7AFDC3AE0FA0A9A6F336242E4B6025BC16DBBB783F85
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-x64.exe
   InstallerSha256: B48D2D53E663ADDD236E22E23F453F6A4FA4EE0D8F8C5D5B85FB2B2B6C95C215
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TurboWarp/desktop/releases/download/v1.0.0/TurboWarp-Setup-1.0.0-x64.exe
   InstallerSha256: B48D2D53E663ADDD236E22E23F453F6A4FA4EE0D8F8C5D5B85FB2B2B6C95C215
   InstallerSwitches:
     Custom: /ALLUSERS

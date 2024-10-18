@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DRSchlaubi/mcserv/releases/download/v0.0.6/mcserv-0.0.6.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DRSchlaubi/mcserv/releases/download/v0.0.6/mcserv-0.0.6.msi
   InstallerSha256: E25860C824E3D7F251B3215D75B616671C42FAA0CE170A95D49204D5811128C7
   ProductCode: '{F533613B-2F56-4E49-A8CC-EFD1BF1DD985}'
 ManifestType: installer

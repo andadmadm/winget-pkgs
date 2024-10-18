@@ -13,13 +13,13 @@ ReleaseDate: 2023-05-10
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.28.0/IPFS-Desktop-Setup-0.28.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.28.0/IPFS-Desktop-Setup-0.28.0.exe
   InstallerSha256: 3DEE26EF5E65E9AD6D04AD33871734241C2456B296F18AE400672DE8DD44EAFF
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.28.0/IPFS-Desktop-Setup-0.28.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.28.0/IPFS-Desktop-Setup-0.28.0.exe
   InstallerSha256: 3DEE26EF5E65E9AD6D04AD33871734241C2456B296F18AE400672DE8DD44EAFF
   InstallerSwitches:
     Custom: /ALLUSERS

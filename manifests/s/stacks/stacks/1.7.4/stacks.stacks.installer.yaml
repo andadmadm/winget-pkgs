@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stacks-task-manager/stacks/releases/download/v1.7.4/Stacks-Setup-1.7.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stacks-task-manager/stacks/releases/download/v1.7.4/Stacks-Setup-1.7.4.exe
   InstallerSha256: FB4307318C94AD76783522111105A4F23DDF601CD32A8EB7A934EDF9398CC83B
 ManifestType: installer
 ManifestVersion: 1.1.0

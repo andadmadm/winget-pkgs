@@ -17,25 +17,25 @@ ReleaseDate: 2022-08-01
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win32-2022.08.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win32-2022.08.0-setup.exe
   InstallerSha256: 36512F02D128E85E98CE99523EC1B1B0638946BA87A8C3654A85C1E6575F78F1
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win32-2022.08.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win32-2022.08.0-setup.exe
   InstallerSha256: 36512F02D128E85E98CE99523EC1B1B0638946BA87A8C3654A85C1E6575F78F1
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win64-2022.08.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win64-2022.08.0-setup.exe
   InstallerSha256: AC6A1463E42F0C707FB298BF87217F46B3C8BD454975C2FBF21D208FDD08530C
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win64-2022.08.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-windows-v2022.08.0/dosbox-x-win64-2022.08.0-setup.exe
   InstallerSha256: AC6A1463E42F0C707FB298BF87217F46B3C8BD454975C2FBF21D208FDD08530C
   InstallerSwitches:
     Custom: /ALLUSERS

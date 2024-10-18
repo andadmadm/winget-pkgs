@@ -11,7 +11,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-win-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-win-Setup.exe
   InstallerSha256: 3E3AABFE1F3E5E89B9B47FB4687EBFBDCC2119C1F3D5AA0611B182F366CAF41B
   UpgradeBehavior: install
   AppsAndFeaturesEntries:
@@ -19,7 +19,7 @@ Installers:
     ProductCode: 5b6e5ce6-6f74-5ccb-a937-b1c9ab815902
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-win.exe
   InstallerSha256: C9B04EC7A54E4CC7EC8E505E8A05F0FD9F05BB2413D4706327138DC5C150DBDE
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -17,7 +17,7 @@ FileExtensions:
 ReleaseDate: 2018-06-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v1.5/Beeftext-1.5-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v1.5/Beeftext-1.5-Installer.exe
   InstallerSha256: 4484A811D01159FDB9069B138530FF2A0EB7CC6E67BD3A27DDEA023A2B872833
 ManifestType: installer
 ManifestVersion: 1.2.0

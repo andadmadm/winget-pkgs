@@ -15,7 +15,7 @@ Installers:
   NestedInstallerType: nullsoft
   NestedInstallerFiles:
   - RelativeFilePath: Pinokio Setup 2.1.17.exe
-  InstallerUrl: https://github.com/pinokiocomputer/pinokio/releases/download/2.1.17/Pinokio-2.1.17-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/pinokiocomputer/pinokio/releases/download/2.1.17/Pinokio-2.1.17-win32.zip
   InstallerSha256: F61A452B4DBCEFF3EA0106A6982B722CE2AB46FCA62215CA9B9E18099441FC9A
   ProductCode: f78f0b07-434a-5120-b014-8caf2017cc1a
 ManifestType: installer

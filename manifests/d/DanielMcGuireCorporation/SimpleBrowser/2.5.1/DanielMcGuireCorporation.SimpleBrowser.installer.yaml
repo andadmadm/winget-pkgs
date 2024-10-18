@@ -10,7 +10,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.EdgeWebView2Runtime
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Daniel-McGuire-Corporation/Simple-Browser/releases/download/v2.5.1.2/SimpleBrowserSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Daniel-McGuire-Corporation/Simple-Browser/releases/download/v2.5.1.2/SimpleBrowserSetup.exe
   InstallerSha256: 77F3272D6B41DC39C3DBE791682BF2D52DB0AB90AF9701399B4AA35287389D24
   AppsAndFeaturesEntries:
   - Publisher: '"Daniel McGuire Corporation"'

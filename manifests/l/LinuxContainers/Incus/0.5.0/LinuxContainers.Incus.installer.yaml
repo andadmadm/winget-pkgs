@@ -8,10 +8,10 @@ Commands:
 - incus
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lxc/incus/releases/download/v0.5.0/bin.windows.incus.x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lxc/incus/releases/download/v0.5.0/bin.windows.incus.x86_64.exe
   InstallerSha256: DFB54CC6429003E1576C9699CD832FCE7AE40F169DC57E8DA4ED1CF706EFA79E
 - Architecture: arm64
-  InstallerUrl: https://github.com/lxc/incus/releases/download/v0.5.0/bin.windows.incus.aarch64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lxc/incus/releases/download/v0.5.0/bin.windows.incus.aarch64.exe
   InstallerSha256: BE227DB4603FA8AF1AD59D36E06E212B840E1E431E1FC936FB5FAD3C6B592334
 ManifestType: installer
 ManifestVersion: 1.5.0

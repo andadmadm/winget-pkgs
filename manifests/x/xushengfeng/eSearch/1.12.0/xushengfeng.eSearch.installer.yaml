@@ -12,13 +12,13 @@ ReleaseDate: 2024-08-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/xushengfeng/eSearch/releases/download/1.12.3/eSearch-1.12.3-win32-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xushengfeng/eSearch/releases/download/1.12.3/eSearch-1.12.3-win32-x64.exe
   InstallerSha256: 4751606F4927BB015ECE3D50E9D792B03EF8BC6AC269C0AA3020FEDD9190E07F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/xushengfeng/eSearch/releases/download/1.12.3/eSearch-1.12.3-win32-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xushengfeng/eSearch/releases/download/1.12.3/eSearch-1.12.3-win32-x64.exe
   InstallerSha256: 4751606F4927BB015ECE3D50E9D792B03EF8BC6AC269C0AA3020FEDD9190E07F
   InstallerSwitches:
     Custom: /ALLUSERS

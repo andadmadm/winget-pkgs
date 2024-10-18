@@ -11,7 +11,7 @@ InstallerSwitches:
 ReleaseDate: 2022-08-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jasperapp/jasper/releases/download/v1.1.1/jasper_v1.1.1_windows_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jasperapp/jasper/releases/download/v1.1.1/jasper_v1.1.1_windows_setup.exe
   InstallerSha256: 138F43FA8A7248D6AB5242D323CA742AE8055D948CF7E1FF69FBB1D2C4720CAB
 ManifestType: installer
 ManifestVersion: 1.2.0

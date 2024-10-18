@@ -4,7 +4,7 @@
 PackageIdentifier: GodotEngine.GodotEngine.Mono
 PackageVersion: 4.0.3
 Installers:
-- InstallerUrl: https://github.com/godotengine/godot/releases/download/4.0.3-stable/Godot_v4.0.3-stable_mono_win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.0.3-stable/Godot_v4.0.3-stable_mono_win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

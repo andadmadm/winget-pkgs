@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbgate/dbgate/releases/download/v4.8.4/dbgate-4.8.4-win_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbgate/dbgate/releases/download/v4.8.4/dbgate-4.8.4-win_x64.exe
   InstallerSha256: ACBFBD860663AD8F9C8CD909BE687DB8854C3BA59AD1ED469B346248D1632FEB
 ManifestType: installer
 ManifestVersion: 1.2.0

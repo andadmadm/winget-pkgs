@@ -19,7 +19,7 @@ Installers:
     PortableCommandAlias: ffplay
   - RelativeFilePath: ffmpeg-n5.1.6-7-g4ce4ecc19c-win64-gpl-5.1\bin\ffprobe.exe
     PortableCommandAlias: ffprobe
-  InstallerUrl: https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2024-09-30-15-36/ffmpeg-n5.1.6-7-g4ce4ecc19c-win64-gpl-5.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2024-09-30-15-36/ffmpeg-n5.1.6-7-g4ce4ecc19c-win64-gpl-5.1.zip
   InstallerSha256: 344595197F7C25D3B18CC51A44F129EFA900FDA0A706F7386C4EA8DCE403040A
 ManifestType: installer
 ManifestVersion: 1.6.0

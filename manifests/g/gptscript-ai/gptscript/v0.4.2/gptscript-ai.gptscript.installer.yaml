@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gptscript-ai/gptscript/releases/download/v0.4.2/gptscript-v0.4.2-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gptscript-ai/gptscript/releases/download/v0.4.2/gptscript-v0.4.2-windows-amd64.zip
   InstallerSha256: 10395FD4A20DDBC47CBABFB0228A66EE43DEAA03E81545B9091C4FC8F3AADD4E
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -4,7 +4,7 @@
 PackageIdentifier: CircleCI.CLI
 PackageVersion: 0.1.26837
 Installers:
-- InstallerUrl: https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.26837/circleci-cli_0.1.26837_windows_amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.26837/circleci-cli_0.1.26837_windows_amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/persepolisdm/persepolis/releases/download/3.2.0/persepolis_3.2.0.0_windows_64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/persepolisdm/persepolis/releases/download/3.2.0/persepolis_3.2.0.0_windows_64bit.exe
   InstallerSha256: 3E1D5B1B129FA1B4931A01720230AFC88952A33316E0D8927C16FB429188FD20
   UpgradeBehavior: install
 - Platform:
@@ -24,7 +24,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/persepolisdm/persepolis/releases/download/3.2.0/persepolis_3.2.0.0_windows_32bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/persepolisdm/persepolis/releases/download/3.2.0/persepolis_3.2.0.0_windows_32bit.exe
   InstallerSha256: 557269EBA62EB97A441A718956DEF6769BE9E77264FCF51BF71821FFC343980C
   UpgradeBehavior: install
 ManifestType: installer

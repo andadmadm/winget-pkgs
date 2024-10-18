@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: oatmeal.exe
         PortableCommandAlias: oatmeal
-    InstallerUrl: https://github.com/dustinblackman/oatmeal/releases/download/v0.12.4/oatmeal_0.12.4_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/dustinblackman/oatmeal/releases/download/v0.12.4/oatmeal_0.12.4_windows_arm64.zip
     InstallerSha256: 02aa92cf2cf0af6f70aa02425a3bcc70c16e64b4bb949186bf1ff59aa671f059
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: oatmeal.exe
         PortableCommandAlias: oatmeal
-    InstallerUrl: https://github.com/dustinblackman/oatmeal/releases/download/v0.12.4/oatmeal_0.12.4_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/dustinblackman/oatmeal/releases/download/v0.12.4/oatmeal_0.12.4_windows_amd64.zip
     InstallerSha256: 75f5c08d27bce2738f11fc903a0420a88f3a75ca7155c227f123323895066c9c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

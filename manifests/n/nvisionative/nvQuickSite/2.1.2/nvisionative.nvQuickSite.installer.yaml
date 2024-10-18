@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/nvisionative/nvQuickSite/releases/download/v2.1.2/nvQuickSite_v2.1.2.0_Installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nvisionative/nvQuickSite/releases/download/v2.1.2/nvQuickSite_v2.1.2.0_Installer.msi
   InstallerSha256: 1C1ADC7563C2ADAA3E5E55B176157CAAD37AFCFEA2286F752D7C209139B86EDB
 ManifestType: installer
 ManifestVersion: 1.0.0

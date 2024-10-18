@@ -7,7 +7,7 @@ InstallerLocale: ja-JP
 InstallerType: wix
 ProductCode: '{6FE30B47-2577-43AD-9095-1861CA25889C}'
 Installers:
-- InstallerUrl: https://github.com/nodchip/tanuki-/releases/download/tanuki-wcsc33-2023-05-04/tanuki-wcsc33.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/nodchip/tanuki-/releases/download/tanuki-wcsc33-2023-05-04/tanuki-wcsc33.msi
   Architecture: x64
   InstallerSha256: E724B313FD00A55EB6484D60D229E886F6036D2064D097275BB0766FA6527FA3
 ManifestType: installer

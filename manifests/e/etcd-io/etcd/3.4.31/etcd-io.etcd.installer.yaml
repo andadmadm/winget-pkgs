@@ -13,7 +13,7 @@ Installers:
     PortableCommandAlias: etcd
   - RelativeFilePath: etcd-v3.4.31-windows-amd64\etcdctl.exe
     PortableCommandAlias: etcdctl
-  InstallerUrl: https://github.com/etcd-io/etcd/releases/download/v3.4.31/etcd-v3.4.31-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/etcd-io/etcd/releases/download/v3.4.31/etcd-v3.4.31-windows-amd64.zip
   InstallerSha256: BA0018FA133766C3406E73CAC8D699E9C133A515855910AB31C94AF40B91CC7D
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2019-08-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bdash-app/bdash/releases/download/v1.5.8/Bdash-Setup-1.5.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bdash-app/bdash/releases/download/v1.5.8/Bdash-Setup-1.5.8.exe
   InstallerSha256: FE2FE93404CAE9E22C9B4B43B235BB1FC4651CF30C4D9D7CDE140513811627ED
 ManifestType: installer
 ManifestVersion: 1.2.0

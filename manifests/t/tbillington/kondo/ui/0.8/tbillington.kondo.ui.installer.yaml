@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: kondo-ui.exe
     PortableCommandAlias: kondo-ui
-  InstallerUrl: https://github.com/tbillington/kondo/releases/download/v0.8/kondo-ui-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/tbillington/kondo/releases/download/v0.8/kondo-ui-x86_64-pc-windows-msvc.zip
   InstallerSha256: 02F7A0A097B4F700B234FC3B472AA2260180B2B90B220A0AB3D520413F07D0C4
   Dependencies:
     PackageDependencies:
@@ -27,7 +27,7 @@ Installers:
   Dependencies:
     PackageDependencies:
       - PackageIdentifier: Microsoft.VCRedist.2015+.x64
-  InstallerUrl: https://github.com/tbillington/kondo/releases/download/v0.8/kondo-ui-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/tbillington/kondo/releases/download/v0.8/kondo-ui-x86_64-pc-windows-msvc.zip
   InstallerSha256: 02F7A0A097B4F700B234FC3B472AA2260180B2B90B220A0AB3D520413F07D0C4
 ManifestType: installer
 ManifestVersion: 1.6.0

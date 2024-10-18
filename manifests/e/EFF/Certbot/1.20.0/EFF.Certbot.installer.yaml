@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/certbot/certbot/releases/download/v1.20.0/certbot-beta-installer-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/certbot/certbot/releases/download/v1.20.0/certbot-beta-installer-win32.exe
   InstallerSha256: 2BA9F0AF945FAC7162926D26FF4825082F4896BE26B35C7CC5CA92F528E8D240
 ManifestType: installer
 ManifestVersion: 1.0.0

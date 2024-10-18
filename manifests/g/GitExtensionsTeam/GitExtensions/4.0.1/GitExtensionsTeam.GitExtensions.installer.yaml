@@ -28,7 +28,7 @@ AppsAndFeaturesEntries:
   InstallerType: msi
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/gitextensions/gitextensions/releases/download/v4.0.1/GitExtensions-4.0.1.15887-f2567dea2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gitextensions/gitextensions/releases/download/v4.0.1/GitExtensions-4.0.1.15887-f2567dea2.msi
   InstallerSha256: A30A6545EFF8D03A1158454586B27C51F04472D63D71625BD3A06761B41B7161
   ProductCode: '{9309CECB-F249-4E62-91D1-C9A426BF4E5B}'
 ManifestType: installer

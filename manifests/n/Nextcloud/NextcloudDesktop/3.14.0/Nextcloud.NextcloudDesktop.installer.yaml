@@ -29,7 +29,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\Nextcloud'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nextcloud-releases/desktop/releases/download/v3.14.0/Nextcloud-3.14.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nextcloud-releases/desktop/releases/download/v3.14.0/Nextcloud-3.14.0-x64.msi
   InstallerSha256: 1868171444CF810945F7507B4A331B0782ECADB398F836058E0C0DED20397A15
 ManifestType: installer
 ManifestVersion: 1.6.0

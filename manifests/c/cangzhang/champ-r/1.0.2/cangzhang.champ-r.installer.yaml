@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-01-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cangzhang/champ-r/releases/download/v1.0.2/ChampR-Setup-1.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cangzhang/champ-r/releases/download/v1.0.2/ChampR-Setup-1.0.2.exe
   InstallerSha256: 9DB10A04D77C697157F581E6A4F31B2C2F47026E7266A8F3D9A3A4EABCB9441B
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/hovancik/stretchly/releases/download/v1.4.0/Stretchly-Setup-1.4.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hovancik/stretchly/releases/download/v1.4.0/Stretchly-Setup-1.4.0.exe
   InstallerSha256: B807F0E67F7C3AEF1F611025EC73B70915ADCCF538FDA7D28BED8F47DFBA64EE
 ManifestType: installer
 ManifestVersion: 1.1.0

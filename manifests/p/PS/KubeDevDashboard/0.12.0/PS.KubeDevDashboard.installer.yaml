@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/prsh9/kubectl-dashboard/releases/download/v0.12.0/kube-dev-dashboard-0.12.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/prsh9/kubectl-dashboard/releases/download/v0.12.0/kube-dev-dashboard-0.12.0-win.exe
   InstallerSha256: 43F658DE5A2CCD91955686A82DC50F749124A65A99B60EA042D65C12C08B067E
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -17,7 +17,7 @@ Installers:
   NestedInstallerType: msi
   NestedInstallerFiles:
   - RelativeFilePath: CalDavSynchronizer.Setup.msi
-  InstallerUrl: https://github.com/aluxnimm/outlookcaldavsynchronizer/releases/download/v4.3.0/OutlookCalDavSynchronizer-4.3.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aluxnimm/outlookcaldavsynchronizer/releases/download/v4.3.0/OutlookCalDavSynchronizer-4.3.0.zip
   InstallerSha256: FCF598426C6FB38DE82AB2D231A9B409F3FF3EDD9C73A1CF5E6CF016CF67D623
   ProductCode: '{DD0F6C8F-D170-49E5-885D-4F674A141755}'
 ManifestType: installer

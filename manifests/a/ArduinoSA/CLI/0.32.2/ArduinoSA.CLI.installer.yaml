@@ -4,7 +4,7 @@
 PackageIdentifier: ArduinoSA.CLI
 PackageVersion: 0.32.2
 Installers:
-- InstallerUrl: https://github.com/arduino/arduino-cli/releases/download/0.32.2/arduino-cli_0.32.2_Windows_64bit.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/arduino/arduino-cli/releases/download/0.32.2/arduino-cli_0.32.2_Windows_64bit.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

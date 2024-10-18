@@ -8,7 +8,7 @@ Commands:
 Installers:
 - Architecture: x86
   InstallerType: portable
-  InstallerUrl: https://github.com/huanghongxun/HMCL/releases/download/v3.5.3.230/HMCL-3.5.3.230.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/huanghongxun/HMCL/releases/download/v3.5.3.230/HMCL-3.5.3.230.exe
   InstallerSha256: 21D822D2F55CF095E02A5F7278A9E863DF96C9B468EDFB622509C8C391F1D9BF
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -17,10 +17,10 @@ UpgradeBehavior: install
 ProductCode: QMPlay2
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/zaps166/QMPlay2/releases/download/24.03.16/QMPlay2-Win32-24.03.16.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zaps166/QMPlay2/releases/download/24.03.16/QMPlay2-Win32-24.03.16.exe
   InstallerSha256: FDB522D81FD9BED4FD038F8557C09D175D4036676830222349679FB15C2E90DF
 - Architecture: x64
-  InstallerUrl: https://github.com/zaps166/QMPlay2/releases/download/24.03.16/QMPlay2-Win64-24.03.16.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zaps166/QMPlay2/releases/download/24.03.16/QMPlay2-Win64-24.03.16.exe
   InstallerSha256: 804D616E4373E13DA529775926FA3831BC28C2C7E67EA2021402EEDDE1A3B366
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -67,11 +67,11 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/9.0.10.201/ImageGlass_9.0.10.201_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/9.0.10.201/ImageGlass_9.0.10.201_x64.msi
   InstallerSha256: E64BD9C20A4C23C05ED055C4CEF515B7FDB8F2EC9259F9AB7FFFB6CD99C567A7
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/9.0.10.201/ImageGlass_9.0.10.201_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/9.0.10.201/ImageGlass_9.0.10.201_x64.msi
   InstallerSha256: E64BD9C20A4C23C05ED055C4CEF515B7FDB8F2EC9259F9AB7FFFB6CD99C567A7
   InstallerSwitches:
     Custom: ALLUSERS=1

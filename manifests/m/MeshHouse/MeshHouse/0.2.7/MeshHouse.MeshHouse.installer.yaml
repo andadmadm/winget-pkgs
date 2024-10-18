@@ -11,7 +11,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/longsightedfilms/meshhouse/releases/download/v0.2.7/MeshHouse-Setup-0.2.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/longsightedfilms/meshhouse/releases/download/v0.2.7/MeshHouse-Setup-0.2.7.exe
   InstallerSha256: 86D3B8A2BDA3F29D2A419C128681F08E6E88AA4D82BEE74C3042519F6B24983D
 ManifestType: installer
 ManifestVersion: 1.1.0

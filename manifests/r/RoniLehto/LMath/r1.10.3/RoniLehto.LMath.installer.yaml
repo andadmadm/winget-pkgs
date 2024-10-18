@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/lehtoroni/lmath-issues/releases/download/r1.10.3/LMath_Windows_r1.10.3-release.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lehtoroni/lmath-issues/releases/download/r1.10.3/LMath_Windows_r1.10.3-release.exe
   InstallerSha256: 7E88D401AFD1B8D570B5A9F1C5A609381CA497650B2670D32AF24708D79DC87A
 ManifestType: installer
 ManifestVersion: 1.6.0

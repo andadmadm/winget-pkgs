@@ -19,7 +19,7 @@ Commands:
 ReleaseDate: 2023-02-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/o2sh/onefetch/releases/download/2.16.0/onefetch-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/o2sh/onefetch/releases/download/2.16.0/onefetch-setup.exe
   InstallerSha256: 2F7329E7267098603F0D0FA47C4A22F117768523B07731D6F740AFEC3E838A34
 ManifestType: installer
 ManifestVersion: 1.4.0

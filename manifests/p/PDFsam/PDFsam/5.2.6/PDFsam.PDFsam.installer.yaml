@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
   ProductCode: '{C7A75AEB-BBF1-4100-88E8-8A49F19A38FC}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/torakiki/pdfsam/releases/download/v5.2.6/pdfsam-5.2.6.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/torakiki/pdfsam/releases/download/v5.2.6/pdfsam-5.2.6.msi
   InstallerSha256: CD60FDCD71CAC34819A7944210C702B1EAC2FF090D4023BAF87ABE0542ED68BD
 ManifestType: installer
 ManifestVersion: 1.6.0

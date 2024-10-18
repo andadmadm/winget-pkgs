@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/meetfranz/franz/releases/download/v5.7.0/Franz-Setup-5.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/meetfranz/franz/releases/download/v5.7.0/Franz-Setup-5.7.0.exe
   InstallerSha256: 8BF0FCB5837B79CB0896D18E05265BD5A8CBA2FE5362E6E07BEA84B049403E95
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/hovancik/stretchly/releases/download/v1.9.0/Stretchly.Setup.1.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hovancik/stretchly/releases/download/v1.9.0/Stretchly.Setup.1.9.0.exe
   InstallerSha256: E111E7318CAD7CB8AA35384A565F23FCD4C9F6B279B0BCE5646D0FA256F52337
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/hovancik/stretchly/releases/download/v1.9.0/Stretchly.Setup.1.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hovancik/stretchly/releases/download/v1.9.0/Stretchly.Setup.1.9.0.exe
   InstallerSha256: E111E7318CAD7CB8AA35384A565F23FCD4C9F6B279B0BCE5646D0FA256F52337
   InstallerSwitches:
     Custom: /ALLUSERS

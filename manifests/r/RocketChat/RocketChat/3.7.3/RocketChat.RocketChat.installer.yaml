@@ -13,21 +13,21 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - InstallerSha256: F417F006FD762D46421284CB73AFFAEEF59845FAB46F105ADBEE826D1D043E16
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.7.3/rocketchat-setup-3.7.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.7.3/rocketchat-setup-3.7.3.exe
   Scope: user
   Architecture: x64
   InstallerType: nullsoft
   InstallerSwitches:
     Custom: /CURRENTUSER
 - InstallerSha256: F417F006FD762D46421284CB73AFFAEEF59845FAB46F105ADBEE826D1D043E16
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.7.3/rocketchat-setup-3.7.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.7.3/rocketchat-setup-3.7.3.exe
   Scope: machine
   Architecture: x64
   InstallerType: nullsoft
   InstallerSwitches:
     Custom: /ALLUSERS
 - InstallerSha256: BAA00C6DFA83A47B169CC1478BD9AA9D9B0D818F20DDFE911CEB690FDE5E1FEF
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.7.3/rocketchat-setup-3.7.3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.7.3/rocketchat-setup-3.7.3.msi
   Scope: machine
   Architecture: x64
   InstallerType: wix

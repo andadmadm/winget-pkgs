@@ -14,13 +14,13 @@ ReleaseDate: 2023-03-30
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Lauriethefish/QuestPatcher/releases/download/2.5.0/QuestPatcher-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lauriethefish/QuestPatcher/releases/download/2.5.0/QuestPatcher-windows.exe
   InstallerSha256: 9B14F8E94E9722A6405CA80F0A1B8E0A627CB3357C1C1F1444DAA42CE5F809FE
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Lauriethefish/QuestPatcher/releases/download/2.5.0/QuestPatcher-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lauriethefish/QuestPatcher/releases/download/2.5.0/QuestPatcher-windows.exe
   InstallerSha256: 9B14F8E94E9722A6405CA80F0A1B8E0A627CB3357C1C1F1444DAA42CE5F809FE
   InstallerSwitches:
     Custom: /ALLUSERS

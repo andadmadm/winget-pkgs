@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nexus-Mods/Vortex/releases/download/v1.7.8/vortex-setup-1.7.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nexus-Mods/Vortex/releases/download/v1.7.8/vortex-setup-1.7.8.exe
   InstallerSha256: A792876D62995F88303E0E13F396E2693C7EF0F2E8AE75CFDC5EB66DF37F0809
 ManifestType: installer
 ManifestVersion: 1.2.0

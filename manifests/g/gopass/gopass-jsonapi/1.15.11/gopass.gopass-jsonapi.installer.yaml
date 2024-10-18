@@ -18,10 +18,10 @@ Dependencies:
 ReleaseDate: 2023-12-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.11/gopass-jsonapi-1.15.11-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.11/gopass-jsonapi-1.15.11-windows-amd64.zip
   InstallerSha256: AEDB0C46343BF11817B6B54FE273494264EA26E0DC952371E6147EAA1E531942
 - Architecture: arm64
-  InstallerUrl: https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.11/gopass-jsonapi-1.15.11-windows-arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gopasspw/gopass-jsonapi/releases/download/v1.15.11/gopass-jsonapi-1.15.11-windows-arm64.zip
   InstallerSha256: 5454A3EC6ECB8BD88B17B5DCCECE83831070CCBB2F29D861D070B8092F04B733
 ManifestType: installer
 ManifestVersion: 1.5.0

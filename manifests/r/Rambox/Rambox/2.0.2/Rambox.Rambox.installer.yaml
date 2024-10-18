@@ -13,13 +13,13 @@ ReleaseDate: 2022-03-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v2.0.2/Rambox-2.0.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v2.0.2/Rambox-2.0.2-win-x64.exe
   InstallerSha256: 0C14119CAAF2DA4E18A658FD1568D36D0D305CBA0F212262C5A7A37A999BDD69
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v2.0.2/Rambox-2.0.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v2.0.2/Rambox-2.0.2-win-x64.exe
   InstallerSha256: 0C14119CAAF2DA4E18A658FD1568D36D0D305CBA0F212262C5A7A37A999BDD69
   InstallerSwitches:
     Custom: /ALLUSERS

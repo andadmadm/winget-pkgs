@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dorssel/usbipd-win/releases/download/v2.4.1/usbipd-win_2.4.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dorssel/usbipd-win/releases/download/v2.4.1/usbipd-win_2.4.1.msi
   InstallerSha256: 702501097154007C1151F96CF390CE77397ECB220973B740795A55CDBF36A0BA
   ProductCode: '{EA1D5623-E6A7-4E4A-9259-E39722020401}'
 ManifestType: installer

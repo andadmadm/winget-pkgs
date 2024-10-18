@@ -17,10 +17,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kimwalisch/primesieve-winget/releases/download/v11.0/Primesieve-11.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kimwalisch/primesieve-winget/releases/download/v11.0/Primesieve-11.0-win-x64.exe
   InstallerSha256: A5751CAA0129B2C53AB4EC363D7DB4BC9E131CC44F20AA6791AAFB2B85E331F7
 - Architecture: arm64
-  InstallerUrl: https://github.com/kimwalisch/primesieve-winget/releases/download/v11.0/Primesieve-11.0-win-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kimwalisch/primesieve-winget/releases/download/v11.0/Primesieve-11.0-win-arm64.exe
   InstallerSha256: 50E409C75443639CC35F5CE0E3D619DA785BB2E2411DFD770F868ADF550CD642
 ManifestType: installer
 ManifestVersion: 1.1.0

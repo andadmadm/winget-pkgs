@@ -7,7 +7,7 @@ Scope: machine
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/portfolio-performance/portfolio/releases/download/0.70.3/PortfolioPerformance-0.70.3-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/portfolio-performance/portfolio/releases/download/0.70.3/PortfolioPerformance-0.70.3-setup.exe
   InstallerSha256: 286D69AF18246D7BA655ACAA510A624C87E2734C2DECA456550A77B202620A63
 ProductCode: Portfolio Performance
 ManifestType: installer

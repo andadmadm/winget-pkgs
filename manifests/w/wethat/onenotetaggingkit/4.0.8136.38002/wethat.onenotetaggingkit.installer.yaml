@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-04-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WetHat/OnenoteTaggingKit/releases/download/v4.0.81360/SetupTaggingKitWiX.4.0.81360.38002.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WetHat/OnenoteTaggingKit/releases/download/v4.0.81360/SetupTaggingKitWiX.4.0.81360.38002.msi
   InstallerSha256: FC929C93BC688705C0667F10E449DBF4390B55DA0D10DCA520B83524F540A75E
   ProductCode: '{03BADEA3-BCD6-4C70-A935-688E1A0F8C43}'
 ManifestType: installer

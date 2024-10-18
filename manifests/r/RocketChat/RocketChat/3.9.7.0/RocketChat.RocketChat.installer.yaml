@@ -17,13 +17,13 @@ ReleaseDate: 2023-09-15
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.7/rocketchat-3.9.7-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.7/rocketchat-3.9.7-win-x64.exe
   InstallerSha256: 45077A07EBD8E3CC32C6E018982181D40B22764A10B33CC967A66DB6C339469B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.7/rocketchat-3.9.7-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.7/rocketchat-3.9.7-win-x64.exe
   InstallerSha256: 45077A07EBD8E3CC32C6E018982181D40B22764A10B33CC967A66DB6C339469B
   InstallerSwitches:
     Custom: /ALLUSERS

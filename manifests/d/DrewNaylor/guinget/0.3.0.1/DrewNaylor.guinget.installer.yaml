@@ -9,13 +9,13 @@ ReleaseDate: 2022-03-19
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/DrewNaylor/guinget/releases/download/v0.3.0.1-beta/guinget_v0.3.0.1-beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/guinget/releases/download/v0.3.0.1-beta/guinget_v0.3.0.1-beta.exe
   InstallerSha256: 749117DD989C23958540898D77A005364DA1AFBB04BCEC4C48C147BC1A2137D0
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/DrewNaylor/guinget/releases/download/v0.3.0.1-beta/guinget_v0.3.0.1-beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/guinget/releases/download/v0.3.0.1-beta/guinget_v0.3.0.1-beta.exe
   InstallerSha256: 749117DD989C23958540898D77A005364DA1AFBB04BCEC4C48C147BC1A2137D0
   InstallerSwitches:
     Custom: /CURRENTUSER

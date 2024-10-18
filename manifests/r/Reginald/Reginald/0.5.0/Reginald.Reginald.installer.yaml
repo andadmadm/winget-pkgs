@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/giosali/reginald/releases/download/v0.5.0/Reginald-0.5.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/giosali/reginald/releases/download/v0.5.0/Reginald-0.5.0.msi
   InstallerSha256: 0ADBD9C92CECD5F4479125F8C6EA9CB6ABA277219F020A86B998A08AB32FA0EC
   UpgradeBehavior: install
   ProductCode: '{4908A017-BDB0-4DCA-8122-028D0E81A936}'

@@ -10,7 +10,7 @@ Scope: user
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/QL-Win/QuickLook/releases/download/3.7.0/QuickLook-3.7.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/QL-Win/QuickLook/releases/download/3.7.0/QuickLook-3.7.0.msi
   InstallerSha256: FA6731210700C7948039B868285E286858F0898A184F3D8E3FCE76B701D0EE30
   ProductCode: '{38B45586-BC1F-4E6F-BAC0-1BDD0CFA2D75}'
 ManifestType: installer

@@ -16,14 +16,14 @@ InstallModes:
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi
   InstallerSha256: 6591B1DC08837129889FF7076CB96AB05873CF17C3EA4E2C7FBB49A4D00E2642
   ProductCode: '{CD5B86A5-68BD-464C-A7B2-BA8668594DA3}'
   InstallerSwitches:
     Custom: ALLUSERS=1
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi
   InstallerSha256: 6591B1DC08837129889FF7076CB96AB05873CF17C3EA4E2C7FBB49A4D00E2642
   ProductCode: '{CD5B86A5-68BD-464C-A7B2-BA8668594DA3}'
 ManifestType: installer

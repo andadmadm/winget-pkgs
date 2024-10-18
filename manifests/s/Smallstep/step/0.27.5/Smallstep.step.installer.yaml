@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: step_0.27.5\bin\step.exe
         PortableCommandAlias: step
-    InstallerUrl: https://github.com/smallstep/cli/releases/download/v0.27.5/step_windows_0.27.5_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/smallstep/cli/releases/download/v0.27.5/step_windows_0.27.5_arm64.zip
     InstallerSha256: 8eaca9a8cd9b47287d6bac0b53f7f63cddbdcc138785c1ed3736ce7ba0c125e3
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: step_0.27.5\bin\step.exe
         PortableCommandAlias: step
-    InstallerUrl: https://github.com/smallstep/cli/releases/download/v0.27.5/step_windows_0.27.5_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/smallstep/cli/releases/download/v0.27.5/step_windows_0.27.5_amd64.zip
     InstallerSha256: 693059632730ad6e2a36c97d9342923c2120d1a28df47b2d2adb3167cbec3204
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

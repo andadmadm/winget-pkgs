@@ -28,15 +28,15 @@ RestrictedCapabilities:
 ReleaseDate: 2024-09-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.1801.625.0/Windows.DevHome_0.1801.625.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.1801.625.0/Windows.DevHome_0.1801.625.0.msixbundle
   InstallerSha256: FB0BFC47DECA6286AE027822D46450B05F9D13489FF596766700930B9965D8FA
   SignatureSha256: 436C38846C3C8CDCBDF44E1838BF991DD5725F2315FBDCBA285CA9A63E8738AC
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.1801.625.0/Windows.DevHome_0.1801.625.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.1801.625.0/Windows.DevHome_0.1801.625.0.msixbundle
   InstallerSha256: FB0BFC47DECA6286AE027822D46450B05F9D13489FF596766700930B9965D8FA
   SignatureSha256: 436C38846C3C8CDCBDF44E1838BF991DD5725F2315FBDCBA285CA9A63E8738AC
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/devhome/releases/download/v0.1801.625.0/Windows.DevHome_0.1801.625.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/devhome/releases/download/v0.1801.625.0/Windows.DevHome_0.1801.625.0.msixbundle
   InstallerSha256: FB0BFC47DECA6286AE027822D46450B05F9D13489FF596766700930B9965D8FA
   SignatureSha256: 436C38846C3C8CDCBDF44E1838BF991DD5725F2315FBDCBA285CA9A63E8738AC
 ManifestType: installer

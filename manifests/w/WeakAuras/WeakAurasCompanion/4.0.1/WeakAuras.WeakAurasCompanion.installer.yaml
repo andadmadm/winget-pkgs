@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-09
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v4.0.1/WeakAuras-Companion-Setup-4.0.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v4.0.1/WeakAuras-Companion-Setup-4.0.1.exe
   InstallerSha256: E35C093194C4B51EC5A77DCA2705717717723C7CE8F1E7E021B33054139A186B
 ManifestType: installer
 ManifestVersion: 1.1.0

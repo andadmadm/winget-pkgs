@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/standardnotes/desktop/releases/download/v3.7.1/standard-notes-3.7.1-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/desktop/releases/download/v3.7.1/standard-notes-3.7.1-win.exe
   InstallerSha256: 5C032A6F4525075EFE122DC6C1CEC725C41A54F95827ECB445091BBEC8CED89F
 ManifestType: installer
 ManifestVersion: 1.1.0

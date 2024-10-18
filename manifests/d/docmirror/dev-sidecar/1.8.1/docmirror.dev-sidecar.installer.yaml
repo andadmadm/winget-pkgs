@@ -8,7 +8,7 @@ Scope: machine
 ReleaseDate: 2024-04-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/docmirror/dev-sidecar/releases/download/v1.8.1/DevSidecar-1.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/docmirror/dev-sidecar/releases/download/v1.8.1/DevSidecar-1.8.1.exe
   InstallerSha256: 44A616F18351914CA7DD8287BD0B36B96A16F4D2382CC2C4753B6F6D85FEA110
 ManifestType: installer
 ManifestVersion: 1.6.0

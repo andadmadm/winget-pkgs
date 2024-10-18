@@ -14,10 +14,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v17.4.2/draw.io-17.4.2-windows-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v17.4.2/draw.io-17.4.2-windows-installer.exe
   InstallerSha256: 6E4F3E9185D29E963BA452CB5C2FAFCB2887DF9C6DF434AA45EE6F02FE3E7DE7
 - Architecture: x86
-  InstallerUrl: https://github.com/jgraph/drawio-desktop/releases/download/v17.4.2/draw.io-ia32-17.4.2-windows-32bit-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgraph/drawio-desktop/releases/download/v17.4.2/draw.io-ia32-17.4.2-windows-32bit-installer.exe
   InstallerSha256: 788C731FCE7E9267707B9A06BDBF3038BF51E6C5D954BF3DFAE2F37E1EF3184F
 ManifestType: installer
 ManifestVersion: 1.1.0

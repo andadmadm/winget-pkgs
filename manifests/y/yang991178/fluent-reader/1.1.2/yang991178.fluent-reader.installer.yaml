@@ -21,10 +21,10 @@ FileExtensions:
 ReleaseDate: 2022-06-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/yang991178/fluent-reader/releases/download/v1.1.2/Fluent.Reader.Setup.1.1.2.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yang991178/fluent-reader/releases/download/v1.1.2/Fluent.Reader.Setup.1.1.2.x64.exe
   InstallerSha256: E3435972DCB4485A414B2C89411DC71D70C0AB9F60C3603A48E161117BF544AF
 - Architecture: x86
-  InstallerUrl: https://github.com/yang991178/fluent-reader/releases/download/v1.1.2/Fluent.Reader.Setup.1.1.2.x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yang991178/fluent-reader/releases/download/v1.1.2/Fluent.Reader.Setup.1.1.2.x86.exe
   InstallerSha256: 3C0464485CB57B2CDA2BE883A9B8206890DBF9719463E40183F37F663B05B711
 ManifestType: installer
 ManifestVersion: 1.1.0

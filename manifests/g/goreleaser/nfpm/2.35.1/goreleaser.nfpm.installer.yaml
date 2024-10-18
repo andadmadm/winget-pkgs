@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: nfpm.exe
         PortableCommandAlias: nfpm
-    InstallerUrl: https://github.com/goreleaser/nfpm/releases/download/v2.35.1/nfpm_2.35.1_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goreleaser/nfpm/releases/download/v2.35.1/nfpm_2.35.1_Windows_arm64.zip
     InstallerSha256: 56155ae4c0f65e88b2bc15e2c914bd55a16443842254e2c1a2087c1416e3c929
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: nfpm.exe
         PortableCommandAlias: nfpm
-    InstallerUrl: https://github.com/goreleaser/nfpm/releases/download/v2.35.1/nfpm_2.35.1_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/goreleaser/nfpm/releases/download/v2.35.1/nfpm_2.35.1_Windows_x86_64.zip
     InstallerSha256: ac7841261955ae7a9dac50d9b52a9134d246f45bbd4197ca52343fda887b71ba
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-06-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/f4exb/sdrangel/releases/download/v7.21.3/sdrangel-7.21.3-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/f4exb/sdrangel/releases/download/v7.21.3/sdrangel-7.21.3-win64.exe
   InstallerSha256: 747F852E0FA7185F031B14603AB17A1CED5996262AC7BB1C801902280316085A
 ManifestType: installer
 ManifestVersion: 1.6.0

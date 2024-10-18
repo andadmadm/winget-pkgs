@@ -18,10 +18,10 @@ Commands:
 ReleaseDate: 2022-11-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/astronomer/astro-cli/releases/download/v1.8.1/astro_1.8.1_windows_amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/astronomer/astro-cli/releases/download/v1.8.1/astro_1.8.1_windows_amd64.exe
   InstallerSha256: 048ABCB9E4DAAD7EF775F1ADC5E059D0D461671BD1CDD868909981DD3799B363
 - Architecture: x86
-  InstallerUrl: https://github.com/astronomer/astro-cli/releases/download/v1.8.1/astro_1.8.1_windows_386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/astronomer/astro-cli/releases/download/v1.8.1/astro_1.8.1_windows_386.exe
   InstallerSha256: 51568D96113F36602B2E1C6A39A83AAB36510DEF98FD29BD09F95D0E8CF3A60D
 ManifestType: installer
 ManifestVersion: 1.2.0

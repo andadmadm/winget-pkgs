@@ -6,7 +6,7 @@ PackageVersion: 1.0.0
 Installers:
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/Xanthus58/Stanlys_Terminal/releases/download/1.0.0/Installer_StanlysTerminal_1.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xanthus58/Stanlys_Terminal/releases/download/1.0.0/Installer_StanlysTerminal_1.0.0.exe
   InstallerSha256: 6634AC4D629DD0EC2B43BC85A005013DD1EAF220849619E446F3012F6418DB64
 ManifestType: installer
 ManifestVersion: 1.1.0

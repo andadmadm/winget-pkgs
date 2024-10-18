@@ -13,14 +13,14 @@ ReleaseDate: 2023-08-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/httpie/desktop/releases/download/v2023.3.5/HTTPie-Setup-2023.3.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httpie/desktop/releases/download/v2023.3.5/HTTPie-Setup-2023.3.5.exe
   InstallerSha256: EDD42F3754E91FF41D8013867A3EC28BA8941C784BCBD230448E6A96B4006EAE
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c1991403-1acd-51ca-982e-dd3bdc00e598
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/httpie/desktop/releases/download/v2023.3.5/HTTPie-Setup-2023.3.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httpie/desktop/releases/download/v2023.3.5/HTTPie-Setup-2023.3.5.exe
   InstallerSha256: EDD42F3754E91FF41D8013867A3EC28BA8941C784BCBD230448E6A96B4006EAE
   InstallerSwitches:
     Custom: /allusers

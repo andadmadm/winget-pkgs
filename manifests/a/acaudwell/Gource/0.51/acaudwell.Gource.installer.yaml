@@ -17,14 +17,14 @@ Commands:
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/acaudwell/Gource/releases/download/gource-0.51/gource-0.51.win64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/acaudwell/Gource/releases/download/gource-0.51/gource-0.51.win64-setup.exe
   InstallerSha256: 853A53B76F9595D9FD8D0653CD838BC570CEA5EA6DEAC5446A948A7B3000BEA5
   InstallerSwitches:
     Custom: /ALLUSERS
   ProductCode: Gource
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/acaudwell/Gource/releases/download/gource-0.51/gource-0.51.win64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/acaudwell/Gource/releases/download/gource-0.51/gource-0.51.win64-setup.exe
   InstallerSha256: 853A53B76F9595D9FD8D0653CD838BC570CEA5EA6DEAC5446A948A7B3000BEA5
   InstallerSwitches:
     Custom: /CURRENTUSER

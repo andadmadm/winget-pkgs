@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-10-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.3.0/obs-rtspserver-v2.3.0-windows-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.3.0/obs-rtspserver-v2.3.0-windows-installer.exe
   InstallerSha256: 28DEAFB5977A1C9D2653A01D505E25946EFB415983ED353FDE9860E2470E9F2F
   ProductCode: obs-rtspserver
 ManifestType: installer

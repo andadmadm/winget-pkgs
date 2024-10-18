@@ -11,14 +11,14 @@ ReleaseDate: 2024-09-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/4ian/GDevelop/releases/download/v5.4.212/GDevelop-5-Setup-5.4.212.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4ian/GDevelop/releases/download/v5.4.212/GDevelop-5-Setup-5.4.212.exe
   InstallerSha256: 65CBE993910273BB236DD7A4B07E53F2500576F0AE2BB4EEAFDB9B5787BC5DDB
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c2a9b91e-8206-5b4e-b81d-9aa27463c28e
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/4ian/GDevelop/releases/download/v5.4.212/GDevelop-5-Setup-5.4.212.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4ian/GDevelop/releases/download/v5.4.212/GDevelop-5-Setup-5.4.212.exe
   InstallerSha256: 65CBE993910273BB236DD7A4B07E53F2500576F0AE2BB4EEAFDB9B5787BC5DDB
   InstallerSwitches:
     Custom: /allusers

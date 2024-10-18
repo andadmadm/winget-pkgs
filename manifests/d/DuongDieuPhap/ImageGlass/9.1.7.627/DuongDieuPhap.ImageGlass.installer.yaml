@@ -105,7 +105,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{877DB994-AB03-4025-B99D-41CE565E810B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/9.1.7.627/ImageGlass_9.1.7.627_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/9.1.7.627/ImageGlass_9.1.7.627_x64.msi
   InstallerSha256: C7F79C983C7E4FE79AD77386CCA1AACE8682703A7CADDEBFBF09FE0FF0034EC5
   ProductCode: '{8E74F7F4-A6E9-45C1-8E41-BDDF2A40A53B}'
 ManifestType: installer

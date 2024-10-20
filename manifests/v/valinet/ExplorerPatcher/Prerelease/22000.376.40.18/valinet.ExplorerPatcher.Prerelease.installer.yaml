@@ -8,7 +8,7 @@ InstallerType: inno
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/valinet/ExplorerPatcher/releases/download/22000.376.40.18_1971ba8/ep_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/valinet/ExplorerPatcher/releases/download/22000.376.40.18_1971ba8/ep_setup.exe
   InstallerSha256: 38431A59AAD81D93ECC0851AB3D13EF1252D58DBDFF71ED1AAF111D75E47313C
 ManifestType: installer
 ManifestVersion: 1.1.0

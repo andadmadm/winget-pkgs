@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/dannagle/PacketSender/releases/download/v7.2.3/PacketSender_x64_v7.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dannagle/PacketSender/releases/download/v7.2.3/PacketSender_x64_v7.2.3.exe
   InstallerSha256: 7698AC944BCFD570CFCA58E25484687BF5EBBD2DBC094F33705DADA4049E1ED3
   InstallerSwitches:
     Custom: /NORESTART

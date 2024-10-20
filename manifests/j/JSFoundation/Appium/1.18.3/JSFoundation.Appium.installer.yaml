@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/appium/appium-desktop/releases/download/v1.18.3/Appium-windows-1.18.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/appium/appium-desktop/releases/download/v1.18.3/Appium-windows-1.18.3.exe
   InstallerSha256: 9B5ED84E40FACEB20A31B5732C532117BBE3A8C974E987CE5B1493140E5E2E79
 ManifestType: installer
 ManifestVersion: 1.1.0

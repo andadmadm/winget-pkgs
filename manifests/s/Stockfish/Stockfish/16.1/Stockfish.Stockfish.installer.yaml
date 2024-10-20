@@ -12,7 +12,7 @@ ReleaseDate: 2024-02-24
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/official-stockfish/Stockfish/releases/download/sf_16.1/stockfish-windows-x86-64-avx2.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/official-stockfish/Stockfish/releases/download/sf_16.1/stockfish-windows-x86-64-avx2.zip
   InstallerSha256: 569D3C9DB5A949F223F9B28C5C4BE949B83AA468E1447CD30F55B0BF65ECDCF9
 ManifestType: installer
 ManifestVersion: 1.6.0

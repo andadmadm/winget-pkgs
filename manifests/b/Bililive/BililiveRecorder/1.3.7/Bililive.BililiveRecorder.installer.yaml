@@ -9,7 +9,7 @@ Installers:
   Architecture: x86
   InstallerType: exe
 #  Scope: 
-  InstallerUrl: https://github.com/Bililive/BililiveRecorder/releases/download/v1.3.7/BililiveRecorder-WPF-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Bililive/BililiveRecorder/releases/download/v1.3.7/BililiveRecorder-WPF-Setup.exe
   InstallerSha256: 20F03DE328D4B6C9BDB4573D7C879C08E52C7C86E4206BDE1191EFE83B01B6C3
   InstallerSwitches:
     Silent: /S

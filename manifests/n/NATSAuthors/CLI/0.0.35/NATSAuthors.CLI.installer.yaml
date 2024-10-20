@@ -4,7 +4,7 @@
 PackageIdentifier: NATSAuthors.CLI
 PackageVersion: 0.0.35
 Installers:
-- InstallerUrl: https://github.com/nats-io/natscli/releases/download/v0.0.35/nats-0.0.35-windows-amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/nats-io/natscli/releases/download/v0.0.35/nats-0.0.35-windows-amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: nats-0.0.35-windows-amd64\nats.exe
     PortableCommandAlias: nats
   InstallerSha256: 192D56A4C152687E9E8127314B88720CB6FCF9536BACA84F5CB343C0BEB3075E
-- InstallerUrl: https://github.com/nats-io/natscli/releases/download/v0.0.35/nats-0.0.35-windows-arm64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/nats-io/natscli/releases/download/v0.0.35/nats-0.0.35-windows-arm64.zip
   Architecture: arm64
   InstallerType: zip
   NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
   - RelativeFilePath: nats-0.0.35-windows-arm64\nats.exe
     PortableCommandAlias: nats
   InstallerSha256: 9541044684FCD88EFC7F7CBCCB89F6F30F76A7C0B99CC0FBCC22059B1FD81993
-- InstallerUrl: https://github.com/nats-io/natscli/releases/download/v0.0.35/nats-0.0.35-windows-386.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/nats-io/natscli/releases/download/v0.0.35/nats-0.0.35-windows-386.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

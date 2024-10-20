@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-01
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OhMyGuus/BetterCrewLink/releases/download/v2.9.5/Better-CrewLink-Setup-2.9.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OhMyGuus/BetterCrewLink/releases/download/v2.9.5/Better-CrewLink-Setup-2.9.5.exe
   InstallerSha256: 064C205B3D038536B0A2B1379980D1B803C02DB097316CFD91A1384253F0E202
 ManifestType: installer
 ManifestVersion: 1.1.0

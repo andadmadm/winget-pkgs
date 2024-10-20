@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/ClementTsang/bottom/releases/download/0.6.4/bottom_x86_64_installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClementTsang/bottom/releases/download/0.6.4/bottom_x86_64_installer.msi
   InstallerSha256: A382D6901BDE26DC806E5405AB5EC4527BE14C886CE56CD48283B3AF374C5F2C
   UpgradeBehavior: install
   ProductCode: '{0D78A969-7FC8-4B72-B329-8C2BAFE70FE2}'

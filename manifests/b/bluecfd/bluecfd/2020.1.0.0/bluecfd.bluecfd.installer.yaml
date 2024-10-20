@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2020-1/blueCFD-Core-2020-1-win64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2020-1/blueCFD-Core-2020-1-win64-setup.exe
   InstallerSha256: 927E585C95D5C04D262FBB0EF95FD203AF39E809527D70F93732A61DCB0F345C
   InstallerSwitches:
     Silent: /silent

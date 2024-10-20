@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-10-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alagrede/znote-app/releases/download/v1.6.0/znote-Setup-1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alagrede/znote-app/releases/download/v1.6.0/znote-Setup-1.6.0.exe
   InstallerSha256: 6AE92483B10D58BC50B6F6736708A6B818FAC6B2D0577839B985FDA6EA2C56EB
 ManifestType: installer
 ManifestVersion: 1.2.0

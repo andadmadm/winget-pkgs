@@ -6,7 +6,7 @@ PackageVersion: "2.3"
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/popeen/Classic-Volume-Mixer/releases/download/v2.3/setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/popeen/Classic-Volume-Mixer/releases/download/v2.3/setup.exe
   InstallerSha256: BE159CF0DD258758B0331A4EF17F268F003E3798CD036A93DA74E526E0FB25FA
 ManifestType: installer
 ManifestVersion: 1.4.0

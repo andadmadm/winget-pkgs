@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/goatcorp/FFXIVQuickLauncher/releases/download/6.1.11/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/goatcorp/FFXIVQuickLauncher/releases/download/6.1.11/Setup.exe
   InstallerSha256: 4E8CE3043803FD96662DF18F9811C861E2D45E0CA4D129FD9EEE7FC1D16B14B0
 ManifestType: installer
 ManifestVersion: 1.1.0

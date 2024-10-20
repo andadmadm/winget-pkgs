@@ -13,7 +13,7 @@ Installers:
   - RelativeFilePath: DiskIcon.exe
   - RelativeFilePath: NetIcon.exe
   - RelativeFilePath: RamIcon.exe
-  InstallerUrl: https://github.com/strayge/tray-monitor/releases/download/v2.2.0/tray-monitor_2.2.0_bin.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/strayge/tray-monitor/releases/download/v2.2.0/tray-monitor_2.2.0_bin.zip
   InstallerSha256: 98006C3D3FE301E2BF024EE30E4BE2A9E4BA067E7FFCBD2BC8E0FECA7EA58EA5
 ManifestType: installer
 ManifestVersion: 1.4.0

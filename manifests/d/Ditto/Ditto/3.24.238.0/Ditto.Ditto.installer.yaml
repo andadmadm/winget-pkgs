@@ -22,7 +22,7 @@ FileExtensions:
 - zdb
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sabrogden/Ditto/releases/download/3.24.238.0/DittoSetup_64bit_3_24_238_0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sabrogden/Ditto/releases/download/3.24.238.0/DittoSetup_64bit_3_24_238_0.exe
   InstallerSha256: 24FCB7577A7C4E585C886FD93604F3DA8D7CCE032A8423CB45CE83E5ED89AF80
 ManifestType: installer
 ManifestVersion: 1.2.0

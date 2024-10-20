@@ -10,7 +10,7 @@ FileExtensions:
 ReleaseDate: 2020-12-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/titinko/utsu/releases/download/v0.4.3/Utsu-0.4.3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/titinko/utsu/releases/download/v0.4.3/Utsu-0.4.3.msi
   InstallerSha256: B4FE385DF527A6849C13D767B5B86F5E531A74FD272198B7E26AEE2AECB0E8C6
   ProductCode: '{CEBFE662-339E-3CD3-85D5-96F3F6F91A8F}'
 ManifestType: installer

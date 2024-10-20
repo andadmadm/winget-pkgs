@@ -11,7 +11,7 @@ Dependencies:
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/Orange-OpenSource/hurl/releases/download/3.0.0/hurl-3.0.0-win64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Orange-OpenSource/hurl/releases/download/3.0.0/hurl-3.0.0-win64-installer.exe
   InstallerSha256: DAB4434E8184B772A7260296BCADC972B01F0B701717DB479E4646D682CED264
 ManifestType: installer
 ManifestVersion: 1.1.0

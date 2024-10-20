@@ -15,13 +15,13 @@ ReleaseDate: 2023-05-07
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/23.0.4/dbeaver-ce-23.0.4-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/23.0.4/dbeaver-ce-23.0.4-x86_64-setup.exe
   InstallerSha256: D5969E94E629DCCA74BDF68E6AF8CC10AEB4C494D5822441180F2BF1BA5E8794
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/23.0.4/dbeaver-ce-23.0.4-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/23.0.4/dbeaver-ce-23.0.4-x86_64-setup.exe
   InstallerSha256: D5969E94E629DCCA74BDF68E6AF8CC10AEB4C494D5822441180F2BF1BA5E8794
   InstallerSwitches:
     Custom: /ALLUSERS

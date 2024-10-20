@@ -19,7 +19,7 @@ FileExtensions:
 - wav
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Taiko2k/TauonMusicBox/releases/download/v7.7.0/TauonMusicBox.v7.7.0-1.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Taiko2k/TauonMusicBox/releases/download/v7.7.0/TauonMusicBox.v7.7.0-1.x64.exe
   InstallerSha256: 78D3EB7D319582DD48DAA5388608DECF46F4D714C5BD688F5E65C97EC0BF4C8E
 ManifestType: installer
 ManifestVersion: 1.5.0

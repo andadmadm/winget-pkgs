@@ -15,7 +15,7 @@ Installers:
     PortableCommandAlias: kaf-cli
   - RelativeFilePath: kindlegen.exe
     PortableCommandAlias: kindlegen
-  InstallerUrl: https://github.com/ystyle/kaf-cli/releases/download/v1.3.6-2/kaf-cli_v1.3.6-2_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ystyle/kaf-cli/releases/download/v1.3.6-2/kaf-cli_v1.3.6-2_windows_386.zip
   InstallerSha256: 2C0C9EF3FB31536EE59E426AF08AB744458899F1E6976D31A0D8D067B7710656
 - Architecture: x64
   NestedInstallerType: portable
@@ -24,7 +24,7 @@ Installers:
     PortableCommandAlias: kaf-cli
   - RelativeFilePath: kindlegen.exe
     PortableCommandAlias: kindlegen
-  InstallerUrl: https://github.com/ystyle/kaf-cli/releases/download/v1.3.6-2/kaf-cli_v1.3.6-2_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ystyle/kaf-cli/releases/download/v1.3.6-2/kaf-cli_v1.3.6-2_windows_amd64.zip
   InstallerSha256: DF942D6EF507E994B1157311132CDEE3DBF8DC8A919B0D26527D03AD5C614FF6
 ManifestType: installer
 ManifestVersion: 1.5.0

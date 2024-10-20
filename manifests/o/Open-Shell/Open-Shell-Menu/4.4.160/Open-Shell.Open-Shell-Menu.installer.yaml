@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /qn ADDLOCAL=StartMenu
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.160/OpenShellSetup_4_4_160.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.160/OpenShellSetup_4_4_160.exe
   InstallerSha256: 2F637B8A5666F4537FBB4E1502BECDE2469E4888008A79060549B26ADE5068DD
 ManifestType: installer
 ManifestVersion: 1.2.0

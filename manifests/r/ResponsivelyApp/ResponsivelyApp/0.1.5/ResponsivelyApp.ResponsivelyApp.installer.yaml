@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/responsively-org/responsively-app/releases/download/v0.1.5/ResponsivelyApp-Setup-0.1.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/responsively-org/responsively-app/releases/download/v0.1.5/ResponsivelyApp-Setup-0.1.5.exe
   InstallerSha256: F27E6E72E2A921AF897DF6646153FB3AF0808D7348BFF96F97E0D94A1FDEC88C
 ManifestType: installer
 ManifestVersion: 1.1.0

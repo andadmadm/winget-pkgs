@@ -4,7 +4,7 @@
 PackageIdentifier: openobserve.openobserve
 PackageVersion: 0.4.7
 Installers:
-- InstallerUrl: https://github.com/openobserve/openobserve/releases/download/v0.4.7/openobserve-v0.4.7-windows-amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/openobserve/openobserve/releases/download/v0.4.7/openobserve-v0.4.7-windows-amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

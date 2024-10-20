@@ -18,11 +18,11 @@ FileExtensions:
 ReleaseDate: 2022-04-20
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.33.11/AutoHotkey_1.1.33.11_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.33.11/AutoHotkey_1.1.33.11_setup.exe
   InstallerSha256: 4E07DE6F89B7DD371735D0360AFC61AC21D19EA7C4B3F020E2E1A6B17B61432C
   ProductCode: AutoHotkey
 - Architecture: x64
-  InstallerUrl: https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.33.11/AutoHotkey_1.1.33.11_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v1.1.33.11/AutoHotkey_1.1.33.11_setup.exe
   InstallerSha256: 4E07DE6F89B7DD371735D0360AFC61AC21D19EA7C4B3F020E2E1A6B17B61432C
   ProductCode: AutoHotkey
 ManifestType: installer

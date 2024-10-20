@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dangeredwolf/ModernDeck/releases/download/v9.4.0/ModernDeck_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dangeredwolf/ModernDeck/releases/download/v9.4.0/ModernDeck_x64.exe
   InstallerSha256: F0AE110EA0A809D035CDC5EB136D75A1B96876283E93A3AD4601EEBC434CED2D
 ManifestType: installer
 ManifestVersion: 1.1.0

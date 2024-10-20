@@ -5,7 +5,7 @@ PackageIdentifier: Canonical.Multipass
 PackageVersion: 1.13.0+win
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/canonical/multipass/releases/download/v1.13.0/multipass-1.13.0+win-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/canonical/multipass/releases/download/v1.13.0/multipass-1.13.0+win-win64.exe
   InstallerSha256: aea8eda2467b16dd9a291c04bfc2f66350b6f804a3f03ac2235b3d732f7da2f1
 ManifestType: installer
 ManifestVersion: 1.5.0

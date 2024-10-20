@@ -15,13 +15,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/2.7.3/authme-2.7.3-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/2.7.3/authme-2.7.3-windows-x64-installer.exe
   InstallerSha256: F58E86C0107B7CC1882040C191DBED148E7664D82432E35DE9C4786079C99991
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/2.7.3/authme-2.7.3-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/2.7.3/authme-2.7.3-windows-x64-installer.exe
   InstallerSha256: F58E86C0107B7CC1882040C191DBED148E7664D82432E35DE9C4786079C99991
   InstallerSwitches:
     Custom: /ALLUSERS

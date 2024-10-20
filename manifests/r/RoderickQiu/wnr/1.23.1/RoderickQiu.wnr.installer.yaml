@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-64.exe
   InstallerSha256: 776A6DCF5DA3ED0EDBFA8FF772830A8EF156CFCAE64A7523D9D7407DEDC18A8C
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-64.exe
   InstallerSha256: 776A6DCF5DA3ED0EDBFA8FF772830A8EF156CFCAE64A7523D9D7407DEDC18A8C
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -30,7 +30,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-32.exe
   InstallerSha256: 8C873FAD39289DA0DA42F7FDFD24B595771B4C3C403E661476C3CA09FD25CC30
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -39,7 +39,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RoderickQiu/wnr/releases/download/v1.23.1/wnr-1.23.1-Setup-32.exe
   InstallerSha256: 8C873FAD39289DA0DA42F7FDFD24B595771B4C3C403E661476C3CA09FD25CC30
   InstallerSwitches:
     Custom: /ALLUSERS

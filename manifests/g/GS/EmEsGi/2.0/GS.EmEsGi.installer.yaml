@@ -7,7 +7,7 @@ InstallerType: portable
 Commands:
 - emesgi
 Installers:
-- InstallerUrl: https://github.com/elGiova/EmEsGi/releases/download/v2-self-contained/EmEsGi_v2_self-contained.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/elGiova/EmEsGi/releases/download/v2-self-contained/EmEsGi_v2_self-contained.exe
   Architecture: neutral
   InstallerSha256: B219ABBC0ACBBBEEC2A94F2A6F0842926E77FC0975D3C39EAF3697C4A51C4830
 ManifestType: installer

@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/obsidianmd/obsidian-releases/releases/download/v0.13.19/Obsidian.0.13.19.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsidianmd/obsidian-releases/releases/download/v0.13.19/Obsidian.0.13.19.exe
   InstallerSha256: 3E6D589A66D9C977C69CCA28467FFA534DD5BC069851A82230AF17A96CE44543
 ManifestType: installer
 ManifestVersion: 1.1.0

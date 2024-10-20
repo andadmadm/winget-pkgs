@@ -18,11 +18,11 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-21
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/zaps166/QMPlay2/releases/download/22.08.21/QMPlay2-Win32-22.08.21.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zaps166/QMPlay2/releases/download/22.08.21/QMPlay2-Win32-22.08.21.exe
   InstallerSha256: 2512D09F82F6B604A6F98108C48079D53391153C50A4005FDC5048C7EC5DA9FD
   ProductCode: QMPlay2
 - Architecture: x64
-  InstallerUrl: https://github.com/zaps166/QMPlay2/releases/download/22.08.21/QMPlay2-Win64-22.08.21.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zaps166/QMPlay2/releases/download/22.08.21/QMPlay2-Win64-22.08.21.exe
   InstallerSha256: EDCAB000F43370BB2D54604068858C156D2F832861D5D5494CCD82B258ECB98A
   ProductCode: QMPlay2
 ManifestType: installer

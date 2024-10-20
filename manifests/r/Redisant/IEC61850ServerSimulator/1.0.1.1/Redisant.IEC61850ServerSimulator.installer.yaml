@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC61850ServerSimulator-1.0.1.1-windows\IEC61850ServerSimulator.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/iec61850-server-simulator-release/releases/download/v1.0.1.1/IEC61850ServerSimulator-1.0.1.1-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/iec61850-server-simulator-release/releases/download/v1.0.1.1/IEC61850ServerSimulator-1.0.1.1-windows.zip
   InstallerSha256: 9D534E614D69C9AFD77CE5EA2A5B8369291ED25DA0F6CBAEF1383E816094B283
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC61850ServerSimulator-1.0.1.1-windows\IEC61850ServerSimulator.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/iec61850-server-simulator-release/releases/download/v1.0.1.1/IEC61850ServerSimulator-1.0.1.1-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/iec61850-server-simulator-release/releases/download/v1.0.1.1/IEC61850ServerSimulator-1.0.1.1-windows.zip
   InstallerSha256: 9D534E614D69C9AFD77CE5EA2A5B8369291ED25DA0F6CBAEF1383E816094B283
   InstallerSwitches:
     Custom: /ALLUSERS

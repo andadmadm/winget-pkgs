@@ -15,11 +15,11 @@ FileExtensions:
 ReleaseDate: 2023-02-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-25.2.3/otp_win32_25.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-25.2.3/otp_win32_25.2.3.exe
   InstallerSha256: D9AFEE2378A0E375988EA9AEDDF8F033E274879426DA525F2C09EB64E793DBC3
   ProductCode: Erlang OTP
 - Architecture: x64
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-25.2.3/otp_win64_25.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-25.2.3/otp_win64_25.2.3.exe
   InstallerSha256: 07C66DE47706B114909EF6019D4C2434090406DB14AF300DAE2B821003C10A73
   ProductCode: Erlang OTP
 ManifestType: installer

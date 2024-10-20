@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /quiet
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/electron/fiddle/releases/download/v0.15.1/electron-fiddle-0.15.1-x64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electron/fiddle/releases/download/v0.15.1/electron-fiddle-0.15.1-x64-setup.exe
   InstallerSha256: A594DB76D9D027A28ABB19C23B24E9E02FD51E0DB7E4315154A28EC7D0FC08FD
 ManifestType: installer
 ManifestVersion: 1.1.0

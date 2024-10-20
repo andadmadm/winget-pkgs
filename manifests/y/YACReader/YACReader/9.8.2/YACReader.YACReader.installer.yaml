@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/YACReader/yacreader/releases/download/9.8.2.2106204/YACReader-v9.8.2.2106204-winx64-7z.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/YACReader/yacreader/releases/download/9.8.2.2106204/YACReader-v9.8.2.2106204-winx64-7z.exe
   InstallerSha256: FEE6E0B4822F6F6F6DA7399B3A3C2F464B5003E923400A94B3F6FDC4941610A2
   UpgradeBehavior: install
   ProductCode: YACReader_is1
@@ -21,7 +21,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/YACReader/yacreader/releases/download/9.8.2.2106204/YACReader-v9.8.2.2106204-winx86-7z.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/YACReader/yacreader/releases/download/9.8.2.2106204/YACReader-v9.8.2.2106204-winx86-7z.exe
   InstallerSha256: A56D9466E203DDC3A57CF6811480A3FBC66352494B19BFC62E5E1AAD19C66600
   UpgradeBehavior: install
   ProductCode: YACReader_is1

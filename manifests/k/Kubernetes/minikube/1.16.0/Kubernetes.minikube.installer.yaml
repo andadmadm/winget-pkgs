@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kubernetes/minikube/releases/download/v1.16.0/minikube-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/minikube/releases/download/v1.16.0/minikube-installer.exe
   InstallerSha256: 3BFA399E8E0D51BF59C2573E13935AC9EB42D237757D90F0127EFC28C57F9EA1
 ManifestType: installer
 ManifestVersion: 1.1.0

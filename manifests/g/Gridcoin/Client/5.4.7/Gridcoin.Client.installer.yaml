@@ -12,14 +12,14 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/gridcoin-community/Gridcoin-Research/releases/download/5.4.7.0/gridcoin-5.4.7-win32-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gridcoin-community/Gridcoin-Research/releases/download/5.4.7.0/gridcoin-5.4.7-win32-setup.exe
   InstallerSha256: 917CFF8C83DD7849BE7B17542A5CF3775F73179DAFCA5663785AD919B7DED899
   ProductCode: Gridcoin (32-bit)
   AppsAndFeaturesEntries:
   - DisplayName: Gridcoin (32-bit)
     ProductCode: Gridcoin (32-bit)
 - Architecture: x64
-  InstallerUrl: https://github.com/gridcoin-community/Gridcoin-Research/releases/download/5.4.7.0/gridcoin-5.4.7-win64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gridcoin-community/Gridcoin-Research/releases/download/5.4.7.0/gridcoin-5.4.7-win64-setup.exe
   InstallerSha256: 69D2424E0FE24C4CE733D6F857C2CE9D898AD1F43215003CF41885C2DEC1AA51
   ProductCode: Gridcoin (64-bit)
   AppsAndFeaturesEntries:

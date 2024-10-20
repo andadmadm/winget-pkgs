@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{3F620CF5-07B5-47FD-8E37-9CA8AD14B608}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/amnweb/yasb/releases/download/v1.2.5/yasb-1.2.5-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/amnweb/yasb/releases/download/v1.2.5/yasb-1.2.5-win64.msi
   InstallerSha256: 12386B5BF4298B4C376F4CE87778D767CC8712D77D562FEA2114FE78B213905F
 ManifestType: installer
 ManifestVersion: 1.6.0

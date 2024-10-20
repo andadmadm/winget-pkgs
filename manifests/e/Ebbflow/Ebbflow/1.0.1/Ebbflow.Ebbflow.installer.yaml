@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ebbflow-io/ebbflow/releases/download/1.0.1/ebbflow_1.0.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ebbflow-io/ebbflow/releases/download/1.0.1/ebbflow_1.0.1.msi
   InstallerSha256: 6735B2E54C2E52B153F75BAC4C5145EC44BB3B00CDF22DDF7665F269E9BFEA7B
   ProductCode: '{07ED92AA-011A-4B08-AF05-208D0D980210}'
 ManifestType: installer

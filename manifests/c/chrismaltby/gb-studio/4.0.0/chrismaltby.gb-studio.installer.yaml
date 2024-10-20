@@ -10,7 +10,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-06-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chrismaltby/gb-studio/releases/download/v4.0.0/gb-studio-windows-64bit-installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrismaltby/gb-studio/releases/download/v4.0.0/gb-studio-windows-64bit-installer.zip
   InstallerSha256: E8894CBF032823773E46501E22A59423A6809AEEC891F6A8538441324247E190
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -11,14 +11,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: vale.exe
     PortableCommandAlias: vale
-  InstallerUrl: https://github.com/errata-ai/vale/releases/download/v2.24.3/vale_2.24.3_Windows_64-bit.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/errata-ai/vale/releases/download/v2.24.3/vale_2.24.3_Windows_64-bit.zip
   InstallerSha256: 4583AFF4C4C384BE4275FFB53DFA47E281D8E51A522B0511524594427D470E2C
 - Architecture: arm64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: vale.exe
     PortableCommandAlias: vale
-  InstallerUrl: https://github.com/errata-ai/vale/releases/download/v2.24.3/vale_2.24.3_Windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/errata-ai/vale/releases/download/v2.24.3/vale_2.24.3_Windows_arm64.zip
   InstallerSha256: BE6332E6916C70928D0718F26FCA2243F5C8A571F850CD0531B1B125CE77CBFE
 ManifestType: installer
 ManifestVersion: 1.4.0

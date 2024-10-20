@@ -15,14 +15,14 @@ Installers:
 - Architecture: x86
   InstallerType: wix
   Scope: machine
-  InstallerUrl: https://github.com/martinchrzan/ColorPicker/releases/download/1.1.2/Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinchrzan/ColorPicker/releases/download/1.1.2/Setup.msi
   InstallerSha256: 79F20D4C21871F1089302A6043A782BC90A67B7D94339C7DA840FEB756881336
   ProductCode: '{1C7B16E1-71E5-4236-957C-C83E3E3F4A1D}'
   UpgradeBehavior: uninstallPrevious
 - Architecture: x86
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/martinchrzan/ColorPicker/releases/download/1.1.2/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinchrzan/ColorPicker/releases/download/1.1.2/Setup.exe
   InstallerSha256: DB2E8A3029D3CB5F1490A98BFEE8409A5F3E1DE44B3DF402F19F254E843F6EDC
   InstallerSwitches:
     Silent: --silent

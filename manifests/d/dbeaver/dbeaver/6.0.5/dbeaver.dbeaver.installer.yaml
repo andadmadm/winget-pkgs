@@ -16,13 +16,13 @@ ReleaseDate: 2019-05-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/6.0.5/dbeaver-ce-6.0.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/6.0.5/dbeaver-ce-6.0.5-x86_64-setup.exe
   InstallerSha256: 4461EF8607513469662C7210298ECD49B8C98D46CE95DE19BC8903C5D9378EA2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/6.0.5/dbeaver-ce-6.0.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/6.0.5/dbeaver-ce-6.0.5-x86_64-setup.exe
   InstallerSha256: 4461EF8607513469662C7210298ECD49B8C98D46CE95DE19BC8903C5D9378EA2
   InstallerSwitches:
     Custom: /ALLUSERS

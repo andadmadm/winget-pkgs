@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: tend-0.2.9-x86_64-pc-windows-msvc\tend.exe
   PortableCommandAlias: tend
 Installers:
-- InstallerUrl: https://github.com/lubomirkurcak/tend/releases/download/0.2.9/tend-0.2.9-x86_64-pc-windows-msvc.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/lubomirkurcak/tend/releases/download/0.2.9/tend-0.2.9-x86_64-pc-windows-msvc.zip
   Architecture: x64
   InstallerSha256: 1C8DEFA470A0BC8D8DBF114511D87EDBDD25C1E2CB1C25030883EE2FD98CBD52
 ManifestType: installer

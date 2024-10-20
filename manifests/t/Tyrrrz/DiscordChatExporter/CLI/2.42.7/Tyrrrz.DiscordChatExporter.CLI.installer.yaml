@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2024-01-18
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.42.7/DiscordChatExporter.Cli.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.42.7/DiscordChatExporter.Cli.zip
   InstallerSha256: 26FA698667C73AF0CA8CECE53BBC6D70061DF46CD6C4AC0306CF73F21F855B92
 ManifestType: installer
 ManifestVersion: 1.5.0

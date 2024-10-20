@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
   ProductCode: Gaphor
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gaphor/gaphor/releases/download/2.27.0/gaphor-2.27.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gaphor/gaphor/releases/download/2.27.0/gaphor-2.27.0-installer.exe
   InstallerSha256: 0D954B7E7392098B2D085DCE65A225A302F316D9CDAA18A87A367B85050ED4D7
 ManifestType: installer
 ManifestVersion: 1.6.0

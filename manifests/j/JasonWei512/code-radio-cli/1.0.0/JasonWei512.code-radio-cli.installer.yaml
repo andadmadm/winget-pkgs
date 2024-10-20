@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2022-11-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JasonWei512/code-radio-cli/releases/download/v1.0.0/code-radio-1.0.0-windows-x86_64-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JasonWei512/code-radio-cli/releases/download/v1.0.0/code-radio-1.0.0-windows-x86_64-msvc.exe
   InstallerSha256: 3DEF9BF419F2216ADE142C94505EA4B12CCDD93D58EF3B3482387C1D2CC91AC1
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BiGilSoft/WindowTop/releases/download/v5.17.0/WindowTop.5.17.0.-.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BiGilSoft/WindowTop/releases/download/v5.17.0/WindowTop.5.17.0.-.setup.exe
   InstallerSha256: 3D6FC9D8EB0DAFCCD67FAD5E61378DBB93FCBDDA609C4C805C801B397B1C4D3A
 ManifestType: installer
 ManifestVersion: 1.2.0

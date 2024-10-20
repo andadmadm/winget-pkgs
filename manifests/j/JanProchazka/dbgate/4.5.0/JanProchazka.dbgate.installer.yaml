@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbgate/dbgate/releases/download/v4.5.0/dbgate-4.5.0-win_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbgate/dbgate/releases/download/v4.5.0/dbgate-4.5.0-win_x64.exe
   InstallerSha256: 31369954585FDA03B5377D843EFDA997EB3E04A953F283E301E6BC11E7DFF117
 ManifestType: installer
 ManifestVersion: 1.1.0

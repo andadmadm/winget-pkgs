@@ -11,10 +11,10 @@ NestedInstallerFiles:
 ReleaseDate: 2024-02-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/superfly/flyctl/releases/download/v0.2.2/flyctl_0.2.2_Windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/superfly/flyctl/releases/download/v0.2.2/flyctl_0.2.2_Windows_x86_64.zip
   InstallerSha256: 727CF27FBEF18DB11093653419656258629B6CB84C85A23EF91AD2650D20CB7E
 - Architecture: arm64
-  InstallerUrl: https://github.com/superfly/flyctl/releases/download/v0.2.2/flyctl_0.2.2_Windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/superfly/flyctl/releases/download/v0.2.2/flyctl_0.2.2_Windows_arm64.zip
   InstallerSha256: B24500DA5F70953546B1903FE92C42F3B74324156C89D59B3AC4F1A32960149C
 ManifestType: installer
 ManifestVersion: 1.5.0

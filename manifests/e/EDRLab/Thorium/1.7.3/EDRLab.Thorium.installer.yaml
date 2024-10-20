@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/edrlab/thorium-reader/releases/download/v1.7.3/Thorium.Setup.1.7.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/edrlab/thorium-reader/releases/download/v1.7.3/Thorium.Setup.1.7.3.exe
   InstallerSha256: 3C84B10ABEC1CBDDF93C340887C6904D90DE3D3EFC7EA47D4BEE62AE420C34C1
 ManifestType: installer
 ManifestVersion: 1.0.0

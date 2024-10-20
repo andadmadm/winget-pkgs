@@ -32,7 +32,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{A053E7ED-D2FC-57F5-17A0-E042D435B26D}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_x64_windows_hotspot_23_37.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_x64_windows_hotspot_23_37.msi
   InstallerSha256: 90877250F1F0195CDB241F5C75068E70383D25895567416CDE0201ABF33EFD3C
   ProductCode: '{E38510A9-386D-456B-AE31-CAAC311D9D80}'
 ManifestType: installer

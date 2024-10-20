@@ -18,7 +18,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sagemath/sage-windows/releases/download/0.6.2-9.2/SageMath-9.2-Installer-v0.6.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sagemath/sage-windows/releases/download/0.6.2-9.2/SageMath-9.2-Installer-v0.6.2.exe
   InstallerSha256: 9B924682E3F73EA9A3D4E3C0839ECE36AF99EA1F5802DE98397F8182A0A02FD3
 ManifestType: installer
 ManifestVersion: 1.4.0

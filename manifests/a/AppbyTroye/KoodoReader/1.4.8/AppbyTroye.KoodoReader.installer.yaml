@@ -21,13 +21,13 @@ ReleaseDate: 2022-09-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/troyeguo/koodo-reader/releases/download/v1.4.8/Koodo-Reader-1.4.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/troyeguo/koodo-reader/releases/download/v1.4.8/Koodo-Reader-1.4.8.exe
   InstallerSha256: A9423310CB30889F7B672F0EE12D50EF2B57366D79B5E4AB04227997C4376EEA
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/troyeguo/koodo-reader/releases/download/v1.4.8/Koodo-Reader-1.4.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/troyeguo/koodo-reader/releases/download/v1.4.8/Koodo-Reader-1.4.8.exe
   InstallerSha256: A9423310CB30889F7B672F0EE12D50EF2B57366D79B5E4AB04227997C4376EEA
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

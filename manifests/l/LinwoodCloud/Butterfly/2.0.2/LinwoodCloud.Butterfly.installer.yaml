@@ -12,13 +12,13 @@ ReleaseDate: 2024-01-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.2/linwood-butterfly-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.2/linwood-butterfly-windows-setup.exe
   InstallerSha256: 49A3A4B3D35A7B8DD31132508161AE22C7C9F8CCFA7F732EF402F82199FF7443
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.2/linwood-butterfly-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.2/linwood-butterfly-windows-setup.exe
   InstallerSha256: 49A3A4B3D35A7B8DD31132508161AE22C7C9F8CCFA7F732EF402F82199FF7443
   InstallerSwitches:
     Custom: /ALLUSERS

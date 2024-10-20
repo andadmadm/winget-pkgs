@@ -8,7 +8,7 @@ ReleaseDate: 2023-06-30
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.1.6/GrampsAIO-5.1.6-1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.1.6/GrampsAIO-5.1.6-1_win64.exe
   InstallerSha256: 293F3D56AE36B4A6599DD7FA3A766EB0D36B5C3DEC1F80E41DA24B6831D76209
   ProductCode: GrampsAIO64 5.1.6
   AppsAndFeaturesEntries:
@@ -19,7 +19,7 @@ Installers:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.1.6/GrampsAIO-5.1.6-1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.1.6/GrampsAIO-5.1.6-1_win64.exe
   InstallerSha256: 293F3D56AE36B4A6599DD7FA3A766EB0D36B5C3DEC1F80E41DA24B6831D76209
   ProductCode: GrampsAIO64 5.1.6
   AppsAndFeaturesEntries:

@@ -6,7 +6,7 @@ PackageVersion: 0.59.2
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/buchen/portfolio/releases/download/0.59.2/PortfolioPerformance-0.59.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buchen/portfolio/releases/download/0.59.2/PortfolioPerformance-0.59.2-setup.exe
   InstallerSha256: AF3565D6AF68DB15B7B57BD1FFAF13EBD3C58CB567A0ECE911E2790D659A0EE2
 ManifestType: installer
 ManifestVersion: 1.2.0

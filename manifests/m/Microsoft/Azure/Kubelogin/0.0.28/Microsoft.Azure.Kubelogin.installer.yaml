@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ./bin/windows_amd64/kubelogin.exe
     PortableCommandAlias: kubelogin
-  InstallerUrl: https://github.com/Azure/kubelogin/releases/download/v0.0.28/kubelogin-win-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/kubelogin/releases/download/v0.0.28/kubelogin-win-amd64.zip
   InstallerSha256: E85588B8CB143B20D76A3EC0C67A57B6A6504A5FEC4C0419948D2F34E0599A36
 ManifestType: installer
 ManifestVersion: 1.4.0

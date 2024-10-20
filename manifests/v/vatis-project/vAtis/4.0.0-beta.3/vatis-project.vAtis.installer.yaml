@@ -4,7 +4,7 @@
 PackageIdentifier: vatis-project.vAtis
 PackageVersion: 4.0.0-beta.3
 Installers:
-- InstallerUrl: https://github.com/vatis-project/vatis/releases/download/v4.0.0-beta.3/vATIS-Setup-4.0.0-beta.3.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/vatis-project/vatis/releases/download/v4.0.0-beta.3/vATIS-Setup-4.0.0-beta.3.exe
   Architecture: x86
   InstallerType: nullsoft
   InstallerSha256: D0617EB42F476207013A8DEC20BB35C5F0FE6F822A1DE0DBE5D2F561341A7D79

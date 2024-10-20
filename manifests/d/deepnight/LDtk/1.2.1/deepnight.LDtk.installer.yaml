@@ -10,10 +10,10 @@ UpgradeBehavior: install
 ReleaseDate: 2023-01-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/deepnight/ldtk/releases/download/v1.2.1/LDtk-1.2.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deepnight/ldtk/releases/download/v1.2.1/LDtk-1.2.1-installer.exe
   InstallerSha256: 16A9373C51FC41DCD5626E90457B18E7DD5D83CF6A3B907E361802B143045BB8
 - Architecture: x86
-  InstallerUrl: https://github.com/deepnight/ldtk/releases/download/v1.2.1/LDtk-1.2.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deepnight/ldtk/releases/download/v1.2.1/LDtk-1.2.1-installer.exe
   InstallerSha256: 16A9373C51FC41DCD5626E90457B18E7DD5D83CF6A3B907E361802B143045BB8
 ManifestType: installer
 ManifestVersion: 1.2.0

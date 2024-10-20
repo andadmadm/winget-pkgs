@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-07-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/soopercool101/BrawlCrate/releases/download/v0.40a/BrawlCrate.v0.40a.x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/soopercool101/BrawlCrate/releases/download/v0.40a/BrawlCrate.v0.40a.x86.exe
   InstallerSha256: D2EAD630BF12B8006411A8A51AE212239C37A18CFD1F30A96F412EF73F6E3036
 ManifestType: installer
 ManifestVersion: 1.5.0

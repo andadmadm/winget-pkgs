@@ -18,7 +18,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.8.0/Bisq-64bit-1.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.8.0/Bisq-64bit-1.8.0.exe
   InstallerSha256: 98534C2E1EC3A528418C469F6CBC3DBB66E85FEB5EA28DB9BAC3959F9DDFC050
 ManifestType: installer
 ManifestVersion: 1.1.0

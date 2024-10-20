@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.8.3/Flow-Launcher-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.8.3/Flow-Launcher-Setup.exe
   InstallerSha256: FE6D23623DFB8882F317EB2E0C9A4AA974DEA31578B663B147876A8B5F3F28DE
   InstallerSwitches:
     Silent: --silent

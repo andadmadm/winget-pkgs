@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/4.4.4/Altus-Setup-4.4.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/4.4.4/Altus-Setup-4.4.4.exe
   InstallerSha256: 7FF809242F64AD1275BC15AA08572B124CFAC919A350DC6B863A5D5091E47512
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/4.4.4/Altus-Setup-4.4.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/4.4.4/Altus-Setup-4.4.4.exe
   InstallerSha256: 7FF809242F64AD1275BC15AA08572B124CFAC919A350DC6B863A5D5091E47512
   InstallerSwitches:
     Custom: /ALLUSERS

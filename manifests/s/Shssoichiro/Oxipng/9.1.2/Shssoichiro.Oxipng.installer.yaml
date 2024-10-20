@@ -13,7 +13,7 @@ Installers:
 - Architecture: x86
   NestedInstallerFiles:
   - RelativeFilePath: oxipng-9.1.2-i686-pc-windows-msvc/oxipng.exe
-  InstallerUrl: https://github.com/shssoichiro/oxipng/releases/download/v9.1.2/oxipng-9.1.2-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/shssoichiro/oxipng/releases/download/v9.1.2/oxipng-9.1.2-i686-pc-windows-msvc.zip
   InstallerSha256: C26ABB2B1BEEDB5840EF66B4ED8EF12858AABDFF2F6601B47045BA637C145005
   Dependencies:
     PackageDependencies:
@@ -21,7 +21,7 @@ Installers:
 - Architecture: x64
   NestedInstallerFiles:
   - RelativeFilePath: oxipng-9.1.2-x86_64-pc-windows-msvc/oxipng.exe
-  InstallerUrl: https://github.com/shssoichiro/oxipng/releases/download/v9.1.2/oxipng-9.1.2-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/shssoichiro/oxipng/releases/download/v9.1.2/oxipng-9.1.2-x86_64-pc-windows-msvc.zip
   InstallerSha256: FAE4A6F78C096405D1529AA8654487C5B3A2CC3C27DCEC96802660FCA6D7BDF6
   Dependencies:
     PackageDependencies:

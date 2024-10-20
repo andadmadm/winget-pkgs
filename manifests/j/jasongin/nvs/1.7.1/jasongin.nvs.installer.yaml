@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{33835604-C515-4917-A1CD-B9A399669366}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/jasongin/nvs/releases/download/v1.7.1/nvs-1.7.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jasongin/nvs/releases/download/v1.7.1/nvs-1.7.1.msi
   InstallerSha256: 0769F6E8154C30BE7FCAFF2CD185FE278219F93B3CB4E6F86BE869761E9BD5D1
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -14,7 +14,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HydrologicEngineeringCenter/hec-downloads/releases/download/1.0.21/HEC-RAS_61_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HydrologicEngineeringCenter/hec-downloads/releases/download/1.0.21/HEC-RAS_61_Setup.exe
   InstallerSha256: 6B131F8F59BEF5593394E2E18102C4C798A4FB80B0FEC984081403B640EBCC02
 ManifestType: installer
 ManifestVersion: 1.1.0

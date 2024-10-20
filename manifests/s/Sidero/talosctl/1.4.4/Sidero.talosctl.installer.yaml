@@ -9,7 +9,7 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/siderolabs/talos/releases/download/v1.4.4/talosctl-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siderolabs/talos/releases/download/v1.4.4/talosctl-windows-amd64.exe
   InstallerSha256: CD2E6C2595494C6736B6A5E15345B989AE12C9F401F9A0A5664D8DB1D58E1EA6
 ManifestType: installer
 ManifestVersion: 1.4.0

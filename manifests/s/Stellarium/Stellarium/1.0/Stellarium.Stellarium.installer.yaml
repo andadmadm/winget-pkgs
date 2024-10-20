@@ -8,10 +8,10 @@ InstallerType: inno
 ReleaseDate: 2022-10-01
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Stellarium/stellarium/releases/download/v1.0/stellarium-0.22.3-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Stellarium/stellarium/releases/download/v1.0/stellarium-0.22.3-win32.exe
   InstallerSha256: 23568AC56D63D0D72AA6BFC5BB89EB407B3EBB1B8E451781E37ADE78422A470F
 - Architecture: x64
-  InstallerUrl: https://github.com/Stellarium/stellarium/releases/download/v1.0/stellarium-1.22.3-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Stellarium/stellarium/releases/download/v1.0/stellarium-1.22.3-win64.exe
   InstallerSha256: F26A6A0B046877180AE0826E8095652D76D27AE369C5D0372ED001346034D459
 ManifestType: installer
 ManifestVersion: 1.2.0

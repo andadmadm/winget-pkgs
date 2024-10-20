@@ -19,10 +19,10 @@ FileExtensions:
 ReleaseDate: 2023-05-22
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x32_1_8_0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x32_1_8_0.exe
   InstallerSha256: 74B9D5417ECCDB4835004AA1000EFC855DF7CCA42CA59181BC60E5DA872065CB
 - Architecture: x64
-  InstallerUrl: https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x64_1_8_0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x64_1_8_0.exe
   InstallerSha256: 818D2A4412BA4FC209F56B58D06F984DE8092767324D87CB4B2A970E4E5D22F9
 ManifestType: installer
 ManifestVersion: 1.4.0

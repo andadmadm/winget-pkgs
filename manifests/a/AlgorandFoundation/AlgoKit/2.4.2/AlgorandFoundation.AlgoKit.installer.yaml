@@ -13,7 +13,7 @@ Commands:
 PackageFamilyName: algokit_hzpbq3dqsa6vt
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/algorandfoundation/algokit-cli/releases/download/v2.4.2/algokit-2.4.2-windows_x64-winget.msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/algorandfoundation/algokit-cli/releases/download/v2.4.2/algokit-2.4.2-windows_x64-winget.msix
   InstallerSha256: 02E5B5B523AD85DC8822A8B08C8117C92E5122E3D84E18B0C5A98F926A60E439
   SignatureSha256: EBD9066327C0B578D3154CD5BEBCC6D72608DB78FB21AA78F05DB64E3AC59623
 ManifestType: installer

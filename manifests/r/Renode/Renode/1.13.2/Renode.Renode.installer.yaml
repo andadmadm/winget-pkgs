@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/renode/renode/releases/download/v1.13.2/renode_1.13.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/renode/renode/releases/download/v1.13.2/renode_1.13.2.msi
   InstallerSha256: 0439FFCEB22C4F5F6308B5928D3822CEF9EE0E5D9BE28EFC52767878EE85F979
   ProductCode: '{FC8CD577-D00A-4131-A338-113D90014EA8}'
 ManifestType: installer

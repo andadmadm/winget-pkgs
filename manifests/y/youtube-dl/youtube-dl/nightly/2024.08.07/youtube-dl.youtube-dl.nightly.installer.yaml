@@ -11,7 +11,7 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2024-08-07
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ytdl-org/ytdl-nightly/releases/download/2024.08.07/youtube-dl.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ytdl-org/ytdl-nightly/releases/download/2024.08.07/youtube-dl.exe
   InstallerSha256: 32A0D5E7DCFE54F7A8C810C658E87EB8550A3D11A4C6076FE05F8568513C754C
   Dependencies:
     PackageDependencies:

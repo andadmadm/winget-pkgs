@@ -12,7 +12,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/slonopotamus/stevedore/releases/download/0.16.0/stevedore-0.16.0-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/slonopotamus/stevedore/releases/download/0.16.0/stevedore-0.16.0-x86_64.msi
   InstallerSha256: 470387EA848E10AF5BE7371EEDC129F4DA7AAA5B1877909F2B2FA130E076ECC0
   ProductCode: '{E354183F-69A7-43C1-80B5-EA5CD2662290}'
 ManifestType: installer

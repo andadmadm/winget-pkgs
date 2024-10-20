@@ -4,7 +4,7 @@
 PackageIdentifier: cinnyapp.cinny-desktop
 PackageVersion: 2.2.6
 Installers:
-- InstallerUrl: https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.6/Cinny_desktop-x86_64.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.6/Cinny_desktop-x86_64.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

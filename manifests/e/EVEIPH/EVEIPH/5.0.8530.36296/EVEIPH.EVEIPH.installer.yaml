@@ -4,7 +4,7 @@
 PackageIdentifier: EVEIPH.EVEIPH
 PackageVersion: 5.0.8530.36296
 Installers:
-- InstallerUrl: https://github.com/EVEIPH/LatestFiles/raw/master/EVE%20Isk%20per%20Hour.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/EVEIPH/LatestFiles/raw/master/EVE%20Isk%20per%20Hour.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi

@@ -7,7 +7,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Git.Git
 Installers:
-- InstallerUrl: https://github.com/github/hub/releases/download/v2.14.2/hub-windows-386-2.14.2.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/github/hub/releases/download/v2.14.2/hub-windows-386-2.14.2.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable
@@ -15,7 +15,7 @@ Installers:
   - RelativeFilePath: bin\hub.exe
     PortableCommandAlias: hub
   InstallerSha256: 16F755B80B9C0DA080D4FA613670E36D7B78F4595CE096A84FFD7AC3D324EC64
-- InstallerUrl: https://github.com/github/hub/releases/download/v2.14.2/hub-windows-amd64-2.14.2.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/github/hub/releases/download/v2.14.2/hub-windows-amd64-2.14.2.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

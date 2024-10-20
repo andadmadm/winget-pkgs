@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/ClementTsang/bottom/releases/download/0.6.5/bottom_x86_64_installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClementTsang/bottom/releases/download/0.6.5/bottom_x86_64_installer.msi
   InstallerSha256: 33692E5956A1F00A6FAADB95FDCABA30A1616B856B72F3B9276C38E427E1C15A
 ManifestType: installer
 ManifestVersion: 1.1.0

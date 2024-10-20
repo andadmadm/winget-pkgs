@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/supercollider/supercollider/releases/download/Version-3.11.2/SuperCollider-3.11.2-Windows-64bit-VS.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supercollider/supercollider/releases/download/Version-3.11.2/SuperCollider-3.11.2-Windows-64bit-VS.exe
   InstallerSha256: AAD63000352242E0F6894841A9D9D7BC7B1D0D0D5CA00937417F6DA73B9EE560
   InstallerSwitches:
     Custom: /NORESTART
@@ -24,7 +24,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/supercollider/supercollider/releases/download/Version-3.11.2/SuperCollider-3.11.2-Windows-32bit-VS.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supercollider/supercollider/releases/download/Version-3.11.2/SuperCollider-3.11.2-Windows-32bit-VS.exe
   InstallerSha256: 76DA7DF41FEB5CD742432E41E277EB783224046A30CCF8CBE1768283DDC0CA50
   InstallerSwitches:
     Custom: /NORESTART

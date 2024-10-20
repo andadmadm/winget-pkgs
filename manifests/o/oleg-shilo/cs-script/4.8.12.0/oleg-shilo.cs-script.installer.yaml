@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: css.exe
   PortableCommandAlias: css
 Installers:
-- InstallerUrl: https://github.com/oleg-shilo/cs-script/releases/download/v4.8.12.0/cs-script.win.v4.8.12.0.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/oleg-shilo/cs-script/releases/download/v4.8.12.0/cs-script.win.v4.8.12.0.zip
   Architecture: neutral
   InstallerSha256: aa6af6419a75e785fa0e1ad1bf47ae2ece4bf24f9bc6aa66155346f35ec75c6a
 ManifestType: installer

@@ -60,13 +60,13 @@ FileExtensions:
 - xslt
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.x64.exe
   InstallerSha256: 20309AC329EA5AF92A561176BC522555EB0C277F5A4321B003A3E2DE2A31CB25
 - Architecture: x86
-  InstallerUrl: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.exe
   InstallerSha256: 926FA9FCB9C4D1C48B5A1E8FEBE5703D7F48AC44795DA1E80D8BD925E9E7BA4E
 - Architecture: arm64
-  InstallerUrl: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.arm64.exe
   InstallerSha256: 25CFF2E06F7D065CF6D6D61346A99ED8243A82581BF7182FE70E1DCD1030611F
 ManifestType: installer
 ManifestVersion: 1.4.0

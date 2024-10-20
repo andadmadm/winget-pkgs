@@ -8,7 +8,7 @@ InstallerType: msi
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mmanela/MarkdownOutlook/releases/download/v1.2.0/MarkdownOutlookSetup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mmanela/MarkdownOutlook/releases/download/v1.2.0/MarkdownOutlookSetup.msi
   InstallerSha256: 9FAB92B0AFB4D0AFF0E7FAB403F0DF384628F1AEDE37FF5CFCD21D97D468490F
   ProductCode: '{4F59BA55-A58C-425D-A743-4D3D1B5756BC}'
 ManifestType: installer

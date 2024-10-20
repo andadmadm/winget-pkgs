@@ -21,7 +21,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-04-09
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/nathancorvussolis/corvusskk/releases/download/3.1.4/corvusskk-3.1.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nathancorvussolis/corvusskk/releases/download/3.1.4/corvusskk-3.1.4.exe
   InstallerSha256: 7F6864E51C2342D348A32F0A871DD2E7BBADF9CC5C997574B851DAD09704204F
 ManifestType: installer
 ManifestVersion: 1.1.0

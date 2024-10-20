@@ -15,7 +15,7 @@ Dependencies:
 ReleaseDate: 2022-03-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zzzgydi/clash-verge/releases/download/v0.0.23/Clash.Verge_0.0.23_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/zzzgydi/clash-verge/releases/download/v0.0.23/Clash.Verge_0.0.23_x64_en-US.msi
   InstallerSha256: F458905ABBF824A007246F2CB9ACFF26DB5653FA57A1FD1FBB96C457B63A8A4E
   ProductCode: '{4C60A6E3-16A5-430C-AB47-A44994F6B651}'
 ManifestType: installer

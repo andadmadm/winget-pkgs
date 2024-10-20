@@ -14,13 +14,13 @@ ReleaseDate: 2018-12-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/1.2.3/Altus-Setup-1.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/1.2.3/Altus-Setup-1.2.3.exe
   InstallerSha256: 843CC91629B99DDF6286993A3D8DB4814D7B06099E473002DFD35BA5EB79E3CF
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/1.2.3/Altus-Setup-1.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/1.2.3/Altus-Setup-1.2.3.exe
   InstallerSha256: 843CC91629B99DDF6286993A3D8DB4814D7B06099E473002DFD35BA5EB79E3CF
   InstallerSwitches:
     Custom: /ALLUSERS

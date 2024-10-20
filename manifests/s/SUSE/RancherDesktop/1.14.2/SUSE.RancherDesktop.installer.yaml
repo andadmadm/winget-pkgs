@@ -17,7 +17,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{1F717D5A-A55B-5FE2-9103-C0D74F7FBDE3}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.14.2/Rancher.Desktop.Setup.1.14.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.14.2/Rancher.Desktop.Setup.1.14.2.msi
   InstallerSha256: 01F52B7A1EBCDDEDA01B6979CE3505B895FDCDE2C5B57F18E4F8C4A593618F3F
 ManifestType: installer
 ManifestVersion: 1.6.0

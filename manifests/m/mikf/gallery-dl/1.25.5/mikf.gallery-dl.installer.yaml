@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2023-05-27
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/mikf/gallery-dl/releases/download/v1.25.5/gallery-dl.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mikf/gallery-dl/releases/download/v1.25.5/gallery-dl.exe
   InstallerSha256: 12878276CC9C70734CA79642874E4972A645B8800BB9E42B0017110517ED8A85
 ManifestType: installer
 ManifestVersion: 1.4.0

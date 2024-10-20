@@ -17,11 +17,11 @@ Commands:
 PackageFamilyName: Microsoft.WindowsPackageManagerManifestCreator_8wekyb3d8bbwe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/winget-create/releases/download/v0.4.4.1-preview/Microsoft.WindowsPackageManagerManifestCreator_0.4.4.1_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/winget-create/releases/download/v0.4.4.1-preview/Microsoft.WindowsPackageManagerManifestCreator_0.4.4.1_8wekyb3d8bbwe.msixbundle
   InstallerSha256: C26AA822DA2A291DB4DFDF7C2D5321D9D4EAF091C03FE276C8F0874939EB472D
   SignatureSha256: A563ED9D11EF7DFD349FDC4DE7CE1A80317F88CF8E0D0CC20CDCEB67352BF6BE
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/winget-create/releases/download/v0.4.4.1-preview/Microsoft.WindowsPackageManagerManifestCreator_0.4.4.1_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/winget-create/releases/download/v0.4.4.1-preview/Microsoft.WindowsPackageManagerManifestCreator_0.4.4.1_8wekyb3d8bbwe.msixbundle
   InstallerSha256: C26AA822DA2A291DB4DFDF7C2D5321D9D4EAF091C03FE276C8F0874939EB472D
   SignatureSha256: A563ED9D11EF7DFD349FDC4DE7CE1A80317F88CF8E0D0CC20CDCEB67352BF6BE
 ManifestType: installer

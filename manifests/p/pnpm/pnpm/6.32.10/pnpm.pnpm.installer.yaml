@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2022-04-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pnpm/pnpm/releases/download/v6.32.10/pnpm-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pnpm/pnpm/releases/download/v6.32.10/pnpm-win-x64.exe
   InstallerSha256: 6B1836A1154F7449C3819A49509926208E1519C5E43CB759CBEB0B6EE66A73AD
 ManifestType: installer
 ManifestVersion: 1.2.0

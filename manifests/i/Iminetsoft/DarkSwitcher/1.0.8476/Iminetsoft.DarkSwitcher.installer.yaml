@@ -9,25 +9,25 @@ ReleaseDate: 2022-05-04
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
   InstallerSha256: B589084D88AFA5A3077EB5BFA73474D421DCE820EE68A416AA4CB43B337A4221
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
   InstallerSha256: B589084D88AFA5A3077EB5BFA73474D421DCE820EE68A416AA4CB43B337A4221
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
   InstallerSha256: B589084D88AFA5A3077EB5BFA73474D421DCE820EE68A416AA4CB43B337A4221
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iminet/DarkSwitcher/releases/download/v1.0.8476/DarkSwitcher.1.0.8476.setup.exe
   InstallerSha256: B589084D88AFA5A3077EB5BFA73474D421DCE820EE68A416AA4CB43B337A4221
   InstallerSwitches:
     Custom: /CURRENTUSER

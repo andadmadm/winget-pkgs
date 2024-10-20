@@ -13,7 +13,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: kubectx.exe
     PortableCommandAlias: kubectx
-  InstallerUrl: https://github.com/ahmetb/kubectx/releases/download/v0.9.5/kubectx_v0.9.5_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ahmetb/kubectx/releases/download/v0.9.5/kubectx_v0.9.5_windows_x86_64.zip
   InstallerSha256: CFFF77B5C59ED37E0AFF39B16EFFB2C4CC47CCB96D58999A0FE5C6E2FA3C0013
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/10.0.0/MysteriumVPN-Setup-10.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/10.0.0/MysteriumVPN-Setup-10.0.0.exe
   InstallerSha256: 92D7D5296DBBECA03066E2D133308B37A7532E19B11F3B6D4FEF440249B2D67C
 ManifestType: installer
 ManifestVersion: 1.0.0

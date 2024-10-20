@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/blueedgetechno/win11React/releases/download/0.2.9/Win11React_0.2.9_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/blueedgetechno/win11React/releases/download/0.2.9/Win11React_0.2.9_x64_en-US.msi
   InstallerSha256: D8397F8CCA6BFA08C65F8D582D7E8F3AE10E6A2AA2CD0EA70AC02EBA7DA92FA2
   ProductCode: '{E7BEE741-5D0A-4D6D-9D1E-AFE197576D62}'
 ManifestType: installer

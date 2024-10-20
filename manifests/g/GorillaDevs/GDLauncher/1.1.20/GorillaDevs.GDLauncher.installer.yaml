@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.20/GDLauncher-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.20/GDLauncher-win-setup.exe
   InstallerSha256: DEED87CDC8BE94E6DE03DD6594F95C68440FF949775CEEC9DA130C68F409F1B4
   AppsAndFeaturesEntries:
   - DisplayName: GDLauncher 1.1.20

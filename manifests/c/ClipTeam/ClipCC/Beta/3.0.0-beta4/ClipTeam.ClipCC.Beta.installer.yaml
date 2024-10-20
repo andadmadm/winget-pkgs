@@ -18,25 +18,25 @@ ReleaseDate: 2021-07-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-x64.exe
   InstallerSha256: 54CC59EA923560BB03D18238F1C2F46DFC5AEF56E4CEC2C77B3E4081DB97C25B
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-x64.exe
   InstallerSha256: 54CC59EA923560BB03D18238F1C2F46DFC5AEF56E4CEC2C77B3E4081DB97C25B
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-ia32.exe
   InstallerSha256: 4189897642182A790A0209FC49FF55BBBADED1A275548115CE1C4D9D02E630B4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Clipteam/clipcc-desktop/releases/download/3.0.0-beta4/clipcc-3.0.0-beta4-win-ia32.exe
   InstallerSha256: 4189897642182A790A0209FC49FF55BBBADED1A275548115CE1C4D9D02E630B4
   InstallerSwitches:
     Custom: /ALLUSERS

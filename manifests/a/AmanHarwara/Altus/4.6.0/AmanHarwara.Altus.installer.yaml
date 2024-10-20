@@ -14,13 +14,13 @@ ReleaseDate: 2022-03-15
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/4.6.0/Altus-Setup-4.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/4.6.0/Altus-Setup-4.6.0.exe
   InstallerSha256: 76DBB2D72AC4766AE24000DA0BCB9D348012D3F662828A2CC068CC97F153C2F4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/amanharwara/altus/releases/download/4.6.0/Altus-Setup-4.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/amanharwara/altus/releases/download/4.6.0/Altus-Setup-4.6.0.exe
   InstallerSha256: 76DBB2D72AC4766AE24000DA0BCB9D348012D3F662828A2CC068CC97F153C2F4
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -11,7 +11,7 @@ Commands:
 - esearch
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xushengfeng/eSearch/releases/download/1.7.0/eSearch.Setup.1.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xushengfeng/eSearch/releases/download/1.7.0/eSearch.Setup.1.7.0.exe
   InstallerSha256: aabf13b9db389bab663d72bfe6823bfaa77b0ca88c0ea78d5508e7ae6ff68d6d
 ManifestType: installer
 ManifestVersion: 1.1.0

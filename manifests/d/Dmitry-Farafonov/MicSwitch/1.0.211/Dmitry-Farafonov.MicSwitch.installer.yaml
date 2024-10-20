@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/iXab3r/MicSwitch/releases/download/1.0.211/MicSwitchSetup.1.0.211.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iXab3r/MicSwitch/releases/download/1.0.211/MicSwitchSetup.1.0.211.exe
   InstallerSha256: 0CD06BF7CD9A1A28E9DD4047B201C11E390EACFA4936E8CB6E4D1EA00184DD73
   InstallerSwitches:
     Silent: --silent

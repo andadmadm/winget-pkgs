@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ProductCode: '{64B2EBAD-E258-4702-8A4A-92A3D5EF2ECF}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/momentohq/momento-cli/releases/download/v0.42.8/momento-cli-0.42.8.windows_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/momentohq/momento-cli/releases/download/v0.42.8/momento-cli-0.42.8.windows_x64.msi
   InstallerSha256: A2921F0D0BF3146CEF28C2CC26CD3E0D28F46A539BADD75C7D2F43365CF1818D
 ManifestType: installer
 ManifestVersion: 1.6.0

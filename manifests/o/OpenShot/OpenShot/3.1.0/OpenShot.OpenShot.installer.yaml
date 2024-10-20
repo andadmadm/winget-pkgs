@@ -17,10 +17,10 @@ FileExtensions:
 ReleaseDate: 2023-04-06
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86.exe
   InstallerSha256: B797ADF8D271CD39405DF2DFCC8B0582993754BD3B9AE7029400C7C4D29226EA
 - Architecture: x64
-  InstallerUrl: https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86_64.exe
   InstallerSha256: E9201C1D61A49BD3332F3DD7A8DF07E95460D225228AA34971DF6F280FBBC16C
 ManifestType: installer
 ManifestVersion: 1.2.0

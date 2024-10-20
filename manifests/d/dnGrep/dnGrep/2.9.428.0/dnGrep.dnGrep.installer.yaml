@@ -14,10 +14,10 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v2.9.428.0/dnGREP.2.9.428.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v2.9.428.0/dnGREP.2.9.428.x64.msi
   InstallerSha256: 4546F7726D70396A2322D31E349CB01A9C043C0BE292BCCF4F742C0593260004
 - Architecture: x86
-  InstallerUrl: https://github.com/dnGrep/dnGrep/releases/download/v2.9.428.0/dnGREP.2.9.428.x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dnGrep/dnGrep/releases/download/v2.9.428.0/dnGREP.2.9.428.x86.msi
   InstallerSha256: 84AF5F3B8AA784E9A0D1D6D99BCC9BC606BFF326D7979F95A1D06747F6334383
 ManifestType: installer
 ManifestVersion: 1.0.0

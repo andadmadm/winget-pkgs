@@ -19,7 +19,7 @@ Dependencies:
 ReleaseDate: 2023-01-31
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/stnkl/EverythingToolbar/releases/download/1.0.1/EverythingToolbar-1.0.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stnkl/EverythingToolbar/releases/download/1.0.1/EverythingToolbar-1.0.1.msi
   InstallerSha256: 7240392DF4256BF115A5A4E0416802351E49ED26FBD48BCEEF1CDE2B1E885445
   ProductCode: '{7BB2157B-CE2A-443F-A25B-AC7FF12FE955}'
 ManifestType: installer

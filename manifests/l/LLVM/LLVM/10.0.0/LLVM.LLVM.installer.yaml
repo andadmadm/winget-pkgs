@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/llvm/llvm-project/releases/download/llvmorg-10.0.0/LLVM-10.0.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-10.0.0/LLVM-10.0.0-win64.exe
   InstallerSha256: 893F8A12506F8AD29CA464D868FB432FDADD782786A10655B86575FC7FC1A562
 ManifestType: installer
 ManifestVersion: 1.1.0

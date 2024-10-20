@@ -9,7 +9,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: ./BluetoothDevicePairing.exe
-  InstallerUrl: https://github.com/PolarGoose/BluetoothDevicePairing/releases/download/v11.0/BluetoothDevicePairing.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/PolarGoose/BluetoothDevicePairing/releases/download/v11.0/BluetoothDevicePairing.zip
   InstallerSha256: 9F69E957CD3009EC7C3C0F1FB84E4C3120FA113E8C9C41156B04275BB699619F
 ManifestType: installer
 ManifestVersion: 1.6.0

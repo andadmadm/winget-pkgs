@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2021-12-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/acoustid/chromaprint/releases/download/v1.5.1/chromaprint-fpcalc-1.5.1-windows-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/acoustid/chromaprint/releases/download/v1.5.1/chromaprint-fpcalc-1.5.1-windows-x86_64.zip
   InstallerSha256: 36B478E16AA69F757F376645DB0D436073A42C0097B6BB2677109E7835B59BBC
 ManifestType: installer
 ManifestVersion: 1.4.0

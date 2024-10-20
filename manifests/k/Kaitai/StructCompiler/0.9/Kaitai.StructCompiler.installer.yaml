@@ -10,7 +10,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.OpenJDK.17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.9/kaitai-struct-compiler.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.9/kaitai-struct-compiler.msi
   InstallerSha256: 2AD42E30D60070EC7AC014BA2C2F6FF3A2BEF5DDC132C81A27E079611BAA134D
   ProductCode: '{DDCF06BC-FD48-434B-93DB-1E97BA8D13A7}'
 ManifestType: installer

@@ -9,13 +9,13 @@ ReleaseDate: 2024-02-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dail8859/NotepadNext/releases/download/v0.7/NotepadNext-v0.7-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dail8859/NotepadNext/releases/download/v0.7/NotepadNext-v0.7-Installer.exe
   InstallerSha256: 9DA01998FA06C25299540077F94C93C18A3D0DDFFD43C6D9C7C7EC921D3724B2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dail8859/NotepadNext/releases/download/v0.7/NotepadNext-v0.7-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dail8859/NotepadNext/releases/download/v0.7/NotepadNext-v0.7-Installer.exe
   InstallerSha256: 9DA01998FA06C25299540077F94C93C18A3D0DDFFD43C6D9C7C7EC921D3724B2
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -24,7 +24,7 @@ FileExtensions:
 - ZIP
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/balena-io/etcher/releases/download/v1.7.1/balenaEtcher-Setup-1.7.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/balena-io/etcher/releases/download/v1.7.1/balenaEtcher-Setup-1.7.1.exe
   InstallerSha256: FB786F8069C0F5BE319B1DA8251A2721809E60F16EA39B99F2DD3EE9D86F6F31
 ManifestType: installer
 ManifestVersion: 1.1.0

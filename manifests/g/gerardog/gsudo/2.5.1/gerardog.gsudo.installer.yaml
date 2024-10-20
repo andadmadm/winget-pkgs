@@ -11,7 +11,7 @@ ReleaseDate: 2024-05-30
 Installers:
 - Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.x86.msi
   InstallerSha256: 2D0D1A9940226B5451716A5FAC6452EF40C95F4C3B362F4F22427484B53273F2
   InstallerSwitches:
     InstallLocation: INSTALLFOLDER="<INSTALLPATH>"
@@ -21,7 +21,7 @@ Installers:
     UpgradeCode: '{567B5616-D362-484E-B6FF-7C1875CF0AEE}'
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.x64.msi
   InstallerSha256: E7C13E323A04B568ECFEAB707A84279625C70036FBD9CE1AB41D0387990606C1
   InstallerSwitches:
     InstallLocation: INSTALLFOLDER="<INSTALLPATH>"
@@ -31,7 +31,7 @@ Installers:
     UpgradeCode: '{567B5616-D362-484E-B6FF-7C1875CF0AEE}'
 - Architecture: arm64
   InstallerType: wix
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.arm64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.arm64.msi
   InstallerSha256: BF58ED4E72007CB37D30FE91658D28826D0D4AC2712DEBC545C8F82A2412BEE3
   InstallerSwitches:
     InstallLocation: INSTALLFOLDER="<INSTALLPATH>"
@@ -47,7 +47,7 @@ Installers:
     PortableCommandAlias: gsudo
   - RelativeFilePath: ./x86/gsudo.exe
     PortableCommandAlias: sudo
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip
   InstallerSha256: B4830270F3C3E1CE94763FF3243C508642C5952D7824A5DE8BDA507DA1807F39
 - Architecture: x64
   InstallerType: zip
@@ -57,7 +57,7 @@ Installers:
     PortableCommandAlias: gsudo
   - RelativeFilePath: ./x64/gsudo.exe
     PortableCommandAlias: sudo
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip
   InstallerSha256: B4830270F3C3E1CE94763FF3243C508642C5952D7824A5DE8BDA507DA1807F39
 - Architecture: arm64
   InstallerType: zip
@@ -67,7 +67,7 @@ Installers:
     PortableCommandAlias: gsudo
   - RelativeFilePath: ./arm64/gsudo.exe
     PortableCommandAlias: sudo
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip
   InstallerSha256: B4830270F3C3E1CE94763FF3243C508642C5952D7824A5DE8BDA507DA1807F39
 ManifestType: installer
 ManifestVersion: 1.6.0

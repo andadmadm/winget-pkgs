@@ -9,7 +9,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: ruff.exe
-  InstallerUrl: https://github.com/astral-sh/ruff/releases/download/v0.4.3/ruff-0.4.3-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/astral-sh/ruff/releases/download/v0.4.3/ruff-0.4.3-x86_64-pc-windows-msvc.zip
   InstallerSha256: 25955175AA3EA8F250D8569B4BC6A0837DCA7989873EF1DE3479588BFC876211
   Dependencies:
     PackageDependencies:
@@ -18,7 +18,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: ruff.exe
-  InstallerUrl: https://github.com/astral-sh/ruff/releases/download/v0.4.3/ruff-0.4.3-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/astral-sh/ruff/releases/download/v0.4.3/ruff-0.4.3-i686-pc-windows-msvc.zip
   InstallerSha256: B50ED1C9F20A2A1D6ED7D961D5F1DF76423EE7541410A4460FED5353E5C5F846
   Dependencies:
     PackageDependencies:
@@ -27,7 +27,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: ruff.exe
-  InstallerUrl: https://github.com/astral-sh/ruff/releases/download/v0.4.3/ruff-0.4.3-aarch64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/astral-sh/ruff/releases/download/v0.4.3/ruff-0.4.3-aarch64-pc-windows-msvc.zip
   InstallerSha256: 2C7CBBB5819CB6EE946EFD1ED871FB655302B55055CDE1B43894620B808BDD13
   Dependencies:
     PackageDependencies:

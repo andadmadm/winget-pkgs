@@ -17,7 +17,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.8.2/Bisq-64bit-1.8.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.8.2/Bisq-64bit-1.8.2.exe
   InstallerSha256: 54B04B73789E62990AAB77126D5C73D6894A543C5EA711E30E618E7B7BA00F04
   AppsAndFeaturesEntries:
   - Publisher: Bisq

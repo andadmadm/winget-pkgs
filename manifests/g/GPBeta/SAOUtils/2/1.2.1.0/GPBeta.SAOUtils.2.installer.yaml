@@ -11,7 +11,7 @@ FileExtensions:
 ReleaseDate: 2022-11-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/NERvGear/SAO-Utils/releases/download/1.2.1/sao_utils_2_setup_1.2.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/NERvGear/SAO-Utils/releases/download/1.2.1/sao_utils_2_setup_1.2.1.2.exe
   InstallerSha256: BA1DB9841392D960845D37A46AA847A3BB67632C80321F4A276ADD4411FD2CB9
   ProductCode: SAO Utils 2_is1
 ManifestType: installer

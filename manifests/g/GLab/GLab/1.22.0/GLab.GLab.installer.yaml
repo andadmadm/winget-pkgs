@@ -6,7 +6,7 @@ PackageIdentifier: GLab.GLab
 PackageVersion: 1.22.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe
   InstallerSha256: a24325c23a9113c12ebd0e5130c198c8fd63d0cb0e6a0c1063bd6362d911baf5
 ManifestType: installer
 ManifestVersion: 1.5.0

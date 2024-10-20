@@ -4,7 +4,7 @@
 PackageIdentifier: jumppad.jumppad
 PackageVersion: 0.5.35
 Installers:
-- InstallerUrl: https://github.com/jumppad-labs/jumppad/releases/download/v0.5.35/jumppad_0.5.35_windows_x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/jumppad-labs/jumppad/releases/download/v0.5.35/jumppad_0.5.35_windows_x86_64.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

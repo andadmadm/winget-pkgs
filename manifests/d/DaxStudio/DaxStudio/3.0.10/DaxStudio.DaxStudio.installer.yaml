@@ -16,13 +16,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.10/DaxStudio_3_0_10_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.10/DaxStudio_3_0_10_setup.exe
   InstallerSha256: 41BC3015D47300AE5A045FAB065C5C1BB1604653C1DC0EC2F6911F6A88B70191
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.10/DaxStudio_3_0_10_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.10/DaxStudio_3_0_10_setup.exe
   InstallerSha256: 41BC3015D47300AE5A045FAB065C5C1BB1604653C1DC0EC2F6911F6A88B70191
   InstallerSwitches:
     Custom: /CURRENTUSER

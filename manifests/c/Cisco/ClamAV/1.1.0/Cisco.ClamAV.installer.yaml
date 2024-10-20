@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{D9F136C1-3691-47E3-9079-4FE9C9010000}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.1.0/clamav-1.1.0.win.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.1.0/clamav-1.1.0.win.x64.msi
   InstallerSha256: 3AFADA801463199D9901E4445E92B486993C14C22CA179D17ABEC74D37E384BB
   ProductCode: '{D9F136C1-3691-47E3-9079-4FE9C9010100}'
 ManifestType: installer

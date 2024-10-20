@@ -6,7 +6,7 @@ PackageVersion: 2.19.2
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.19.2/PathOfBuildingCommunity-Setup-2.19.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.19.2/PathOfBuildingCommunity-Setup-2.19.2.exe
   InstallerSha256: 788ED59B13F93705881D3C6199A002CE1EC1E80F3C98A12786B86CA652352272
   InstallerSwitches:
     Silent: /S

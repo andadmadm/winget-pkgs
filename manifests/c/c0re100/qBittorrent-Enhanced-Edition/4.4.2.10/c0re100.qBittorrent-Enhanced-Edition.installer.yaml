@@ -18,10 +18,10 @@ FileExtensions:
 - torrent
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.2.10/qbittorrent_enhanced_4.4.2.10_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.2.10/qbittorrent_enhanced_4.4.2.10_setup.exe
   InstallerSha256: 5464423268FFEDED3F1EF3346F8BF3960DB7AB4B141D5EB01E60FAF38DB4BE9E
 - Architecture: x64
-  InstallerUrl: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.2.10/qbittorrent_enhanced_4.4.2.10_Qt5_x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.2.10/qbittorrent_enhanced_4.4.2.10_Qt5_x64_setup.exe
   InstallerSha256: 6B10334DD4889582DC6963AECF27F97A48BA028BC61D8118E060E9B08DB9015F
 ManifestType: installer
 ManifestVersion: 1.1.0

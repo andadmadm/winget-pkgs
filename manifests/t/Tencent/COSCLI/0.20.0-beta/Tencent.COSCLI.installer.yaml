@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-03-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tencentyun/coscli/releases/download/v0.20.0-beta/coscli-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tencentyun/coscli/releases/download/v0.20.0-beta/coscli-windows.exe
   InstallerSha256: B93E340086BD119EBCA7751BC6FCA8D8ABD2541535452261ECE752D3A01117BF
 ManifestType: installer
 ManifestVersion: 1.6.0

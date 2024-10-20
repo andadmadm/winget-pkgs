@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-01-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/opengisch/QField/releases/download/v3.1.9/qfield-v3.1.9-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/opengisch/QField/releases/download/v3.1.9/qfield-v3.1.9-windows-x64.exe
   InstallerSha256: 1A3B8C5B1AD64FC3CF8CBB7CA848BF5EDCED7EBAC7694634346B37B43A5972EA
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -8,7 +8,7 @@ Platform:
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/Tautulli/Tautulli/releases/download/v2.12.1/Tautulli-windows-v2.12.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Tautulli/Tautulli/releases/download/v2.12.1/Tautulli-windows-v2.12.1-x64.exe
   InstallerSha256: F8ADB880CC4CF9163CADF733BC5B25923474E50F134ABDEB0E17ED38217146CB
   InstallerSwitches:
     Silent: /S --nolaunch

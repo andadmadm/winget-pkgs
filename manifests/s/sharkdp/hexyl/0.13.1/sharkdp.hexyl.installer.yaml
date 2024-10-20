@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2023-07-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sharkdp/hexyl/releases/download/v0.13.1/hexyl-v0.13.1-x86_64-pc-windows-gnu.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sharkdp/hexyl/releases/download/v0.13.1/hexyl-v0.13.1-x86_64-pc-windows-gnu.zip
   InstallerSha256: F244561CB4531A878FEE8C97FA1F9F6EDE2AB8E0FA383885135469226AAA8ED2
 ManifestType: installer
 ManifestVersion: 1.5.0

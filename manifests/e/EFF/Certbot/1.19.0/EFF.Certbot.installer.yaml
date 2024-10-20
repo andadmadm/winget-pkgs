@@ -12,7 +12,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/certbot/certbot/releases/download/v1.19.0/certbot-beta-installer-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/certbot/certbot/releases/download/v1.19.0/certbot-beta-installer-win32.exe
   InstallerSha256: 96A397EB1FF1BC64721AAF75DFB9AA5BA7C7F185BFF048E7FDB928C89C865844
   UpgradeBehavior: install
 ManifestType: installer

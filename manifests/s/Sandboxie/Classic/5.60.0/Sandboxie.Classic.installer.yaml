@@ -15,10 +15,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.0/Sandboxie-Classic-x64-v5.60.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.0/Sandboxie-Classic-x64-v5.60.0.exe
   InstallerSha256: A97861A232342E22FB2432EF3FE2EA285C41E503342B241FEAA4E0DD39BEBD5D
 - Architecture: x86
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.0/Sandboxie-Classic-x86-v5.60.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.0/Sandboxie-Classic-x86-v5.60.0.exe
   InstallerSha256: 25EA9C9163DBF91119DF932E748192B7F93AC2DCC232F2286945DF40A5633581
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-03-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DropSnorz/OwlPlug/releases/download/1.19.0/OwlPlug-1.19.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DropSnorz/OwlPlug/releases/download/1.19.0/OwlPlug-1.19.0.msi
   InstallerSha256: FB9CFA4C83D3ED34CA352DD35A32EC8E10C2254929FCD21AE36E9CFBBB901C5C
   ProductCode: '{3B660823-D8E5-3227-AD2B-527D182C075F}'
 ManifestType: installer

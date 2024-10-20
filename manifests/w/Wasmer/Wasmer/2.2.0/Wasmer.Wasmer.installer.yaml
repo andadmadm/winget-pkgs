@@ -17,7 +17,7 @@ FileExtensions:
 ReleaseDate: 2022-02-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/wasmerio/wasmer/releases/download/2.2.0/wasmer-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/wasmerio/wasmer/releases/download/2.2.0/wasmer-windows.exe
   InstallerSha256: BAE35F3CF5CCD392DBD7FC01FA5551DA8C6D37436DB6DBFCDA79606A00CAAEF2
   ProductCode: Wasmer_is1
 ManifestType: installer

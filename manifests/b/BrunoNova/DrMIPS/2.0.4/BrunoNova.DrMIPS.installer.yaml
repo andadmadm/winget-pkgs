@@ -6,7 +6,7 @@ PackageIdentifier: BrunoNova.DrMIPS
 PackageVersion: 2.0.4
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/brunonova/drmips/releases/download/v2.0.4/DrMIPS_v2.0.4_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brunonova/drmips/releases/download/v2.0.4/DrMIPS_v2.0.4_setup.exe
   InstallerSha256: 2c671c1030eb33373f27a47e446d99542b2683010b6e4aca6323adea6da15b67
 ManifestType: installer
 ManifestVersion: 1.5.0

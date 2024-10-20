@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: devopsmigration
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nkdAgility/azure-devops-migration-tools/releases/download/v15.1.1-Preview.13/MigrationTools-15.1.1-Preview.13.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nkdAgility/azure-devops-migration-tools/releases/download/v15.1.1-Preview.13/MigrationTools-15.1.1-Preview.13.zip
   InstallerSha256: 4E37B1B8CE871F6EA509FCDB4349A07BA2BF686B28D854FBF09B3155520EDCF1
 ManifestType: installer
 ManifestVersion: 1.6.0

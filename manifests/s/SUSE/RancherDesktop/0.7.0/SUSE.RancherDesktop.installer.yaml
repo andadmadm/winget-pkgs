@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rancher-sandbox/rancher-desktop/releases/download/v0.7.0/Rancher.Desktop.Setup.0.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v0.7.0/Rancher.Desktop.Setup.0.7.0.exe
   InstallerSha256: B75930E5893C27F058901DF077E2EE02280EE836425CAA4EAE645CE0CDF8B6BA
 ManifestType: installer
 ManifestVersion: 1.1.0

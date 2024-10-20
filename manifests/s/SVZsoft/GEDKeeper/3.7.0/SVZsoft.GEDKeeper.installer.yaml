@@ -18,7 +18,7 @@ FileExtensions:
 ReleaseDate: 2024-07-28
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Serg-Norseman/GEDKeeper/releases/download/v3.7.0/gedkeeper_3.7.0_win86.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Serg-Norseman/GEDKeeper/releases/download/v3.7.0/gedkeeper_3.7.0_win86.zip
   InstallerSha256: FE9C1F810E47B0F2539E50C6C46C92556899E804BAC057A1E089F6B4DE8BA5DF
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v5.3.0/Fishing-Funds-Setup-5.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v5.3.0/Fishing-Funds-Setup-5.3.0.exe
   InstallerSha256: CE0E8E7230C2699321F02904B091D9F8C45D4F95BC7AAFE39C04408EF09E4B46
 ManifestType: installer
 ManifestVersion: 1.1.0

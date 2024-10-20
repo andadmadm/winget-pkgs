@@ -22,7 +22,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x86
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/antonpup/Aurora/releases/download/v0.8.1/Aurora-setup-v0.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/antonpup/Aurora/releases/download/v0.8.1/Aurora-setup-v0.8.1.exe
   InstallerSha256: 2F38C350CFD8AA7BDF938348BBF3E01E62D5E411D73DB8BA325E0BCBB8B0DD99
 ManifestType: installer
 ManifestVersion: 1.5.0

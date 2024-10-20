@@ -24,7 +24,7 @@ FileExtensions:
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/darktable-org/darktable/releases/download/release-4.4.0/darktable-4.4.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/darktable-org/darktable/releases/download/release-4.4.0/darktable-4.4.0-win64.exe
   InstallerSha256: 23A4831CA52C707984B64CC6B9122526E96606CE86B04A0906FE32FD8327D956
 ManifestType: installer
 ManifestVersion: 1.4.0

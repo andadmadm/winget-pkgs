@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.9.3/Heroic.Setup.1.9.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.9.3/Heroic.Setup.1.9.3.exe
   InstallerSha256: A4BCA4B4F35F8593DD068D57B383D4E444F3AFE547BB8984FF25820617270DB7
   UpgradeBehavior: install
 ManifestType: installer

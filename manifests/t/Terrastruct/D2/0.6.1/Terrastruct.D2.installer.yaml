@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{AC84FEE7-EB67-4F5D-A08D-ADEF69538690}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/terrastruct/d2/releases/download/v0.6.1/d2-v0.6.1-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/terrastruct/d2/releases/download/v0.6.1/d2-v0.6.1-windows-amd64.msi
   InstallerSha256: 1FCA97B9D29FEBDA79D509CB32DDBF72F36BB5E295EA69F5D8825EBE05336695
 ManifestType: installer
 ManifestVersion: 1.5.0

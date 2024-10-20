@@ -72,7 +72,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/spyder-ide/spyder/releases/download/v5.1.4/Spyder_64bit_full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/spyder-ide/spyder/releases/download/v5.1.4/Spyder_64bit_full.exe
   InstallerSha256: A57016CEDDD7D4BE4A9154D814BF7AE58DF7A091854F8069243D5F08AE0C7360
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -80,7 +80,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/spyder-ide/spyder/releases/download/v5.1.4/Spyder_64bit_full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/spyder-ide/spyder/releases/download/v5.1.4/Spyder_64bit_full.exe
   InstallerSha256: A57016CEDDD7D4BE4A9154D814BF7AE58DF7A091854F8069243D5F08AE0C7360
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -10,10 +10,10 @@ NestedInstallerFiles:
 ReleaseDate: 2024-02-20
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/spicetify/spicetify-cli/releases/download/v2.32.0/spicetify-2.32.0-windows-x32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/spicetify/spicetify-cli/releases/download/v2.32.0/spicetify-2.32.0-windows-x32.zip
   InstallerSha256: 428F72984F8872DD2E0AE682D9C007AFBE112F85C508087A7BFE06C61EFA3F2C
 - Architecture: x64
-  InstallerUrl: https://github.com/spicetify/spicetify-cli/releases/download/v2.32.0/spicetify-2.32.0-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/spicetify/spicetify-cli/releases/download/v2.32.0/spicetify-2.32.0-windows-x64.zip
   InstallerSha256: 4F751C6818BEF01F39DBCB55626A2B5462D4765F59D476A8B1C2EB25DD346FDC
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2023-04-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/svenstaro/miniserve/releases/download/v0.23.2/miniserve-0.23.2-x86_64-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/svenstaro/miniserve/releases/download/v0.23.2/miniserve-0.23.2-x86_64-pc-windows-msvc.exe
   InstallerSha256: E0C586F8D7B8235F17A6B38E960207AA5E68E691670FD1A393CBB537C5A74700
 ManifestType: installer
 ManifestVersion: 1.4.0

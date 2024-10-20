@@ -24,13 +24,13 @@ ReleaseDate: 2023-12-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0-amd64.exe
   InstallerSha256: 7259DAC438F421BFABF34CC92F5FF7CF9FC639B3518A411B98393C81FA7C0E67
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0-amd64.exe
   InstallerSha256: 7259DAC438F421BFABF34CC92F5FF7CF9FC639B3518A411B98393C81FA7C0E67
   InstallerSwitches:
     Custom: /allusers

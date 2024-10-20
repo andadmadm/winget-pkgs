@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/cli/cli/releases/download/v1.12.1/gh_1.12.1_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v1.12.1/gh_1.12.1_windows_amd64.msi
   InstallerSha256: 9E1118AE83FD634CB8105CA274D429B19C5494F3370AC954305761DE7FA29BC8
   UpgradeBehavior: install
   ProductCode: '{C7B57338-8235-4A98-9542-3B31005A5926}'

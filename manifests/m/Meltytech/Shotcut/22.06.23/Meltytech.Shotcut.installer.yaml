@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v22.06.23/shotcut-win64-220623.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v22.06.23/shotcut-win64-220623.exe
   InstallerSha256: EDB03B299571D91836588FB07D60B481EB45BA631C29FCD66921796F09E0D04B
 ManifestType: installer
 ManifestVersion: 1.1.0

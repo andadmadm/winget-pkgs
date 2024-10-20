@@ -10,7 +10,7 @@ InstallerSwitches:
 ReleaseDate: 2023-11-25
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v2.2.76/MSBuildStructuredLogSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v2.2.76/MSBuildStructuredLogSetup.exe
   InstallerSha256: 6EBBCA3942082980BCB2E54395EAE80F34B465F0899A1F295115B11253AB19C0
 ManifestType: installer
 ManifestVersion: 1.5.0

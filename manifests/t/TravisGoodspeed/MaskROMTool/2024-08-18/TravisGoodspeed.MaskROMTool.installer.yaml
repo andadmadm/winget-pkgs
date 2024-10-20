@@ -26,7 +26,7 @@ Installers:
   NestedInstallerType: exe
   NestedInstallerFiles:
   - RelativeFilePath: maskromtool-win-x86_64.exe
-  InstallerUrl: https://github.com/travisgoodspeed/maskromtool/releases/download/v2024-08-18/maskromtool-win-x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/travisgoodspeed/maskromtool/releases/download/v2024-08-18/maskromtool-win-x86_64.zip
   InstallerSha256: 29D176E05FC935926A0A77E14382AE65E40767C90755381E6CFB55434E67C93D
 ManifestType: installer
 ManifestVersion: 1.6.0

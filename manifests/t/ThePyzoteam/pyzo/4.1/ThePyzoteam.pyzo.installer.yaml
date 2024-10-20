@@ -6,7 +6,7 @@ PackageVersion: "4.1"
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pyzo/pyzo/releases/download/v4.1/pyzo-4.1-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pyzo/pyzo/releases/download/v4.1/pyzo-4.1-win32.exe
   InstallerSha256: 9522D5545D516FED33BCCD06128CC2B5D0AC18ED33934FF67F73C5986FA739EB
 ManifestType: installer
 ManifestVersion: 1.4.0

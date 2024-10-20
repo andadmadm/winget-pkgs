@@ -10,7 +10,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/Neverous/efibooteditor/releases/download/v1.2.0/EFIBootEditor-v1.2.0-windows-2022-qt-6.4.3-MSVC.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Neverous/efibooteditor/releases/download/v1.2.0/EFIBootEditor-v1.2.0-windows-2022-qt-6.4.3-MSVC.msi
   InstallerSha256: 94F4510A901A704632417163281BED573E91671C1E0DA591D75B10033BC5DB8F
   ProductCode: '{F7D0505C-C798-45F0-8D28-6DFF8833C801}'
 ManifestType: installer

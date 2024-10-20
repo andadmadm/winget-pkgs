@@ -6,13 +6,13 @@ PackageVersion: 2.5.0.4
 Installers:
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/rcmaehl/WhyNotWin11/releases/download/2.5.0.4/WhyNotWin11.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rcmaehl/WhyNotWin11/releases/download/2.5.0.4/WhyNotWin11.exe
   InstallerSha256: b396982c9462b71b9a1183ab66aa6bb7e38a7b0d8622677ed372a2fb56d54e6f
   Commands:
   - whynotwin11
 - Architecture: x86
   InstallerType: portable
-  InstallerUrl: https://github.com/rcmaehl/WhyNotWin11/releases/download/2.5.0.4/WhyNotWin11_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rcmaehl/WhyNotWin11/releases/download/2.5.0.4/WhyNotWin11_x86.exe
   InstallerSha256: b86bab47242a3ecbb65dfc7a50e9aeaa1c33fb143dd83bf80c6d3962bd665f37
   Commands:
   - whynotwin11

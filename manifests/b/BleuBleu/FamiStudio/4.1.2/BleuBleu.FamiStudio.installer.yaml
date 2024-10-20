@@ -14,7 +14,7 @@ Installers:
   NestedInstallerType: msi
   NestedInstallerFiles:
   - RelativeFilePath: Setup.msi
-  InstallerUrl: https://github.com/BleuBleu/FamiStudio/releases/download/4.1.2/FamiStudio412-WinInstaller.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/BleuBleu/FamiStudio/releases/download/4.1.2/FamiStudio412-WinInstaller.zip
   InstallerSha256: 50D542FD90006F20318334FC36FE54B25DA46E6EA50E4AF864DE92BAB0B5A7E1
 ManifestType: installer
 ManifestVersion: 1.5.0

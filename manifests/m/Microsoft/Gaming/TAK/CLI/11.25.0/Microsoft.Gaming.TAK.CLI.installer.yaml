@@ -8,7 +8,7 @@ Commands:
 - tak
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/xbox-game-streaming-tools/releases/download/tak-cli-v11.25.0/tak.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/xbox-game-streaming-tools/releases/download/tak-cli-v11.25.0/tak.exe
   InstallerSha256: C3DD7FF1060AF06E24D2F282818AB18D660AAB7446002337AE6EADCE95D47F68
 ManifestType: installer
 ManifestVersion: 1.6.0

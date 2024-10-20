@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-10-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Moebits/Waifu2x-GUI/releases/download/v0.5.1/Waifu2x-GUI-Setup-0.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Moebits/Waifu2x-GUI/releases/download/v0.5.1/Waifu2x-GUI-Setup-0.5.1.exe
   InstallerSha256: 3E4C9C4D05D7F4452BABD6166725FFC4E5E954372FA2EAB2BB94CDF0DF13C96D
 ManifestType: installer
 ManifestVersion: 1.6.0

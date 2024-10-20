@@ -10,7 +10,7 @@ InstallerSuccessCodes:
 ReleaseDate: 2022-04-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mgoeppner/evemon/releases/download/4.2.0/EVEMon-install-4.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mgoeppner/evemon/releases/download/4.2.0/EVEMon-install-4.2.0.exe
   InstallerSha256: 5AE765FD04208F4C2F67A22E0CC635BB8F914A7C94D9124EA26D712B81C0A5E9
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -7,7 +7,7 @@ InstallerType: nullsoft
 Installers:
 - InstallerLocale: en-US
   Architecture: x64
-  InstallerUrl: https://github.com/Alex313031/Mercury/releases/download/v.115.4.0/mercury_115.4.0_win64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Alex313031/Mercury/releases/download/v.115.4.0/mercury_115.4.0_win64_installer.exe
   InstallerSha256: 92E97EAEA495E48E58FEFEE7EB54C907EBA55A819A61365AF7F9193B25B41038
   AppsAndFeaturesEntries:
   - DisplayName: Mercury (x64 en-US)

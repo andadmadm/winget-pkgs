@@ -116,7 +116,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/FreeCAD/FreeCAD/releases/download/0.19.2/FreeCAD-0.19.2.7b5e18a-WIN-x64-installer1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeCAD/FreeCAD/releases/download/0.19.2/FreeCAD-0.19.2.7b5e18a-WIN-x64-installer1.exe
   InstallerSha256: 5ED4D2609F5010A8F18AF40F29B127AB5E0923DD5AA4B022F8CE35BBCFB54F44
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -125,7 +125,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/FreeCAD/FreeCAD/releases/download/0.19.2/FreeCAD-0.19.2.7b5e18a-WIN-x64-installer1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeCAD/FreeCAD/releases/download/0.19.2/FreeCAD-0.19.2.7b5e18a-WIN-x64-installer1.exe
   InstallerSha256: 5ED4D2609F5010A8F18AF40F29B127AB5E0923DD5AA4B022F8CE35BBCFB54F44
   InstallerSwitches:
     Custom: /CURRENTUSER

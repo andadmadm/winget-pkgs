@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v0.26.5/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v0.26.5/dolt-windows-amd64.msi
   InstallerSha256: DB58B68D3F6367020D1D6581E1800872B94F157F5C6546841D65851DB0F8EFEF
   ProductCode: '{BDF1ADCB-AAED-45A3-B096-2DAE60F1CCF8}'
 ManifestType: installer

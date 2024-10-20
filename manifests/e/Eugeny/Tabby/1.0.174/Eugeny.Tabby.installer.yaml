@@ -17,13 +17,13 @@ ReleaseDate: 2022-03-21
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.174/tabby-1.0.174-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.174/tabby-1.0.174-setup.exe
   InstallerSha256: 31678395B52F9844485916F988C42ABA5C2EB6982B4AB1BFB954D1EAF667EB72
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.174/tabby-1.0.174-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.174/tabby-1.0.174-setup.exe
   InstallerSha256: 31678395B52F9844485916F988C42ABA5C2EB6982B4AB1BFB954D1EAF667EB72
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -17,25 +17,25 @@ ReleaseDate: 2022-11-04
 Installers:
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-arm64.exe
   InstallerSha256: F1F45B965353B490C91B11A5D6DFD0D16E9E5F9F12E3CB938CC907DECB590117
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-arm64.exe
   InstallerSha256: F1F45B965353B490C91B11A5D6DFD0D16E9E5F9F12E3CB938CC907DECB590117
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-x64.exe
   InstallerSha256: 2EADB5EF4E7877CCBAF2DD89B010D59B85305E19B8109064F02F5112F808907A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-setup-x64.exe
   InstallerSha256: 2EADB5EF4E7877CCBAF2DD89B010D59B85305E19B8109064F02F5112F808907A
   InstallerSwitches:
     Custom: /ALLUSERS

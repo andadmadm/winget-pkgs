@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/BotFramework-Composer/releases/download/v1.0.0/BotFramework-Composer-1.0.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/BotFramework-Composer/releases/download/v1.0.0/BotFramework-Composer-1.0.0-windows-setup.exe
   InstallerSha256: 32A0BB3EAF3FAA7CE048FD369BFBC783A81399337E86232B0A92F88F5A5C5C5B
 ManifestType: installer
 ManifestVersion: 1.1.0

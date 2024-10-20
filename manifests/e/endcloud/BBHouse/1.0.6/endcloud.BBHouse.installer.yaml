@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/endcloud/bbhouse-tauri/releases/download/v1.0.6/BBHouse_1.0.6_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/endcloud/bbhouse-tauri/releases/download/v1.0.6/BBHouse_1.0.6_x64_en-US.msi
   InstallerSha256: 66463507EAD804598FD8A141B1ADBA9BDBDB0F5792B5558D1C9E4645193F32AB
   ProductCode: '{F5E4E293-AC9F-49B8-BD92-2C828936FA32}'
 ManifestType: installer

@@ -10,13 +10,13 @@ NestedInstallerFiles:
 ReleaseDate: 2024-09-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/astral-sh/uv/releases/download/0.4.4/uv-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/astral-sh/uv/releases/download/0.4.4/uv-x86_64-pc-windows-msvc.zip
   InstallerSha256: DC7EE57FB214EAFC0D3F5D211E2432B80C98D707BCC36552FDC16A609192FD65
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 - Architecture: x86
-  InstallerUrl: https://github.com/astral-sh/uv/releases/download/0.4.4/uv-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/astral-sh/uv/releases/download/0.4.4/uv-i686-pc-windows-msvc.zip
   InstallerSha256: 01AB40FB314E2A581023ECD727ECCC153776CF97AFBEE5B921BD41110319642A
   Dependencies:
     PackageDependencies:

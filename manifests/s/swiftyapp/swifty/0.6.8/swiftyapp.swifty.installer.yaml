@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/swiftyapp/swifty/releases/download/v0.6.8/Swifty-Setup-0.6.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/swiftyapp/swifty/releases/download/v0.6.8/Swifty-Setup-0.6.8.exe
   InstallerSha256: 360376295239FE922FE9B192A6E5F616E379EC75081421A793A2954802D11327
 ManifestType: installer
 ManifestVersion: 1.2.0

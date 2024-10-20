@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-08-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sagemath/sage-windows/releases/download/0.6.3-9.3/SageMath-9.3-Installer-v0.6.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sagemath/sage-windows/releases/download/0.6.3-9.3/SageMath-9.3-Installer-v0.6.3.exe
   InstallerSha256: 94CA5FB3AB84AC1A52960CA91DE483F0A1C9A1FB393C30ABFC6037057B3987E9
 ManifestType: installer
 ManifestVersion: 1.5.0

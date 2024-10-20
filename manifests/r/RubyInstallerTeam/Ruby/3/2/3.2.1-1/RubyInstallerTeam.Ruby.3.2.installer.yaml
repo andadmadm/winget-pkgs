@@ -16,7 +16,7 @@ Installers:
 - Architecture: x64
   Scope: user
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x64.exe
   InstallerSha256: 451DECB36B665FC901CE23B272E1524BB57BDD469AC9C8EE55B436DD7D6BA713
   AppsAndFeaturesEntries:
   - DisplayName: Ruby 3.2.1-1-x64-ucrt
@@ -26,7 +26,7 @@ Installers:
 - Architecture: x86
   Scope: user
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x86.exe
   InstallerSha256: 3AAF4E333551BCD44E8EAF85DC3CDD680D00463E7EB8409893838B77473DD03B
   AppsAndFeaturesEntries:
   - DisplayName: Ruby 3.2.1-1-x86-msvcrt
@@ -36,7 +36,7 @@ Installers:
 - Architecture: x64
   Scope: machine
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x64.exe
   InstallerSha256: 451DECB36B665FC901CE23B272E1524BB57BDD469AC9C8EE55B436DD7D6BA713
   AppsAndFeaturesEntries:
   - DisplayName: Ruby 3.2.1-1-x64-ucrt
@@ -46,7 +46,7 @@ Installers:
 - Architecture: x86
   Scope: machine
   InstallerType: inno
-  InstallerUrl: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.1-1/rubyinstaller-3.2.1-1-x86.exe
   InstallerSha256: 3AAF4E333551BCD44E8EAF85DC3CDD680D00463E7EB8409893838B77473DD03B
   AppsAndFeaturesEntries:
   - DisplayName: Ruby 3.2.1-1-x86-msvcrt

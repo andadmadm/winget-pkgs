@@ -6,7 +6,7 @@ PackageVersion: 0.0.3.0
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/iqfareez/SeriLink/releases/download/0.0.3.0/SeriLinkSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iqfareez/SeriLink/releases/download/0.0.3.0/SeriLinkSetup.exe
   InstallerSha256: 7E15A65DDD0BB178B4BA6AB6F93DFAC9DAFF2B17E630E3476D16C2227E409597
   Scope: user
   InstallerSwitches:

@@ -7,7 +7,7 @@ InstallerType: portable
 Commands:
 - tak
 Installers:
-- InstallerUrl: https://github.com/microsoft/xbox-game-streaming-tools/releases/download/tak-cli-v11.0.0/tak.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/xbox-game-streaming-tools/releases/download/tak-cli-v11.0.0/tak.exe
   Architecture: x64
   InstallerSha256: 9F854E2AEEA23CBE58EA3C7CF38F7879F002F8A2EE44A548CD47FC442E48E324
 ManifestType: installer

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: cxcli.exe
         PortableCommandAlias: cxcli
-    InstallerUrl: https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.127.0/cxcli_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.127.0/cxcli_Windows_x86_64.zip
     InstallerSha256: 9801e241d69190fa0dc2e452b41a48be23e17fa6e2be946bed26cb7eaf04d380
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: cxcli.exe
         PortableCommandAlias: cxcli
-    InstallerUrl: https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.127.0/cxcli_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.127.0/cxcli_Windows_i386.zip
     InstallerSha256: 86203c197076a7c517da8e3c33451fc108f0eb968caeebc549a145bf5e3fd27d
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: cxcli.exe
         PortableCommandAlias: cxcli
-    InstallerUrl: https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.127.0/cxcli_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.127.0/cxcli_Windows_arm64.zip
     InstallerSha256: e2a9564d66019ba8213a80df111df6c748f1e3a0494156e3ddd796bcbf02c93e
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

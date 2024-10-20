@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sabnzbd/sabnzbd/releases/download/4.3.3/SABnzbd-4.3.3-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sabnzbd/sabnzbd/releases/download/4.3.3/SABnzbd-4.3.3-win-setup.exe
   InstallerSha256: 018AEDB8F5E11BC72CAC27E1AD967CEBDC2824C57D78BECC00C4B67AF9FDD104
 ManifestType: installer
 ManifestVersion: 1.6.0

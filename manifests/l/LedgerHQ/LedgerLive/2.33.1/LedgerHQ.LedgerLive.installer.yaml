@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.33.1/ledger-live-desktop-2.33.1-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.33.1/ledger-live-desktop-2.33.1-win.exe
   InstallerSha256: C7395C632B8B83FB17F9B32E300EAE14008E9BDFB7864038E5B74D2104F8EDA2
   UpgradeBehavior: install
 ManifestType: installer

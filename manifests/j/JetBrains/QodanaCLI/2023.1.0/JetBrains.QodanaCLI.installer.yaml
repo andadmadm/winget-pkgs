@@ -11,14 +11,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: .\qodana.exe
     PortableCommandAlias: qodana
-  InstallerUrl: https://github.com/JetBrains/qodana-cli/releases/download/v2023.1.0/qodana_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/JetBrains/qodana-cli/releases/download/v2023.1.0/qodana_windows_x86_64.zip
   InstallerSha256: F096DB938A80FE3DD065A63716DCA79F2156A6743C47A22E66CE83E0B4F81E5F
 - Architecture: arm64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: .\qodana.exe
     PortableCommandAlias: qodana
-  InstallerUrl: https://github.com/JetBrains/qodana-cli/releases/download/v2023.1.0/qodana_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/JetBrains/qodana-cli/releases/download/v2023.1.0/qodana_windows_arm64.zip
   InstallerSha256: 13411462AA6590AA25F4CEEC591AF9E468F21F40B77DAB15D32BF6DF8238CB12
 ManifestType: installer
 ManifestVersion: 1.4.0

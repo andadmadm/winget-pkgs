@@ -20,7 +20,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\scala-cli-x86_64-pc-win32'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/VirtusLab/scala-cli/releases/download/v1.5.1/scala-cli-x86_64-pc-win32.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/VirtusLab/scala-cli/releases/download/v1.5.1/scala-cli-x86_64-pc-win32.msi
   InstallerSha256: FD0B0BC3A1FA14922FE54C1BE5CD93BF88D0D657A7454F6E58D56CA581BD66B2
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -7,7 +7,7 @@ InstallerType: inno
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/fluentmoheshwar/useful-tools/releases/download/v1.3/Useful_Tools_For_Windows_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluentmoheshwar/useful-tools/releases/download/v1.3/Useful_Tools_For_Windows_Installer.exe
   InstallerSha256: 2C2B174AE76D1281E782D7D6F01AE815E0B67327962CA3288A928A67CF5F0284
 ManifestType: installer
 ManifestVersion: 1.4.0

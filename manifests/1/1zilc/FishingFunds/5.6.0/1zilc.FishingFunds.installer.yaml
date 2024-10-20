@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-02-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v5.6.0/Fishing-Funds-Setup-5.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v5.6.0/Fishing-Funds-Setup-5.6.0.exe
   InstallerSha256: 64B128846656F24D8914047431212A627FC87A2928CAB4F6E132C4953014E033
 ManifestType: installer
 ManifestVersion: 1.1.0

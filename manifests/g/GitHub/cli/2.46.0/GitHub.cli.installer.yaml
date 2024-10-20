@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{8CFB9531-B959-4E1B-AA2E-4AF0FFCC4AF4}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cli/cli/releases/download/v2.46.0/gh_2.46.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v2.46.0/gh_2.46.0_windows_amd64.msi
   InstallerSha256: 9A7EABEB886ED28F88FBF068EBE536899CB3BDE3A0B6862C11B8FBAD7F893755
   ProductCode: '{3E14AE94-664D-45C5-8390-A7EC403023E3}'
 ManifestType: installer

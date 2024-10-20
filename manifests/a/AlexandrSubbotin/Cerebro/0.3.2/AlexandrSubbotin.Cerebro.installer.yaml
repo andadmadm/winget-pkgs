@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cerebroapp/cerebro/releases/download/v0.3.2/cerebro-setup-0.3.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cerebroapp/cerebro/releases/download/v0.3.2/cerebro-setup-0.3.2.exe
   InstallerSha256: 666C14CF17FF7AAABB6FF6781006B28DB25102A55ED500C3EA1FCB7DB16F1214
 ManifestType: installer
 ManifestVersion: 1.1.0

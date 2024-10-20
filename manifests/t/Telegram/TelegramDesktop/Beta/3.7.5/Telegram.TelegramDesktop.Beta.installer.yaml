@@ -19,10 +19,10 @@ Protocols:
 ReleaseDate: 2022-05-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v3.7.5/tsetup-x64.3.7.5.beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v3.7.5/tsetup-x64.3.7.5.beta.exe
   InstallerSha256: 0E20445EC0073923B77EA85012F3C467C5D08BBD8CDE36812BA0CD81F3151C39
 - Architecture: x86
-  InstallerUrl: https://github.com/telegramdesktop/tdesktop/releases/download/v3.7.5/tsetup.3.7.5.beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/telegramdesktop/tdesktop/releases/download/v3.7.5/tsetup.3.7.5.beta.exe
   InstallerSha256: FA50769B8BE6FAF1E6CD3165FB9DD49773D4A9D64613C6EB3D09D9572D9B7DE8
 ManifestType: installer
 ManifestVersion: 1.1.0

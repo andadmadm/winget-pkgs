@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{FEB82971-B3E6-4F19-9684-1D543E644D73}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x86.msi
   InstallerSha256: 75AECEDC7C081AFED2F32F0746EFF10ACE05DFBAF0A34FBE03B9B589E71BF010
   ProductCode: '{A45A9E74-3EEE-46B4-8545-9DA47784B952}'
   AppsAndFeaturesEntries:
@@ -25,7 +25,7 @@ Installers:
   InstallationMetadata:
     DefaultInstallLocation: '%ProgramFiles(x86)%\NAPS2'
 - Architecture: x64
-  InstallerUrl: https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x64.msi
   InstallerSha256: CF35349E1D7AFEB43BEBCCE5D25891BA0314174B0F4A651489956A3BC840BEB7
   ProductCode: '{2A3AF8BF-0293-4A73-A93F-34F7CD2078E1}'
   AppsAndFeaturesEntries:

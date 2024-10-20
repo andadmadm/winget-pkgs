@@ -16,14 +16,14 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe
   InstallerSha256: 2144B93FA6E1449B7E4C993AAAEFCE3FD435B9AFE66FBF5B435858F54C792DBF
   InstallerSwitches:
     Silent: /p:x64 /quiet /norestart
     SilentWithProgress: /p:x64 /passive /norestart
   ProductCode: '{70320E43-B75D-4519-ADBA-0C0D0157354D}'
 - Architecture: x86
-  InstallerUrl: https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe
   InstallerSha256: 2144B93FA6E1449B7E4C993AAAEFCE3FD435B9AFE66FBF5B435858F54C792DBF
   InstallerSwitches:
     Silent: /p:x86 /quiet /norestart

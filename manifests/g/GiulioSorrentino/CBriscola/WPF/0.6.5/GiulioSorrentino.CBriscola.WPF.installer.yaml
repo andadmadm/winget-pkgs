@@ -9,10 +9,10 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.7
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/numerunix/CBriscola.WPF/releases/download/0.6.5/cbriscola.wpf-0.6.5-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/numerunix/CBriscola.WPF/releases/download/0.6.5/cbriscola.wpf-0.6.5-x64.exe
   InstallerSha256: A5DAEE8D078ED17248E33B9F644338FD4D489DA5E3428517EA6799FD9C5A3490
 - Architecture: arm64
-  InstallerUrl: https://github.com/numerunix/CBriscola.WPF/releases/download/0.6.5/cbriscola.wpf-0.6.5-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/numerunix/CBriscola.WPF/releases/download/0.6.5/cbriscola.wpf-0.6.5-arm64.exe
   InstallerSha256: 4815727CAA6FDCFF1F8C3510CC38B4DC23124070EF2ACD5BFA16776C76818509
 ManifestType: installer
 ManifestVersion: 1.5.0

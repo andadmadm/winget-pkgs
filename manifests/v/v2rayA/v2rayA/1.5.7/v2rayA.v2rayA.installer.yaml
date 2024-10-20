@@ -6,7 +6,7 @@ PackageVersion: 1.5.7
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/v2rayA/v2rayA/releases/download/v1.5.7/installer_windows_x64_1.5.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/v2rayA/v2rayA/releases/download/v1.5.7/installer_windows_x64_1.5.7.exe
   InstallerSha256: 6116B4236B10C08A1E97077266CC268F2437AF50E3D83DD3E3B2976C6DE2B7BE
   InstallModes:
   - silentWithProgress

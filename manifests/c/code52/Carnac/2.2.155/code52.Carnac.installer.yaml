@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Code52/carnac/releases/download/2.2.155/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Code52/carnac/releases/download/2.2.155/Setup.exe
   InstallerSha256: 157086401162F860E72E0B8BB5FF0C8592098DA33D633ED6042EC4A39D848153
 ManifestType: installer
 ManifestVersion: 1.0.0

@@ -14,13 +14,13 @@ UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Miniforge3-23.11.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Miniforge3-23.11.0-0-Windows-x86_64.exe
   InstallerSha256: 2328DF791179C373872E613F0E7B5852E0E7B5D691C87D91CF37521DC073B4E2
   InstallerSwitches:
     Custom: /JustMe /AddToPath=0 /RegisterPython=0
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Miniforge3-23.11.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/23.11.0-0/Miniforge3-23.11.0-0-Windows-x86_64.exe
   InstallerSha256: 2328DF791179C373872E613F0E7B5852E0E7B5D691C87D91CF37521DC073B4E2
   InstallerSwitches:
     Custom: /AllUsers /AddToPath=0 /RegisterPython=0

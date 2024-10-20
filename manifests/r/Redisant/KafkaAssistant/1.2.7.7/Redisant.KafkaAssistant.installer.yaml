@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: KA-1.2.7.7-windows\KA-1.2.7.7.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/kafka-assistant-release/releases/download/v1.2.7.7/KA-1.2.7.7-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/kafka-assistant-release/releases/download/v1.2.7.7/KA-1.2.7.7-windows.zip
   InstallerSha256: 857369F8D32C5A4EC6C1B77AA114676F8CAD9F7B34CB8BD6C25A4A60344500B4
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: KA-1.2.7.7-windows\KA-1.2.7.7.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/kafka-assistant-release/releases/download/v1.2.7.7/KA-1.2.7.7-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/kafka-assistant-release/releases/download/v1.2.7.7/KA-1.2.7.7-windows.zip
   InstallerSha256: 857369F8D32C5A4EC6C1B77AA114676F8CAD9F7B34CB8BD6C25A4A60344500B4
   InstallerSwitches:
     Custom: /ALLUSERS

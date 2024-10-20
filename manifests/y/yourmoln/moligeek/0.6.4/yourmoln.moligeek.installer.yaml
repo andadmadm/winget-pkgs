@@ -6,7 +6,7 @@ PackageVersion: 0.6.4
 Installers:
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/yourmoln/moligeek/releases/download/0.6.4/moligeek.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yourmoln/moligeek/releases/download/0.6.4/moligeek.exe
   InstallerSha256: 91FF053982CEE4E9C7883EFDCCCC9BB7AC7B8757D48759391599322C08B39644
   Commands:
   - moligeek

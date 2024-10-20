@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Merrit/nyrna/releases/download/v2.3.0/Nyrna-Windows-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Merrit/nyrna/releases/download/v2.3.0/Nyrna-Windows-Installer.exe
   InstallerSha256: 0FE8F02A07AC5D9C0B1E2E43FAED1F6CF0735A439CFB1230D7D5D9A8D47AC89D
 ManifestType: installer
 ManifestVersion: 1.1.0

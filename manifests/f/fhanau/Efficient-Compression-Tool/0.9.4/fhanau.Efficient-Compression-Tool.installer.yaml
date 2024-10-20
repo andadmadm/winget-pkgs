@@ -4,7 +4,7 @@
 PackageIdentifier: fhanau.Efficient-Compression-Tool
 PackageVersion: 0.9.4
 Installers:
-- InstallerUrl: https://github.com/fhanau/Efficient-Compression-Tool/releases/download/v0.9.4/ect-0.9.4-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/fhanau/Efficient-Compression-Tool/releases/download/v0.9.4/ect-0.9.4-win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

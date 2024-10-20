@@ -10,7 +10,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: stripe.exe
     PortableCommandAlias: stripe
-  InstallerUrl: https://github.com/stripe/stripe-cli/releases/download/v1.14.7/stripe_1.14.7_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/stripe/stripe-cli/releases/download/v1.14.7/stripe_1.14.7_windows_x86_64.zip
   InstallerSha256: E71FE7FE1A5266D774EB9F41B6E4B840CEAA429D81B8C4B6C7CB22650BCD4472
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2021-11-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi
   InstallerSha256: CE638609AD2F9D2C968C01655CC627FE57B5983AD708699ACC32601D095997A6
   ProductCode: '{4BA86405-94A3-430D-93F2-82F6F78686AD}'
 ManifestType: installer

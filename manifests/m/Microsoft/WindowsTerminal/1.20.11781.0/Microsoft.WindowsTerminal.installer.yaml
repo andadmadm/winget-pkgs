@@ -19,15 +19,15 @@ Dependencies:
 PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 5EF95B5D0E6BD530A985E7C59E8E9CE12195D9E18C1657D2FA0BD58C102FA419
   SignatureSha256: D7C6712502914F46DA09823B8EC219B8416100BF7D8C870D5CF40B0EA8475900
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 5EF95B5D0E6BD530A985E7C59E8E9CE12195D9E18C1657D2FA0BD58C102FA419
   SignatureSha256: D7C6712502914F46DA09823B8EC219B8416100BF7D8C870D5CF40B0EA8475900
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 5EF95B5D0E6BD530A985E7C59E8E9CE12195D9E18C1657D2FA0BD58C102FA419
   SignatureSha256: D7C6712502914F46DA09823B8EC219B8416100BF7D8C870D5CF40B0EA8475900
 ManifestType: installer

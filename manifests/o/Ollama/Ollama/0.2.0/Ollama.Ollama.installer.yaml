@@ -11,7 +11,7 @@ Commands:
 ReleaseDate: 2024-07-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ollama/ollama/releases/download/v0.2.0/OllamaSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ollama/ollama/releases/download/v0.2.0/OllamaSetup.exe
   InstallerSha256: CC13727859B2D407E8553121E844ED4D6FE653406AAE0F95DC5981F05D93A4B1
   ProductCode: '{44E83376-CE68-45EB-8FC1-393500EB558C}_is1'
 ManifestType: installer

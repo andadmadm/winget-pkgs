@@ -16,7 +16,7 @@ Dependencies:
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/WolvenKit/WolvenKit-nightly-releases/releases/download/8.8.2-nightly.2023-02-16/WolvenKit.NightlySetup-8.8.2-nightly.2023-02-16.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WolvenKit/WolvenKit-nightly-releases/releases/download/8.8.2-nightly.2023-02-16/WolvenKit.NightlySetup-8.8.2-nightly.2023-02-16.exe
   InstallerSha256: 60E82DD821BC8DEE5EC9D6861D5939699D995AFB2C328B4773856B0542FA39A5
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -19,7 +19,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/TabbyML/tabby/releases/download/v0.13.1/tabby_x86_64-windows-msvc-cuda122.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/TabbyML/tabby/releases/download/v0.13.1/tabby_x86_64-windows-msvc-cuda122.zip
     InstallerSha256: 4F4FD9FFEADD14B768DE9E10B0267CAF6BE2E51645D93460AE4D06A15F35285F
 ManifestType: installer
 ManifestVersion: 1.6.0

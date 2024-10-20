@@ -11,7 +11,7 @@ InstallerSwitches:
   Silent: /quiet
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DrummerSi/TaskSeparator11/releases/download/1.0.2/TaskSplitter11.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrummerSi/TaskSeparator11/releases/download/1.0.2/TaskSplitter11.zip
   InstallerSha256: 03A64BB1EFE4DED25EEEABA4CDE0785F02CA7D41E288E6DABA66071598ACE48A
   Dependencies:
     PackageDependencies:

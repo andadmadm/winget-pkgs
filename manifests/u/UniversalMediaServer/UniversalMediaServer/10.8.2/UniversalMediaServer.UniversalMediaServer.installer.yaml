@@ -11,7 +11,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/10.8.2/UMS-10.8.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/10.8.2/UMS-10.8.2.exe
   InstallerSha256: B9CE853244950E3210408BEBB8A4A6987F213B2FA5C05734D4393F10B69FFC78
   UpgradeBehavior: install
 ManifestType: installer

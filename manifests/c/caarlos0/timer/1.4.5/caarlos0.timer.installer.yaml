@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: timer.exe
         PortableCommandAlias: timer
-    InstallerUrl: https://github.com/caarlos0/timer/releases/download/v1.4.5/timer_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/caarlos0/timer/releases/download/v1.4.5/timer_windows_arm64.zip
     InstallerSha256: 91a356bbe634d1e73a5599784679a9460e932b12cfafd781a7f02ad5a9c3ac63
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: timer.exe
         PortableCommandAlias: timer
-    InstallerUrl: https://github.com/caarlos0/timer/releases/download/v1.4.5/timer_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/caarlos0/timer/releases/download/v1.4.5/timer_windows_amd64.zip
     InstallerSha256: f2c314c4acddcc3648dc228d144f35920a340f218bd5b56367adbf5459654b0e
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

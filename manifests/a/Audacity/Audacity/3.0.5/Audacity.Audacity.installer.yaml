@@ -22,10 +22,10 @@ FileExtensions:
 - ogv
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.0.5/audacity-win-3.0.5-32bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.0.5/audacity-win-3.0.5-32bit.exe
   InstallerSha256: 6682C57BF6F34F63B68664EBE09441168249D1F62E7743CFF1EFFE7A3BFA660C
 - Architecture: x64
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.0.5/audacity-win-3.0.5-64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.0.5/audacity-win-3.0.5-64bit.exe
   InstallerSha256: DE2FED286A819090EC416C02A0593F586A4527AB145C81C0CE108E0D7FC79BEE
 ManifestType: installer
 ManifestVersion: 1.0.0

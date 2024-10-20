@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ProductCode: '{0B9129DE-4A3E-46D2-9B0A-E9A4A9421B32}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/randyrants/sharpkeys/releases/download/v3.9.4/sharpkeys394.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/randyrants/sharpkeys/releases/download/v3.9.4/sharpkeys394.msi
   InstallerSha256: 059AD91921008299F76729F2D6EB0092EBAA11AE31B1871CA638C787544F8A07
 ManifestType: installer
 ManifestVersion: 1.6.0

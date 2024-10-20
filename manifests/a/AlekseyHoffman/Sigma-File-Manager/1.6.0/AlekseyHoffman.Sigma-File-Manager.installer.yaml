@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.6.0/Sigma-File-Manager-1.6.0-Windows-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.6.0/Sigma-File-Manager-1.6.0-Windows-Setup.exe
   InstallerSha256: F4386DFB52F0792E1DE47CFAB2005C9E7480273F997B5CA2BA4446F7AAA7516A
 ManifestType: installer
 ManifestVersion: 1.4.0

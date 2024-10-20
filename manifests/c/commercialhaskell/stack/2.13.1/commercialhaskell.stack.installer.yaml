@@ -4,7 +4,7 @@ PackageIdentifier: commercialhaskell.stack
 PackageVersion: 2.13.1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/commercialhaskell/stack/releases/download/v2.13.1/stack-2.13.1-windows-x86_64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/commercialhaskell/stack/releases/download/v2.13.1/stack-2.13.1-windows-x86_64-installer.exe
   InstallerSha256: 4b620c74f509172801960a6479fef82d5de05d869f85ffac77178a783258f945
 ManifestType: installer
 ManifestVersion: 1.5.0

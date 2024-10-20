@@ -9,7 +9,7 @@ UpgradeBehavior: uninstallPrevious
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ciderapp/cider-releases/releases/download/v1.6.0-beta.098/Cider-Setup-winget-1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ciderapp/cider-releases/releases/download/v1.6.0-beta.098/Cider-Setup-winget-1.6.0.exe
   InstallerSha256: F0DA3A853274F745B061D1FCD10826E5C54291717355EC319943EE68E94EDAAB
 ManifestType: installer
 ManifestVersion: 1.2.0

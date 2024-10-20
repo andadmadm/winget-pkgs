@@ -4,7 +4,7 @@
 PackageIdentifier: AntiMicroX.antimicroxPortable
 PackageVersion: 3.3.3
 Installers:
-- InstallerUrl: https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/antimicrox-3.3.3-PortableWindows-AMD64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/antimicrox-3.3.3-PortableWindows-AMD64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -22,7 +22,7 @@ FileExtensions:
 - mkv
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.5/SubtitleEdit-4.0.5-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.5/SubtitleEdit-4.0.5-Setup.exe
   InstallerSha256: 39D5D3295C68841BBF50B237FC815E57B04C37F752F69E5CCE349C840570905F
   ProductCode: SubtitleEdit_is1
 ManifestType: installer

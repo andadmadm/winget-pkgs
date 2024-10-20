@@ -9,7 +9,7 @@ InstallerType: wix
 ReleaseDate: 2023-01-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/halestudio/hale/releases/download/5.0.0/hale-studio-5.0.0-en-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/halestudio/hale/releases/download/5.0.0/hale-studio-5.0.0-en-x64.msi
   InstallerSha256: E1819364451B85677FA3E7027F415ACEEB12E96B863220055ED751ABBE8A595B
   ProductCode: '{AA916D68-3D8D-4E29-BF93-62DF49B89517}'
 ManifestType: installer

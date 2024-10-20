@@ -29,7 +29,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{E1ED1384-86C6-6900-91B2-CBA0DB8D3E2E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2+13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2+13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi
   InstallerSha256: 20A07730D415BDA3F90EBDD6270FD11F68BA60C082B23218EF79076F3FC8392C
 ManifestType: installer
 ManifestVersion: 1.6.0

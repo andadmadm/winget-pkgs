@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-07-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/the-via/releases/releases/download/v2.0.5/via-2.0.5-win.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/the-via/releases/releases/download/v2.0.5/via-2.0.5-win.msi
   InstallerSha256: E578C552B54EC8BAAC32385567B8FA6D5D18A7C2D2E2A489D4A190C573B5FC8D
   ProductCode: '{F8DA7451-CA7A-4515-93C3-4152BB769F1A}'
 ManifestType: installer

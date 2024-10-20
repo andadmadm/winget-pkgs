@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: magpie
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Blinue/Magpie/releases/download/v0.11.0/Magpie-v0.11.0-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Blinue/Magpie/releases/download/v0.11.0/Magpie-v0.11.0-x64.zip
   InstallerSha256: A959382C40B78CB06FDF7D9D9ABF03BE463A4E8B56E409B7AABB456E2C2F258D
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -17,13 +17,13 @@ ReleaseDate: 2023-09-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v3.0.0/mdview-3.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v3.0.0/mdview-3.0.0-x64.exe
   InstallerSha256: C197DA5502EB0CF503080E4E2174143F08499DAFE4A51458CF55CACA358D614F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v3.0.0/mdview-3.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v3.0.0/mdview-3.0.0-x64.exe
   InstallerSha256: C197DA5502EB0CF503080E4E2174143F08499DAFE4A51458CF55CACA358D614F
   InstallerSwitches:
     Custom: /ALLUSERS

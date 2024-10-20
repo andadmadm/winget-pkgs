@@ -16,7 +16,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: odin.exe
     PortableCommandAlias: odin.exe
-  InstallerUrl: https://github.com/odin-lang/Odin/releases/download/dev-2024-07/odin-windows-amd64-dev-2024-07.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/odin-lang/Odin/releases/download/dev-2024-07/odin-windows-amd64-dev-2024-07.zip
   InstallerSha256: E2A9DFC3686DFFDC424EF50A194DB254DD9005644718A82AA69D1549631E60DE
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ./Magpie.exe
     PortableCommandAlias: magpie
-  InstallerUrl: https://github.com/Blinue/Magpie/releases/download/v0.9.1/Magpie_v0.9.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Blinue/Magpie/releases/download/v0.9.1/Magpie_v0.9.1.zip
   InstallerSha256: 4F267D5E53B65BFC6A0C338DBBFFFD922F9F92B9FFC4AB6E8F03F6D227B8E02C
 ManifestType: installer
 ManifestVersion: 1.4.0

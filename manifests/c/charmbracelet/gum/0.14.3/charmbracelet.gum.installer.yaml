@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: gum_0.14.3_Windows_x86_64\gum.exe
         PortableCommandAlias: gum
-    InstallerUrl: https://github.com/charmbracelet/gum/releases/download/v0.14.3/gum_0.14.3_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/gum/releases/download/v0.14.3/gum_0.14.3_Windows_x86_64.zip
     InstallerSha256: 447b4db5aa8867e8abde941d51a59c3a77e78abab76043f90cb676ab7b4f4bfd
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: gum_0.14.3_Windows_i386\gum.exe
         PortableCommandAlias: gum
-    InstallerUrl: https://github.com/charmbracelet/gum/releases/download/v0.14.3/gum_0.14.3_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/charmbracelet/gum/releases/download/v0.14.3/gum_0.14.3_Windows_i386.zip
     InstallerSha256: 8719d1daa19d344ebfd69b2c552ab2110ee7220f8dc550712cc22f49c14f206c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

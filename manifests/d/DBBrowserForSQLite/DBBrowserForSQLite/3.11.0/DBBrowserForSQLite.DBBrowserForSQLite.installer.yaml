@@ -16,11 +16,11 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.11.0/DB.Browser.for.SQLite-3.11.0-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.11.0/DB.Browser.for.SQLite-3.11.0-win64.msi
   InstallerSha256: 83C8847D0F86354C53B30407FA4AF96C9674711BF92C8705E2E4F33897FC9CDD
   ProductCode: '{BB89AB3F-DE8C-4DB4-9862-324F67B36BF0}'
 - Architecture: x86
-  InstallerUrl: https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.11.0/DB.Browser.for.SQLite-3.11.0-win32.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.11.0/DB.Browser.for.SQLite-3.11.0-win32.msi
   InstallerSha256: D1E28BB123AB758B476F1D1F86BE5F9B0C4F4E55A72F9D6E29CFC7924ADF44BB
   ProductCode: '{89628D04-102D-49BB-B4F2-FBEEFD51A02C}'
 ManifestType: installer

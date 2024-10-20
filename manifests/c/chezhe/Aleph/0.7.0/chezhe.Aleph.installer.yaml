@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chezhe/aleph/releases/download/v0.7.0/aleph_0.7.0_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/chezhe/aleph/releases/download/v0.7.0/aleph_0.7.0_x64_en-US.msi
   InstallerSha256: 4064C378F17EB9BBE051D8223D21A2893D27BD742641D2CC6F72ECA1D6839697
   ProductCode: '{754F7C33-B528-4BB8-8D9D-45B5F47B9B0D}'
 ManifestType: installer

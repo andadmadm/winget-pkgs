@@ -12,7 +12,7 @@ Dependencies:
 ProductCode: '{15398CB6-5FBC-41F5-8156-E4ACA9CDCADC}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/neovide/neovide/releases/download/0.12.2/neovide.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/neovide/neovide/releases/download/0.12.2/neovide.msi
   InstallerSha256: 6459F2FC19DAC121B5116B23EB4CE5613E9459212DC58984200AF3C7DAA58D24
 ManifestType: installer
 ManifestVersion: 1.6.0

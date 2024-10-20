@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/buttercup/buttercup-desktop/releases/download/v2.10.0/Buttercup-win-x64-2.10.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buttercup/buttercup-desktop/releases/download/v2.10.0/Buttercup-win-x64-2.10.0-installer.exe
   InstallerSha256: AAA7A7A4631ED48D5189590400ACAD5ABAC523649D7EB2069A4F57B50CFD406B
   UpgradeBehavior: install
 ManifestType: installer

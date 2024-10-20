@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/sindresorhus/caprine/releases/download/v2.54.1/Caprine-Setup-2.54.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sindresorhus/caprine/releases/download/v2.54.1/Caprine-Setup-2.54.1.exe
   InstallerSha256: 57FA14DD11AC6FDC55EBAA9E35FD756E49013A0647D2C84B32E51E9F4B771BD1
   UpgradeBehavior: install
 ManifestType: installer

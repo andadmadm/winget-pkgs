@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ipsw.exe
         PortableCommandAlias: ipsw
-    InstallerUrl: https://github.com/blacktop/ipsw/releases/download/v3.1.539/ipsw_3.1.539_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/blacktop/ipsw/releases/download/v3.1.539/ipsw_3.1.539_windows_arm64.zip
     InstallerSha256: f99ebb38d6a44a154d35f2eb113d83335918ccdde8ece93403d3943afc7bbc60
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: ipsw.exe
         PortableCommandAlias: ipsw
-    InstallerUrl: https://github.com/blacktop/ipsw/releases/download/v3.1.539/ipsw_3.1.539_windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/blacktop/ipsw/releases/download/v3.1.539/ipsw_3.1.539_windows_x86_64.zip
     InstallerSha256: 9e711b779ab61c775d3941df7a68126f8a4d209285d453dd772ba35e642f3d47
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

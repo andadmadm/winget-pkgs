@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2022-11-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hamsterbase/hamsterbase/releases/download/0.5.1-beta/hamsterbase-0.5.1-beta-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hamsterbase/hamsterbase/releases/download/0.5.1-beta/hamsterbase-0.5.1-beta-win-x64.exe
   InstallerSha256: C9266CB2249448C39D92D638FC9E4476514B7DD65C464C29D0627E0478CFEB97
 ManifestType: installer
 ManifestVersion: 1.4.0

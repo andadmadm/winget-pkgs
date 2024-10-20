@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: neutral
   InstallerType: wix
-  InstallerUrl: https://github.com/coronalabs/corona/releases/download/3688/Solar2D-Windows-2023.3688.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/coronalabs/corona/releases/download/3688/Solar2D-Windows-2023.3688.msi
   InstallerSha256: 6B5D7EFF4E3DA7AF98CBC5EBB073A77CC0ABB9B99217489F3CDC9495353E9BA9
   InstallModes:
   - silent

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2019-02-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/devhubapp/devhub/releases/download/v0.45.3/devhub-setup-0.45.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/devhubapp/devhub/releases/download/v0.45.3/devhub-setup-0.45.3.exe
   InstallerSha256: C7FAE3E586FD7B88FE6BEC7CB7472024A93984D4319F085DBCDCD5066C9689FF
 ManifestType: installer
 ManifestVersion: 1.2.0

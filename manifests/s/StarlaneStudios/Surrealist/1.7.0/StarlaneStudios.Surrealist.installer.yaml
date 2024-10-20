@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/StarlaneStudios/Surrealist/releases/download/v1.7.0/surrealist-v1.7.0-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/StarlaneStudios/Surrealist/releases/download/v1.7.0/surrealist-v1.7.0-windows.msi
   InstallerSha256: B8414AB6F32CBD22D6CFC285DA3C4AA88E2C26D019DAFBC10AE2BC2EA488723B
   ProductCode: '{66D789AB-381C-4453-A89A-D6D3DC607A20}'
 ManifestType: installer

@@ -10,7 +10,7 @@ FileExtensions:
 - tsx
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mapeditor/tiled/releases/download/v1.4.3/Tiled-1.4.3-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mapeditor/tiled/releases/download/v1.4.3/Tiled-1.4.3-win64.msi
   InstallerSha256: 99BB2490C2E3480039CDA79B270E258E55FB3CF624164734B69333267DFBDA7B
   ProductCode: '{200B5B21-9FD8-4931-9CF0-B15FB4E10EE5}'
 ManifestType: installer

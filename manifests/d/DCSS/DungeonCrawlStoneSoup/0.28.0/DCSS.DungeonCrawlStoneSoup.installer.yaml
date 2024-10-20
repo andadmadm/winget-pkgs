@@ -15,14 +15,14 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/crawl/crawl/releases/download/0.28.0/dcss-0.28.0-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crawl/crawl/releases/download/0.28.0/dcss-0.28.0-win32-installer.exe
   InstallerSha256: B0CDF4C6EF357C8E733365DA338C4AB37A0B60F49654FE6FCCF59326AA21CC67
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: Crawl
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/crawl/crawl/releases/download/0.28.0/dcss-0.28.0-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crawl/crawl/releases/download/0.28.0/dcss-0.28.0-win32-installer.exe
   InstallerSha256: B0CDF4C6EF357C8E733365DA338C4AB37A0B60F49654FE6FCCF59326AA21CC67
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -16,15 +16,15 @@ Scope: user
 PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.12.10982.0/Microsoft.WindowsTerminal_Win11_1.12.10983.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.12.10982.0/Microsoft.WindowsTerminal_Win11_1.12.10983.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: B9D448E460B66FFA8A683D5002B2014800661F574075DF44B88D02DAD02D46A8
   SignatureSha256: 0786647AEF8655C200F270638F44841932A440D95319A7554629F59E7963DA70
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.12.10982.0/Microsoft.WindowsTerminal_Win11_1.12.10983.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.12.10982.0/Microsoft.WindowsTerminal_Win11_1.12.10983.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: B9D448E460B66FFA8A683D5002B2014800661F574075DF44B88D02DAD02D46A8
   SignatureSha256: 0786647AEF8655C200F270638F44841932A440D95319A7554629F59E7963DA70
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.12.10982.0/Microsoft.WindowsTerminal_Win11_1.12.10983.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.12.10982.0/Microsoft.WindowsTerminal_Win11_1.12.10983.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: B9D448E460B66FFA8A683D5002B2014800661F574075DF44B88D02DAD02D46A8
   SignatureSha256: 0786647AEF8655C200F270638F44841932A440D95319A7554629F59E7963DA70
 ManifestType: installer

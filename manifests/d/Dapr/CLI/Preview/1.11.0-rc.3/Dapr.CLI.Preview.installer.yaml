@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/dapr/cli/releases/download/v1.11.0-rc.3/dapr.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dapr/cli/releases/download/v1.11.0-rc.3/dapr.msi
   InstallerSha256: 3948A3D504BE8F763FAE918229C404DD95B9A5BB86FFC621EA572484367A1485
   ProductCode: '{D5789600-4986-458E-85D1-3B7DDEC62184}'
 ManifestType: installer

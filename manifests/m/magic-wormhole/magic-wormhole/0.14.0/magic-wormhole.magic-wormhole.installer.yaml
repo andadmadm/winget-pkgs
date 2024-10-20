@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: portable
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/og-mrk/magic-wormhole-exe/releases/download/0.14.0/wormhole.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/og-mrk/magic-wormhole-exe/releases/download/0.14.0/wormhole.exe
   InstallerSha256: A2EAE3B646F3DE8D5D50A25EFF936286C0C2194E693949966839B57881708B49
 ManifestType: installer
 ManifestVersion: 1.6.0

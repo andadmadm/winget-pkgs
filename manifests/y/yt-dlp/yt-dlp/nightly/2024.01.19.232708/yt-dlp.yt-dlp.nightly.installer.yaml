@@ -13,10 +13,10 @@ Dependencies:
 ReleaseDate: 2024-01-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2024.01.19.232708/yt-dlp_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2024.01.19.232708/yt-dlp_x86.exe
   InstallerSha256: F7667B446381CE781340A13015F8488D966C0C95181CFD7E4E7891A37C6DF218
 - Architecture: x64
-  InstallerUrl: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2024.01.19.232708/yt-dlp.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2024.01.19.232708/yt-dlp.exe
   InstallerSha256: BCDC1D6A4D924FEA95B77155E3E5319A67943C0A2CE43404BAA3A4D45E4F8DCC
 ManifestType: installer
 ManifestVersion: 1.5.0

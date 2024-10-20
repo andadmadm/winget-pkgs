@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nashaofu/dingtalk/releases/download/v2.1.13/dingtalk-2.1.13-latest-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nashaofu/dingtalk/releases/download/v2.1.13/dingtalk-2.1.13-latest-ia32.exe
   InstallerSha256: 5ECF0329B40C95C7B247424A2B558A5833286663AD8C8E3F6842F9521DE0E1EE
 ManifestType: installer
 ManifestVersion: 1.2.0

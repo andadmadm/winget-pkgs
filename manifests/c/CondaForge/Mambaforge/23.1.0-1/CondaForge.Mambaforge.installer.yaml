@@ -16,14 +16,14 @@ Installers:
 - Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/23.1.0-1/Mambaforge-23.1.0-1-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/23.1.0-1/Mambaforge-23.1.0-1-Windows-x86_64.exe
   InstallerSha256: F28B5F9C896198C11EB085966CC80A4210868C452F1945A338017DFB786144BF
   InstallerSwitches:
     Custom: /S /JustMe /AddToPath=0 /RegisterPython=0
 - Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/23.1.0-1/Mambaforge-23.1.0-1-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/23.1.0-1/Mambaforge-23.1.0-1-Windows-x86_64.exe
   InstallerSha256: F28B5F9C896198C11EB085966CC80A4210868C452F1945A338017DFB786144BF
   InstallerSwitches:
     Custom: /S /AllUsers /AddToPath=0 /RegisterPython=0

@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/pgerke/get-odassey/releases/download/v1.3.0/Odassey_win_x64_v1.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pgerke/get-odassey/releases/download/v1.3.0/Odassey_win_x64_v1.3.0.exe
   InstallerSha256: 7BF8BC7617A4D7907F0D9EC4A94B0B3C86B76982CF77ACE4850F98C11BCC678B
   InstallerSwitches:
     Silent: /S

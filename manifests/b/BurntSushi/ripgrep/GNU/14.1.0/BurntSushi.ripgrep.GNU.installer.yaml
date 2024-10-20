@@ -6,7 +6,7 @@ PackageIdentifier: BurntSushi.ripgrep.GNU
 PackageVersion: 14.1.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BurntSushi/ripgrep/releases/download/14.1.0/ripgrep-14.1.0-x86_64-pc-windows-gnu.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/BurntSushi/ripgrep/releases/download/14.1.0/ripgrep-14.1.0-x86_64-pc-windows-gnu.zip
   InstallerSha256: 4f2dc22621a7b75031a28d34582ba01af1fe5eeacebfa089a495250d9186917c
 ManifestType: installer
 ManifestVersion: 1.5.0

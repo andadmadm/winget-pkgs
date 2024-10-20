@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{42D67F6D-E9F9-4499-A498-0D0370460F85}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rink-turksma/IntunePrepTool/releases/download/IntunePrepTool-1.2.4.5/IntunePrepTool-1.2.4.5.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/rink-turksma/IntunePrepTool/releases/download/IntunePrepTool-1.2.4.5/IntunePrepTool-1.2.4.5.msi
   InstallerSha256: 5FCB697B54B2D4CD366CEAB6588BC61F27705D21F8A3897F836ED9A43CA7CA08
 ManifestType: installer
 ManifestVersion: 1.5.0

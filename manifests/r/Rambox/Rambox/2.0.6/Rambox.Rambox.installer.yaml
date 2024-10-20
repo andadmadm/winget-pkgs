@@ -12,13 +12,13 @@ InstallModes:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v2.0.6/Rambox-2.0.6-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v2.0.6/Rambox-2.0.6-win-x64.exe
   InstallerSha256: F1CD793054E4AF9B8A747E4E08E74C548623BE963BCBD5FE411909856FECF693
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v2.0.6/Rambox-2.0.6-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v2.0.6/Rambox-2.0.6-win-x64.exe
   InstallerSha256: F1CD793054E4AF9B8A747E4E08E74C548623BE963BCBD5FE411909856FECF693
   InstallerSwitches:
     Custom: /ALLUSERS

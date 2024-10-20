@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron-setup-win-x64-2.20.0.exe #Last version, repo archived
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron-setup-win-x64-2.20.0.exe #Last version, repo archived
   InstallerSha256: AFD2D3A3A4D3F454E2E1CC7ECA69762F456F2F1768CF775E12306C8C21588161
 ManifestType: installer
 ManifestVersion: 1.5.0

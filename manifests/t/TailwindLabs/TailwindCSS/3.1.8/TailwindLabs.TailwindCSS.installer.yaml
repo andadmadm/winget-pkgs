@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2022-08-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.1.8/tailwindcss-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tailwindlabs/tailwindcss/releases/download/v3.1.8/tailwindcss-windows-x64.exe
   InstallerSha256: 842AEC21DF2A109011E052772F1DAC15F6AC093FE83264B60CE42379F8998EB4
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -19,7 +19,7 @@ Dependencies:
 ProductCode: '{54679F71-653F-440D-9FF6-5B7DC1169B73}'
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/AClark-WHONET/AMRIE/releases/download/v24.6.13/AMR_Interpretation_Engine_v24.6.13.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/AClark-WHONET/AMRIE/releases/download/v24.6.13/AMR_Interpretation_Engine_v24.6.13.msi
   InstallerSha256: F70FF32ED376CB8D932F8A4BF0512786FA54AA7381E5D862C1EB3B51561760E5
 ManifestType: installer
 ManifestVersion: 1.6.0

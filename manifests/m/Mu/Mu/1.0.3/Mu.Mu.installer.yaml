@@ -8,13 +8,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe
   InstallerSha256: DC852E5BFED0818FE2F9A61A7E9C67C32EA3A5948D8D1EA33E5E72D1686296FB
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe
   InstallerSha256: DC852E5BFED0818FE2F9A61A7E9C67C32EA3A5948D8D1EA33E5E72D1686296FB
   InstallerSwitches:
     Custom: /ALLUSERS

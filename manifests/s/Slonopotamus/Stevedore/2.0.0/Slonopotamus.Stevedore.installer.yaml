@@ -13,7 +13,7 @@ InstallerSuccessCodes:
 ProductCode: '{05718E88-9704-48D2-863F-7223A7288108}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/slonopotamus/stevedore/releases/download/2.0.0/stevedore-2.0.0-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/slonopotamus/stevedore/releases/download/2.0.0/stevedore-2.0.0-x86_64.msi
   InstallerSha256: 461DDF07AEBC5001CC073354F300C1C5703166EC16297ADE69908A2056933C07
 ManifestType: installer
 ManifestVersion: 1.6.0

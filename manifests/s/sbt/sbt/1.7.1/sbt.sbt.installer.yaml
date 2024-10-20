@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-07-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sbt/sbt/releases/download/v1.7.1/sbt-1.7.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sbt/sbt/releases/download/v1.7.1/sbt-1.7.1.msi
   InstallerSha256: 972E1CBE8C851F0BB578CD614F1E67B0373D4DEF6182361DE7AACDEB94E38D27
   ProductCode: '{CE07BE71-510D-414A-92D4-DFF47631848A}'
 ManifestType: installer

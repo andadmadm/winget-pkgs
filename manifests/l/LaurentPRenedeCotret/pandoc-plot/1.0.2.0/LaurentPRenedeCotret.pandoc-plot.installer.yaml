@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LaurentRDC/pandoc-plot/releases/download/v1.0.2.0/pandoc-plot-wininst-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LaurentRDC/pandoc-plot/releases/download/v1.0.2.0/pandoc-plot-wininst-x86_64.exe
   InstallerSha256: B801B0BD67EA47F08599D5FC46BD57468C04B1FD8F7150C378421CDAFE68E61A
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -8,7 +8,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.6.3/Sengi-1.6.3-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/NicolasConstant/sengi-electron/releases/download/v1.6.3/Sengi-1.6.3-win.exe
   InstallerSha256: 567CDC5A0EF4FC916DBCF8CFFE48537E68298B7119402289E943D90F39B3D37A
   ProductCode: d7ba52ca-f309-5eab-9e35-a9c0b55bdb18
   AppsAndFeaturesEntries:

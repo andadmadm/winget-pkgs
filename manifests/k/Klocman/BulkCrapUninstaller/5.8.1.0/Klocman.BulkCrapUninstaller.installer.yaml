@@ -21,7 +21,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.8.1/BCUninstaller_5.8.1_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.8.1/BCUninstaller_5.8.1_setup.exe
   InstallerSha256: 0429A5666720110F92D82C2AF8F7CED0FD14C37AD98ED0E2FD763E5626C44E15
 ManifestType: installer
 ManifestVersion: 1.6.0

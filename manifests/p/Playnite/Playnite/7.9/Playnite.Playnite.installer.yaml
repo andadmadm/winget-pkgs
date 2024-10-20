@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-08-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/7.9/Playnite79.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/7.9/Playnite79.exe
   InstallerSha256: 0AF3AF55E433DEBD817E0533D569D66DB005AD11A7F9A7983FC26C6AF7B8A7CD
 ManifestType: installer
 ManifestVersion: 1.2.0

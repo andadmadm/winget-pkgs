@@ -151,7 +151,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: MPC-BE.1.6.5.3.x86.exe
-  InstallerUrl: https://github.com/Aleksoid1978/MPC-BE/releases/download/1.6.5.3/MPC-BE.1.6.5.3.x86-installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Aleksoid1978/MPC-BE/releases/download/1.6.5.3/MPC-BE.1.6.5.3.x86-installer.zip
   # InstallerUrl: https://sourceforge.net/projects/mpcbe/files/MPC-BE/Release%20builds/1.6.5.3/MPC-BE.1.6.5.3.x86-installer.zip/download
   InstallerSha256: FFECAE729524A5D1B7D55FDB2FDE4D603DC29C065E4196831FB0E85EBE7A1DBC
   ProductCode: '{903D098F-DD50-4342-AD23-DA868FCA3126}_is1'
@@ -159,7 +159,7 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: MPC-BE.1.6.5.3.x64.exe
-  InstallerUrl: https://github.com/Aleksoid1978/MPC-BE/releases/download/1.6.5.3/MPC-BE.1.6.5.3.x64-installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Aleksoid1978/MPC-BE/releases/download/1.6.5.3/MPC-BE.1.6.5.3.x64-installer.zip
   # InstallerUrl: https://sourceforge.net/projects/mpcbe/files/MPC-BE/Release%20builds/1.6.5.3/MPC-BE.1.6.5.3.x64-installer.zip/download
   InstallerSha256: 96F9DC3A4065EAFAB874558A7728CDE89F326CB1DB9FDF35A79B491C06BD36EF
   ProductCode: '{FE09AF6D-78B2-4093-B012-FCDAF78693CE}_is1'

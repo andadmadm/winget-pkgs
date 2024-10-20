@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kimwalisch/primecount-winget/releases/download/v6.1/Primecount-6.1-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kimwalisch/primecount-winget/releases/download/v6.1/Primecount-6.1-win64.exe
   InstallerSha256: 32520CB858E77ED9D69F45F8D8702439DBD7B7C5BB165C788CD9FD4AD1C999E2
 ManifestType: installer
 ManifestVersion: 1.1.0

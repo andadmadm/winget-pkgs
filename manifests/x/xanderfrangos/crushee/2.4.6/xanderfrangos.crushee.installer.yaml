@@ -17,7 +17,7 @@ FileExtensions:
 - webp
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xanderfrangos/crushee/releases/download/v2.4.6/Crushee-v2.4.6-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xanderfrangos/crushee/releases/download/v2.4.6/Crushee-v2.4.6-win-setup.exe
   InstallerSha256: 1FD7748D457AE86A440361545559CE7A373D73F378404F8EF7860CF3DF5F57EF
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.8/dixa-setup-4.0.8.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.8/dixa-setup-4.0.8.msi
   InstallerSha256: 06C167DD2BFB23B8E0034675F3F5E46F5FFC6BE7FF881BA4B6E4AFFEE249580D
   ProductCode: '{9017F49C-7567-433B-AD49-ADF15456D026}'
 ManifestType: installer

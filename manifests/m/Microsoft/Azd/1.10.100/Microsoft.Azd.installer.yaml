@@ -10,7 +10,7 @@ InstallerSwitches:
 ProductCode: '{57044D44-BF04-47AF-B450-6D876ACA23BE}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.10.0/azd-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.10.0/azd-windows-amd64.msi
   InstallerSha256: 7D2CD2DE2E2F4C631F0598576CFEAFD0ED265C3F408CFE7B638F32ED7A7F3196
 ManifestType: installer
 ManifestVersion: 1.6.0

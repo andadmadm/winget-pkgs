@@ -74,7 +74,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{1EA6D212-15C0-425E-B2EC-4B6C60817552}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sn4k3/UVtools/releases/download/v4.2.0/UVtools_win-x64_v4.2.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sn4k3/UVtools/releases/download/v4.2.0/UVtools_win-x64_v4.2.0.msi
   InstallerSha256: 934C5C443BA3970716524D6D260683F802E5AF8C338B11F4DE6A7AF01EC50D0D
 ManifestType: installer
 ManifestVersion: 1.5.0

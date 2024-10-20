@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/fairdataihub/SODA-for-SPARC/releases/download/v6.0.0/SODA-for-SPARC-Setup-6.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fairdataihub/SODA-for-SPARC/releases/download/v6.0.0/SODA-for-SPARC-Setup-6.0.0.exe
   InstallerSha256: 426D715662B6845033BD5B7B6F14D73D812CBC6A945A80FC87D45904E0429C39
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{0E5D0A9F-3AEC-41B7-A580-095B9C29ABD6}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LGUG2Z/whkd/releases/download/v0.2.0/whkd-0.2.0-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/LGUG2Z/whkd/releases/download/v0.2.0/whkd-0.2.0-x86_64.msi
   InstallerSha256: 2A9BD582A221513F7FB2E1AB00160B13755964EEEC3BFBFFE8C94A78A29C7E9A
 ManifestType: installer
 ManifestVersion: 1.5.0

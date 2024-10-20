@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ckaiser/Lightscreen/releases/download/v2.1/LightscreenSetup-2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ckaiser/Lightscreen/releases/download/v2.1/LightscreenSetup-2.1.exe
   InstallerSha256: FA6A5A2DD32ACC86D5F7DE2EFD68CE4631845CEA1B989DEA2779F6355C7D9A99
 ManifestType: installer
 ManifestVersion: 1.1.0

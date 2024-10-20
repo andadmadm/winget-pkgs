@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{9CB0D8E3-5294-45FB-BAA7-154B6A652940}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.msi
   InstallerSha256: 1229F1168F495B96EF65BC3EAE5E0BD28E9BEEF1F5099518C3CA95422911127D
 ManifestType: installer
 ManifestVersion: 1.6.0

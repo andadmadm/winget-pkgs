@@ -44,7 +44,7 @@ FileExtensions:
 ReleaseDate: 2022-03-08
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/fontforge/fontforge/releases/download/20220308/FontForge-2022-03-08-Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fontforge/fontforge/releases/download/20220308/FontForge-2022-03-08-Windows.exe
   InstallerSha256: 6949074973D662020E5BF44E55DBD49CA695CA15399154F1B9687B4D0C2D2C76
   AppsAndFeaturesEntries:
     - DisplayVersion: 08-03-2022

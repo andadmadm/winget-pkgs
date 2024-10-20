@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v3.0.1/passky-3.0.1.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v3.0.1/passky-3.0.1.Setup.exe
   InstallerSha256: DF9BD39677F4554DC420ACD07C8533B424CD1ECAD2085B79D99E5BADA0981FD6
   InstallerSwitches:
     Silent: --silent

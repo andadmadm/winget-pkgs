@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zzzgydi/clash-verge/releases/download/v1.0.1/Clash.Verge_1.0.1_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.0.1/Clash.Verge_1.0.1_x64_en-US.msi
   InstallerSha256: 160AA678A3C9FDE3AFFC34E813985B91DD8D429AB11904E9D99E6E4E481F3664
   ProductCode: '{FB46DCA3-2E90-4DBD-9FA7-1569D513D88D}'
 ManifestType: installer

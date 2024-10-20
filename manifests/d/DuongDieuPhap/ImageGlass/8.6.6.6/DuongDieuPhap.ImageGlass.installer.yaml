@@ -60,11 +60,11 @@ FileExtensions:
 ReleaseDate: 2022-06-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/8.6.6.6/ImageGlass_Kobe_8.6.6.6_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/8.6.6.6/ImageGlass_Kobe_8.6.6.6_x64.msi
   InstallerSha256: 620943FAC0F4CC6C959F759E4203979B5491F1138AAB0BCA191E5859A3545686
   ProductCode: '{5B4F29B0-FB78-4837-9220-23A8D198DFDD}'
 - Architecture: x86
-  InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/8.6.6.6/ImageGlass_Kobe_8.6.6.6_x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/8.6.6.6/ImageGlass_Kobe_8.6.6.6_x86.msi
   InstallerSha256: 850B19D38B9CC5BC6425BF0FE18B7AA1AFBA01B9FD4D2A3A802466BC7CC35A70
   ProductCode: '{32D947C3-2BAC-4DF8-A87C-74D3E69023DD}'
 ManifestType: installer

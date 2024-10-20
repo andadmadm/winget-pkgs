@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2022-11-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/tauri-apps/create-tauri-app/releases/download/create-tauri-app-v2.6.4/create-tauri-app-i686-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tauri-apps/create-tauri-app/releases/download/create-tauri-app-v2.6.4/create-tauri-app-i686-pc-windows-msvc.exe
   InstallerSha256: 46EF5AFDE32CC1F58346165EDF28CB275383E187E5E6FD99EB454DF2C611C985
 - Architecture: x64
-  InstallerUrl: https://github.com/tauri-apps/create-tauri-app/releases/download/create-tauri-app-v2.6.4/create-tauri-app-x86_64-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tauri-apps/create-tauri-app/releases/download/create-tauri-app-v2.6.4/create-tauri-app-x86_64-pc-windows-msvc.exe
   InstallerSha256: 2D06BE5E1C6590DF594EA0374EFDA0627CDCA3EC890384F60EF48535DC764B73
 ManifestType: installer
 ManifestVersion: 1.2.0

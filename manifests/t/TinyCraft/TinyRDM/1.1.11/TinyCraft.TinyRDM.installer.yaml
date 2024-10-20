@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-04-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tiny-craft/tiny-rdm/releases/download/v1.1.11/TinyRDM_Setup_1.1.11_windows_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tiny-craft/tiny-rdm/releases/download/v1.1.11/TinyRDM_Setup_1.1.11_windows_x64.exe
   InstallerSha256: C9130E0F828459867F029D4A6ED54D5B02532169B3B8B86094BE13027E76325B
   ProductCode: Tiny CraftTiny RDM
 ManifestType: installer

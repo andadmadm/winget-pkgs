@@ -11,7 +11,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
-    InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.44/anki-2.1.44-windows.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.44/anki-2.1.44-windows.exe
     InstallerSha256: 0d71b91cd82416a6f5b02142ed54290f3689abe0261b0ba8406110dd93421be5
     Scope: machine
     InstallerLocale: en-US

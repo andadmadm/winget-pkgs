@@ -16,13 +16,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/2.6.0/authme-2.6.0-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/2.6.0/authme-2.6.0-windows-x64-installer.exe
   InstallerSha256: 1FE925B3EB93E763B0A63E3F411C5184A1F8A5D35A4734FC0DED01551D3BACB2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/2.6.0/authme-2.6.0-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/2.6.0/authme-2.6.0-windows-x64-installer.exe
   InstallerSha256: 1FE925B3EB93E763B0A63E3F411C5184A1F8A5D35A4734FC0DED01551D3BACB2
   InstallerSwitches:
     Custom: /ALLUSERS

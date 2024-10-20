@@ -15,7 +15,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/authpass/authpass/releases/download/v1.8.0/AuthPass-setup-1.8.0_1710.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/authpass/authpass/releases/download/v1.8.0/AuthPass-setup-1.8.0_1710.exe
   InstallerSha256: F86426597DA00086B5EE41DD48850018B6E555F11F5B68CFCDB6EEEE67493395
   UpgradeBehavior: install
 ManifestType: installer

@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-Setup-1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-Setup-1.5.2.exe
   InstallerSha256: 1A90BEEB11ED52EC7457AA247A61D560F97897B28545F81215B4CB25F8912AAA
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -12,7 +12,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: Chatterino2\chatterino.exe
-  InstallerUrl: https://github.com/SevenTV/chatterino7/releases/download/v7.4.0/chatterino-windows-x86-64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/SevenTV/chatterino7/releases/download/v7.4.0/chatterino-windows-x86-64.zip
   InstallerSha256: B714F75B2501CE6AB2A1D0CEF0C7AA3904067C0B533ACC60ADDA72AEBE7CE473
 ManifestType: installer
 ManifestVersion: 1.4.0

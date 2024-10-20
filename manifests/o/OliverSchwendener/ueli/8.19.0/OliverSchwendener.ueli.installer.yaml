@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oliverschwendener/ueli/releases/download/v8.19.0/ueli-Setup-8.19.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oliverschwendener/ueli/releases/download/v8.19.0/ueli-Setup-8.19.0.exe
   InstallerSha256: BD234CCE888218BE3BBBFB0CCBB678DE1719B4BF33E7B515DE4F677050957650
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2023-05-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/foamzou/media-get/releases/download/v0.2.10/media-get-0.2.10-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/foamzou/media-get/releases/download/v0.2.10/media-get-0.2.10-win.exe
   InstallerSha256: 802B351B0EA3933FD3CC65C50117D1EB43E029E67FF1BAE3C779618676900FA3
 ManifestType: installer
 ManifestVersion: 1.4.0

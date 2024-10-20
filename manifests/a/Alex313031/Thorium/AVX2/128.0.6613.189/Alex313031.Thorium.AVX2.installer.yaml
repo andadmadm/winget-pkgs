@@ -34,14 +34,14 @@ ReleaseDate: 2024-10-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.189/thorium_AVX2_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.189/thorium_AVX2_mini_installer.exe
   InstallerSha256: 9EF8FAE12B8291F3DE3A53C0E30B71D1A6684DC1607668F577334D67E1038C31
   InstallerSwitches:
     Custom: --do-not-launch-chrome
   ProductCode: Thorium
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.189/thorium_AVX2_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.189/thorium_AVX2_mini_installer.exe
   InstallerSha256: 9EF8FAE12B8291F3DE3A53C0E30B71D1A6684DC1607668F577334D67E1038C31
   InstallerSwitches:
     Custom: --do-not-launch-chrome --system-level

@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ekvedaras/redis-gui/releases/download/v1.2.10/redis-gui-Setup-1.2.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ekvedaras/redis-gui/releases/download/v1.2.10/redis-gui-Setup-1.2.10.exe
   InstallerSha256: 36023A5932B312212FC83C6BEA31234C8E04612223C42EF9CE3FE3B19DAB778F
 ManifestType: installer
 ManifestVersion: 1.1.0

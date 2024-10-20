@@ -16,7 +16,7 @@ ReleaseDate: 2024-06-02
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.26/64Gram-setup-x64.1.1.26.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.26/64Gram-setup-x64.1.1.26.exe
   InstallerSha256: A87AD1DB771349D444097280E2C462F29756D9098638E91D029FF74F06DF18B1
 ManifestType: installer
 ManifestVersion: 1.6.0

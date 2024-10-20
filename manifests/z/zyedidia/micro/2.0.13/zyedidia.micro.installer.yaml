@@ -23,10 +23,10 @@ FileExtensions:
 - yaml
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zyedidia/micro/releases/download/v2.0.13/micro-2.0.13-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/zyedidia/micro/releases/download/v2.0.13/micro-2.0.13-win64.zip
   InstallerSha256: E172A884EE4B0590DCD6044B88F981E1FACAF6FD7937194A5CC317FF5EA6BC68
 - Architecture: x86
-  InstallerUrl: https://github.com/zyedidia/micro/releases/download/v2.0.13/micro-2.0.13-win32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/zyedidia/micro/releases/download/v2.0.13/micro-2.0.13-win32.zip
   InstallerSha256: 53A14423039EF11196F7B6975A2444B407A186824BC7C8EE5F565825F8544EA6
 ManifestType: installer
 ManifestVersion: 1.5.0

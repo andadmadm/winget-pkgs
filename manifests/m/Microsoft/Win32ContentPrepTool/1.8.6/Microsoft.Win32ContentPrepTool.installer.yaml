@@ -5,7 +5,7 @@ PackageVersion: 1.8.6
 InstallerLocale: en-US
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/archive/refs/tags/v1.8.6.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/archive/refs/tags/v1.8.6.zip
   InstallerSha256: 3bfd2c93a3500bc2b99c007a5d2352af021df9a043851b77f01ea788fd878851
   InstallerType: zip
   NestedInstallerType: portable

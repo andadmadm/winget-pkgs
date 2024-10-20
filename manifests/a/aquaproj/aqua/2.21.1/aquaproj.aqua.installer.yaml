@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: aqua.exe
         PortableCommandAlias: aqua
-    InstallerUrl: https://github.com/aquaproj/aqua/releases/download/v2.21.1/aqua_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/aquaproj/aqua/releases/download/v2.21.1/aqua_windows_arm64.zip
     InstallerSha256: bb6a7184bd2a4d10f8a969a5a8057b5c49f4fba6ca3009ac1a1fa36c876a93e8
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: aqua.exe
         PortableCommandAlias: aqua
-    InstallerUrl: https://github.com/aquaproj/aqua/releases/download/v2.21.1/aqua_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/aquaproj/aqua/releases/download/v2.21.1/aqua_windows_amd64.zip
     InstallerSha256: 1290424542ae9772f36801b122b28fe7069cca6babc512e835c9aa3c8bbb19a5
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

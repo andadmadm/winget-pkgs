@@ -14,13 +14,13 @@ ReleaseDate: 2022-08-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.32/SideQuest-Setup-0.10.32-x64-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.32/SideQuest-Setup-0.10.32-x64-win.exe
   InstallerSha256: 04EB13FED45FFF56D21ABEA67FD39E30248B75E7158AB7A05DE68065B339B423
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.32/SideQuest-Setup-0.10.32-x64-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.32/SideQuest-Setup-0.10.32-x64-win.exe
   InstallerSha256: 04EB13FED45FFF56D21ABEA67FD39E30248B75E7158AB7A05DE68065B339B423
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -4,7 +4,7 @@
 PackageIdentifier: melonDS.melonDS
 PackageVersion: 0.9.5
 Installers:
-- InstallerUrl: https://github.com/melonDS-emu/melonDS/releases/download/0.9.5/melonDS_0.9.5_win_x64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/melonDS-emu/melonDS/releases/download/0.9.5/melonDS_0.9.5_win_x64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -15,14 +15,14 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/PowerShell/PowerShell/releases/download/v7.1.4/PowerShell-7.1.4-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/PowerShell/PowerShell/releases/download/v7.1.4/PowerShell-7.1.4-win-x64.msi
   InstallerSha256: 9190F005ADCC59F1D2CFF21B8D4FBBA70D72B8B4B567D845B33508A9C388A7A2
   UpgradeBehavior: install
   ProductCode: '{395BA042-240F-404D-8B49-BDC2E812DBE5}'
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: msi
-  InstallerUrl: https://github.com/PowerShell/PowerShell/releases/download/v7.1.4/PowerShell-7.1.4-win-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/PowerShell/PowerShell/releases/download/v7.1.4/PowerShell-7.1.4-win-x86.msi
   InstallerSha256: E75859850B7E7E6A3ACB7A33F1F33171A77636CB8944CEA11FB2E9C0537416B5
   UpgradeBehavior: install
   ProductCode: '{E3B4F7C2-691D-4D21-9DF8-D58F1CBC585E}'

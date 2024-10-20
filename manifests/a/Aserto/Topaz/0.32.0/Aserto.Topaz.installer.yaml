@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: topaz
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aserto-dev/topaz/releases/download/v0.32.0/topaz_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aserto-dev/topaz/releases/download/v0.32.0/topaz_windows_x86_64.zip
   InstallerSha256: FE55AD11306DE54C4BADDA241E24EC9B0E2E2AD56050A045E6FF8E7E5E98BF82
 ManifestType: installer
 ManifestVersion: 1.6.0

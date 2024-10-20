@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/hirosystems/clarinet/releases/download/v0.15.2/clarinet-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/hirosystems/clarinet/releases/download/v0.15.2/clarinet-windows-x64.msi
   InstallerSha256: 8491DF1B9808FD8BA0BDA5CA0B1B73DCBBFF52AA95784A5B1CDCDBD02CA25B19
   UpgradeBehavior: install
   ProductCode: '{036206E2-F7DE-492A-907E-393AE1AA51FA}'

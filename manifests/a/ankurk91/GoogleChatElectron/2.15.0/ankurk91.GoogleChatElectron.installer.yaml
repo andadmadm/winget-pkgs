@@ -8,7 +8,7 @@ InstallerType: inno
 ReleaseDate: 2022-04-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankurk91/google-chat-electron/releases/download/2.15.0/google-chat-electron-setup-win-x64-2.15.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankurk91/google-chat-electron/releases/download/2.15.0/google-chat-electron-setup-win-x64-2.15.0.exe
   InstallerSha256: A24315A47AEB18655732F4C0BD2932AA4C75C8B10BD06DABE932F290947C2E4D
 ManifestType: installer
 ManifestVersion: 1.1.0

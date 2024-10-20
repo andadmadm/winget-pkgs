@@ -4,7 +4,7 @@
 PackageIdentifier: StarlaneStudios.Surrealist
 PackageVersion: 1.6.3
 Installers:
-- InstallerUrl: https://github.com/StarlaneStudios/Surrealist/releases/download/v1.6.3/surrealist-v1.6.3-windows.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/StarlaneStudios/Surrealist/releases/download/v1.6.3/surrealist-v1.6.3-windows.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

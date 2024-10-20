@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2022-10-17
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/coreos/butane/releases/download/v0.16.0/butane-x86_64-pc-windows-gnu.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/coreos/butane/releases/download/v0.16.0/butane-x86_64-pc-windows-gnu.exe
     InstallerSha256: 3CD615B240A4BEF368DBE7AB60084A27E47FDF67B70859D3F6F31F9EA1E460DB
 ManifestType: installer
 ManifestVersion: 1.2.0

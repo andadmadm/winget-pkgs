@@ -66,7 +66,7 @@ AppsAndFeaturesEntries:
     InstallerType: msi
 ProductCode: "{7F2A05C2-0D37-47F0-AA9D-C49FCED53B33}"
 Installers:
-  - InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/9.0.7.1125/ImageGlass_9.0.7.1125_x64.msi
+  - InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/9.0.7.1125/ImageGlass_9.0.7.1125_x64.msi
     Architecture: x64
     InstallerSha256: 01CFD16DE8DC168A5CEF621DCD179E374C7077205E44F1D8A9D8E13CEE01A409
 ManifestType: installer

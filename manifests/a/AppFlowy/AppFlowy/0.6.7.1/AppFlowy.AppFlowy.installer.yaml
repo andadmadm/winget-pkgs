@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2024-08-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.6.7.1/AppFlowy-0.6.7.1-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.6.7.1/AppFlowy-0.6.7.1-windows-x86_64.exe
   InstallerSha256: 5A8C9AB904C06B13B0DB0072959F747D960D674CE2E5635B0FDF35C55505FD1A
 ManifestType: installer
 ManifestVersion: 1.6.0

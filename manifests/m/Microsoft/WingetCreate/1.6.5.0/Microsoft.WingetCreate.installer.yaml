@@ -16,7 +16,7 @@ Installers:
   Architecture: x64
   InstallerType: msix
   Scope: user
-  InstallerUrl: https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/Microsoft.WindowsPackageManagerManifestCreator_1.6.5.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/Microsoft.WindowsPackageManagerManifestCreator_1.6.5.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 94DAC929DC73E1DD5943657C2E3EECEA348579745BA164AF0DCE685EFD259D79
   SignatureSha256: F173B3AE71E73A86D54AD6BA1A76DAAB50E8EE61AEB6981E32983BD770BC9561
   UpgradeBehavior: install
@@ -26,18 +26,18 @@ Installers:
   Architecture: x86
   InstallerType: msix
   Scope: user
-  InstallerUrl: https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/Microsoft.WindowsPackageManagerManifestCreator_1.6.5.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/Microsoft.WindowsPackageManagerManifestCreator_1.6.5.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: 94DAC929DC73E1DD5943657C2E3EECEA348579745BA164AF0DCE685EFD259D79
   SignatureSha256: F173B3AE71E73A86D54AD6BA1A76DAAB50E8EE61AEB6981E32983BD770BC9561
   UpgradeBehavior: install
   PackageFamilyName: Microsoft.WindowsPackageManagerManifestCreator_8wekyb3d8bbwe
 - Architecture: x64
   InstallerType: portable
-  InstallerUrl: https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/wingetcreate.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/wingetcreate.exe
   InstallerSha256: 2CCED75B1830246A78FF0E57F18133807F78BA484CCA2D369CBDDF490DDAC1AF
 - Architecture: x86
   InstallerType: portable
-  InstallerUrl: https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/wingetcreate.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/winget-create/releases/download/v1.6.5.0/wingetcreate.exe
   InstallerSha256: 2CCED75B1830246A78FF0E57F18133807F78BA484CCA2D369CBDDF490DDAC1AF
 ManifestType: installer
 ManifestVersion: 1.6.0

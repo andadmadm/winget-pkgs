@@ -13,25 +13,25 @@ ReleaseDate: 2023-09-01
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
   InstallerSha256: 2274431D3D252968FEED721BF580EBEB3C88D7ECCA2381ED2CB45BFDB26D1AC3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
   InstallerSha256: 2274431D3D252968FEED721BF580EBEB3C88D7ECCA2381ED2CB45BFDB26D1AC3
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
   InstallerSha256: 2274431D3D252968FEED721BF580EBEB3C88D7ECCA2381ED2CB45BFDB26D1AC3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v3.0.0/Zettlr-3.0.0-x64.exe
   InstallerSha256: 2274431D3D252968FEED721BF580EBEB3C88D7ECCA2381ED2CB45BFDB26D1AC3
   InstallerSwitches:
     Custom: /ALLUSERS

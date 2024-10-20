@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-09-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_v5.6.0_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_v5.6.0_setup.exe
   InstallerSha256: 3516DAEA39CCB9FEAD27E8BA5879375A08B20A428264A7C1BE6DB1BE7765B0FE
   ProductCode: '{652AA21C-E084-435C-8ED9-4A29AC2731F1}_is1'
 ManifestType: installer

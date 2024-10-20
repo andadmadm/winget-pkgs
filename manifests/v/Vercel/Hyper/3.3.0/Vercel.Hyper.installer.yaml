@@ -13,7 +13,7 @@ Protocols:
 ReleaseDate: 2022-08-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/vercel/hyper/releases/download/v3.3.0/Hyper-Setup-3.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vercel/hyper/releases/download/v3.3.0/Hyper-Setup-3.3.0.exe
   InstallerSha256: 2D64FB138B3956E8C894028D6870EAC25E9C78CBE85B4A3231A963E874ADB5B9
   ProductCode: ac619139-e2f9-5cb9-915f-69b22e7bff50
 ManifestType: installer

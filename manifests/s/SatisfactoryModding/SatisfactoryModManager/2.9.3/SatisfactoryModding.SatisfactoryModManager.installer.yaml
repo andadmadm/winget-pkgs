@@ -16,13 +16,13 @@ ReleaseDate: 2022-11-21
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.9.3/Satisfactory-Mod-Manager-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.9.3/Satisfactory-Mod-Manager-Setup.exe
   InstallerSha256: 7AF38E09324C99795A70D75F66122B7BC2FCB2ADC9645CE686E0ACE61A744D81
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.9.3/Satisfactory-Mod-Manager-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/satisfactorymodding/SatisfactoryModManager/releases/download/v2.9.3/Satisfactory-Mod-Manager-Setup.exe
   InstallerSha256: 7AF38E09324C99795A70D75F66122B7BC2FCB2ADC9645CE686E0ACE61A744D81
   InstallerSwitches:
     Custom: /ALLUSERS

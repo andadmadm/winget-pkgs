@@ -25,7 +25,7 @@ Protocols:
 ReleaseDate: 2024-06-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DuckDuckStudio/Chinese_git/releases/download/v2.7/Chinese_git_Setup_v2.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DuckDuckStudio/Chinese_git/releases/download/v2.7/Chinese_git_Setup_v2.7.exe
   InstallerSha256: bbee0a6d1a2520fff11a329612daacab87f9c4e5bda5db4fb7ab82f572b70647
   AppsAndFeaturesEntries:
   - DisplayVersion: 'v2.7'

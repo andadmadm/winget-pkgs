@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC104ServerSimulator-1.1.9.0-windows\IEC104ServerSimulator.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/IEC104ServerSimulator-release/releases/download/v1.1.9.0/IEC104ServerSimulator-1.1.9.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/IEC104ServerSimulator-release/releases/download/v1.1.9.0/IEC104ServerSimulator-1.1.9.0-windows.zip
   InstallerSha256: BF42BCF944F79E50E74B85AC154FD7AD5433E8DC649F481CB55566A32A21976E
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: IEC104ServerSimulator-1.1.9.0-windows\IEC104ServerSimulator.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/IEC104ServerSimulator-release/releases/download/v1.1.9.0/IEC104ServerSimulator-1.1.9.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/IEC104ServerSimulator-release/releases/download/v1.1.9.0/IEC104ServerSimulator-1.1.9.0-windows.zip
   InstallerSha256: BF42BCF944F79E50E74B85AC154FD7AD5433E8DC649F481CB55566A32A21976E
   InstallerSwitches:
     Custom: /ALLUSERS

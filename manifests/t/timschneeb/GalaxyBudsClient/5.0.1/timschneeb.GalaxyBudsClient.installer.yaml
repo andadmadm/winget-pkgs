@@ -16,7 +16,7 @@ InstallationMetadata:
     FileType: uninstall
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/timschneeb/GalaxyBudsClient/releases/download/5.0.1/GalaxyBudsClient_Windows_64bit_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/timschneeb/GalaxyBudsClient/releases/download/5.0.1/GalaxyBudsClient_Windows_64bit_Setup.exe
   InstallerSha256: 318C797B1E06A002D35E8BEB78F4B0C929255BF7057E2AEEE798FAA1256EA787
 ManifestType: installer
 ManifestVersion: 1.6.0

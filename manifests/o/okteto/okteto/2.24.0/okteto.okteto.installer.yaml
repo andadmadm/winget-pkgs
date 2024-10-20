@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-01-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/okteto/okteto/releases/download/2.24.0/okteto.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/okteto/okteto/releases/download/2.24.0/okteto.exe
   InstallerSha256: E9E1A3B19CF81E3FB0C8E3C4F6E4786CE7AE9861AF167217813F4BCC5A0A24DC
 ManifestType: installer
 ManifestVersion: 1.5.0

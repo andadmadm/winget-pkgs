@@ -17,10 +17,10 @@ Commands:
 - git
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.35.2.windows.1/Git-2.35.2-32-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.35.2.windows.1/Git-2.35.2-32-bit.exe
   InstallerSha256: 4CAC3338D1B637C7574A8EE0214652BACFD030925EA0F2C6BEB97655348467C9
 - Architecture: x64
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.35.2.windows.1/Git-2.35.2-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.35.2.windows.1/Git-2.35.2-64-bit.exe
   InstallerSha256: 8D33512F097E79ADF7910D917653E630B3A4446B25FE258F6C3A21BDBDE410CA
 ManifestType: installer
 ManifestVersion: 1.1.0

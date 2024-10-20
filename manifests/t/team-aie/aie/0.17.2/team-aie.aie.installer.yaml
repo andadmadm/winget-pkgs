@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/team-aie/app/releases/download/v0.17.2/aie-setup-0.17.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-aie/app/releases/download/v0.17.2/aie-setup-0.17.2.exe
   InstallerSha256: F251BEBE6F841BD8A1CCACF6C59C83FC9C06C94195769A858A8D01F2D8B70B5B
 ManifestType: installer
 ManifestVersion: 1.5.0

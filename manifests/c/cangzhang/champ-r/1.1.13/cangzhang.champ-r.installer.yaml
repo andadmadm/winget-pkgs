@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cangzhang/champ-r/releases/download/v1.1.13/ChampR-Setup-1.1.13.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cangzhang/champ-r/releases/download/v1.1.13/ChampR-Setup-1.1.13.exe
   InstallerSha256: F0002821DE0271EA9ED875DE1C0D653B2C4FF9C3AE885B881C36F8B9B22AB99A
 ManifestType: installer
 ManifestVersion: 1.1.0

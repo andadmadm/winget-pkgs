@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-27
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/try-triplex/triplex/releases/download/v0.69.4/Triplex-Setup-0.69.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/try-triplex/triplex/releases/download/v0.69.4/Triplex-Setup-0.69.4.exe
   InstallerSha256: D3B66A36016865566C9E7BB8C8EBA458C0A1C0460505B7587E3A4530B9D7F4B1
 ManifestType: installer
 ManifestVersion: 1.5.0

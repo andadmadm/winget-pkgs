@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.40/anki-2.1.40-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.40/anki-2.1.40-windows.exe
   InstallerSha256: 5F24823235610F2A4A3555EADA8A90DFCD0496BDB6CCF570B76F7699852A0B1A
 ManifestType: installer
 ManifestVersion: 1.1.0

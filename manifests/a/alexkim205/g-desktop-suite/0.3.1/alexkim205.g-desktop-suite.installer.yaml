@@ -6,7 +6,7 @@ PackageIdentifier: alexkim205.g-desktop-suite
 PackageVersion: 0.3.1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alexkim205/G-Desktop-Suite/releases/download/v0.3.1/G-Desktop-Suite-0.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alexkim205/G-Desktop-Suite/releases/download/v0.3.1/G-Desktop-Suite-0.3.1.exe
   InstallerSha256: 985c4b73d0ae8b5f656750e58a39d1fde8e19842c194db30fa97309c5efbbcf8
 ManifestType: installer
 ManifestVersion: 1.5.0

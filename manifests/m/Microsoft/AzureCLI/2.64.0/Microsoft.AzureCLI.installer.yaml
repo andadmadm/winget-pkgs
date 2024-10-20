@@ -11,13 +11,13 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: python.exe
     PortableCommandAlias: az
-  InstallerUrl: https://github.com/Azure/azure-cli/releases/download/azure-cli-2.64.0/azure-cli-2.64.0-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-cli/releases/download/azure-cli-2.64.0/azure-cli-2.64.0-x64.zip
   InstallerSha256: E3D435DAB94F0E258CA15560D23DD45E9B592A024A4A39FEBE9BFBE0382887F9
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: wix
   Scope: machine
-  InstallerUrl: https://github.com/Azure/azure-cli/releases/download/azure-cli-2.64.0/azure-cli-2.64.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-cli/releases/download/azure-cli-2.64.0/azure-cli-2.64.0.msi
   InstallerSha256: 2B734B89E8997BD05492B9EDE321477A7231C752E7EE8145234E05DBD50CDDD9
   ProductCode: '{202FDFB9-8064-4728-A64D-DB5CBCA23D9D}'
   AppsAndFeaturesEntries:
@@ -31,7 +31,7 @@ Installers:
   Architecture: x64
   InstallerType: wix
   Scope: machine
-  InstallerUrl: https://github.com/Azure/azure-cli/releases/download/azure-cli-2.64.0/azure-cli-2.64.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-cli/releases/download/azure-cli-2.64.0/azure-cli-2.64.0-x64.msi
   InstallerSha256: B1F0AF2647FE47E9035E67116D720EEB1278DAD101CCA3B207EF52277538BA1C
   ProductCode: '{77BE3F9B-5CDA-4881-825F-91ABBAD690E4}'
   AppsAndFeaturesEntries:

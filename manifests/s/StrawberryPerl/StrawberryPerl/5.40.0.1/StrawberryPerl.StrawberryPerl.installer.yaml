@@ -27,7 +27,7 @@ InstallationMetadata:
   DefaultInstallLocation: .\Strawberry
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54001_64bit_UCRT/strawberry-perl-5.40.0.1-64bit.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54001_64bit_UCRT/strawberry-perl-5.40.0.1-64bit.msi
   InstallerSha256: 29F72C3403D316B5EC48204546A7AAD6B5567FF9A346CACD94AF81FE0FFDC83E
 ManifestType: installer
 ManifestVersion: 1.6.0

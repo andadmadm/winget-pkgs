@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hydrusnetwork/hydrus/releases/download/v483/Hydrus.Network.483.-.Windows.-.Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hydrusnetwork/hydrus/releases/download/v483/Hydrus.Network.483.-.Windows.-.Installer.exe
   InstallerSha256: 927AB094A85F5732A286383E57E13791B0AE80C7D90CCF3222B3BC76F4B5D9D3
   ProductCode: Hydrus Network_is1
 ManifestType: installer

@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x64.exe
   InstallerSha256: B6CAFB129B97A537508309A8E2E2F92CDFE1C70C359CE24AA66D3FE0B3F9694F
 ManifestType: installer
 ManifestVersion: 1.6.0

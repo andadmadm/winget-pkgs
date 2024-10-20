@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/WerWolv/ImHex/releases/download/v1.26.1/imhex-1.26.1-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WerWolv/ImHex/releases/download/v1.26.1/imhex-1.26.1-win64.msi
   InstallerSha256: A18B79C3EDAF4415B733EBD2527D17C0F051C5E6622B32DF83E21330314265F7
   ProductCode: '{9CDC6EB2-F39D-4FE2-8292-1ABE9711E605}'
 ManifestType: installer

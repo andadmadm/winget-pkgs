@@ -16,7 +16,7 @@ FileExtensions:
 ReleaseDate: 2022-07-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lukehaas/RunJS/releases/download/v2.5.1/RunJS-Setup-2.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lukehaas/RunJS/releases/download/v2.5.1/RunJS-Setup-2.5.1.exe
   InstallerSha256: 31C7126C935EB673A6BF5073DD7C7C2CF2E2EAFF47F8C229BEE5C351B11B4983
 ManifestType: installer
 ManifestVersion: 1.1.0

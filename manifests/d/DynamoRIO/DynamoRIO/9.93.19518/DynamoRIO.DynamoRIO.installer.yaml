@@ -4,7 +4,7 @@
 PackageIdentifier: DynamoRIO.DynamoRIO
 PackageVersion: 9.93.19518
 Installers:
-- InstallerUrl: https://github.com/DynamoRIO/dynamorio/releases/download/cronbuild-9.93.19518/DynamoRIO-Windows-9.93.19518.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/DynamoRIO/dynamorio/releases/download/cronbuild-9.93.19518/DynamoRIO-Windows-9.93.19518.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

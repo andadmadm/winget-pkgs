@@ -6,7 +6,7 @@ PackageVersion: 2.0.0.4
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/Falcosoft/vstdriver/releases/download/v2.0.0/vstmididrv.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Falcosoft/vstdriver/releases/download/v2.0.0/vstmididrv.exe
   InstallerSha256: 4aedb749886a7724d19871693a90e49b89b5bd9b11eb2a36ee9a97b041daf2d8
 ManifestType: installer
 ManifestVersion: 1.4.0

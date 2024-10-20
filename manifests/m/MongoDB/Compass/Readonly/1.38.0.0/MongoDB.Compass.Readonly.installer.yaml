@@ -11,7 +11,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mongodb-js/compass/releases/download/v1.38.0/mongodb-compass-readonly-1.38.0-win32-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mongodb-js/compass/releases/download/v1.38.0/mongodb-compass-readonly-1.38.0-win32-x64.msi
   InstallerSha256: 1B342ED5A45F708FBEE394A051AFDA230A94A3AE37DA1962F9861F8C628839A1
   ProductCode: '{48DE6126-231B-49AB-B0E2-3A398E006350}'
 ManifestType: installer

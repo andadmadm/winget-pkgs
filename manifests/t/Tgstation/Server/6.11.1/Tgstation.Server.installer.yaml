@@ -8,7 +8,7 @@ Installers:
   Architecture: x86
   InstallerType: burn
   Scope: machine
-  InstallerUrl: https://github.com/tgstation/tgstation-server/releases/download/tgstation-server-v6.11.1/tgstation-server-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tgstation/tgstation-server/releases/download/tgstation-server-v6.11.1/tgstation-server-installer.exe
   InstallerSha256: 269B916245588139382B82BF6A39CC0D4EB73BF99942AF44B564C8EDF2B2347E
   InstallModes:
   - interactive

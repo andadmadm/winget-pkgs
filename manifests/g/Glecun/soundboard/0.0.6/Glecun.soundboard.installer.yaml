@@ -6,7 +6,7 @@ PackageIdentifier: Glecun.soundboard
 PackageVersion: 0.0.6
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Glecun/soundboard/releases/download/v0.0.6/soundboard-Setup-0.0.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Glecun/soundboard/releases/download/v0.0.6/soundboard-Setup-0.0.6.exe
   InstallerSha256: ee2e81674fe6a1bb83cc63a9fbf0e8e5279329a67ad11a881afd3d39af123dbb
 ManifestType: installer
 ManifestVersion: 1.5.0

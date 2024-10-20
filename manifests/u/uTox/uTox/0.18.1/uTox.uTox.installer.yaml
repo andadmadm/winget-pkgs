@@ -7,7 +7,7 @@ InstallerType: portable
 ReleaseDate: 2021-01-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/uTox/uTox/releases/download/v0.18.1/utox_x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/uTox/uTox/releases/download/v0.18.1/utox_x86_64.exe
   InstallerSha256: D7BD224B2EF0014C679046C917BECFFACE5F5ABA2FBDB7DD3C17FE964C3CEE97
   Commands:
   - utox

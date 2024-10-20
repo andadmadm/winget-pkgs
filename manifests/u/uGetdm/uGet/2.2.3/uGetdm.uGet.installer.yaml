@@ -14,7 +14,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ugetdm/uget-windows-installer/releases/download/v2.2.3-1/uGet-2.2.3-1-win32.gtk3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ugetdm/uget-windows-installer/releases/download/v2.2.3-1/uGet-2.2.3-1-win32.gtk3.exe
   InstallerSha256: CBC8F2A902A35E838784C26DDE8ACFC9C2CF92A65E4A8A010AB8CF3E578FBAD5
   UpgradeBehavior: install
 ManifestType: installer

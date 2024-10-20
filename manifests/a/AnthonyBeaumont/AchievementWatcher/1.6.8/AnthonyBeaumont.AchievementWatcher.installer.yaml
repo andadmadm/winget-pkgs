@@ -6,7 +6,7 @@ PackageIdentifier: AnthonyBeaumont.AchievementWatcher
 PackageVersion: 1.6.8
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xan105/Achievement-Watcher/releases/download/1.6.8/Achievement.Watcher.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xan105/Achievement-Watcher/releases/download/1.6.8/Achievement.Watcher.Setup.exe
   InstallerSha256: E2A5D72E98BB5B4225D8925FD20E604330840473A7B6215A0A5F0B7363D0E1BF
 ManifestType: installer
 ManifestVersion: 1.5.0

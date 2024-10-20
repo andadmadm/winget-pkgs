@@ -13,25 +13,25 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
   InstallerSha256: 1B5321469F08C57B95FB7E94082D64FA4E6558F095E152DDBFCBC986BCD76F5F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
   InstallerSha256: 1B5321469F08C57B95FB7E94082D64FA4E6558F095E152DDBFCBC986BCD76F5F
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_x64_4.2.0.6119.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_x64_4.2.0.6119.exe
   InstallerSha256: D173A61EB339C513060D6A9DDB43F156A75C2140AB8C6F540FAA075D54DDB000
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_x64_4.2.0.6119.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_x64_4.2.0.6119.exe
   InstallerSha256: D173A61EB339C513060D6A9DDB43F156A75C2140AB8C6F540FAA075D54DDB000
   InstallerSwitches:
     Custom: /ALLUSERS

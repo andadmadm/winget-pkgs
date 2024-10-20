@@ -12,7 +12,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/craftablescience/VPKEdit/releases/download/v4.1.0/VPKEdit-Windows-Installer-msvc-Release.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/craftablescience/VPKEdit/releases/download/v4.1.0/VPKEdit-Windows-Installer-msvc-Release.zip
   InstallerSha256: 2F801AA3714003E14C133CF9693DBC1748AE25C68169204C99700B5CBE3A0D63
 ManifestType: installer
 ManifestVersion: 1.6.0

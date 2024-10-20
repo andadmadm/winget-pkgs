@@ -13,7 +13,7 @@ Installers:
         PortableCommandAlias: armaria-host
       - RelativeFilePath: armaria.exe
         PortableCommandAlias: armaria
-    InstallerUrl: https://github.com/JonathanHope/armaria/releases/download/v0.0.26/armaria_0.0.26_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/JonathanHope/armaria/releases/download/v0.0.26/armaria_0.0.26_windows_amd64.zip
     InstallerSha256: 99a651f5abb7852f5032500f9d2e74b1c6b6aaae422e4cf6d4e365ea2f8aef18
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

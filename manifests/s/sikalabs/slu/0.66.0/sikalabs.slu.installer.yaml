@@ -6,7 +6,7 @@ PackageVersion: 0.66.0
 InstallerType: portable
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sikalabs/slu/releases/download/v0.66.0/slu.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sikalabs/slu/releases/download/v0.66.0/slu.exe
   InstallerSha256: 8157495DA21D339196FEA050D6ABBD593E4E197F5CC01DF41C785F2F8543C3B2
 ManifestType: installer
 ManifestVersion: 1.4.0

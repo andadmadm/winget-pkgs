@@ -11,10 +11,10 @@ NestedInstallerFiles:
 ReleaseDate: 2020-11-10
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.3.2/CloudflareST_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.3.2/CloudflareST_windows_386.zip
   InstallerSha256: F352B65119D689499518F2EA09612072F9295D60B4962BD4E1C121F305685709
 - Architecture: x64
-  InstallerUrl: https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.3.2/CloudflareST_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.3.2/CloudflareST_windows_amd64.zip
   InstallerSha256: 4A4CD369D7BEA21368E2A902E2DC98A0DCEFEDF0D26E0E471243659824016309
 ManifestType: installer
 ManifestVersion: 1.4.0

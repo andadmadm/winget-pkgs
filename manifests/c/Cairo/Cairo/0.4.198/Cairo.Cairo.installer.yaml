@@ -10,11 +10,11 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-06
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cairoshell/cairoshell/releases/download/v0.4.198/CairoSetup_32bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cairoshell/cairoshell/releases/download/v0.4.198/CairoSetup_32bit.exe
   InstallerSha256: 5C94D00AB94632DFFCD6F6187264FF224CE7DB99D18F0BCC8EBBD35EF24D1E03
   ProductCode: CairoShell
 - Architecture: x64
-  InstallerUrl: https://github.com/cairoshell/cairoshell/releases/download/v0.4.198/CairoSetup_64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cairoshell/cairoshell/releases/download/v0.4.198/CairoSetup_64bit.exe
   InstallerSha256: 5D825925E9ED15E56E9D060A97A41E604D16544CEFF18648C5AB9EC18F590543
   ProductCode: CairoShell
 ManifestType: installer

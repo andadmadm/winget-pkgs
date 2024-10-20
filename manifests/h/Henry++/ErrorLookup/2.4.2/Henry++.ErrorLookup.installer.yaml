@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-11-10
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/henrypp/errorlookup/releases/download/v.2.4.2/errorlookup-2.4.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/errorlookup/releases/download/v.2.4.2/errorlookup-2.4.2-setup.exe
   InstallerSha256: 45422E53C4C1FA8C3CC0F353F75D90ECF466A7B36BB306CB5955F7AFF2E4D727
 ManifestType: installer
 ManifestVersion: 1.4.0

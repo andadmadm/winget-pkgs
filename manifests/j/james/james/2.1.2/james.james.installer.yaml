@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2019-02-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/james-proxy/james/releases/download/v2.1.2/james-setup-2.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/james-proxy/james/releases/download/v2.1.2/james-setup-2.1.2.exe
   InstallerSha256: D8B38CA4668A662E220E515587BC546E4474898E4DF3D96817533C98579ED5BF
 ManifestType: installer
 ManifestVersion: 1.4.0

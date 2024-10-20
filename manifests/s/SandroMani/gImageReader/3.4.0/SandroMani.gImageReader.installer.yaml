@@ -10,14 +10,14 @@ ReleaseDate: 2022-01-28
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/manisandro/gImageReader/releases/download/v3.4.0/gImageReader_3.4.0_qt5_x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/manisandro/gImageReader/releases/download/v3.4.0/gImageReader_3.4.0_qt5_x86_64.exe
   InstallerSha256: E6432B4112A9340BDE9ECC94FE44B0C12920350D6F1B1D5205F44249C7C21343
   InstallerSwitches:
     Custom: /CurrentUser
   ProductCode: gImageReader
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/manisandro/gImageReader/releases/download/v3.4.0/gImageReader_3.4.0_qt5_x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/manisandro/gImageReader/releases/download/v3.4.0/gImageReader_3.4.0_qt5_x86_64.exe
   InstallerSha256: E6432B4112A9340BDE9ECC94FE44B0C12920350D6F1B1D5205F44249C7C21343
   InstallerSwitches:
     Custom: /AllUsers

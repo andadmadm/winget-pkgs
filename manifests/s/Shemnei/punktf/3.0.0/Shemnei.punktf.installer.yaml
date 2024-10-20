@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2022-12-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Shemnei/punktf/releases/download/v3.0.0/punktf-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Shemnei/punktf/releases/download/v3.0.0/punktf-x86_64-pc-windows-msvc.zip
   InstallerSha256: 31F4BFBDFD8DD7098CEC2EBD4C8A0F13A6AE21E97CE5F0AECE93919DC99C7E56
   Dependencies:
     PackageDependencies:

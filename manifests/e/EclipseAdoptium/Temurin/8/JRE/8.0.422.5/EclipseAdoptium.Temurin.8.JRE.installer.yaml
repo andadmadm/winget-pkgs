@@ -34,14 +34,14 @@ FileExtensions:
 ReleaseDate: 2024-07-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u422-b05/OpenJDK8U-jre_x86-32_windows_hotspot_8u422b05.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u422-b05/OpenJDK8U-jre_x86-32_windows_hotspot_8u422b05.msi
   InstallerSha256: 666BF4DCD865B5F756F714F996661C91FD1CB521B0F8B3DC86B117425C3E65D0
   ProductCode: '{D06F40F2-7733-488F-8C78-0DF6831CFD84}'
   AppsAndFeaturesEntries:
   - ProductCode: '{D06F40F2-7733-488F-8C78-0DF6831CFD84}'
     UpgradeCode: '{45B9357D-10B8-96DB-0C1A-5686F1589C82}'
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u422-b05/OpenJDK8U-jre_x64_windows_hotspot_8u422b05.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u422-b05/OpenJDK8U-jre_x64_windows_hotspot_8u422b05.msi
   InstallerSha256: 6A53B2E2E0EEE6B238D79999E4DE2FAC70EFC03922D48EA6D1007F50E7C11307
   ProductCode: '{B4E50E4C-D8EA-4BC0-A2AC-730A2AF1AF2F}'
   AppsAndFeaturesEntries:

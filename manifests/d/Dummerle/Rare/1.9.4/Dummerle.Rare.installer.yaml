@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Dummerle/Rare/releases/download/1.9.4/Rare-Windows-1.9.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Dummerle/Rare/releases/download/1.9.4/Rare-Windows-1.9.4.msi
   InstallerSha256: AE3A2E8E8499F961C9785F15A0CB0B8A6CD07E59546EFA5CA10A8EB4EC45CDEE
   ProductCode: '{8E78EB2C-1666-4BA1-85F1-8906482DDFBE}'
 ManifestType: installer

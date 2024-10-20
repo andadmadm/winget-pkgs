@@ -14,7 +14,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Automattic/wp-desktop/releases/download/v7.0.6/wordpress.com-win32-setup-7.0.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Automattic/wp-desktop/releases/download/v7.0.6/wordpress.com-win32-setup-7.0.6.exe
   InstallerSha256: 4F3F7929C1A240B037DC2A14FD03DA7DEAAB0557E850ECB7968058E5EAF13981
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -23,7 +23,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Automattic/wp-desktop/releases/download/v7.0.6/wordpress.com-win32-setup-7.0.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Automattic/wp-desktop/releases/download/v7.0.6/wordpress.com-win32-setup-7.0.6.exe
   InstallerSha256: 4F3F7929C1A240B037DC2A14FD03DA7DEAAB0557E850ECB7968058E5EAF13981
   InstallerSwitches:
     Custom: /ALLUSERS

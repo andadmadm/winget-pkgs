@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/purocean/yn/releases/download/v3.75.4/Yank-Note-win-x64-3.75.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/purocean/yn/releases/download/v3.75.4/Yank-Note-win-x64-3.75.4.exe
   InstallerSha256: 52F1AECD8766F3E0FB3166B29D16F450D60E25F0430FD7268D102A256F61B1C9
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -18,7 +18,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\WindowsApps\Seelen.SeelenUI_1.10.4.0_x64__p6yyn03m1894e'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/eythaann/Seelen-UI/releases/download/v1.10.4/Seelen.SeelenUI_1.10.4.0_x64__p6yyn03m1894e.Msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/eythaann/Seelen-UI/releases/download/v1.10.4/Seelen.SeelenUI_1.10.4.0_x64__p6yyn03m1894e.Msix
   InstallerSha256: DB008D2D32DBD1C5A327BAD48CE2946113858B490F4D5069802CC8BDD256CB32
   SignatureSha256: 40A71BABEA5681570F7C875C10B1E009B69DF72D60C64E2C69FD19063CF4CCDB
 ManifestType: installer

@@ -24,7 +24,7 @@ FileExtensions:
 - tex
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/TeXworks/texworks/releases/download/release-0.6.9/TeXworks-win10-setup-0.6.9-202402120657-git_68a2e99.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TeXworks/texworks/releases/download/release-0.6.9/TeXworks-win10-setup-0.6.9-202402120657-git_68a2e99.exe
   InstallerSha256: F6E267E1F90AFA901569332039670D4A1ED14DFA3CBD6EE7042256A1DF729F81
 ManifestType: installer
 ManifestVersion: 1.6.0

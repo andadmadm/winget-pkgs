@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: SyncMLViewer
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/okieselbach/SyncMLViewer/raw/master/SyncMLViewer/dist/SyncMLViewer-v131.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/okieselbach/SyncMLViewer/raw/master/SyncMLViewer/dist/SyncMLViewer-v131.zip
   InstallerSha256: 9B1A701D93F0F922FAD55099112C1341641A5D1A8A8D04CB0812185F364E47D3
 ManifestType: installer
 ManifestVersion: 1.6.0

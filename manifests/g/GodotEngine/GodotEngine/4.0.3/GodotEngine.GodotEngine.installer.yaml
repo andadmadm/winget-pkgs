@@ -4,7 +4,7 @@
 PackageIdentifier: GodotEngine.GodotEngine
 PackageVersion: 4.0.3
 Installers:
-- InstallerUrl: https://github.com/godotengine/godot/releases/download/4.0.3-stable/Godot_v4.0.3-stable_win64.exe.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.0.3-stable/Godot_v4.0.3-stable_win64.exe.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -14,7 +14,7 @@ Installers:
   - RelativeFilePath: Godot_v4.0.3-stable_win64_console.exe
     PortableCommandAlias: godot_console
   InstallerSha256: 19F2DC27ABC0AD28380003A0675FE2B35977F13A7FAFD819E558F167644D4200
-- InstallerUrl: https://github.com/godotengine/godot/releases/download/4.0.3-stable/Godot_v4.0.3-stable_win32.exe.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/godotengine/godot/releases/download/4.0.3-stable/Godot_v4.0.3-stable_win32.exe.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

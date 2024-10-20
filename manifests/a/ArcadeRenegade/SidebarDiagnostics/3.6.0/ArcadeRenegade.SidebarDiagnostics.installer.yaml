@@ -18,7 +18,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/download/v3.6.0/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/download/v3.6.0/Setup.exe
   InstallerSha256: ACB5DDD1040902B09263B2FF93CD847A24D4DA9D31A7C58D10694C0FEC69CAB4
 ManifestType: installer
 ManifestVersion: 1.1.0

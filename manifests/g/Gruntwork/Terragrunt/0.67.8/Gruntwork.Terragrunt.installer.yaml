@@ -12,10 +12,10 @@ Commands:
 - terragrunt
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.8/terragrunt_windows_386.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.8/terragrunt_windows_386.exe
   InstallerSha256: 291A2EC5A1DBCF5AFA4743C2775B5B5C082D473AB77D2F018F881712E0C6292D
 - Architecture: x64
-  InstallerUrl: https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.8/terragrunt_windows_amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gruntwork-io/terragrunt/releases/download/v0.67.8/terragrunt_windows_amd64.exe
   InstallerSha256: 3B1C3F24E07CC1CDF9793655C5BBC595B025DFC7DDAE83516001EDDE4DE76A4A
 ManifestType: installer
 ManifestVersion: 1.6.0

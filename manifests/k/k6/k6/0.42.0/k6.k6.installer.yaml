@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-12-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/grafana/k6/releases/download/v0.42.0/k6-v0.42.0-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/grafana/k6/releases/download/v0.42.0/k6-v0.42.0-windows-amd64.msi
   InstallerSha256: 6B02F6FA9CE22FDE5037922F59DF25F2CB8F714CB15BF35AE9AD6D53E7ECEE81
   ProductCode: '{8E39FB29-54EE-4290-ACE5-18FEE1AD0533}'
 ManifestType: installer

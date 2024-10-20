@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{8C5F9495-F697-4780-ABFD-90DCC2F681B6}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/grafana/k6/releases/download/v0.52.0/k6-v0.52.0-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/grafana/k6/releases/download/v0.52.0/k6-v0.52.0-windows-amd64.msi
   InstallerSha256: F1AC5F8D615CDAEAD66FF8EABD7DB20B35DC1E6F2D9C41DB29E16B0D2B022C33
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -5,7 +5,7 @@ PackageIdentifier: VRCX.VRCX
 PackageVersion: 2023.09.18
 InstallerType: nullsoft
 Installers:
-- InstallerUrl: https://github.com/vrcx-team/VRCX/releases/download/v2023.09.18/VRCX_20230918_Setup.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/vrcx-team/VRCX/releases/download/v2023.09.18/VRCX_20230918_Setup.exe
   Architecture: x64
   InstallerSha256: 9FD65809CE36884A214981086A588CB54CA16E2D8825C425F4F8951D4A4A3608
 ManifestType: installer

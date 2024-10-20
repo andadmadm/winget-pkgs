@@ -13,13 +13,13 @@ ReleaseDate: 2023-09-03
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.37/SideQuest-Setup-0.10.37-x64-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.37/SideQuest-Setup-0.10.37-x64-win.exe
   InstallerSha256: 6C23A618C7FF06044AC3A650452BF5923834A3D59705EF67C8B82C7834D77FD9
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.37/SideQuest-Setup-0.10.37-x64-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.37/SideQuest-Setup-0.10.37-x64-win.exe
   InstallerSha256: 6C23A618C7FF06044AC3A650452BF5923834A3D59705EF67C8B82C7834D77FD9
   InstallerSwitches:
     Custom: /ALLUSERS

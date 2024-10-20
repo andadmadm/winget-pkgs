@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/Chia-Network/chia-blockchain/releases/download/1.2.4/ChiaSetup-1.2.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chia-Network/chia-blockchain/releases/download/1.2.4/ChiaSetup-1.2.4.exe
   InstallerSha256: 6421A31DBC54ACAD7F02C4EA7733C7CC8987789DADA96B0B1CFB622F1CA21AED
   InstallerSwitches:
     Silent: --silent

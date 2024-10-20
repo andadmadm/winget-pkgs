@@ -12,7 +12,7 @@ FileExtensions:
 - wmv
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/moshfeu/y2mp3/releases/download/v2.5.2/y2mp3.Setup.2.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moshfeu/y2mp3/releases/download/v2.5.2/y2mp3.Setup.2.5.2.exe
   InstallerSha256: BCF1662F50B7BECE4D641DB435FE909DF8818463C917C139A3F3EF5086D2765B
 ManifestType: installer
 ManifestVersion: 1.1.0

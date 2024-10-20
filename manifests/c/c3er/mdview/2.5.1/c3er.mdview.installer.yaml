@@ -15,13 +15,13 @@ ReleaseDate: 2022-10-30
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v2.5.1/mdview-2.5.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v2.5.1/mdview-2.5.1-x64.exe
   InstallerSha256: 89786053A6ADBFC8344C58DA7E59813C933F0A8C3380980731A9C5D0DC923C1C
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v2.5.1/mdview-2.5.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v2.5.1/mdview-2.5.1-x64.exe
   InstallerSha256: 89786053A6ADBFC8344C58DA7E59813C933F0A8C3380980731A9C5D0DC923C1C
   InstallerSwitches:
     Custom: /ALLUSERS

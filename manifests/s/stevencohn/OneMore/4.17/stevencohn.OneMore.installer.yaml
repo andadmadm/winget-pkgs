@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stevencohn/OneMore/releases/download/4.17/OneMore_4.17_Setupx64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/stevencohn/OneMore/releases/download/4.17/OneMore_4.17_Setupx64.msi
   InstallerSha256: 75FA281717E1364FED2FCF8F9A05F394F43EA66E8DE938FD063A7D8534211B63
   ProductCode: '{F91F9B9E-5984-4374-8CA2-C3560320D3D5}'
 ManifestType: installer

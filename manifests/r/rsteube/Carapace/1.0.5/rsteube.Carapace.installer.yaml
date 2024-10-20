@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-08-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/carapace-sh/carapace-bin/releases/download/v1.0.5/carapace-bin_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/carapace-sh/carapace-bin/releases/download/v1.0.5/carapace-bin_windows_amd64.zip
   InstallerSha256: 8539D2F3B2040AC14D4A64F480EFF0216F858A095DCCDA6D705AF2E155EB58E3
 ManifestType: installer
 ManifestVersion: 1.5.0

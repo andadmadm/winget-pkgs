@@ -4,7 +4,7 @@
 PackageIdentifier: mtkennerly.shawl
 PackageVersion: 1.2.0
 Installers:
-- InstallerUrl: https://github.com/mtkennerly/shawl/releases/download/v1.2.0/shawl-v1.2.0-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/mtkennerly/shawl/releases/download/v1.2.0/shawl-v1.2.0-win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: shawl.exe
     PortableCommandAlias: shawl
   InstallerSha256: 5430DAD053F96C5EA3A4D77778B29235D15329CB990090D2D706F813B72A429C
-- InstallerUrl: https://github.com/mtkennerly/shawl/releases/download/v1.2.0/shawl-v1.2.0-win32.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/mtkennerly/shawl/releases/download/v1.2.0/shawl-v1.2.0-win32.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

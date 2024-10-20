@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{9CADF326-9034-4FB6-9501-9508778B22CD}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pulumi/pulumi-winget/releases/download/v3.97.0/pulumi-3.97.0-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pulumi/pulumi-winget/releases/download/v3.97.0/pulumi-3.97.0-windows-x64.msi
   InstallerSha256: D8FCDB278DF030D2B90EB11F96C0DAB6B44011E28BE299059F7BC92176FD0BC0
 ManifestType: installer
 ManifestVersion: 1.5.0

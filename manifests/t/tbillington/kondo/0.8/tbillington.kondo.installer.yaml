@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: kondo.exe
     PortableCommandAlias: kondo
-  InstallerUrl: https://github.com/tbillington/kondo/releases/download/v0.8/kondo-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/tbillington/kondo/releases/download/v0.8/kondo-x86_64-pc-windows-msvc.zip
   InstallerSha256: 36FB33D71CE6896BFBC0A5F26809AD1BE986EFE9C5C887BA9D3955D8CDEE7895
   Dependencies:
     PackageDependencies:
@@ -26,7 +26,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: kondo.exe
     PortableCommandAlias: kondo
-  InstallerUrl: https://github.com/tbillington/kondo/releases/download/v0.8/kondo-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/tbillington/kondo/releases/download/v0.8/kondo-x86_64-pc-windows-msvc.zip
   InstallerSha256: 36FB33D71CE6896BFBC0A5F26809AD1BE986EFE9C5C887BA9D3955D8CDEE7895
   Dependencies:
     PackageDependencies:

@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 - DisplayName: Dolt 1.41.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v1.42.9/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v1.42.9/dolt-windows-amd64.msi
   InstallerSha256: 8FF1BD8F08D9866519CCF736389B487C469784808DD6EF2689A9945EC939B1A4
 ManifestType: installer
 ManifestVersion: 1.6.0

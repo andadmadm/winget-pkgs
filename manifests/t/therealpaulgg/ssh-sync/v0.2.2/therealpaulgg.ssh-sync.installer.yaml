@@ -6,7 +6,7 @@ PackageVersion: v0.2.2
 Installers:
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/therealpaulgg/ssh-sync/releases/download/v0.2.2/ssh-sync-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/therealpaulgg/ssh-sync/releases/download/v0.2.2/ssh-sync-setup.exe
   InstallerSha256: B39ECDCAB13356FD99A87CAA2FE66A85E3DFB52A01C7EB7822E1B5EBD9EE84F7
 ManifestType: installer
 ManifestVersion: 1.4.0

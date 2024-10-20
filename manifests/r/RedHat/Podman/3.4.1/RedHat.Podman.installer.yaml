@@ -12,7 +12,7 @@ Commands:
 - podman
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/containers/podman/releases/download/v3.4.1/podman-v3.4.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v3.4.1/podman-v3.4.1.msi
   InstallerSha256: 021338C1A383CDD0D3C95304A38FBDC161D227A7D42BF88592CE501043F5DB33
 ManifestType: installer
 ManifestVersion: 1.0.0

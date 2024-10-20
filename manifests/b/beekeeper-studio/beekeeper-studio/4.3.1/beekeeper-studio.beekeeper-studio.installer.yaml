@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-04-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.1/Beekeeper-Studio-Setup-4.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.1/Beekeeper-Studio-Setup-4.3.1.exe
   InstallerSha256: 99F17777272C781DBFEB51939DC03D517376C230F4CF159512E7F65A02C0B29F
 ManifestType: installer
 ManifestVersion: 1.6.0

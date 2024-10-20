@@ -11,14 +11,14 @@ ReleaseDate: 2024-10-06
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/gitify-app/gitify/releases/download/v5.15.0/Gitify-Setup-5.15.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gitify-app/gitify/releases/download/v5.15.0/Gitify-Setup-5.15.0.exe
   InstallerSha256: 8D15413CFC281B7D2AB0D32311C20BB5D25D7FB9A0949749CEA6387A7DA86B09
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: ee7f0aba-2805-5f0b-bb30-6f309c385c39
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/gitify-app/gitify/releases/download/v5.15.0/Gitify-Setup-5.15.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gitify-app/gitify/releases/download/v5.15.0/Gitify-Setup-5.15.0.exe
   InstallerSha256: 8D15413CFC281B7D2AB0D32311C20BB5D25D7FB9A0949749CEA6387A7DA86B09
   InstallerSwitches:
     Custom: /allusers

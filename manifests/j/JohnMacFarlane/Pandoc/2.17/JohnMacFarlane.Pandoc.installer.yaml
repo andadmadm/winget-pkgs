@@ -14,14 +14,14 @@ UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.17/pandoc-2.17-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.17/pandoc-2.17-windows-x86_64.msi
   InstallerSha256: 0BB34D234EB405EBBC6D35FD3F0AE25A21D7E30B5266E16AFA99339E5CD70646
   InstallerSwitches:
     Custom: ALLUSERS=2
   ProductCode: '{C1E081BB-D786-4F3F-8311-51A3CCAE2137}'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.17/pandoc-2.17-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.17/pandoc-2.17-windows-x86_64.msi
   InstallerSha256: 0BB34D234EB405EBBC6D35FD3F0AE25A21D7E30B5266E16AFA99339E5CD70646
   InstallerSwitches:
     Custom: ALLUSERS=1

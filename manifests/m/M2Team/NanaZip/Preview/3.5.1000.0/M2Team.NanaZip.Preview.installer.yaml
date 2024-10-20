@@ -69,11 +69,11 @@ PackageFamilyName: 40174MouriNaruto.NanaZipPreview_gnj4mf6z9tkrc
 ReleaseDate: 2024-05-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/3.5.1000.0/NanaZipPreview_3.5.1000.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/3.5.1000.0/NanaZipPreview_3.5.1000.0.msixbundle
   InstallerSha256: 25017FA94120828FE3137ACACB546C558B64D570C70A407EC7DBF3CC5C2B9344
   SignatureSha256: D250F0C195555A5F1817E9B0079ADBC9CAE8AB1D904A2A9AFB3629394967108A
 - Architecture: arm64
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/3.5.1000.0/NanaZipPreview_3.5.1000.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/3.5.1000.0/NanaZipPreview_3.5.1000.0.msixbundle
   InstallerSha256: 25017FA94120828FE3137ACACB546C558B64D570C70A407EC7DBF3CC5C2B9344
   SignatureSha256: D250F0C195555A5F1817E9B0079ADBC9CAE8AB1D904A2A9AFB3629394967108A
 ManifestType: installer

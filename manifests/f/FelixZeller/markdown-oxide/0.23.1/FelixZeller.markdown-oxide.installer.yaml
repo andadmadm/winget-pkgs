@@ -10,7 +10,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: markdown-oxide-v0.23.1-x86_64-pc-windows-gnu/markdown-oxide.exe
         PortableCommandAlias: markdown-oxide
-    InstallerUrl: https://github.com/Feel-ix-343/markdown-oxide/releases/download/v0.23.1/markdown-oxide-v0.23.1-x86_64-pc-windows-gnu.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Feel-ix-343/markdown-oxide/releases/download/v0.23.1/markdown-oxide-v0.23.1-x86_64-pc-windows-gnu.zip
     InstallerSha256: C8227FA026D0DB422A67F480FFDCE82779191A7D2645EC0D1F292C0F0BAC72A2
 UpgradeBehavior: install
 Commands:

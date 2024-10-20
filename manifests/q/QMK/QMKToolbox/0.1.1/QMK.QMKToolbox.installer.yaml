@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/qmk/qmk_toolbox/releases/download/0.1.1/qmk_toolbox_install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qmk/qmk_toolbox/releases/download/0.1.1/qmk_toolbox_install.exe
   InstallerSha256: F88814A0D1523CB1750DF55694032984EF568973B05C27DAB82922D4343FF4A1
   UpgradeBehavior: install
 ManifestType: installer

@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mu-editor/mu/releases/download/v1.1.1/MuEditor-win64-1.1.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mu-editor/mu/releases/download/v1.1.1/MuEditor-win64-1.1.1.msi
   InstallerSha256: 6AED2E8731700BB0234E2E03000AA8EE83FA22216D48F1C819313F1D4AA87239
   ProductCode: '{26DE66F1-56F5-4E74-82DA-EB64FE964A30}'
 ManifestType: installer

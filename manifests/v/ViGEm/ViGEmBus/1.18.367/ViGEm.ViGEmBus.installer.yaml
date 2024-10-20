@@ -18,11 +18,11 @@ ReleaseDate: 2022-06-25
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ViGEm/ViGEmBus/releases/download/v1.18.367.0/ViGEmBus_1.18.367_x64_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ViGEm/ViGEmBus/releases/download/v1.18.367.0/ViGEmBus_1.18.367_x64_x86.exe
   InstallerSha256: D8408DCE8E892BE66658694FEF2A724CA6AFE3A2D0EF0B274F2F8B4443D02EE4
   ProductCode: '{28A084F8-FBA9-4097-9CA6-3A9C70C6585B}'
 - Architecture: x64
-  InstallerUrl: https://github.com/ViGEm/ViGEmBus/releases/download/v1.18.367.0/ViGEmBus_1.18.367_x64_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ViGEm/ViGEmBus/releases/download/v1.18.367.0/ViGEmBus_1.18.367_x64_x86.exe
   InstallerSha256: D8408DCE8E892BE66658694FEF2A724CA6AFE3A2D0EF0B274F2F8B4443D02EE4
   ProductCode: '{28A084F8-FBA9-4097-9CA6-3A9C70C6585B}'
 ManifestType: installer

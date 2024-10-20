@@ -11,7 +11,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2.8.12/jitsi-meet.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jitsi/jitsi-meet-electron/releases/download/v2.8.12/jitsi-meet.exe
   InstallerSha256: DBB535A023C2BEE7D5F52AB19D9BC48BA19B043EEBAF2A5927A5C8CB6B78B70A
   UpgradeBehavior: install
 ManifestType: installer

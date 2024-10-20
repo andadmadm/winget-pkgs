@@ -26,13 +26,13 @@ ReleaseDate: 2024-02-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/7.0.11/kicad-7.0.11-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/7.0.11/kicad-7.0.11-x86_64.exe
   InstallerSha256: 540EEA56609190A0404D92D7D09C6DC41667176718581A2B85D120040DA518CE
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/7.0.11/kicad-7.0.11-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/7.0.11/kicad-7.0.11-x86_64.exe
   InstallerSha256: 540EEA56609190A0404D92D7D09C6DC41667176718581A2B85D120040DA518CE
   InstallerSwitches:
     Custom: /allusers

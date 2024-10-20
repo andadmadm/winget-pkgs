@@ -7,7 +7,7 @@ InstallerType: exe
 ReleaseDate: 2020-07-03
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/wandersick/chmac/releases/download/v2.0/ChMac-2.0.0.5_Silent_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/wandersick/chmac/releases/download/v2.0/ChMac-2.0.0.5_Silent_Installer.exe
   InstallerSha256: B7A08A7390A8CDB60AF0B7AB3DCA768CF40741CE40689F788ED9E714D42A6D1E
 ManifestType: installer
 ManifestVersion: 1.5.0

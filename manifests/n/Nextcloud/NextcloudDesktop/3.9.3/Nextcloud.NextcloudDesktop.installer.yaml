@@ -23,7 +23,7 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/nextcloud-releases/desktop/releases/download/v3.9.3/Nextcloud-3.9.3-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nextcloud-releases/desktop/releases/download/v3.9.3/Nextcloud-3.9.3-x64.msi
   InstallerSha256: 06D730DB210F3652C6640738A8A425D99A418279478E655E3BDB1F23DE27DB66
   ProductCode: '{82109DFA-B604-4790-AC5E-EB0C80398306}'
 ManifestType: installer

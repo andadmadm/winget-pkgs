@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2024-01-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lycheeverse/lychee/releases/download/v0.14.1/lychee-v0.14.1-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lycheeverse/lychee/releases/download/v0.14.1/lychee-v0.14.1-windows-x86_64.exe
   InstallerSha256: 2B24A21F0A8F229B5BA57F91617E996C0427EC037AE40B29ABC5EFFD70E8AB48
   Dependencies:
     PackageDependencies:

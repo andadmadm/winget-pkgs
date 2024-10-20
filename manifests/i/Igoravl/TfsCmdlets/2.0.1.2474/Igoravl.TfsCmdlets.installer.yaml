@@ -17,7 +17,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/igoravl/TfsCmdlets/releases/download/v2.0.1%2B2474.3/TfsCmdlets-2.0.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/igoravl/TfsCmdlets/releases/download/v2.0.1%2B2474.3/TfsCmdlets-2.0.1.msi
   InstallerSha256: 50EB556631C029514DF3838E58256C742C5B513EEAEB87DE44E4B85E2FB0349A
   ProductCode: '{72643634-0E33-4121-87F4-3CFD86B90884}'
 ManifestType: installer

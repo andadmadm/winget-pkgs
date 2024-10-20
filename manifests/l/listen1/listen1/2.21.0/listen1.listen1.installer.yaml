@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/listen1/listen1_desktop/releases/download/v2.21.0/listen1_2.21.0_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/listen1/listen1_desktop/releases/download/v2.21.0/listen1_2.21.0_win.exe
   InstallerSha256: 014AA1E77A67AAEDC1A19BD26ECEEC942E21A34F76D81B6F89BE4E6F5CA01C2A
 ManifestType: installer
 ManifestVersion: 1.1.0

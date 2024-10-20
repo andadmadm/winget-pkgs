@@ -11,7 +11,7 @@ Scope: user
 ReleaseDate: 2022-09-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pdfarranger/pdfarranger/releases/download/1.9.0/pdfarranger-1.9.0-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pdfarranger/pdfarranger/releases/download/1.9.0/pdfarranger-1.9.0-windows-installer.msi
   InstallerSha256: 92D9E78D0A76C0092E640D16F053A9BEC1997179149427F250BC22312D68C2B0
   ProductCode: '{48B9986F-9A71-413C-B116-D39EAD1EE1F4}'
 ManifestType: installer

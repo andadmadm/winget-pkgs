@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
 Installers:
   - Architecture: x64
     InstallerType: msi
-    InstallerUrl: https://github.com/prefix-dev/pixi/releases/download/v0.9.1/pixi-x86_64-pc-windows-msvc.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/prefix-dev/pixi/releases/download/v0.9.1/pixi-x86_64-pc-windows-msvc.msi
     InstallerSha256: 3637F85E51B31A082F8C0A79DAB500752C48D68BEDBAAEA062B13146A9ED04F3
 ManifestType: installer
 ManifestVersion: 1.4.0

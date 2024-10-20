@@ -13,7 +13,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/umezawatakeshi/utvideo/releases/download/utvideo-22.4.0/utvideo-22.4.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/umezawatakeshi/utvideo/releases/download/utvideo-22.4.0/utvideo-22.4.0-win.exe
   InstallerSha256: 79A48DCE08EF4848026423047E38ADFD5EEF0DCE503FF15E1A4395A85A709D76
   UpgradeBehavior: install
 ManifestType: installer

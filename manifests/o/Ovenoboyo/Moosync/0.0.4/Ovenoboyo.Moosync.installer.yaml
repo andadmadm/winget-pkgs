@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Moosync/Moosync/releases/download/v0.0.4/Moosync-Setup-0.0.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Moosync/Moosync/releases/download/v0.0.4/Moosync-Setup-0.0.4.exe
   InstallerSha256: A7D47AC92626FBE0C2B29AF5F4C91717B025284FBA02CEF32EBBD8092FE2ACC1
 ManifestType: installer
 ManifestVersion: 1.2.0

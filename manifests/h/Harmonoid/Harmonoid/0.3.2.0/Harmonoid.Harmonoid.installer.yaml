@@ -16,7 +16,7 @@ Dependencies:
 ReleaseDate: 2022-09-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alexmercerind2/harmonoid-releases/releases/download/v0.3.2/harmonoid-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alexmercerind2/harmonoid-releases/releases/download/v0.3.2/harmonoid-windows-setup.exe
   InstallerSha256: E2F788A4404BABD652C23857F4D4C4451CFDAA2F19A76502AF0B6E3B343461AE
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2023-06-11
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/asciinema/agg/releases/download/v1.4.2/agg-x86_64-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/asciinema/agg/releases/download/v1.4.2/agg-x86_64-pc-windows-msvc.exe
   InstallerSha256: 62C16F8EFED37AABC472BE7DCE2A1BB7767B1B7B0AF017FE12E869CAEE1D0D4C
 ManifestType: installer
 ManifestVersion: 1.4.0

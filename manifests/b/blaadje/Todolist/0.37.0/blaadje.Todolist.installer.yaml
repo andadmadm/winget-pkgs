@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-07-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Todolist-io/Todolist-releases/releases/download/v0.37.0/Todolist-Setup-0.37.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Todolist-io/Todolist-releases/releases/download/v0.37.0/Todolist-Setup-0.37.0.exe
   InstallerSha256: 53AC6C11BA109505899C7D091972B450B83278322B71194EB94E9E689952790A
 ManifestType: installer
 ManifestVersion: 1.1.0

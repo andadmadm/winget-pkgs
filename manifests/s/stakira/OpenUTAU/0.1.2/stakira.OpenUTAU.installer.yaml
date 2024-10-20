@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-11-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oxygen-dioxide/openutau-installer/releases/download/0.1.2/OpenUTAU-Setup-x64-0.1.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/oxygen-dioxide/openutau-installer/releases/download/0.1.2/OpenUTAU-Setup-x64-0.1.2.exe
   InstallerSha256: C9331CA3C58649B4459F75A4256737788282E71481BA542557B99458CD4A5235
 ManifestType: installer
 ManifestVersion: 1.4.0

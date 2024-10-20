@@ -21,7 +21,7 @@ Dependencies:
 ReleaseDate: 2024-01-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RandomEngy/VidCoder/releases/download/v10.1-beta/VidCoder-10.1-Beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RandomEngy/VidCoder/releases/download/v10.1-beta/VidCoder-10.1-Beta.exe
   InstallerSha256: BA8E64F6D2F773446406DD074DD65A1F7069CE44FDF9A8055B406C714172CFE6
 ManifestType: installer
 ManifestVersion: 1.6.0

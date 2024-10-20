@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-06-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dandavison/delta/releases/download/0.16.4/delta-0.16.4-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dandavison/delta/releases/download/0.16.4/delta-0.16.4-x86_64-pc-windows-msvc.zip
   InstallerSha256: AAC6EE986356C6DD1F01D35B21C2953519A78A37C7B69C6DD3FC91398EFEC805
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -15,11 +15,11 @@ UpgradeBehavior: install
 ReleaseDate: 2021-12-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/prometheus-community/windows_exporter/releases/download/v0.17.0/windows_exporter-0.17.0-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/prometheus-community/windows_exporter/releases/download/v0.17.0/windows_exporter-0.17.0-amd64.msi
   InstallerSha256: 95B3544870ADF29E31B9D7FDA31FEE35CB0F2576F0D86F3AFFA04253C4F484CC
   ProductCode: '{C28DBDF5-DCC9-497D-BF7F-C859044E8D61}'
 - Architecture: x86
-  InstallerUrl: https://github.com/prometheus-community/windows_exporter/releases/download/v0.17.0/windows_exporter-0.17.0-386.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/prometheus-community/windows_exporter/releases/download/v0.17.0/windows_exporter-0.17.0-386.msi
   InstallerSha256: A44F0EECBE2008566CC56027A7ACDAA1711AF12C7D05B19E10D0B7E8D3202406
   ProductCode: '{49DCDB8F-7C8E-4925-932F-96107CC13790}'
 ManifestType: installer

@@ -14,10 +14,10 @@ FileExtensions:
 ProductCode: Erlang OTP
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-25.3.2.14/otp_win32_25.3.2.14.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-25.3.2.14/otp_win32_25.3.2.14.exe
   InstallerSha256: 6B73FBD5EFAD9B5184496B14CBD3664A685CE1AFAEF4E70E579FC6B3D4D96461
 - Architecture: x64
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-25.3.2.14/otp_win64_25.3.2.14.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-25.3.2.14/otp_win64_25.3.2.14.exe
   InstallerSha256: BE09998FFBC2B7333E0C64D60C77A8E72439BAAEEF02A5D0BFFEE578DA7F6CBF
 ManifestType: installer
 ManifestVersion: 1.6.0

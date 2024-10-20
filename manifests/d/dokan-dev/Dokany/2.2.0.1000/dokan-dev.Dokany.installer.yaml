@@ -15,7 +15,7 @@ ReleaseDate: 2024-08-18
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/dokan-dev/dokany/releases/download/v2.2.0.1000/Dokan_x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dokan-dev/dokany/releases/download/v2.2.0.1000/Dokan_x86.msi
   InstallerSha256: E782C1247B00E74EF5FEE797BE8AD47F6818A5B544BDA62726980AF0140FBD2E
   ProductCode: '{D1680D5B-295F-0202-0000-240818095850}'
   AppsAndFeaturesEntries:
@@ -26,7 +26,7 @@ Installers:
   InstallationMetadata:
     DefaultInstallLocation: '%ProgramFiles(x86)%/Dokan/DokanLibrary-2.2.0'
 - Architecture: x64
-  InstallerUrl: https://github.com/dokan-dev/dokany/releases/download/v2.2.0.1000/Dokan_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dokan-dev/dokany/releases/download/v2.2.0.1000/Dokan_x64.msi
   InstallerSha256: CCAB902E93AB133EF352A81EE6FF8B7B1668D732DC228AEEFC86F9EEFC31FDFA
   ProductCode: '{9A7325EA-D3C9-0202-0000-240818095850}'
   AppsAndFeaturesEntries:

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Comp-Labs/Google-Docs/releases/download/v2022.3.10/Google-Docs.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Comp-Labs/Google-Docs/releases/download/v2022.3.10/Google-Docs.exe
   InstallerSha256: 83A92F41681122FD4C763CD9DFC06E698FE88C13F5008FD275458BFB57947D08
   AppsAndFeaturesEntries:
     - DisplayName: Google Docs 2022.3.10

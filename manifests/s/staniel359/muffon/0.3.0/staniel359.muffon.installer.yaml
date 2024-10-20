@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/staniel359/muffon/releases/download/v0.3.0/muffon-0.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/staniel359/muffon/releases/download/v0.3.0/muffon-0.3.0.exe
   InstallerSha256: 08387A25694D000D0008ACD205DBF10863C26A44B23CAA7F5BDE6C1217C9EBCC
 ManifestType: installer
 ManifestVersion: 1.2.0

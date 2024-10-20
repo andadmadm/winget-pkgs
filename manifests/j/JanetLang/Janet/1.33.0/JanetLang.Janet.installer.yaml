@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{712CACD6-09AA-430A-831C-80FDFFE3F9ED}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/janet-lang/janet/releases/download/v1.33.0/janet-1.33.0-windows-x64-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/janet-lang/janet/releases/download/v1.33.0/janet-1.33.0-windows-x64-installer.msi
   InstallerSha256: 626C11695D1668ED38BFA2F28F0691334618933D4E6CBA60BEFB01AE6D8DB7D1
 ManifestType: installer
 ManifestVersion: 1.6.0

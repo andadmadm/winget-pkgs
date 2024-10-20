@@ -16,7 +16,7 @@ FileExtensions:
 ReleaseDate: 2023-05-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.63/anki-2.1.63-windows-qt6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.63/anki-2.1.63-windows-qt6.exe
   InstallerSha256: 8BED2F94E2F769DDF01CC4937FA981F7B41806C20F7171B5D38C9AD0084ADB93
   ProductCode: Anki
 ManifestType: installer

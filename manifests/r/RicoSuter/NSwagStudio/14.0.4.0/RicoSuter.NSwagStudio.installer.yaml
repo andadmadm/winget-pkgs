@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{571BBE29-70A5-4062-B478-A8BA84A7F90A}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RicoSuter/NSwag/releases/download/v14.0.4/NSwagStudio.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RicoSuter/NSwag/releases/download/v14.0.4/NSwagStudio.msi
   InstallerSha256: A3621BB389265409998F173A5B0DBA06A2AF606B5FAA79CAA5702D232204C307
 ManifestType: installer
 ManifestVersion: 1.6.0

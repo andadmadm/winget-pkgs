@@ -13,7 +13,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.190/OpenShellSetup_4_4_190.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.190/OpenShellSetup_4_4_190.exe
   InstallerSha256: 31E616F27FAD0C9B14A22C02DED2DC524411ABF53D72C4136F22DB1BE0156865
   ProductCode: '{72CFBE38-4ACE-4D41-81FA-B01D8C4FD590}'
 ManifestType: installer

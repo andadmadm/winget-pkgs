@@ -13,10 +13,10 @@ UpgradeBehavior: install
 ProductCode: clink_chrisant996
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.5.13/clink.1.5.13.290610_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.5.13/clink.1.5.13.290610_setup.exe
   InstallerSha256: 144863CF386AAEE7F3635D2201CD3F6E61A8CC28375DE04D39F4CE14F8B372AE
 - Architecture: x86
-  InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.5.13/clink.1.5.13.290610_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chrisant996/clink/releases/download/v1.5.13/clink.1.5.13.290610_setup.exe
   InstallerSha256: 144863CF386AAEE7F3635D2201CD3F6E61A8CC28375DE04D39F4CE14F8B372AE
 ManifestType: installer
 ManifestVersion: 1.5.0

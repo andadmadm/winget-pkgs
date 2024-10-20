@@ -13,10 +13,10 @@ Commands:
 ReleaseDate: 2024-08-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/infracost/infracost/releases/download/v0.10.39/infracost-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/infracost/infracost/releases/download/v0.10.39/infracost-windows-amd64.zip
   InstallerSha256: 7E88AC9312E0B077BB766FEF84B46D51C46BB1D4141B1CBCC1AF112D9E081222
 - Architecture: arm64
-  InstallerUrl: https://github.com/infracost/infracost/releases/download/v0.10.39/infracost-windows-arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/infracost/infracost/releases/download/v0.10.39/infracost-windows-arm64.zip
   InstallerSha256: F6773CF73C9044CB2319469FA82557C32447B32C593E3DB1DEF720014EC035EE
 ManifestType: installer
 ManifestVersion: 1.6.0

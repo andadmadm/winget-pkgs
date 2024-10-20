@@ -17,7 +17,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.6
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/iminet/DarkSwitcher/releases/download/v1.2.8463/DarkSwitcher.1.2.8463.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iminet/DarkSwitcher/releases/download/v1.2.8463/DarkSwitcher.1.2.8463.setup.exe
   InstallerSha256: A9EA32947DC69C1DB0B94B6998F247E68BB7FC4DA7E258829200DD4C386F796B
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -73,13 +73,13 @@ FileExtensions:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/spyder-ide/spyder/releases/download/v5.2.2/Spyder_64bit_full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/spyder-ide/spyder/releases/download/v5.2.2/Spyder_64bit_full.exe
   InstallerSha256: 2EAB1336766E6E0501AC97AD3182A1939A14138F85CD4A485F5B2C36BBF91EBB
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/spyder-ide/spyder/releases/download/v5.2.2/Spyder_64bit_full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/spyder-ide/spyder/releases/download/v5.2.2/Spyder_64bit_full.exe
   InstallerSha256: 2EAB1336766E6E0501AC97AD3182A1939A14138F85CD4A485F5B2C36BBF91EBB
   InstallerSwitches:
     Custom: /ALLUSERS

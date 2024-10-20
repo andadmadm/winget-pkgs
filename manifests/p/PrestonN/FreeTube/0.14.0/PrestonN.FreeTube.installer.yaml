@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.14.0-beta/freetube-0.14.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.14.0-beta/freetube-0.14.0-setup-x64.exe
   InstallerSha256: B767F421917DE075A38381F6495E5BBB5BA058B25D1FA3145FFA714919743F71
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.14.0-beta/freetube-0.14.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.14.0-beta/freetube-0.14.0-setup-x64.exe
   InstallerSha256: B767F421917DE075A38381F6495E5BBB5BA058B25D1FA3145FFA714919743F71
   InstallerSwitches:
     Custom: /ALLUSERS

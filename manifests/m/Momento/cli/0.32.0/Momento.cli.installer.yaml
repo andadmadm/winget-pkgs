@@ -14,7 +14,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/momentohq/momento-cli/releases/download/v0.32.0/momento-cli-0.32.0.windows_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/momentohq/momento-cli/releases/download/v0.32.0/momento-cli-0.32.0.windows_x64.msi
   InstallerSha256: ED9D12A9B372951062A4549566C68633A0ADD8C9477ED15466B1B7DF2693A579
   ProductCode: '{68B942BE-DE57-4955-A5FA-E66A55EB9884}'
 ManifestType: installer

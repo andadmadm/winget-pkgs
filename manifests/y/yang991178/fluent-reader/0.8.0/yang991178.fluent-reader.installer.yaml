@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/yang991178/fluent-reader/releases/download/v0.8.0-beta/Fluent.Reader.Setup.0.8.0.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/yang991178/fluent-reader/releases/download/v0.8.0-beta/Fluent.Reader.Setup.0.8.0.x64.exe
   InstallerSha256: 8192E39ED12A91701284D3523C37E27D618066BD6A6FF8F46C315D28378CCD2C
 ManifestType: installer
 ManifestVersion: 1.2.0

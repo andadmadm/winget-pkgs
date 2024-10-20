@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{7E94124C-1CD1-433F-9423-4614E52300DD}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/danmar/cppcheck/releases/download/2.12.0/cppcheck-2.12.0-x64-Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/danmar/cppcheck/releases/download/2.12.0/cppcheck-2.12.0-x64-Setup.msi
   InstallerSha256: 780F0B0A56C0EC6CEA9A8D81A197FD8AFC8313ADEF22C5698FE022C446D3F3F0
 ManifestType: installer
 ManifestVersion: 1.5.0

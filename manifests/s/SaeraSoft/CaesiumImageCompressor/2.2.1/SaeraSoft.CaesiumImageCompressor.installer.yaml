@@ -8,7 +8,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.2.1/caesium-image-compressor-2.2.1-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.2.1/caesium-image-compressor-2.2.1-win-setup.exe
   InstallerSha256: AE6533B58012A30732603654109065C3B5F8101F4B4A0D049365B6F883291EE3
   InstallModes:
   - interactive

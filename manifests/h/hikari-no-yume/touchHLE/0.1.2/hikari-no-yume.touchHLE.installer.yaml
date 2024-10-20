@@ -4,7 +4,7 @@
 PackageIdentifier: hikari-no-yume.touchHLE
 PackageVersion: 0.1.2
 Installers:
-- InstallerUrl: https://github.com/hikari-no-yume/touchHLE/releases/download/v0.1.2/touchHLE_v0.1.2_Windows_x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/hikari-no-yume/touchHLE/releases/download/v0.1.2/touchHLE_v0.1.2_Windows_x86_64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

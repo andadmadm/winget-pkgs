@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-06-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qmk/qmk_toolbox/releases/download/0.3.3/qmk_toolbox_install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qmk/qmk_toolbox/releases/download/0.3.3/qmk_toolbox_install.exe
   InstallerSha256: 5B05246BDC4655788C9D286E8A1556DD6AAD7E64AA0A3E3E41655B1D8005160F
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -9,14 +9,14 @@ ReleaseDate: 2022-02-19
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/syvaidya/openstego/releases/download/openstego-0.8.4/Setup-OpenStego-0.8.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/syvaidya/openstego/releases/download/openstego-0.8.4/Setup-OpenStego-0.8.4.exe
   InstallerSha256: D4F4470B3C8F140598762E915EA088F7316A2E1A061BF8554A07008C758DDE05
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: OpenStego_is1
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/syvaidya/openstego/releases/download/openstego-0.8.4/Setup-OpenStego-0.8.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/syvaidya/openstego/releases/download/openstego-0.8.4/Setup-OpenStego-0.8.4.exe
   InstallerSha256: D4F4470B3C8F140598762E915EA088F7316A2E1A061BF8554A07008C758DDE05
   InstallerSwitches:
     Custom: /ALLUSERS

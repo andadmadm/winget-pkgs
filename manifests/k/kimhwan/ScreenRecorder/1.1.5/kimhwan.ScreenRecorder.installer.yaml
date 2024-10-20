@@ -9,7 +9,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/akon47/ScreenRecorder/releases/download/1.1.5/ScreenRecorder_Setup_1.1.5.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/akon47/ScreenRecorder/releases/download/1.1.5/ScreenRecorder_Setup_1.1.5.msi
   InstallerSha256: 8746C567F924F737B316308DF3FFA569DB796B47528DE180FBF532CC246A978F
   ProductCode: '{EF13AAC9-A649-43B9-9215-11278B23B107}'
 ManifestType: installer

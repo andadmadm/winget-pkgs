@@ -8,7 +8,7 @@ ProductCode: '{CA840C06-636B-4D81-849B-1257AE37DAA9}'
 ReleaseDate: 2023-06-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/danmar/cppcheck/releases/download/2.11/cppcheck-2.11-x64-Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/danmar/cppcheck/releases/download/2.11/cppcheck-2.11-x64-Setup.msi
   InstallerSha256: 55BCE7A8911CCDA48D631204D95C9DC6606A590F161E45593452FEFE750B39C7
 ManifestType: installer
 ManifestVersion: 1.4.0

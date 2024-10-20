@@ -11,10 +11,10 @@ UpgradeBehavior: install
 ReleaseDate: 2023-10-05
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.174.0/standard-notes-3.174.0-win-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.174.0/standard-notes-3.174.0-win-ia32.exe
   InstallerSha256: 33E1FB0081F500B8F974CAFBB9B18AE40F0ACC1AFE8B2B13B67FD235313AEC89
 - Architecture: x64
-  InstallerUrl: https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.174.0/standard-notes-3.174.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.174.0/standard-notes-3.174.0-win-x64.exe
   InstallerSha256: 05D2D07F6363B386064B24951C4C5A0CD4F4677CF0A7F65DF9FD124221791DAB
 ManifestType: installer
 ManifestVersion: 1.5.0

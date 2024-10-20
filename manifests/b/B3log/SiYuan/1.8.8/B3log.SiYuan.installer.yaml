@@ -14,7 +14,7 @@ ReleaseDate: 2022-03-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.8-win.exe
   InstallerSha256: 75617518AF6F445D1DDCC0EF7B23BA06139515631ECCC177050C0E3368CDAA5B
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.8-win.exe
   InstallerSha256: 75617518AF6F445D1DDCC0EF7B23BA06139515631ECCC177050C0E3368CDAA5B
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.8-win32.exe
   InstallerSha256: 5D3F7C4B62DC63C777F6E66C971AA52DF72EE4EAFDA6E655BA7112CDFC471CF1
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.8/siyuan-1.8.8-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.8-win32.exe
   InstallerSha256: 5D3F7C4B62DC63C777F6E66C971AA52DF72EE4EAFDA6E655BA7112CDFC471CF1
   InstallerSwitches:

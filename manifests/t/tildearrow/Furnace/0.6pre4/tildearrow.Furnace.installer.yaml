@@ -4,7 +4,7 @@
 PackageIdentifier: tildearrow.Furnace
 PackageVersion: 0.6pre4
 Installers:
-- InstallerUrl: https://github.com/tildearrow/furnace/releases/download/v0.6pre4-hotfix/furnace-0.6pre4-hotfix-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/tildearrow/furnace/releases/download/v0.6pre4-hotfix/furnace-0.6pre4-hotfix-win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

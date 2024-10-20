@@ -14,10 +14,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/compose-generator/ccom/releases/download/1.2.0/ccom_x64_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/compose-generator/ccom/releases/download/1.2.0/ccom_x64_setup.msi
   InstallerSha256: 0CD8D564A44504437A1339E1D0DF541FB9981052E7F1A9FA29DE1A8374122281
 - Architecture: x86
-  InstallerUrl: https://github.com/compose-generator/ccom/releases/download/1.2.0/ccom_x86_setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/compose-generator/ccom/releases/download/1.2.0/ccom_x86_setup.msi
   InstallerSha256: 4DC120994973AC4C45A5D3EEB036786491EA0899674C44FB50F88DCE8938F536
 ManifestType: installer
 ManifestVersion: 1.0.0

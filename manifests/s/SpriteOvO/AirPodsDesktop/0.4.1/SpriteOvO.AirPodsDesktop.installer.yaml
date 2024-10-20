@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2023-10-10
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/SpriteOvO/AirPodsDesktop/releases/download/0.4.1/AirPodsDesktop-0.4.1-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SpriteOvO/AirPodsDesktop/releases/download/0.4.1/AirPodsDesktop-0.4.1-win32.exe
   InstallerSha256: 68F1E4E9AA170BC28F94C4649EA23DB2518E163AF262DB9FC0C0C18C730F6F7A
   ProductCode: AirPodsDesktop
 ManifestType: installer

@@ -11,7 +11,7 @@ Installers:
   NestedInstallerType: wix
   NestedInstallerFiles:
   - RelativeFilePath: ./ShowWhatProcessLocksFile.msi
-  InstallerUrl: https://github.com/PolarGoose/ShowWhatProcessLocksFile/releases/download/v3.0/ShowWhatProcessLocksFile.msi.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/PolarGoose/ShowWhatProcessLocksFile/releases/download/v3.0/ShowWhatProcessLocksFile.msi.zip
   InstallerSha256: 13BD8AE0B28BD9E6F48ACE0E566C7A0409CBCB17AF4522A92D9CF03C41CC721E
   AppsAndFeaturesEntries:
     - ProductCode: '{2D35E2E6-3FE3-4D1E-9B94-8352495D1A35}'

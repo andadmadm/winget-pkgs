@@ -21,7 +21,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{F1561753-1C78-3E58-B8B7-D04CEACA202B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.9.17/Bisq-64bit-1.9.17.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.9.17/Bisq-64bit-1.9.17.exe
   InstallerSha256: A7DA00016EB61236223568815EF0852870BF0FC902F55B7C31AAE126DA265B89
 ManifestType: installer
 ManifestVersion: 1.6.0

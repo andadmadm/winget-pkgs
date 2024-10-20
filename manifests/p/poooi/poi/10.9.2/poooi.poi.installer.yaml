@@ -8,13 +8,13 @@ ReleaseDate: 2022-08-22
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/poooi/poi/releases/download/v10.9.2/poi-setup-10.9.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/poooi/poi/releases/download/v10.9.2/poi-setup-10.9.2.exe
   InstallerSha256: 11C9C48828C8DF8D99821D37C71F3FBA4C8A7DAA717731A204AE03DF02F4A08F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/poooi/poi/releases/download/v10.9.2/poi-setup-10.9.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/poooi/poi/releases/download/v10.9.2/poi-setup-10.9.2.exe
   InstallerSha256: 11C9C48828C8DF8D99821D37C71F3FBA4C8A7DAA717731A204AE03DF02F4A08F
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -29,7 +29,7 @@ FileExtensions:
 - xyz
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cnr-isti-vclab/meshlab/releases/download/Meshlab-2020.12/MeshLab2020.12-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cnr-isti-vclab/meshlab/releases/download/Meshlab-2020.12/MeshLab2020.12-windows.exe
   InstallerSha256: 9002F11C130C36B488821F864122C8A6567CCA6B40E0EA380F4A701FAC6ED004
 ManifestType: installer
 ManifestVersion: 1.1.0

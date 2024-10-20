@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-12-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Coloryr/ColorMC/releases/download/A23/colormc-a23-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Coloryr/ColorMC/releases/download/A23/colormc-a23-win64.msi
   InstallerSha256: E75A40E65AC6A4B17E6FA9822E3853E6DC818D3EC5B4D3A8614B2C463965C57A
 ManifestType: installer
 ManifestVersion: 1.5.0

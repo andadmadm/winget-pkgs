@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-setup.exe
   InstallerSha256: 0405534BBEB6397C69DD3456A0743EB8F3B0C2569F7A078A994577F065FAB4DD
   UpgradeBehavior: install
 ManifestType: installer

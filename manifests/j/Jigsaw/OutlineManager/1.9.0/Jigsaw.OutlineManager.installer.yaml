@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/Jigsaw-Code/outline-server/releases/download/v1.9.0/Outline-Manager.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jigsaw-Code/outline-server/releases/download/v1.9.0/Outline-Manager.exe
   InstallerSha256: 46CFA385C4578EDBD0F8220DABFDAAFD513B29E4893882B6877200004FB62006
 ManifestType: installer
 ManifestVersion: 1.0.0

@@ -17,7 +17,7 @@ Dependencies:
 ReleaseDate: 2022-12-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.exe
   InstallerSha256: 7D9FF68493CE4FBE22D8C153AC35A996F7A18CE635F262DCB4C8A8E6BF4DAD7D
   ProductCode: HandBrake
 ManifestType: installer

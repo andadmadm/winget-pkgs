@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-09-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nexus-Mods/Vortex/releases/download/v1.9.5/vortex-setup-1.9.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nexus-Mods/Vortex/releases/download/v1.9.5/vortex-setup-1.9.5.exe
   InstallerSha256: 84424820777B164199CCBDE878BCFD29236D49598866C5E71E7D69BDDB1AB7D3
 ManifestType: installer
 ManifestVersion: 1.5.0

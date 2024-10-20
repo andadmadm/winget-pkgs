@@ -8,7 +8,7 @@ Commands:
 - prism
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stoplightio/prism/releases/download/v5.5.1/prism-cli-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stoplightio/prism/releases/download/v5.5.1/prism-cli-win.exe
   InstallerSha256: 89F71225780CB12267D9579E4C486A48BDD0925B5EFDE6CE632375F53F730ABF
 ManifestType: installer
 ManifestVersion: 1.5.0

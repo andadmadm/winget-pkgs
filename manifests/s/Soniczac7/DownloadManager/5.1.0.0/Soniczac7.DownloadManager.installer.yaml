@@ -14,7 +14,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.6
 Installers:
-- InstallerUrl: https://github.com/Download-Manager-Community/Download-Manager/releases/download/5.1.0.0/DownloadManagerInstallerUnpacked.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/Download-Manager-Community/Download-Manager/releases/download/5.1.0.0/DownloadManagerInstallerUnpacked.zip
   Architecture: x64
   InstallerSha256: 44f2f9a73bcaff4624d31e949955d9bf46db4c77e5953a27739f00db55978b79
 ManifestType: installer

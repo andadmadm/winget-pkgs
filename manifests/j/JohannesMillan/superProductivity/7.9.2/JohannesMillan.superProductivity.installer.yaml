@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/johannesjo/super-productivity/releases/download/v7.9.2/superProductivity-Setup-7.9.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/johannesjo/super-productivity/releases/download/v7.9.2/superProductivity-Setup-7.9.2.exe
   InstallerSha256: D342E7BA04C90EDFECE1B0AF9A9424F2811D43E917B2909F4C5DFDEE92162EC9
 ManifestType: installer
 ManifestVersion: 1.1.0

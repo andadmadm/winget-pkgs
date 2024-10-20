@@ -15,7 +15,7 @@ NestedInstallerFiles:
   PortableCommandAlias: ffprobe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GyanD/codexffmpeg/releases/download/5.0.1/ffmpeg-5.0.1-full_build.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GyanD/codexffmpeg/releases/download/5.0.1/ffmpeg-5.0.1-full_build.zip
   InstallerSha256: 7FC64FBEB56766F67B4A26F54ED47661A9433DBA0D0BB6CD35B2DF7EDDC34378
 ManifestType: installer
 ManifestVersion: 1.6.0

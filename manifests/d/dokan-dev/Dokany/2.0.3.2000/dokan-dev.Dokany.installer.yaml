@@ -15,11 +15,11 @@ ReleaseDate: 2022-02-27
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dokan-dev/dokany/releases/download/v2.0.3.2000/Dokan_x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dokan-dev/dokany/releases/download/v2.0.3.2000/Dokan_x64.msi
   InstallerSha256: 20C4DDFA8056AF474B10531C2F766B2785CC6D693029AEB8A540CC22CD83769D
   ProductCode: '{9A7325EA-D3C9-0200-0003-220227075747}'
 - Architecture: x86
-  InstallerUrl: https://github.com/dokan-dev/dokany/releases/download/v2.0.3.2000/Dokan_x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dokan-dev/dokany/releases/download/v2.0.3.2000/Dokan_x86.msi
   InstallerSha256: 3E620C88773E64DCCB6EAF35A19BDDFA0291A65FFF31BF4AC6A6A997E141FF8E
   ProductCode: '{D1680D5B-295F-0200-0003-220227075747}'
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: portable
 ReleaseDate: 2023-08-10
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/aquacash5/magic-wormhole-exe/releases/download/0.13.0/wormhole.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/aquacash5/magic-wormhole-exe/releases/download/0.13.0/wormhole.exe
     InstallerSha256: 4FF450BF3A7F08CA6AF65541B63EBF86A831DFF7C5663A06E408BAB565166C8A
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -17,7 +17,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dannagle/PacketSender/releases/download/v8.7.1/PacketSender_x64_v8.7.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dannagle/PacketSender/releases/download/v8.7.1/PacketSender_x64_v8.7.1.exe
   InstallerSha256: C40D4B453450D909F735E747D2EE9BA1D4EA3CCAD53633A5292EA55715949674
 ManifestType: installer
 ManifestVersion: 1.6.0

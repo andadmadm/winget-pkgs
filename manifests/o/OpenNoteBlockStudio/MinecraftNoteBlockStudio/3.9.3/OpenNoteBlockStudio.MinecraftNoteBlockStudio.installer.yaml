@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/OpenNBS/OpenNoteBlockStudio/releases/download/v3.9.3/Minecraft.Note.Block.Studio.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenNBS/OpenNoteBlockStudio/releases/download/v3.9.3/Minecraft.Note.Block.Studio.exe
   InstallerSha256: B18EA79421528CE94889A59BA2D6517A17F95541CF7C0F35748F2F9034AF806B
   ProductCode: Minecraft Note Block Studio
 ManifestType: installer

@@ -12,7 +12,7 @@ FileExtensions:
 ReleaseDate: 2021-11-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.7.2/logisim-evolution-3.7.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.7.2/logisim-evolution-3.7.2.msi
   InstallerSha256: AA02480D298FF06CBFCD43C97AEAD0D053E809E7FDC10C8E5E0A9C9213BDB914
   ProductCode: '{B30FA00C-DA3F-3769-AAEA-6571CACF5C30}'
 ManifestType: installer

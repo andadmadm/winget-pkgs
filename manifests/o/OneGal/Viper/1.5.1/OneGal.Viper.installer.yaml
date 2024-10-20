@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/0neGal/viper/releases/download/v1.5.1/Viper-Setup-1.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/0neGal/viper/releases/download/v1.5.1/Viper-Setup-1.5.1.exe
   InstallerSha256: 67174732556AEB071B8A2FBCB46384CBB48E25FFE5AB8457F8C9FB2395DA0CDD
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -14,7 +14,7 @@ Dependencies:
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/2dust/v2rayN/releases/download/6.53/v2rayN-With-Core.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/2dust/v2rayN/releases/download/6.53/v2rayN-With-Core.zip
   InstallerSha256: AD96E94E276F224C25F303464531CB591A7038DB9C871DDE1E507EA34CF1BFDE
 ManifestType: installer
 ManifestVersion: 1.6.0

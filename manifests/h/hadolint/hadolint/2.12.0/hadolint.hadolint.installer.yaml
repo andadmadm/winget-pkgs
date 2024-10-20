@@ -12,7 +12,7 @@ FileExtensions:
 ReleaseDate: 2022-11-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hadolint/hadolint/releases/download/v2.12.0/hadolint-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hadolint/hadolint/releases/download/v2.12.0/hadolint-Windows-x86_64.exe
   InstallerSha256: ED89A156290E15452276B2B4C84EFA688A5183D3B578BFAEC7CFDF986F0632A8
 ManifestType: installer
 ManifestVersion: 1.4.0

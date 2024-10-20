@@ -9,7 +9,7 @@ Installers:
   MinimumOSVersion: 10.0.17763.0
   Architecture: x64
   InstallerType: msix
-  InstallerUrl: https://github.com/bostrot/wsl2-distro-manager/releases/download/v1.3.4/wsl2-distro-manager-v1.3.4.msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/bostrot/wsl2-distro-manager/releases/download/v1.3.4/wsl2-distro-manager-v1.3.4.msix
   InstallerSha256: 98B702658C0A991A4999363C2942ACB34A6BF38C305F7A7BA72A5F4D1E64B6E3
   SignatureSha256: 02EE110C2DFA2E626C27F1EAB516520717EAC4CFC96391D590FDF898C05B80ED
   PackageFamilyName: 9891PhantomDevs.WSL2Manager_rqq3vyma0b55r

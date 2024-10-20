@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.144/tabby-1.0.144-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.144/tabby-1.0.144-setup.exe
   InstallerSha256: BBC7B5224703631F896E3859B4EC407D9709642177E4A8D7454AA8D4D325CB38
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.144/tabby-1.0.144-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.144/tabby-1.0.144-setup.exe
   InstallerSha256: BBC7B5224703631F896E3859B4EC407D9709642177E4A8D7454AA8D4D325CB38
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -24,14 +24,14 @@ FileExtensions:
 ReleaseDate: 2023-07-21
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jre_x86-32_windows_hotspot_8u382b05.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jre_x86-32_windows_hotspot_8u382b05.msi
   InstallerSha256: 9943D3E2A09A4F2015B6356C79CC56CD3537EC87A221A88C8DCC58B015669E33
   ProductCode: '{26C6F14E-7A88-4086-80DE-06D589F4CCDA}'
   AppsAndFeaturesEntries:
   - DisplayName: Eclipse Temurin JRE with Hotspot 8u382-b05 (x86)
     UpgradeCode: '{45B9357D-10B8-96DB-0C1A-5686F1589C82}'
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jre_x64_windows_hotspot_8u382b05.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jre_x64_windows_hotspot_8u382b05.msi
   InstallerSha256: E165227737BCC4D5C8C311CB36F8DA148C552316D902F86D63C348B8ED0CA427
   ProductCode: '{5DA5EFCA-79E7-41A3-AD52-9383EF948EBB}'
   AppsAndFeaturesEntries:

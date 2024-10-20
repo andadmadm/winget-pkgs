@@ -19,13 +19,13 @@ ReleaseDate: 2022-09-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.75/Raven-Reader-Setup-1.0.75.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.75/Raven-Reader-Setup-1.0.75.exe
   InstallerSha256: 75A948A3AA54DEEA9A95E7F638652636A61075A394C5719AF1FDCDB263A80633
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.75/Raven-Reader-Setup-1.0.75.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.75/Raven-Reader-Setup-1.0.75.exe
   InstallerSha256: 75A948A3AA54DEEA9A95E7F638652636A61075A394C5719AF1FDCDB263A80633
   InstallerSwitches:
     Custom: /ALLUSERS

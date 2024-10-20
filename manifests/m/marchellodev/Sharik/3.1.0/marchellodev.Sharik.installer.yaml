@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-09-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/marchellodev/sharik/releases/download/v3.1/sharik_v3.1_windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/marchellodev/sharik/releases/download/v3.1/sharik_v3.1_windows.msi
   InstallerSha256: E76ED364DA3082C48F84F5E9B1DA494023D77E18049318EF0F9B58B3B0982F88
   ProductCode: '{C5001722-1431-489E-BE3A-B6E16D8749DE}'
 ManifestType: installer

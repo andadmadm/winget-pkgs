@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-02-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cawa-93/anime-library/releases/download/v22.2.22-911/anime-library-Setup-22.2.22-911.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cawa-93/anime-library/releases/download/v22.2.22-911/anime-library-Setup-22.2.22-911.exe
   InstallerSha256: 52CD782BA6B26671A6BDADEBC4FA7C1E635E7368B7E63209374B4047AA88B83D
 ManifestType: installer
 ManifestVersion: 1.1.0

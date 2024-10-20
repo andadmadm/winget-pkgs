@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-05-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2020.4/MullvadVPN-2020.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2020.4/MullvadVPN-2020.4.exe
   InstallerSha256: 52ECEF8BAB5252DE60559FD02B3CE0622428607C93BC91CCF74CEA5EBA5C406F
   AppsAndFeaturesEntries:
   - Publisher: Mullvad VPN

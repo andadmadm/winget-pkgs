@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2024-05-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bazelbuild/bazelisk/releases/download/v1.20.0/bazelisk-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bazelbuild/bazelisk/releases/download/v1.20.0/bazelisk-windows-amd64.exe
   InstallerSha256: 4175CE7EF4B552FB17E93CE49A245679DC26A35CF2FBC7C3146DACA6FFC7A81E
 ManifestType: installer
 ManifestVersion: 1.6.0

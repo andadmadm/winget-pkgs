@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-07-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/CoocooFroggy/FutureRestore-GUI/releases/download/v1.98.1/FutureRestore-GUI-Windows-1.98.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/CoocooFroggy/FutureRestore-GUI/releases/download/v1.98.1/FutureRestore-GUI-Windows-1.98.1.msi
   InstallerSha256: AA4C63B451CE8461B316500AF516033E6660250A85897D30A2DFBE7E0CCAF395
   ProductCode: '{CD8C79F0-1F79-37F5-8235-7D3A162955ED}'
 ManifestType: installer

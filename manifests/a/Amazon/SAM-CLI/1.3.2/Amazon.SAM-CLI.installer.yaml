@@ -9,7 +9,7 @@ InstallerType: wix
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aws/aws-sam-cli/releases/download/v1.3.2/AWS_SAM_CLI_64_PY3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/aws/aws-sam-cli/releases/download/v1.3.2/AWS_SAM_CLI_64_PY3.msi
   InstallerSha256: 4E6F4EF106357651A673AF472B6A137422FC82A85763BD115926308E99AE02EE
   ProductCode: '{3E075925-067E-4531-A3BE-ED2733ACD2F2}'
 ManifestType: installer

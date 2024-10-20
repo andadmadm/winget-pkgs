@@ -22,13 +22,13 @@ Dependencies:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/2.0.2/Sigil-2.0.2-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/2.0.2/Sigil-2.0.2-Windows-x64-Setup.exe
   InstallerSha256: 585BE931CAF286352A9C4E1F51F81967FBB3B981D28A7D9B674BE0222C0F9805
   InstallerSwitches:
     Custom: /CURRENTUSER /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/2.0.2/Sigil-2.0.2-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/2.0.2/Sigil-2.0.2-Windows-x64-Setup.exe
   InstallerSha256: 585BE931CAF286352A9C4E1F51F81967FBB3B981D28A7D9B674BE0222C0F9805
   InstallerSwitches:
     Custom: /ALLUSERS /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"

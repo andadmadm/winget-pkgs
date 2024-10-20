@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v22.01.30/shotcut-win64-220130.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v22.01.30/shotcut-win64-220130.exe
   InstallerSha256: 58C14618D8E6CEB60F5FAFAEBBB70A953CC8E607514695ECD3431B75EDC5E7CF
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: hugo.exe
     PortableCommandAlias: hugo
-  InstallerUrl: https://github.com/gohugoio/hugo/releases/download/v0.111.1/hugo_extended_0.111.1_windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/gohugoio/hugo/releases/download/v0.111.1/hugo_extended_0.111.1_windows-amd64.zip
   InstallerSha256: A32A08B336EE03FD16D17269C4D9B7640A4F1466BC830BDD9AE8AA915D299771
 ManifestType: installer
 ManifestVersion: 1.4.0

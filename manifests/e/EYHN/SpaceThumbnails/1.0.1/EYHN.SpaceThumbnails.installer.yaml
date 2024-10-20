@@ -21,7 +21,7 @@ FileExtensions:
 ReleaseDate: 2022-04-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/EYHN/space-thumbnails/releases/download/v1.0.1/space-thumbnails-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/EYHN/space-thumbnails/releases/download/v1.0.1/space-thumbnails-installer.msi
   InstallerSha256: 18AA1927B3C874B5E7FF00BC58973ECD34B7335085520CC884463226BAF7B027
   ProductCode: '{9D678695-D74C-43BC-9147-DEAC1108B933}'
 ManifestType: installer

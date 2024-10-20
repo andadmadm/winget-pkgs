@@ -23,7 +23,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{DBA41113-4E91-3FFC-B400-573BB4B80705}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_53822_64bit/strawberry-perl-5.38.2.2-64bit.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_53822_64bit/strawberry-perl-5.38.2.2-64bit.msi
   InstallerSha256: 45737AEA8B2F93C50F06EE7303EC12EAA9632763A79883AB8A8EEAE8AE96C75C
 ManifestType: installer
 ManifestVersion: 1.6.0

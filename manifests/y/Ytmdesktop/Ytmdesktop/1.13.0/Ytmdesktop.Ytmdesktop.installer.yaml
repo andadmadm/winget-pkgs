@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.13.0/YouTube-Music-Desktop-App-Setup-1.13.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.13.0/YouTube-Music-Desktop-App-Setup-1.13.0.exe
   InstallerSha256: 1E76442D40B273E42B5068972CCF0129C81B75A64BB26A0EF086CA7F6850285D
   UpgradeBehavior: install
 ManifestType: installer

@@ -4,7 +4,7 @@
 PackageIdentifier: LLVM.clangd
 PackageVersion: 16.0.2
 Installers:
-- InstallerUrl: https://github.com/clangd/clangd/releases/download/16.0.2/clangd-windows-16.0.2.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/clangd/clangd/releases/download/16.0.2/clangd-windows-16.0.2.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

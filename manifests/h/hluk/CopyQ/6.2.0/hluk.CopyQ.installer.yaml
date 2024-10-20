@@ -8,7 +8,7 @@ InstallerType: inno
 ReleaseDate: 2022-07-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hluk/CopyQ/releases/download/v6.2.0/copyq-6.2.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hluk/CopyQ/releases/download/v6.2.0/copyq-6.2.0-setup.exe
   InstallerSha256: B6B281D66E791AC16CE1D2613977F7766CEAA42BF9497B6049AE6AB1820377AD
 ManifestType: installer
 ManifestVersion: 1.1.0

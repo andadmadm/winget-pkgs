@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{85D9FCC2-733E-3D74-8DD4-8FE33A07ADF8}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RareDevs/Rare/releases/download/1.10.11/Rare-1.10.11.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RareDevs/Rare/releases/download/1.10.11/Rare-1.10.11.msi
   InstallerSha256: 6C4585E8D4B32556A63573E09D24DEC1E8D0A815E03DDE3B2C988D83052861C0
 ManifestType: installer
 ManifestVersion: 1.6.0

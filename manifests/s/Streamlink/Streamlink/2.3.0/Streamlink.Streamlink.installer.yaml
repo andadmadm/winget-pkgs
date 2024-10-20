@@ -12,7 +12,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/streamlink/streamlink/releases/download/2.3.0/streamlink-2.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/streamlink/releases/download/2.3.0/streamlink-2.3.0.exe
   InstallerSha256: 4626A79C106230C822CB040E9E961608DE69B3CEEBBCA538395E3C11B2613A54
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -21,7 +21,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/streamlink/streamlink/releases/download/2.3.0/streamlink-2.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/streamlink/streamlink/releases/download/2.3.0/streamlink-2.3.0.exe
   InstallerSha256: 4626A79C106230C822CB040E9E961608DE69B3CEEBBCA538395E3C11B2613A54
   InstallerSwitches:
     Custom: /CURRENTUSER

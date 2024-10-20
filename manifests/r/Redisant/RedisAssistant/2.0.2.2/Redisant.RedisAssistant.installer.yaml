@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: RA-2.0.2.2-windows\RA-2.0.2.2.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/redis-assistant-release/releases/download/v2.0.2.2/RA-2.0.2.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/redis-assistant-release/releases/download/v2.0.2.2/RA-2.0.2.2-windows.zip
   InstallerSha256: 2AE23A98C995ECE150CA8747B7F8FFB8E21FDC6DE6471AC72A43EF3755FBA615
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: RA-2.0.2.2-windows\RA-2.0.2.2.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/redis-assistant-release/releases/download/v2.0.2.2/RA-2.0.2.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/redis-assistant-release/releases/download/v2.0.2.2/RA-2.0.2.2-windows.zip
   InstallerSha256: 2AE23A98C995ECE150CA8747B7F8FFB8E21FDC6DE6471AC72A43EF3755FBA615
   InstallerSwitches:
     Custom: /ALLUSERS

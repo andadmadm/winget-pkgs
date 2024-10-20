@@ -10,7 +10,7 @@ ReleaseDate: 2022-02-05
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win32.exe
   InstallerSha256: 6E4DE1EFA0AAA399C0037528D19EEC66470AE7369868B1C4BC68B3C24878D01C
   ProductCode: GrampsAIO32 5.1.5
   AppsAndFeaturesEntries:
@@ -21,7 +21,7 @@ Installers:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win32.exe
   InstallerSha256: 6E4DE1EFA0AAA399C0037528D19EEC66470AE7369868B1C4BC68B3C24878D01C
   ProductCode: GrampsAIO32 5.1.5
   AppsAndFeaturesEntries:
@@ -32,7 +32,7 @@ Installers:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win64.exe
   InstallerSha256: BBEF45BA710340FE48239A97916379047A113FB2DABE20F5B8F9E91660E8E3DA
   ProductCode: GrampsAIO64 5.1.5
   AppsAndFeaturesEntries:
@@ -43,7 +43,7 @@ Installers:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.1.5/GrampsAIO-5.1.5-1_win64.exe
   InstallerSha256: BBEF45BA710340FE48239A97916379047A113FB2DABE20F5B8F9E91660E8E3DA
   ProductCode: GrampsAIO64 5.1.5
   AppsAndFeaturesEntries:

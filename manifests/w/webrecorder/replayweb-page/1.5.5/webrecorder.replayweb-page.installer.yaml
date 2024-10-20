@@ -16,7 +16,7 @@ FileExtensions:
 - wbn
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/webrecorder/replayweb.page/releases/download/v1.5.5/ReplayWeb.page-1.5.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/webrecorder/replayweb.page/releases/download/v1.5.5/ReplayWeb.page-1.5.5.exe
   InstallerSha256: 3E08FC1292973E0E3ED42BF2D76579896B26E21180A52B6F8F4B921E9F7D6C47
 ManifestType: installer
 ManifestVersion: 1.0.0

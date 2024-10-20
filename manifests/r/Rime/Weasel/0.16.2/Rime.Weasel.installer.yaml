@@ -9,19 +9,19 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-28
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
   InstallerSha256: 3D10B56CD9825AD0B69FFCAABE4DD7119E2B23FB698EF723001789172EF1447A
   ProductCode: Weasel
 - Architecture: x64
-  InstallerUrl: https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
   InstallerSha256: 3D10B56CD9825AD0B69FFCAABE4DD7119E2B23FB698EF723001789172EF1447A
   ProductCode: Weasel
 - Architecture: arm
-  InstallerUrl: https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
   InstallerSha256: 3D10B56CD9825AD0B69FFCAABE4DD7119E2B23FB698EF723001789172EF1447A
   ProductCode: Weasel
 - Architecture: arm64
-  InstallerUrl: https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rime/weasel/releases/download/0.16.2/weasel-0.16.2.0-installer.exe
   InstallerSha256: 3D10B56CD9825AD0B69FFCAABE4DD7119E2B23FB698EF723001789172EF1447A
   ProductCode: Weasel
 ManifestType: installer

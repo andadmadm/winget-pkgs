@@ -15,14 +15,14 @@ ReleaseDate: 2022-09-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/nxshell/nxshell/releases/download/v1.8.0/NxShell-x64-win-1.8.0-202209141343.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nxshell/nxshell/releases/download/v1.8.0/NxShell-x64-win-1.8.0-202209141343.exe
   InstallerSha256: DC864C43C948610C76E33361CBF774A0542AC2690DAF6CED85019B4AF6CFE158
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: '{3949332e-609b-5d21-9144-216551c051e9}'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/nxshell/nxshell/releases/download/v1.8.0/NxShell-x64-win-1.8.0-202209141343.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nxshell/nxshell/releases/download/v1.8.0/NxShell-x64-win-1.8.0-202209141343.exe
   InstallerSha256: DC864C43C948610C76E33361CBF774A0542AC2690DAF6CED85019B4AF6CFE158
   InstallerSwitches:
     Custom: /ALLUSERS

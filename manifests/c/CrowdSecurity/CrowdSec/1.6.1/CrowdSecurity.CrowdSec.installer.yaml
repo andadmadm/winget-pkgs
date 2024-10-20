@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{8EAB6970-25E3-4B7D-882F-5B7EFA311AFC}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/crowdsecurity/crowdsec/releases/download/v1.6.1/crowdsec_1.6.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/crowdsecurity/crowdsec/releases/download/v1.6.1/crowdsec_1.6.1.msi
   InstallerSha256: 3A0C4F9F9B9E8F27A92E7E39351A652D6BD73FADC59BD5CCD3D78976F9066CAA
 ManifestType: installer
 ManifestVersion: 1.6.0

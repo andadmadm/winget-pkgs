@@ -23,7 +23,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%/Authme'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/5.3.1/authme-5.3.1-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/5.3.1/authme-5.3.1-windows-x64.msi
   InstallerSha256: FE9F4CC7CC1FF725CB38BB283A88492E8C4A2E74E1EA4AA89E9344838E094D2E
 ManifestType: installer
 ManifestVersion: 1.6.0

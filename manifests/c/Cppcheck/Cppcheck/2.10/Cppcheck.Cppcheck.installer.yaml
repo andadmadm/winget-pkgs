@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2023-01-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/danmar/cppcheck/releases/download/2.10/cppcheck-2.10-x64-Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/danmar/cppcheck/releases/download/2.10/cppcheck-2.10-x64-Setup.msi
   InstallerSha256: 1963084475F34628A5C100ED8B90834D8575D28DD4EC9548D4C92C138DF2FB9F
   ProductCode: '{FEFFF153-9E45-4C2B-864D-70F5596B2968}'
 ManifestType: installer

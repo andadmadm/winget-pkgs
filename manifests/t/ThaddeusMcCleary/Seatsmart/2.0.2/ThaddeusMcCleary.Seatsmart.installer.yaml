@@ -6,7 +6,7 @@ PackageVersion: 2.0.2
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/thaddeusm/seatsmart-FHSU/releases/download/v2.0.2/Seatsmart-Setup-2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thaddeusm/seatsmart-FHSU/releases/download/v2.0.2/Seatsmart-Setup-2.0.2.exe
   InstallerSha256: 623CA9034AA35ACF9A23EB01955B907C5919139B8F81CB122A2EC92BCA46F84C
 ManifestType: installer
 ManifestVersion: 1.1.0

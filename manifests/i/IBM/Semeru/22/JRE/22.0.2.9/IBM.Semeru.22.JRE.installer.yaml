@@ -33,7 +33,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{595FDB53-E3FC-52D9-F9BA-A51DC37C0EF1}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ibmruntimes/semeru22-binaries/releases/download/jdk-22.0.2+9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ibmruntimes/semeru22-binaries/releases/download/jdk-22.0.2+9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.msi
   InstallerSha256: 1392A3A2FA782A078BA152565C62C3751D3860497C4D8CCD5F2F8C26934FBA46
   ProductCode: '{A9960554-EE9E-429C-A30F-A7B820D94821}'
 ManifestType: installer

@@ -15,7 +15,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/Serraniel/DiscordMediaLoader/releases/download/v1.4.0.0/Discord_Media_Loader_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Serraniel/DiscordMediaLoader/releases/download/v1.4.0.0/Discord_Media_Loader_Setup.exe
   InstallerSha256: A48AD932D176976209797E7CB6AAAAFCE90811D97C06B25491323312EE849B59
   InstallerSwitches:
     Custom: /NORESTART

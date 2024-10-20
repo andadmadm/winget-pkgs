@@ -16,7 +16,7 @@ FileExtensions:
 - csv
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v12.0/Beeftext-12.0-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v12.0/Beeftext-12.0-Installer.exe
   InstallerSha256: 85B114A16F50DBC55D940535206269FCEF307A68BECEA4465D7DCBB97692525F
 ManifestType: installer
 ManifestVersion: 1.0.0

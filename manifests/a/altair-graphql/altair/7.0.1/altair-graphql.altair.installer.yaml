@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-04-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/altair-graphql/altair/releases/download/v7.0.1/altair_7.0.1_x64_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/altair-graphql/altair/releases/download/v7.0.1/altair_7.0.1_x64_win.exe
   InstallerSha256: EB5275D2D4B47FD272AC5CB5777E687A932A2579DC745F8F58E86D58F5F66D7B
 ManifestType: installer
 ManifestVersion: 1.6.0

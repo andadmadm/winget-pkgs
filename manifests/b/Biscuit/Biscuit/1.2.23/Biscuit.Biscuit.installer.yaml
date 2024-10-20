@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/agata/dl.biscuit/releases/download/v1.2.23/Biscuit-Setup-1.2.23.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/agata/dl.biscuit/releases/download/v1.2.23/Biscuit-Setup-1.2.23.exe
   InstallerSha256: BE27C4C613538859018D9AAB049D8A9EB75EF7C86B760B67860719092E872503
   UpgradeBehavior: install
 ManifestType: installer

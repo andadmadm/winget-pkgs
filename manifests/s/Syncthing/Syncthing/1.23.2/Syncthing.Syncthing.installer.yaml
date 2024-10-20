@@ -4,7 +4,7 @@
 PackageIdentifier: Syncthing.Syncthing
 PackageVersion: 1.23.2
 Installers:
-- InstallerUrl: https://github.com/syncthing/syncthing/releases/download/v1.23.2/syncthing-windows-amd64-v1.23.2.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/syncthing/syncthing/releases/download/v1.23.2/syncthing-windows-amd64-v1.23.2.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 PackageFamilyName: 18155sprout2000.LeafView_n6bpymebb9kzw
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.6.6/LeafView-1.6.6-win32-x64.appx
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.6.6/LeafView-1.6.6-win32-x64.appx
   InstallerSha256: DE32AC249C70726FBFE2F4AED11C74739B57DC87D80B5DC27C5BB7EB2ED9BBB2
   SignatureSha256: 8162CC24B4A668CB520314303031C6AAC7106114F6FB5440CD3CD5CB0514A3CD
 ManifestType: installer

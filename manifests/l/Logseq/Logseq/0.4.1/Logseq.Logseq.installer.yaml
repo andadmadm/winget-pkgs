@@ -14,7 +14,7 @@ Installers:
 - Architecture: x64
   InstallerType: exe # Squirrel
   Scope: user
-  InstallerUrl: https://github.com/logseq/logseq/releases/download/0.4.1/logseq-win-x64-0.4.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/logseq/logseq/releases/download/0.4.1/logseq-win-x64-0.4.1.exe
   InstallerSha256: 302D343F900DF34DFFF694BB597F5398716A8336DC8CAAA0D1B7CE204385E5D8
   InstallerSwitches:
     Silent: --silent

@@ -12,7 +12,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/CorsixTH/CorsixTH/releases/download/v0.65.1/CorsixTHInstaller.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/CorsixTH/CorsixTH/releases/download/v0.65.1/CorsixTHInstaller.exe
   InstallerSha256: BF5A9D9B6BAB710FB718EE96F6B53D94D9220B4C3BD29E754A8742BF7EEE2AB1
   UpgradeBehavior: install
 ManifestType: installer

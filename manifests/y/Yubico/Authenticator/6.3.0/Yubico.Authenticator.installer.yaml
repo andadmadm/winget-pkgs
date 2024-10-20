@@ -21,7 +21,7 @@ UpgradeBehavior: install
 ProductCode: '{FD106552-B00D-4931-BAE1-FEA97BC16912}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Yubico/yubioath-flutter/releases/download/6.3.0/yubico-authenticator-6.3.0-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Yubico/yubioath-flutter/releases/download/6.3.0/yubico-authenticator-6.3.0-win64.msi
   InstallerSha256: 3ED1E8C64763267AD62C1D4FE092A2C2CE523428FDDF56474AD9F5629170CA14
 ManifestType: installer
 ManifestVersion: 1.5.0

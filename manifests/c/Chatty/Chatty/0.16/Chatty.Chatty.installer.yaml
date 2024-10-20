@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chatty/chatty/releases/download/v0.16/Chatty_0.16_win_standalone_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chatty/chatty/releases/download/v0.16/Chatty_0.16_win_standalone_setup.exe
   InstallerSha256: 465DB0B5111F015B7FCD190BD0204D051DB12271A40184234D7AD4027959AD55
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -8,7 +8,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/fluentmoheshwar/useful-tools/releases/download/v2.7/Useful_Tools_For_Windows_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluentmoheshwar/useful-tools/releases/download/v2.7/Useful_Tools_For_Windows_Installer.exe
   InstallerSha256: EFDE08A6BECEC316B3A28FE711740BD4267105142CF44C33ACAEC1BD12EF32CD
   ElevationRequirement: elevationRequired
 ManifestType: installer

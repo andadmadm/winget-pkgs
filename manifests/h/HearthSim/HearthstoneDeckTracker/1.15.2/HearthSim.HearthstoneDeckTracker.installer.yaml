@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/HearthSim/HDT-Releases/releases/download/v1.15.2/HDT-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HearthSim/HDT-Releases/releases/download/v1.15.2/HDT-Installer.exe
   InstallerSha256: D8BFCF0A0613A97426B23B7DCE3C932B6A11C8BE712A24F7726736C98F262376
   InstallerSwitches:
     Silent: --silent

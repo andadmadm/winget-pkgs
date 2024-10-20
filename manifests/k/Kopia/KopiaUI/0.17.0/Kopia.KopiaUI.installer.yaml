@@ -16,13 +16,13 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-Setup-0.17.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-Setup-0.17.0.exe
   InstallerSha256: 6D592DE6BE4A9C887A26477CCFBFE34C8633EDC28D28FA16F9834F6D2219D10F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-Setup-0.17.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-Setup-0.17.0.exe
   InstallerSha256: 6D592DE6BE4A9C887A26477CCFBFE34C8633EDC28D28FA16F9834F6D2219D10F
   InstallerSwitches:
     Custom: /ALLUSERS

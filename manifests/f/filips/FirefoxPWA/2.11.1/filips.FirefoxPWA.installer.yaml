@@ -11,14 +11,14 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/filips123/PWAsForFirefox/releases/download/v2.11.1/firefoxpwa-2.11.1-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/filips123/PWAsForFirefox/releases/download/v2.11.1/firefoxpwa-2.11.1-x86.msi
   InstallerSha256: 7BA632EE7C57FDD06B4D203B3FB65397C82352D4605E312D6634B6225F62EBFF
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x86
   ProductCode: '{36309AFE-2920-4715-9B33-7A9BA198922B}'
 - Architecture: x64
-  InstallerUrl: https://github.com/filips123/PWAsForFirefox/releases/download/v2.11.1/firefoxpwa-2.11.1-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/filips123/PWAsForFirefox/releases/download/v2.11.1/firefoxpwa-2.11.1-x86_64.msi
   InstallerSha256: 33F00FA6778F9B50D3A6E087CF662D741341324EB93F294E1F3985066BCB4BF6
   Dependencies:
     PackageDependencies:

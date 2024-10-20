@@ -23,11 +23,11 @@ FileExtensions:
 Installers:
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x32.exe
   InstallerSha256: 5557df6b8ae57fc46443f9e85a42bac50fa37456c0757c5569e60430d0e359dc
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x64.exe
   InstallerSha256: 379a03b37fba8d4b71e10cb0034e303e43cb2fbffb9af423a7b87be3b32bf94d
 ManifestType: installer
 ManifestVersion: 1.4.0

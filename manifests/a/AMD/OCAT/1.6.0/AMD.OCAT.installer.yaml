@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GPUOpen-Tools/ocat/releases/download/v1.6.0/OCAT_1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/GPUOpen-Tools/ocat/releases/download/v1.6.0/OCAT_1.6.0.exe
   InstallerSha256: BA796459794101825EB7023585FB67E61E706983B70354B2B41D79F5566BE67F
   AppsAndFeaturesEntries:
   - DisplayVersion: 1.6.0.0

@@ -15,13 +15,13 @@ ReleaseDate: 2021-09-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/appium/appium-desktop/releases/download/v1.22.0/Appium-Server-GUI-windows-1.22.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/appium/appium-desktop/releases/download/v1.22.0/Appium-Server-GUI-windows-1.22.0.exe
   InstallerSha256: C47540FFF335AEC09AB6EFC4AD44F56891D176DC59A45E180FD9BD8F86BCE9E4
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/appium/appium-desktop/releases/download/v1.22.0/Appium-Server-GUI-windows-1.22.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/appium/appium-desktop/releases/download/v1.22.0/Appium-Server-GUI-windows-1.22.0.exe
   InstallerSha256: C47540FFF335AEC09AB6EFC4AD44F56891D176DC59A45E180FD9BD8F86BCE9E4
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe
   InstallerSha256: 3E95738C44F95835DFBECC4BABDFBFA4E86E75EA4FC4F6B127FDE329EE4BD458
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe
   InstallerSha256: 3E95738C44F95835DFBECC4BABDFBFA4E86E75EA4FC4F6B127FDE329EE4BD458
   InstallerSwitches:
     Custom: /ALLUSERS

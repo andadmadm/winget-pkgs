@@ -60,7 +60,7 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/Ruben2776/PicView/releases/download/1.6/PicView-v1.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ruben2776/PicView/releases/download/1.6/PicView-v1.6.exe
   InstallerSha256: 53F95B932364344DB15CD6A070A47F7A0711A982960AD46AF452382A6006149C
   UpgradeBehavior: install
   ProductCode: '{F102E394-0FA6-4AEA-826D-9FE699115BAB}_is1'

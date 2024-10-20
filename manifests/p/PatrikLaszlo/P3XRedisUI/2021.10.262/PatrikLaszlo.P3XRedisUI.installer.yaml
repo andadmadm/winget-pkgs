@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/patrikx3/redis-ui/releases/download/v2021.10.262/p3x-redis-ui-electron-setup-win-2021.10.262.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/patrikx3/redis-ui/releases/download/v2021.10.262/p3x-redis-ui-electron-setup-win-2021.10.262.exe
   InstallerSha256: 06D71E97F6F162022346C035BD0D08967CC09372C53DB5160F4251A7F6D03031
 ManifestType: installer
 ManifestVersion: 1.1.0

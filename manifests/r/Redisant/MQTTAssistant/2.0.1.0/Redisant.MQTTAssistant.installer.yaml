@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MA-2.0.1.0-windows\MA-2.0.1.0.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/mqtt-assistant-release/releases/download/v2.0.1.0/MA-2.0.1.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/mqtt-assistant-release/releases/download/v2.0.1.0/MA-2.0.1.0-windows.zip
   InstallerSha256: 9CE891B6C7633F7D8C40D11A44E4730DB9288918E7998914D37F75679BEFD96F
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MA-2.0.1.0-windows\MA-2.0.1.0.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/mqtt-assistant-release/releases/download/v2.0.1.0/MA-2.0.1.0-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/mqtt-assistant-release/releases/download/v2.0.1.0/MA-2.0.1.0-windows.zip
   InstallerSha256: 9CE891B6C7633F7D8C40D11A44E4730DB9288918E7998914D37F75679BEFD96F
   InstallerSwitches:
     Custom: /ALLUSERS

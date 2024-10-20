@@ -13,7 +13,7 @@ Commands:
 ReleaseDate: 2022-08-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LGUG2Z/komorebi/releases/download/v0.1.13/komorebi-0.1.13-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/LGUG2Z/komorebi/releases/download/v0.1.13/komorebi-0.1.13-x86_64.msi
   InstallerSha256: AE5397D57280A16727F68FECCEBE246132B43EAF2D780D817E3153E2A4C8E436
   ProductCode: '{7015768E-A13A-4E76-9F43-0A47910D8F8A}'
 ManifestType: installer

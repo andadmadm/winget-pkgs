@@ -9,7 +9,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: dotenvx.exe
         PortableCommandAlias: dotenvx
-    InstallerUrl: https://github.com/dotenvx/dotenvx/releases/download/v1.11.5/dotenvx-1.11.5-windows-x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/dotenvx/dotenvx/releases/download/v1.11.5/dotenvx-1.11.5-windows-x86_64.zip
     InstallerSha256: 5d6c7537e5a9599a0fcbdbc319bb955f6bf918811e40a8154b742a3064889427
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

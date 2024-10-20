@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v5.4.0/Android-Messages-v5.4.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v5.4.0/Android-Messages-v5.4.0-win-x64.exe
   InstallerSha256: 88A74EFC816F22BA41CC8E0048CE3AA28A90D784C1328798E2E54D719E79AA16
   ProductCode: 3ae5efac-9497-59f4-9377-1bd5c9afacf5
 ManifestType: installer

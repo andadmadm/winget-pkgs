@@ -32,13 +32,13 @@ ReleaseDate: 2024-08-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Alex313031/Thorium-Win/releases/download/M126.0.6478.231/thorium_SSE3_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Alex313031/Thorium-Win/releases/download/M126.0.6478.231/thorium_SSE3_mini_installer.exe
   InstallerSha256: 1BA8BD00D6D3B3EAB1F6BB4B69EEF15E1656DC83942ADB631757BF2B133EDE3E
   InstallerSwitches:
     Custom: --do-not-launch-chrome
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Alex313031/Thorium-Win/releases/download/M126.0.6478.231/thorium_SSE3_mini_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Alex313031/Thorium-Win/releases/download/M126.0.6478.231/thorium_SSE3_mini_installer.exe
   InstallerSha256: 1BA8BD00D6D3B3EAB1F6BB4B69EEF15E1656DC83942ADB631757BF2B133EDE3E
   InstallerSwitches:
     Custom: --do-not-launch-chrome --system-level

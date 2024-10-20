@@ -17,7 +17,7 @@ FileExtensions:
 ProductCode: Anki
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.48/anki-2.1.48-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.48/anki-2.1.48-windows.exe
   InstallerSha256: 6EE8222F6A383E52BB45C8583C6E61288824CDC811ED54E7EBB6B2CE687C28A9
 ManifestType: installer
 ManifestVersion: 1.0.0

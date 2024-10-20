@@ -29,7 +29,7 @@ Commands:
 ReleaseDate: 2023-05-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mentebinaria/retoolkit/releases/download/2023.05/retoolkit_2023.05_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mentebinaria/retoolkit/releases/download/2023.05/retoolkit_2023.05_setup.exe
   InstallerSha256: 1EB3511E8B816641D3EE6686BFC61329B54532BFD5CD8A65AA20F154EE55D120
   ProductCode: '{BB46345D-F5E9-408E-AA39-64A5EDD92E30}_is1'
 ManifestType: installer

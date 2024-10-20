@@ -17,13 +17,13 @@ ReleaseDate: 2022-05-17
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/Toinane/colorpicker/releases/download/2.1.0/Colorpicker-Windows.2.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Toinane/colorpicker/releases/download/2.1.0/Colorpicker-Windows.2.1.0.exe
   InstallerSha256: D1946E1DB24A7D52130142D8FE9E32FCC9E1AE5F3DF61ABED27DE9B01C190BFA
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/Toinane/colorpicker/releases/download/2.1.0/Colorpicker-Windows.2.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Toinane/colorpicker/releases/download/2.1.0/Colorpicker-Windows.2.1.0.exe
   InstallerSha256: D1946E1DB24A7D52130142D8FE9E32FCC9E1AE5F3DF61ABED27DE9B01C190BFA
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

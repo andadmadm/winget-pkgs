@@ -24,7 +24,7 @@ FileExtensions:
 - jsp
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10+7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.10_7.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10+7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.10_7.msi
   InstallerSha256: 5F31F5A208E0A426EA92764F458081DEFD03C4BB17B0A811F0E74EFB08FCB636
   ProductCode: '{3646373C-ED02-47FA-BBCE-041108F57310}'
   ReleaseDate: 2024-01-22
@@ -32,7 +32,7 @@ Installers:
   - DisplayName: Eclipse Temurin JRE with Hotspot 17.0.10+7 (x86)
     UpgradeCode: '{69F76FD7-C73D-678E-7AC3-710775D2AE6A}'
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10+7/OpenJDK17U-jre_x64_windows_hotspot_17.0.10_7.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10+7/OpenJDK17U-jre_x64_windows_hotspot_17.0.10_7.msi
   InstallerSha256: C22A2F34D291E19C6F6120C8F15DAC5A34659A37991299B6D15ED6009322E6F2
   ProductCode: '{C38FD77B-B3A7-4C51-887D-FDAB9C1CB9B2}'
   ReleaseDate: 2024-01-18

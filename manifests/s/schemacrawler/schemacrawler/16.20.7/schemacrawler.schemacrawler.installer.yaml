@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{20062F6A-6343-3EB4-953F-6C5D08EF2AB2}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.20.7/SchemaCrawler-16.20.7.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.20.7/SchemaCrawler-16.20.7.msi
   InstallerSha256: 222F21BBB2BEB2BFF521C1940D2CD60AD35A92B1478314583BA59394B7226485
 ManifestType: installer
 ManifestVersion: 1.5.0

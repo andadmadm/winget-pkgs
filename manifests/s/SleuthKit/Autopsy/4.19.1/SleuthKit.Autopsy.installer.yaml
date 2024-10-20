@@ -17,14 +17,14 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.19.1/autopsy-4.19.1-64bit.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.19.1/autopsy-4.19.1-64bit.msi
   InstallerSha256: E47E29B88964EE6F25DC3197F7EC76CFBC86BDF94FEF463C80EAABDE99DE104F
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.19.1/autopsy-4.19.1-32bit.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.19.1/autopsy-4.19.1-32bit.msi
   InstallerSha256: E3927D5E32080342EAD424F7719477B76362BADAAC1127E1184A0884013A10B0
   UpgradeBehavior: install
 ManifestType: installer

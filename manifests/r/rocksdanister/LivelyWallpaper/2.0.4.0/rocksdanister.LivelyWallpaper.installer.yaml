@@ -23,14 +23,14 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/rocksdanister/lively/releases/download/v2.0.4.0/lively_setup_x86_full_v2040.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rocksdanister/lively/releases/download/v2.0.4.0/lively_setup_x86_full_v2040.exe
   InstallerSha256: F9146EDA6FC65629FFB674F0EC11D461AD02617A255E94D9B01AD6B9DB368E67
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: '{E3E43E1B-DEC8-44BF-84A6-243DBA3F2CB1}}_is1'
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/rocksdanister/lively/releases/download/v2.0.4.0/lively_setup_x86_full_v2040.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rocksdanister/lively/releases/download/v2.0.4.0/lively_setup_x86_full_v2040.exe
   InstallerSha256: F9146EDA6FC65629FFB674F0EC11D461AD02617A255E94D9B01AD6B9DB368E67
   InstallerSwitches:
     Custom: /ALLUSERS

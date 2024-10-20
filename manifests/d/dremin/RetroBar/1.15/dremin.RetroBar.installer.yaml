@@ -12,7 +12,7 @@ Dependencies:
   PackageDependencies:
      - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.6
 Installers:
-- InstallerUrl: https://github.com/dremin/RetroBar/releases/download/v1.15.33/RetroBar.64-bit.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/dremin/RetroBar/releases/download/v1.15.33/RetroBar.64-bit.zip
   Architecture: x64
   InstallerSha256: E51F5295BEF80BDED05B8B13BD7C32D731DE5718A4823E0DC89DCE87A0B52AC4
 ManifestType: installer

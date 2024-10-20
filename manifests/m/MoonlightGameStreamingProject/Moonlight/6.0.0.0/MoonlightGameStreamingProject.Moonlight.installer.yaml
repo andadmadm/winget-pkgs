@@ -14,7 +14,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.0.0/MoonlightSetup-6.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.0.0/MoonlightSetup-6.0.0.exe
   InstallerSha256: 146C72FD3419DF8C643523CA0FAAE3097EC02056C1EA552C13E42449B3685967
 ManifestType: installer
 ManifestVersion: 1.6.0

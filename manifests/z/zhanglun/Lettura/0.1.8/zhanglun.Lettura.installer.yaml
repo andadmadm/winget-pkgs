@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{C210FA17-16C9-574A-8EDB-A01DF5F2B2F7}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zhanglun/lettura/releases/download/v0.1.8/Lettura_0.1.8_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/zhanglun/lettura/releases/download/v0.1.8/Lettura_0.1.8_x64_en-US.msi
   InstallerSha256: BF7644E1EA6A4DADE5D39FCE2E32FAC84D040EF6966742A66B23F0FA17B11767
   ProductCode: '{B83D8636-8B61-4802-A5C1-7FF7663BCDC2}'
 ManifestType: installer

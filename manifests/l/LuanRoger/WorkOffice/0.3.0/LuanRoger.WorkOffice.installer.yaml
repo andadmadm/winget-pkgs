@@ -11,7 +11,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LuanRoger/WorkOffice/releases/download/v0.3.0/workoffice-0.3.0-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/LuanRoger/WorkOffice/releases/download/v0.3.0/workoffice-0.3.0-x86_64.msi
   InstallerSha256: 895759C047D88AD587124DBB8C436844CD0FEB95347A547F95A66ADAE69F5B0A
 ManifestType: installer
 ManifestVersion: 1.4.0

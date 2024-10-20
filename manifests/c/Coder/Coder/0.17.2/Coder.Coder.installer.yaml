@@ -6,7 +6,7 @@ PackageVersion: 0.17.2
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/coder/coder/releases/download/v0.17.2/coder_0.17.2_windows_amd64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/coder/coder/releases/download/v0.17.2/coder_0.17.2_windows_amd64_installer.exe
   InstallerSha256: 7F201233C06E4933393825F22E4F405303E12FDF21E765446E6C40813C05A326
 ManifestType: installer
 ManifestVersion: 1.4.0

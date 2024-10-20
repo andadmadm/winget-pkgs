@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-05-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lubomirkurcak/tend/releases/download/0.2.10/tend-0.2.10-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/lubomirkurcak/tend/releases/download/0.2.10/tend-0.2.10-x86_64-pc-windows-msvc.zip
   InstallerSha256: 9A92EE1AF6EDB4B45CB2ECE728340B52A1A3F09165E29B0E5A149AD89C0D4A5C
 ManifestType: installer
 ManifestVersion: 1.5.0

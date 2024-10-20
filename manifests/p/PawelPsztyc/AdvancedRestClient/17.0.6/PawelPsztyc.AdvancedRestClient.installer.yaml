@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.6/arc-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.6/arc-setup.exe
   InstallerSha256: 7B40D8EFE724F7F42A53713ED1F24A1B27258121C3A1344601FC2886213068AD
 ManifestType: installer
 ManifestVersion: 1.1.0

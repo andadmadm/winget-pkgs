@@ -9,13 +9,13 @@ ReleaseDate: 2022-05-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v22.5.2/Trezor-Suite-22.5.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v22.5.2/Trezor-Suite-22.5.2-win-x64.exe
   InstallerSha256: E93A689893FDF6D9F44A7E665EC2E855C14A072957B9EB85F5E3518A0FA9A02A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v22.5.2/Trezor-Suite-22.5.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v22.5.2/Trezor-Suite-22.5.2-win-x64.exe
   InstallerSha256: E93A689893FDF6D9F44A7E665EC2E855C14A072957B9EB85F5E3518A0FA9A02A
   InstallerSwitches:
     Custom: /ALLUSERS

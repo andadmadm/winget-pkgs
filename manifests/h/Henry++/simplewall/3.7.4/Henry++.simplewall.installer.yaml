@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/henrypp/simplewall/releases/download/v.3.7.4/simplewall-3.7.4-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/simplewall/releases/download/v.3.7.4/simplewall-3.7.4-setup.exe
   InstallerSha256: A0311E84379B0EC8C9A83DCF9869B562C58BDBE552E06E8D4DF17F1A9DC6202D
 ManifestType: installer
 ManifestVersion: 1.5.0

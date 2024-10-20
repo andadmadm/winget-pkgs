@@ -13,7 +13,7 @@ Installers:
   Architecture: neutral
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/nvisionative/nvQuickSite/releases/download/v2.1.1/nvQuickSite_v2.1.1.0_Installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nvisionative/nvQuickSite/releases/download/v2.1.1/nvQuickSite_v2.1.1.0_Installer.msi
   InstallerSha256: CF18E99650EE3435EBB2299C4405017994BA65FB09FF969504F30C93CF79A19F
   UpgradeBehavior: install
   ProductCode: '{83278862-AAC2-46A7-98B0-3556A3A48CF1}'

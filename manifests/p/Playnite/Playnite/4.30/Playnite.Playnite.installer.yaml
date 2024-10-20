@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2018-06-06
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/4.30/Playnite430.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/4.30/Playnite430.exe
   InstallerSha256: EC123F7A2BB7D0EC2B0F176A1BB7F855137BB4423CD78560E9C0C07C2EB5692C
 ManifestType: installer
 ManifestVersion: 1.2.0

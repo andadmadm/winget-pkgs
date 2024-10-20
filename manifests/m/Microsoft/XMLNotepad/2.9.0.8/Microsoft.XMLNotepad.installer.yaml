@@ -19,7 +19,7 @@ FileExtensions:
 PackageFamilyName: 43906ChrisLovett.XmlNotepad_hndwmj480pefj
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/microsoft/XmlNotepad/releases/download/2.9.0.8/XmlNotepadPackage_2.9.0.8_AnyCPU.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/XmlNotepad/releases/download/2.9.0.8/XmlNotepadPackage_2.9.0.8_AnyCPU.msixbundle
   InstallerSha256: E978A89E0ED70814DA4031646F2B8449C31ACDAA4C50187C5A3EC330204A5DDA
   SignatureSha256: 69277D98772D613E3C60219B8A8E48CF6E15266E4FBBDB37FBDEA780F4364522
 ManifestType: installer

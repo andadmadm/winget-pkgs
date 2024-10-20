@@ -9,14 +9,14 @@ Commands:
 - func
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5413/func-cli-4.0.5413-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5413/func-cli-4.0.5413-x86.msi
   InstallerSha256: E1D23FBFAEE680B8A270E70F5FF1C46574E261A0B5D80AB3BF61339E7350882C
   ProductCode: '{947BFDCF-32D7-47FE-911E-8E80BA22D102}'
   AppsAndFeaturesEntries:
   - DisplayName: Azure Functions Core Tools - 4.0.5390 (x86)
     UpgradeCode: '{31C010A9-2414-4DB7-BFEA-A6F1D085382E}'
 - Architecture: x64
-  InstallerUrl: https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5413/func-cli-4.0.5413-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-functions-core-tools/releases/download/4.0.5413/func-cli-4.0.5413-x64.msi
   InstallerSha256: 4EE21D1F9A035EC52AFAD00085A32109CA58328BA518F2855361D9043A184BCD
   ProductCode: '{87E264FD-E351-4D34-B27A-942AE3871F07}'
   AppsAndFeaturesEntries:

@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.15.9/SchemaCrawler-16.15.9.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.15.9/SchemaCrawler-16.15.9.msi
   InstallerSha256: 50FBDAB6CCD8B398F76E309C0D8F526453AABAAC91523FA77939B3A949AFE067
   ProductCode: '{EE279A8B-5CC9-3A9A-8705-4588BAA1FDF7}'
 ManifestType: installer

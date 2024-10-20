@@ -17,7 +17,7 @@ ProductCode: balena-cli
 ReleaseDate: 2023-09-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/balena-io/balena-cli/releases/download/v17.1.4/balena-cli-v17.1.4-windows-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/balena-io/balena-cli/releases/download/v17.1.4/balena-cli-v17.1.4-windows-x64-installer.exe
   InstallerSha256: D568941BCFBE7834049541613CA2BFABD8CE2EA8CFC09C0F1924391BB17B052A
 ManifestType: installer
 ManifestVersion: 1.5.0

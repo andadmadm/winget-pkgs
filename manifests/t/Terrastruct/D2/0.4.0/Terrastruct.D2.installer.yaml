@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/terrastruct/d2/releases/download/v0.4.0/d2-v0.4.0-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/terrastruct/d2/releases/download/v0.4.0/d2-v0.4.0-windows-amd64.msi
   InstallerSha256: 232BAB586DC406EDE2CA011D7672DFBC05D8B5788694CA97D0DD93BC4B0CB56C
   ProductCode: '{177A3BB6-3638-474C-A85B-684BD0113217}'
 ManifestType: installer

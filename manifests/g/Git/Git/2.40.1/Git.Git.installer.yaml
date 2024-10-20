@@ -17,12 +17,12 @@ InstallerSwitches:
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
   InstallerSha256: D2F0FBF9D84622B2AA4AED401DAF6DEDB8AC89BB388AF02078BA375496A873DC
   ElevationRequirement: elevatesSelf
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
   InstallerSha256: D2F0FBF9D84622B2AA4AED401DAF6DEDB8AC89BB388AF02078BA375496A873DC
   ElevationRequirement: elevatesSelf
 ManifestType: installer

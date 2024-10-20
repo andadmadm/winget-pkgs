@@ -16,7 +16,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.Runtime.3_1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.49.1/PowerToysSetup-0.49.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.49.1/PowerToysSetup-0.49.1-x64.exe
   InstallerSha256: 31962E9947318F00086269B903E3B53B4613C9E9ABE32A71D1128E3437222B2C
 ManifestType: installer
 ManifestVersion: 1.2.0

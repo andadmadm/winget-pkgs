@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2018-12-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/4.64/Playnite464.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/4.64/Playnite464.exe
   InstallerSha256: 64258BEED06F8A4D2174BF248F4DF83FD88E4550F817871427185ECE122308B3
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ThePBone/GalaxyBudsClient/releases/download/4.2.1/GalaxyBudsClient_Windows_64bit_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ThePBone/GalaxyBudsClient/releases/download/4.2.1/GalaxyBudsClient_Windows_64bit_Setup.exe
   InstallerSha256: EFB1929220F28A2FCE537D19282816A3FCCAE6C637A0CC1F2948974DB4C8AFDB
   UpgradeBehavior: install
 ManifestType: installer

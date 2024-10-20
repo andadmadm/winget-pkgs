@@ -18,7 +18,7 @@ Protocols:
 ReleaseDate: 2023-11-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/elibroftw/music-caster/releases/download/v5.16.0/Music.Caster.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/elibroftw/music-caster/releases/download/v5.16.0/Music.Caster.Setup.exe
   InstallerSha256: 4896369397ED47732C35A2046B18A0C84F09643D3FA616717EB49F07E0C72BE1
 ManifestType: installer
 ManifestVersion: 1.5.0

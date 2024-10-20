@@ -8,7 +8,7 @@ Commands:
 - perfview
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/microsoft/perfview/releases/download/v3.0.6/PerfView.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/perfview/releases/download/v3.0.6/PerfView.exe
   InstallerSha256: F598A0D7C744BD3CECEBE96E402989E92081DB2144DD194C4706D07E51C19BBE
 ManifestType: installer
 ManifestVersion: 1.2.0

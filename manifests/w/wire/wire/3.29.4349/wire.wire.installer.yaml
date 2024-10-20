@@ -15,7 +15,7 @@ InstallerSwitches:
 ReleaseDate: 2022-11-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/wireapp/wire-desktop/releases/download/windows/3.29.4349/Wire-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/wireapp/wire-desktop/releases/download/windows/3.29.4349/Wire-Setup.exe
   InstallerSha256: 0528E6BB5F86FBCEFE8541D12D0BA084F986C9D66B4DFC4FA559EA0EABA9712E
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v0.0.12/rubick2-Setup-0.0.12.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v0.0.12/rubick2-Setup-0.0.12.exe
   InstallerSha256: 627EB703E59D1A334BE174AA11AD35C527C735B7B522E166B90E5B69D194369A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v0.0.12/rubick2-Setup-0.0.12.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v0.0.12/rubick2-Setup-0.0.12.exe
   InstallerSha256: 627EB703E59D1A334BE174AA11AD35C527C735B7B522E166B90E5B69D194369A
   InstallerSwitches:
     Custom: /ALLUSERS

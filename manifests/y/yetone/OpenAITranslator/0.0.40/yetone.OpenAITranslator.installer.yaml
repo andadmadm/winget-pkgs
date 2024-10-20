@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2023-05-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/yetone/openai-translator/releases/download/v0.0.40/OpenAI.Translator_0.0.40_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/yetone/openai-translator/releases/download/v0.0.40/OpenAI.Translator_0.0.40_x64_en-US.msi
   InstallerSha256: 462FB67B816474B3C635D280228AFB296FDEA9B72D53E16CFA0DE607CC35DC34
   ProductCode: '{E0F33EDC-2C07-49AC-8C6D-E78C184E0A07}'
 ManifestType: installer

@@ -9,7 +9,7 @@ FileExtensions:
 - pyc
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/winpython/winpython/releases/download/4.3.20210620/Winpython64-3.9.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/winpython/winpython/releases/download/4.3.20210620/Winpython64-3.9.5.0.exe
   InstallerSha256: 9A2F25EE58A35656A06BAFEDDBA87C47DE28CF11931CDBAFE0EBD5B5A4EAC2D5
   InstallerSwitches:
     Silent: -y -o".\winpython"

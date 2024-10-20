@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: qownnotes.exe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pbek/QOwnNotes/releases/download/v23.12.3/QOwnNotes.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/pbek/QOwnNotes/releases/download/v23.12.3/QOwnNotes.zip
   InstallerSha256: 74B354D78FE535FB07A34C87D9AB730C8E45D51FCE3DB13DF7051F7DA8936460
 ManifestType: installer
 ManifestVersion: 1.5.0

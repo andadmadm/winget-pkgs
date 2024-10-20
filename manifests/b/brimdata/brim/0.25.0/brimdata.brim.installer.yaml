@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/brimdata/brim/releases/download/v0.25.0/Brim-Setup-0.25.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brimdata/brim/releases/download/v0.25.0/Brim-Setup-0.25.0.exe
   InstallerSha256: 4F05CC7E6FF00DAE233FF7D19524CD80E945E0679612B43D04449F34E8E97209
   UpgradeBehavior: install
 ManifestType: installer

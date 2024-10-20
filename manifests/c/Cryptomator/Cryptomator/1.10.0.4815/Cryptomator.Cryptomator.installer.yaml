@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cryptomator/cryptomator/releases/download/1.10.0/Cryptomator-1.10.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cryptomator/cryptomator/releases/download/1.10.0/Cryptomator-1.10.0-x64.msi
   InstallerSha256: F81AE343DCCD925881366727B26931B1A3323AE309DCA32C24C6967DB5A60EA2
   ProductCode: '{57894192-9362-3B14-882F-DE384113B340}'
 ManifestType: installer

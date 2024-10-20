@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/leozide/leocad/releases/download/v21.01/LeoCAD-Windows-21.01.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/leozide/leocad/releases/download/v21.01/LeoCAD-Windows-21.01.exe
   InstallerSha256: 6D053F96DA47F9D2C019D54C8F9A72F2C4FE63007CD5C43921BE177D7A23BFAA
 ManifestType: installer
 ManifestVersion: 1.1.0

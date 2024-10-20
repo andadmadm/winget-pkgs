@@ -10,7 +10,7 @@ Installers:
 - Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Jigsaw-Code/outline-server/releases/download/v1.8.1/Outline-Manager.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jigsaw-Code/outline-server/releases/download/v1.8.1/Outline-Manager.exe
   InstallerSha256: 2207872761E3F5A9FA79E7758931A9FA10CCE8B69EE14F70B0ABFCA190CDCEE4
   UpgradeBehavior: install
 ManifestType: installer

@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: devopsmigration.exe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nkdAgility/azure-devops-migration-tools/releases/download/v14.1.0/MigrationTools-14.1.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nkdAgility/azure-devops-migration-tools/releases/download/v14.1.0/MigrationTools-14.1.0.zip
   InstallerSha256: 2FFAF5C0273E883BA5CF42DE76F2E435B0CE32B6BABD547A8AD378512C850169
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2021.11.2/jitsi-meet.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jitsi/jitsi-meet-electron/releases/download/v2021.11.2/jitsi-meet.exe
   InstallerSha256: 29A2C64BEF69269F9FD6A9F3AD7E83E61E938BC476155386C88A5770D84D0C56
 ManifestType: installer
 ManifestVersion: 1.0.0

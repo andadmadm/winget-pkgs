@@ -13,7 +13,7 @@ Commands:
 ReleaseDate: 2024-06-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/houmain/spright/releases/download/3.5.0/spright-3.5.0-win64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/houmain/spright/releases/download/3.5.0/spright-3.5.0-win64.zip
   InstallerSha256: B29705265603D61D843E6F58DAB5858A417C060E0D0E7C9446B6FAA3AFC39F9B
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/klaussinani/tusk/releases/download/v0.19.0/tusk-setup-0.19.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/klaussinani/tusk/releases/download/v0.19.0/tusk-setup-0.19.0.exe
   InstallerSha256: 23EF2677781C593FADEDBDAD366B97668082B1D63C1CE9ECD102B7CEF5378586
 ManifestType: installer
 ManifestVersion: 1.1.0

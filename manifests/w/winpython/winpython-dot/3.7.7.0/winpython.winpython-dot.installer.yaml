@@ -13,7 +13,7 @@ FileExtensions:
 - pyc
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/winpython/winpython/releases/download/2.3.20200319/Winpython64-3.7.7.0dot.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/winpython/winpython/releases/download/2.3.20200319/Winpython64-3.7.7.0dot.exe
   InstallerSha256: 8004297D2D583D844E3B1BD67BD5367DE79086BCC76A1544A4CF010D81B6BE8B
 ManifestType: installer
 ManifestVersion: 1.2.0

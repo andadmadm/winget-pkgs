@@ -12,7 +12,7 @@ Dependencies:
 ReleaseDate: 2024-07-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/neovide/neovide/releases/download/0.13.3/neovide.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/neovide/neovide/releases/download/0.13.3/neovide.msi
   InstallerSha256: 923C03803BFA905E2E362CBDFBD036716C825104953CEA7853F2F488DA6D3EC8
   ProductCode: '{A4220AAF-B6DD-4E0C-8195-291F72F0C6AD}'
 ManifestType: installer

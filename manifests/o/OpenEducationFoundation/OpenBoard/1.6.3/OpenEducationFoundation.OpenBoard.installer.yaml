@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.6.3/OpenBoard_Installer_1.6.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.6.3/OpenBoard_Installer_1.6.3.exe
   InstallerSha256: 0EFF6CC4306EDA134BF87C793EC31B8C4F311F73B54345FB5E95D9141F7A1D83
 ManifestType: installer
 ManifestVersion: 1.1.0

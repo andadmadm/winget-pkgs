@@ -6,7 +6,7 @@ PackageVersion: 1.1.1
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/dlang/visuald/releases/download/v1.1.1/VisualD-v1.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dlang/visuald/releases/download/v1.1.1/VisualD-v1.1.1.exe
   InstallerSha256: FDA24A52674D5B94208EBFDD528506161FED8712095B3A7FA10B5D58638BFB4E
 ManifestType: installer
 ManifestVersion: 1.0.0

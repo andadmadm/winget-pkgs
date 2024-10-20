@@ -149,12 +149,12 @@ ReleaseDate: 2024-10-09
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/posit-dev/positron/releases/download/2024.10.0-14/Positron-2024.10.0-14-UserSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/posit-dev/positron/releases/download/2024.10.0-14/Positron-2024.10.0-14-UserSetup.exe
   InstallerSha256: 2B1DCC4E81001EBCB1C4CBA8A46042D51C3F2AE49FEEB289EB00690816C13115
   ProductCode: '{5894F169-3C13-4E32-A124-67BDE57636E1}_is1'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/posit-dev/positron/releases/download/2024.10.0-14/Positron-2024.10.0-14-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/posit-dev/positron/releases/download/2024.10.0-14/Positron-2024.10.0-14-Setup.exe
   InstallerSha256: 12D5309FA2095D2EA192F828327C101DB40776A0FCAE40782BC66498FB237A32
   ProductCode: '{08FC0438-DEF4-4349-85AE-FA80317766E9}_is1'
 ManifestType: installer

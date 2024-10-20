@@ -18,14 +18,14 @@ ReleaseDate: 2023-10-29
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/vapoursynth/vapoursynth/releases/download/R65/VapourSynth-x64-R65.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vapoursynth/vapoursynth/releases/download/R65/VapourSynth-x64-R65.exe
   InstallerSha256: 130B7C0769E88E0E09F1883698E10BEC5E29AA585DF0180B746B78D11A130FE6
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: VapourSynth_is1
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/vapoursynth/vapoursynth/releases/download/R65/VapourSynth-x64-R65.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vapoursynth/vapoursynth/releases/download/R65/VapourSynth-x64-R65.exe
   InstallerSha256: 130B7C0769E88E0E09F1883698E10BEC5E29AA585DF0180B746B78D11A130FE6
   InstallerSwitches:
     Custom: /ALLUSERS

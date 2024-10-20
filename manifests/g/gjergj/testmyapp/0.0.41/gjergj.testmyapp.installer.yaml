@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: testmyapp.exe
         PortableCommandAlias: testmyapp
-    InstallerUrl: https://github.com/Gjergj/testmyapp/releases/download/v0.0.41/testmyapp_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Gjergj/testmyapp/releases/download/v0.0.41/testmyapp_Windows_arm64.zip
     InstallerSha256: 99c87deca0b4554cc08b8591c19d691ffa0b5855aac44f9a59d6a6c2e99c7ca6
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: testmyapp.exe
         PortableCommandAlias: testmyapp
-    InstallerUrl: https://github.com/Gjergj/testmyapp/releases/download/v0.0.41/testmyapp_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Gjergj/testmyapp/releases/download/v0.0.41/testmyapp_Windows_x86_64.zip
     InstallerSha256: e0bef6c10e896120c08df63e06e125c35783db70b570c437a5a7429b3d552ef3
     UpgradeBehavior: uninstallPrevious
   - Architecture: x86
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: testmyapp.exe
         PortableCommandAlias: testmyapp
-    InstallerUrl: https://github.com/Gjergj/testmyapp/releases/download/v0.0.41/testmyapp_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Gjergj/testmyapp/releases/download/v0.0.41/testmyapp_Windows_i386.zip
     InstallerSha256: 9c8a187fe9886320e355e1ffa44bae2b6d926aada6725496add1a447a5c3d1c2
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

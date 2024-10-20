@@ -16,7 +16,7 @@ FileExtensions:
 - apkg
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.56/anki-2.1.56-windows-qt6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.56/anki-2.1.56-windows-qt6.exe
   InstallerSha256: 3D4D6B83998CC5FF09435FB7E1BD105A0AE749423B1655BBDDB2F557F689A961
   ProductCode: Anki
 ManifestType: installer

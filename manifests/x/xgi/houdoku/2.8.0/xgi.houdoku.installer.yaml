@@ -14,13 +14,13 @@ ReleaseDate: 2022-02-16
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.8.0/Houdoku-Setup-2.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.8.0/Houdoku-Setup-2.8.0.exe
   InstallerSha256: 4A46BB576C44AAF3C774403C4A863F67710A81E8C25BF278DB1DC1CF22C48C76
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/xgi/houdoku/releases/download/v2.8.0/Houdoku-Setup-2.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xgi/houdoku/releases/download/v2.8.0/Houdoku-Setup-2.8.0.exe
   InstallerSha256: 4A46BB576C44AAF3C774403C4A863F67710A81E8C25BF278DB1DC1CF22C48C76
   InstallerSwitches:
     Custom: /ALLUSERS

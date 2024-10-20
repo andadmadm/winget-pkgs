@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{5167584F-C196-428F-BE40-4C861025E90A}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pychess/pychess/releases/download/1.0.5/pychess-1.0.5-mingw_x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pychess/pychess/releases/download/1.0.5/pychess-1.0.5-mingw_x86_64.msi
   InstallerSha256: A2ED5A66874041B2504D00643D7CB050D60A155979BBB3E476675C88A61DC79C
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -12,7 +12,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/WowUp/WowUp/releases/download/v2.4.2/WowUp-Setup-2.4.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WowUp/WowUp/releases/download/v2.4.2/WowUp-Setup-2.4.2.exe
   InstallerSha256: D0D0F3468AD0FBFDE184134AE387E6E250B02A77EFC4FB58FAF4450889E0948D
   UpgradeBehavior: install
 ManifestType: installer

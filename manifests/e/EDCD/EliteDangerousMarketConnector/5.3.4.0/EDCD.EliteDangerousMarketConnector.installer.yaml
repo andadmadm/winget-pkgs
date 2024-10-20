@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-03-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/EDCD/EDMarketConnector/releases/download/Release%2F5.3.4/EDMarketConnector_win_5.3.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/EDCD/EDMarketConnector/releases/download/Release%2F5.3.4/EDMarketConnector_win_5.3.4.msi
   InstallerSha256: 8DE72FEA814F7A4056C9CE4F9DC0A213DB1A70D8E59B41782C6AC97042CF6C16
   ProductCode: '{B5A39918-160D-4ED4-B7FC-93C51533175D}'
 ManifestType: installer

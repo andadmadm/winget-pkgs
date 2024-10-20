@@ -4,7 +4,7 @@
 PackageIdentifier: TaKO8Ki.gobang
 PackageVersion: 0.1.0-alpha.5
 Installers:
-- InstallerUrl: https://github.com/TaKO8Ki/gobang/releases/download/v0.1.0-alpha.5/gobang-0.1.0-alpha.5-x86_64-pc-windows-msvc.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/TaKO8Ki/gobang/releases/download/v0.1.0-alpha.5/gobang-0.1.0-alpha.5-x86_64-pc-windows-msvc.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

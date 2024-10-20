@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{E41901A3-0B71-4D86-9175-B12D7C7533BE}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hirosystems/chainhook/releases/download/v1.6.2/chainhook-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/hirosystems/chainhook/releases/download/v1.6.2/chainhook-windows-x64.msi
   InstallerSha256: A369C03A8A7F7B2C7BBE9E338A046E3FD69023080D8825438B1802DAC1F47AC2
 ManifestType: installer
 ManifestVersion: 1.5.0

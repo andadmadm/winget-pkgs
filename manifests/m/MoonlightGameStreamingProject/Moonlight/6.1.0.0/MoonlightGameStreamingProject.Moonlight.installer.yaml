@@ -16,10 +16,10 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/MoonlightSetup-6.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/MoonlightSetup-6.1.0.exe
   InstallerSha256: 2537651EE187882ECF68F390F395A7E5005923721800E44B58E9776D3B10578A
 - Architecture: arm64
-  InstallerUrl: https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/MoonlightSetup-6.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/MoonlightSetup-6.1.0.exe
   InstallerSha256: 2537651EE187882ECF68F390F395A7E5005923721800E44B58E9776D3B10578A
 ManifestType: installer
 ManifestVersion: 1.6.0

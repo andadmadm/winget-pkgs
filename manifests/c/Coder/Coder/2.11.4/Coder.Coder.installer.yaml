@@ -9,7 +9,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/coder/coder/releases/download/v2.11.4/coder_2.11.4_windows_amd64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/coder/coder/releases/download/v2.11.4/coder_2.11.4_windows_amd64_installer.exe
   InstallerSha256: 8A3838611046BB2582744DCC9DEFD4E66F0F83901F40CD07DEAAC5B8238862A5
   ProductCode: Coder
   ElevationRequirement: elevatesSelf
@@ -19,7 +19,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: coder.exe
     PortableCommandAlias: coder
-  InstallerUrl: https://github.com/coder/coder/releases/download/v2.11.4/coder_2.11.4_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/coder/coder/releases/download/v2.11.4/coder_2.11.4_windows_amd64.zip
   InstallerSha256: F3833C27E597DD652BDC721A2BD2138F7CFFB812A2664B584C6F5B585593E9C4
   AppsAndFeaturesEntries:
   - DisplayName: Coder (portable)
@@ -29,7 +29,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: coder.exe
     PortableCommandAlias: coder
-  InstallerUrl: https://github.com/coder/coder/releases/download/v2.11.4/coder_2.11.4_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/coder/coder/releases/download/v2.11.4/coder_2.11.4_windows_arm64.zip
   InstallerSha256: BB489E398A1472282B82A92C4BF135B7A127CEE3745A3D02C38208716B68C055
   AppsAndFeaturesEntries:
   - DisplayName: Coder (portable)

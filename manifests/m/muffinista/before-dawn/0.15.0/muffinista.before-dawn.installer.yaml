@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/muffinista/before-dawn/releases/download/v0.15.0/Before-Dawn-Setup-0.15.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/muffinista/before-dawn/releases/download/v0.15.0/Before-Dawn-Setup-0.15.0.exe
   InstallerSha256: 1974907B4733F792FBCC73D9980734B7C83685C862158681A5D5F69CF0E8819E
 ManifestType: installer
 ManifestVersion: 1.1.0

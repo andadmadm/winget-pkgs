@@ -282,11 +282,11 @@ FileExtensions:
 ReleaseDate: 2023-02-03
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Setup.exe
   InstallerSha256: 1178D30ED208FDFA4437F6487AC29C72E215D58E0A0AFDF24DB8CDCC324AD82B
   ProductCode: Notepad3_is1
 - Architecture: x64
-  InstallerUrl: https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Setup.exe
   InstallerSha256: 74BF8A2E2B1B3722822BAFD0139B891D512B9C6782AD75DD222611F242F74428
   ProductCode: Notepad3_is1
 ManifestType: installer

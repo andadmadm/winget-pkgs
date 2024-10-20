@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: .\inso.exe
     PortableCommandAlias: inso
-  InstallerUrl: https://github.com/Kong/insomnia/releases/download/lib@2023.5.8/inso-windows-2023.5.8.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Kong/insomnia/releases/download/lib@2023.5.8/inso-windows-2023.5.8.zip
   InstallerSha256: 161F0EBBA8D5F175A01B1EF0088B05F075BEE24DE0981E647E353E7E9694D07A
 ManifestType: installer
 ManifestVersion: 1.5.0

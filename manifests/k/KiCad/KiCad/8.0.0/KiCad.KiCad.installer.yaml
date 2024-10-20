@@ -26,13 +26,13 @@ Installers:
   ElevationRequirement: elevatesSelf
   InstallerSwitches: 
     Custom: /allusers
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.0/kicad-8.0.0-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.0/kicad-8.0.0-x86_64.exe
   InstallerSha256: af1a058f15e165fac684478a1c14aea78bed636fe07d708e2a1b9467d0b9754c
 - Architecture: x64
   Scope: user
   InstallerSwitches: 
     Custom: /currentuser
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.0/kicad-8.0.0-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.0/kicad-8.0.0-x86_64.exe
   InstallerSha256: af1a058f15e165fac684478a1c14aea78bed636fe07d708e2a1b9467d0b9754c
 ManifestType: installer
 ManifestVersion: 1.6.0

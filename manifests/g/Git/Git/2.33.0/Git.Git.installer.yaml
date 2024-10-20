@@ -15,14 +15,14 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.1/Git-2.33.0-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.1/Git-2.33.0-64-bit.exe
   InstallerSha256: 4E6E0EFBB7D35653907175F2735386F55B72D37D442B3A1BE9656C26F69C693D
   UpgradeBehavior: install
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.1/Git-2.33.0-32-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.1/Git-2.33.0-32-bit.exe
   InstallerSha256: 715CFC104C249FEA591AB1FB6BA56F970405CDFCEBF11798EB02175A3178D879
   UpgradeBehavior: install
 ManifestType: installer

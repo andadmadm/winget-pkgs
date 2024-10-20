@@ -71,7 +71,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/sn4k3/UVtools/releases/download/v3.12.0/UVtools_win-x64_v3.12.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sn4k3/UVtools/releases/download/v3.12.0/UVtools_win-x64_v3.12.0.msi
   InstallerSha256: E31C9E2BC7D49C985740461874F57A6DE795CE131A643655AFF22163D9A23E8D
   ProductCode: '{31DABE94-3528-4E63-8F10-47177F623AEE}'
 ManifestType: installer

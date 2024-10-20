@@ -9,13 +9,13 @@ UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/infinitepower18/WSA-Sideloader/releases/download/v1.3.10/WSASideloader_1.3.10_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/infinitepower18/WSA-Sideloader/releases/download/v1.3.10/WSASideloader_1.3.10_x64.exe
   InstallerSha256: CE67DB3FC0C564A9C65CD8B6EB5F0BFEC44E60A2FA75B32F04CDCEA8FDA1B343
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/infinitepower18/WSA-Sideloader/releases/download/v1.3.10/WSASideloader_1.3.10_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/infinitepower18/WSA-Sideloader/releases/download/v1.3.10/WSASideloader_1.3.10_x64.exe
   InstallerSha256: CE67DB3FC0C564A9C65CD8B6EB5F0BFEC44E60A2FA75B32F04CDCEA8FDA1B343
   InstallerSwitches:
     Custom: /ALLUSERS

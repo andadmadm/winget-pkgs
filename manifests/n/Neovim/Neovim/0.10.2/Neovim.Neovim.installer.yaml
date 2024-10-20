@@ -20,7 +20,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%/Neovim'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/neovim/neovim/releases/download/v0.10.2/nvim-win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/neovim/neovim/releases/download/v0.10.2/nvim-win64.msi
   InstallerSha256: AB303DB898B193C8BBCEE229052B7EB60DA8C2EF852B0746158902860C2F8C48
 ManifestType: installer
 ManifestVersion: 1.6.0

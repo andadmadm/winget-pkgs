@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-10-19
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/LinwoodCloud/Butterfly/releases/download/v1.5.0-rc.1/linwood-butterfly-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodCloud/Butterfly/releases/download/v1.5.0-rc.1/linwood-butterfly-windows-setup.exe
   InstallerSha256: DA638584FF63A33B8568F7F7921E3540AB277FABFB7E75B6B5E7C786B975EFCD
 ManifestType: installer
 ManifestVersion: 1.2.0

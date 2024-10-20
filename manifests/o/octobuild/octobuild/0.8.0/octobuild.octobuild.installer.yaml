@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{8AD3892C-8DFA-4AB5-BA45-9CB006955B17}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/octobuild/octobuild/releases/download/0.8.0/octobuild-0.8.0-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/octobuild/octobuild/releases/download/0.8.0/octobuild-0.8.0-x86_64.msi
   InstallerSha256: 997077729E35026EB7A05475F57D593C701DFD2CEA4C919FE525A1CF4C7BC628
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -8,7 +8,7 @@ Commands:
 - unifiedlogreader
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ydkhatri/UnifiedLogReader/releases/download/20200124/UnifiedLogReader.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ydkhatri/UnifiedLogReader/releases/download/20200124/UnifiedLogReader.exe
   InstallerSha256: 62CAFB6A410BB0F9001F3E9FC6C60FFC8C5AEBA72D04FDA9686696460AF81D1D
 ManifestType: installer
 ManifestVersion: 1.6.0

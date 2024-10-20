@@ -15,25 +15,25 @@ ReleaseDate: 2023-03-13
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
   InstallerSha256: D4F36BDAEBE97FBAD99026CB7FB0EA26C5051E91893851343F1256BC52D4C2F5
   InstallerSwitches:
     Custom: /CURRENTUSER /RESTARTAPPLICATIONS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
   InstallerSha256: D4F36BDAEBE97FBAD99026CB7FB0EA26C5051E91893851343F1256BC52D4C2F5
   InstallerSwitches:
     Custom: /CURRENTUSER /RESTARTAPPLICATIONS
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
   InstallerSha256: D4F36BDAEBE97FBAD99026CB7FB0EA26C5051E91893851343F1256BC52D4C2F5
   InstallerSwitches:
     Custom: /ALLUSERS /RESTARTAPPLICATIONS
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.10.10/Joplin-Setup-2.10.10.exe
   InstallerSha256: D4F36BDAEBE97FBAD99026CB7FB0EA26C5051E91893851343F1256BC52D4C2F5
   InstallerSwitches:
     Custom: /ALLUSERS /RESTARTAPPLICATIONS

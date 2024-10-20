@@ -8,7 +8,7 @@ Commands:
 - mndptray
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xmegz/MndpTray/releases/download/v2.2.0/MndpTray.Core.Full.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmegz/MndpTray/releases/download/v2.2.0/MndpTray.Core.Full.exe
   InstallerSha256: EE74572FE053239B255D4E5C5C4BA14675933D2DE12CFF23C74FCCAB067DE7F0
 ManifestType: installer
 ManifestVersion: 1.6.0

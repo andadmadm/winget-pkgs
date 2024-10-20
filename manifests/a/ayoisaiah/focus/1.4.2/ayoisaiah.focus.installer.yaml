@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: focus.exe
         PortableCommandAlias: focus
-    InstallerUrl: https://github.com/ayoisaiah/focus/releases/download/v1.4.2/focus_1.4.2_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/ayoisaiah/focus/releases/download/v1.4.2/focus_1.4.2_windows_arm64.zip
     InstallerSha256: 5713871e733d8818eda8a66ad226b8b5f3896c1839b0b9d4f05501b2b8112bc6
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: focus.exe
         PortableCommandAlias: focus
-    InstallerUrl: https://github.com/ayoisaiah/focus/releases/download/v1.4.2/focus_1.4.2_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/ayoisaiah/focus/releases/download/v1.4.2/focus_1.4.2_windows_amd64.zip
     InstallerSha256: d934e855750255432254407fe82d80123e3a1d3b71f6d570e02e017a7a2c7bb3
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

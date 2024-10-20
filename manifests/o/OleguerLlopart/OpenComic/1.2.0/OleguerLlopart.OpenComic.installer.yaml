@@ -7,13 +7,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ollm/OpenComic/releases/download/v1.2.0/OpenComic.Setup.1.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ollm/OpenComic/releases/download/v1.2.0/OpenComic.Setup.1.2.0.exe
   InstallerSha256: E4EBFEE707C03B107A54141A6ACA35425126726660094C00DB88E8BFD561641D
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ollm/OpenComic/releases/download/v1.2.0/OpenComic.Setup.1.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ollm/OpenComic/releases/download/v1.2.0/OpenComic.Setup.1.2.0.exe
   InstallerSha256: E4EBFEE707C03B107A54141A6ACA35425126726660094C00DB88E8BFD561641D
   InstallerSwitches:
     Custom: /ALLUSERS

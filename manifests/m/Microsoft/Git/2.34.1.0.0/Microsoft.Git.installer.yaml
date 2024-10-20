@@ -10,7 +10,7 @@ InstallerType: inno
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/git/releases/download/v2.34.1.vfs.0.0/Git-2.34.1.vfs.0.0-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/git/releases/download/v2.34.1.vfs.0.0/Git-2.34.1.vfs.0.0-64-bit.exe
   InstallerSha256: AA2E29EE9E3ABA899379996F365738CAFAAB1A4B853E2085FD6A264B67FD9EC8
 ManifestType: installer
 ManifestVersion: 1.1.0

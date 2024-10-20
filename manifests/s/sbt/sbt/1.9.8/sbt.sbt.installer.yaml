@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{FA12796B-D5AA-83D0-2E53-616812C25306}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/sbt/sbt/releases/download/v1.9.8/sbt-1.9.8.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sbt/sbt/releases/download/v1.9.8/sbt-1.9.8.msi
   InstallerSha256: 8C9D8DE66319484CED6AA4A665536327D53D373B803886AEF4DE357FB86D187A
 ManifestType: installer
 ManifestVersion: 1.5.0

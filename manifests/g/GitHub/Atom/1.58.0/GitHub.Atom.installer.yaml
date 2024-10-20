@@ -19,14 +19,14 @@ InstallerSwitches:
 Installers:
   - Architecture: x64
     InstallerType: exe
-    InstallerUrl: https://github.com/atom/atom/releases/download/v1.58.0/AtomSetup-x64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.58.0/AtomSetup-x64.exe
     InstallerSha256: A21C8CF1C401272FADA44F48233CF9BA665F66E2A02734D59D566A71B3443272
     Scope: user
     InstallerLocale: en-US
     UpgradeBehavior: install
   - Architecture: x86
     InstallerType: exe
-    InstallerUrl: https://github.com/atom/atom/releases/download/v1.58.0/AtomSetup.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/atom/atom/releases/download/v1.58.0/AtomSetup.exe
     InstallerSha256: B8BBF1DA5FD7ABE035D29CADD13DFF63DC2EE31E5E8DE477DE5FB8A3B1C810EA
     Scope: user
     InstallerLocale: en-US

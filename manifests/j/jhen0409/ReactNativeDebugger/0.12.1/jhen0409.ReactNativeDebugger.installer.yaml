@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-07-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jhen0409/react-native-debugger/releases/download/v0.12.1/react_native_debugger-0.12.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jhen0409/react-native-debugger/releases/download/v0.12.1/react_native_debugger-0.12.1-setup.exe
   InstallerSha256: 1A98F8085B826ED76084DAF9E004E7A0E1C7AD9CE85B1FD6DF74E2CD4099CC50
   ProductCode: react_native_debugger
 ManifestType: installer

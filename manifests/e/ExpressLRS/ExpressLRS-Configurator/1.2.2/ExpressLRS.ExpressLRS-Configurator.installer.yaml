@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.2.2/ExpressLRS-Configurator-Setup-1.2.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.2.2/ExpressLRS-Configurator-Setup-1.2.2.exe
   InstallerSha256: 4F3055C741E06030037DCDD2466D8A1015DF2C38DFF7E0F22A8B64112E95835F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.2.2/ExpressLRS-Configurator-Setup-1.2.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.2.2/ExpressLRS-Configurator-Setup-1.2.2.exe
   InstallerSha256: 4F3055C741E06030037DCDD2466D8A1015DF2C38DFF7E0F22A8B64112E95835F
   InstallerSwitches:
     Custom: /ALLUSERS

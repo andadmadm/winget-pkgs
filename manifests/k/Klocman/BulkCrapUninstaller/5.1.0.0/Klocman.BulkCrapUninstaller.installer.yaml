@@ -15,7 +15,7 @@ Installers:
   Architecture: neutral
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.1/BCUninstaller_5.1_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.1/BCUninstaller_5.1_setup.exe
   InstallerSha256: 3BFFCFB5F282B32242631A7A93C4B68B8A25AA37B24FE71ABE8F9178F0B16BB3
   UpgradeBehavior: install
 ManifestType: installer

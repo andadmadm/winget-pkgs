@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: appx
   Scope: user
-  InstallerUrl: https://github.com/isaacrlevin/presencelight/releases/download/Desktop-v4.1.41/PresenceLight.Package_4.1.41.0_x64.appxbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/isaacrlevin/presencelight/releases/download/Desktop-v4.1.41/PresenceLight.Package_4.1.41.0_x64.appxbundle
   InstallerSha256: CC07413B37FB3C0B8551568436F8DFE532542DD254E1EEC081ECBBEAB719CD52
   SignatureSha256: D86CDC82B8FA51DE6190C5BC1A570F0A2CE7AAC92123AD93074215A31ECB050E
   PackageFamilyName: 37828IsaacLevin.197278F15330A_jvewcxq8vj8qt

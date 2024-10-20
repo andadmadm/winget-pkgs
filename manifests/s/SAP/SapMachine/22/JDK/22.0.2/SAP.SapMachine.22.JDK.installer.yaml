@@ -37,7 +37,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{FE305057-F222-4778-984D-A2CA73EAEC79}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SAP/SapMachine/releases/download/sapmachine-22.0.2/sapmachine-jdk-22.0.2_windows-x64_bin.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/SAP/SapMachine/releases/download/sapmachine-22.0.2/sapmachine-jdk-22.0.2_windows-x64_bin.msi
   InstallerSha256: 19DDB16B15E997BC8B08B91151EBC79C13577755AA5E1A1176FB0CEDFDE182CE
   ProductCode: '{FA2AC3C0-8004-4AB3-9EDF-561B8800140A}'
 ManifestType: installer

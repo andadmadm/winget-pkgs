@@ -12,7 +12,7 @@ NestedInstallerFiles:
   PortableCommandAlias: bunx
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oven-sh/bun/releases/download/bun-v1.1.0/bun-windows-x64-baseline.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/oven-sh/bun/releases/download/bun-v1.1.0/bun-windows-x64-baseline.zip
   InstallerSha256: B4E1E0051A18BC6D104A4990E9ABFA9B802D1ECD4D52752C6C9154E17BF987CB
   Dependencies:
     PackageDependencies:

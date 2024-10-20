@@ -14,13 +14,13 @@ RequireExplicitUpgrade: true
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/4.10.3-9/Miniforge3-4.10.3-9-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/4.10.3-9/Miniforge3-4.10.3-9-Windows-x86_64.exe
   InstallerSha256: AAE2397854B5F39B6A97CFE52E6E4AE5252933106FFE03B1F9E710F9B9FF4F40
   InstallerSwitches:
     Custom: /InstallationType=JustMe /AddToPath=0 /RegisterPython=0
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/4.10.3-9/Miniforge3-4.10.3-9-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/4.10.3-9/Miniforge3-4.10.3-9-Windows-x86_64.exe
   InstallerSha256: AAE2397854B5F39B6A97CFE52E6E4AE5252933106FFE03B1F9E710F9B9FF4F40
   InstallerSwitches:
     Custom: /InstallationType=AllUsers /AddToPath=0 /RegisterPython=0

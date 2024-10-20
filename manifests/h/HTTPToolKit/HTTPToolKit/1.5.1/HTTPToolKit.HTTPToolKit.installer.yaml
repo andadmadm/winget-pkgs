@@ -14,7 +14,7 @@ Commands:
 - httptoolkit
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.5.1/HttpToolkit-installer-1.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.5.1/HttpToolkit-installer-1.5.1.exe
   InstallerSha256: FB93C2BAB07C125232470DB31981F13F9D6E1F761A6DA1CAEEEEDF9C542405C6
 ManifestType: installer
 ManifestVersion: 1.1.0

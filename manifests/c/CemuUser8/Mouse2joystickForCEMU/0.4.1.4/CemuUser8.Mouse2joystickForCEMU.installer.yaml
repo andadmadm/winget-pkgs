@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: mouse2joystick_Custom_CEMU
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/CemuUser8/mouse2joystick_custom_CEMU/releases/latest/download/mouse2joystick_custom_CEMU.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/CemuUser8/mouse2joystick_custom_CEMU/releases/latest/download/mouse2joystick_custom_CEMU.zip
   InstallerSha256: 4FEE2CAF5B10D86876D3EA92ACC5ECBBDA99B866332A0AD0652339897DE8D8BC
 Dependencies:
   PackageDependencies:

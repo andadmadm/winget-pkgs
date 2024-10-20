@@ -15,7 +15,7 @@ Installers:
     Architecture: x64
     Scope: machine
     InstallerType: inno
-    InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/1.9.14/MPC-HC.1.9.14.x64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/1.9.14/MPC-HC.1.9.14.x64.exe
     InstallerSha256: 25CB8279DA55ADEFB5078593728336C822089B071142830E6683ABE320ED1F20
     UpgradeBehavior: install
   - Platform:
@@ -24,7 +24,7 @@ Installers:
     Architecture: x86
     Scope: machine
     InstallerType: inno
-    InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/1.9.14/MPC-HC.1.9.14.x86.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/1.9.14/MPC-HC.1.9.14.x86.exe
     InstallerSha256: 27934980FDF7E2AA25BC5FD932CAFE02366D3E66F71A8ED34E9849741EC101F7
     UpgradeBehavior: install
 FileExtensions:

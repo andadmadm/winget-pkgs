@@ -18,7 +18,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: dive.exe
     PortableCommandAlias: dive
-  InstallerUrl: https://github.com/wagoodman/dive/releases/download/v0.10.0/dive_0.10.0_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/wagoodman/dive/releases/download/v0.10.0/dive_0.10.0_windows_amd64.zip
   InstallerSha256: E88CF463B48D9EDC22F71B63D43F076826F32F6777AC9A8D288DD3DD8F0599E3
 ManifestType: installer
 ManifestVersion: 1.4.0

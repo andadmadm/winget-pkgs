@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: NoSqlAssistant-1.1.5.1-windows\NoSqlAssistant-1.1.5.1-windows.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/nosql-assistant-release/releases/download/v1.1.5.1/NoSqlAssistant-1.1.5.1-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/nosql-assistant-release/releases/download/v1.1.5.1/NoSqlAssistant-1.1.5.1-windows.zip
   InstallerSha256: 4FF32AD0EED203E5780120EC1769740C5F91C73465E62A1DB1D2A3DC198E1F46
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: NoSqlAssistant-1.1.5.1-windows\NoSqlAssistant-1.1.5.1-windows.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/nosql-assistant-release/releases/download/v1.1.5.1/NoSqlAssistant-1.1.5.1-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/nosql-assistant-release/releases/download/v1.1.5.1/NoSqlAssistant-1.1.5.1-windows.zip
   InstallerSha256: 4FF32AD0EED203E5780120EC1769740C5F91C73465E62A1DB1D2A3DC198E1F46
   InstallerSwitches:
     Custom: /ALLUSERS

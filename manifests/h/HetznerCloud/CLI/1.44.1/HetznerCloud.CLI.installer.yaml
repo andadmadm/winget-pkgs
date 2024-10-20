@@ -10,10 +10,10 @@ NestedInstallerFiles:
 ReleaseDate: 2024-06-26
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/hetznercloud/cli/releases/download/v1.44.1/hcloud-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/hetznercloud/cli/releases/download/v1.44.1/hcloud-windows-amd64.zip
   InstallerSha256: 5DD308B8DB285A9AE75A763BFD334E1C1CD226CA138125EDAC84A5DC2FD48C6B
 - Architecture: x64
-  InstallerUrl: https://github.com/hetznercloud/cli/releases/download/v1.44.1/hcloud-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/hetznercloud/cli/releases/download/v1.44.1/hcloud-windows-amd64.zip
   InstallerSha256: 5DD308B8DB285A9AE75A763BFD334E1C1CD226CA138125EDAC84A5DC2FD48C6B
 ManifestType: installer
 ManifestVersion: 1.6.0

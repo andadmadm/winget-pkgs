@@ -14,10 +14,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/supercollider/supercollider/releases/download/Version-3.12.2/SuperCollider-3.12.2_Release-x64-VS-7c4c983.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supercollider/supercollider/releases/download/Version-3.12.2/SuperCollider-3.12.2_Release-x64-VS-7c4c983.exe
   InstallerSha256: 5D21B2A830FC3752ACF42066496E84639202708755B2FA051CAA2B833140A8D8
 - Architecture: x86
-  InstallerUrl: https://github.com/supercollider/supercollider/releases/download/Version-3.12.2/SuperCollider-3.12.2_Release-x86-VS-7c4c983.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/supercollider/supercollider/releases/download/Version-3.12.2/SuperCollider-3.12.2_Release-x86-VS-7c4c983.exe
   InstallerSha256: FDCAC482D984BA72E37394301DDEDD1DF0F4A094C54AA94F762A6D47CDB6EB6D
 ManifestType: installer
 ManifestVersion: 1.1.0

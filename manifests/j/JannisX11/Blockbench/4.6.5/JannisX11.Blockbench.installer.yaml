@@ -15,7 +15,7 @@ FileExtensions:
 ReleaseDate: 2023-03-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JannisX11/blockbench/releases/download/v4.6.5/Blockbench_4.6.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JannisX11/blockbench/releases/download/v4.6.5/Blockbench_4.6.5.exe
   InstallerSha256: F5095949EAFFF2791E0B95B84A01CED87646954770DF806902161845804CF903
 ManifestType: installer
 ManifestVersion: 1.2.0

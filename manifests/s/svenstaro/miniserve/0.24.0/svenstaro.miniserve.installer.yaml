@@ -8,7 +8,7 @@ Commands:
 - miniserve
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/svenstaro/miniserve/releases/download/v0.24.0/miniserve-0.24.0-x86_64-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/svenstaro/miniserve/releases/download/v0.24.0/miniserve-0.24.0-x86_64-pc-windows-msvc.exe
   InstallerSha256: 08433F306F479740712D186587598BA17C9C7EE78FE373361B242A8A7E006385
 ManifestType: installer
 ManifestVersion: 1.5.0

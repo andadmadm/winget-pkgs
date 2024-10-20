@@ -11,7 +11,7 @@ Installers:
 - Architecture: x86
   NestedInstallerFiles:
   - RelativeFilePath: git-cliff-2.6.1/git-cliff.exe
-  InstallerUrl: https://github.com/orhun/git-cliff/releases/download/v2.6.1/git-cliff-2.6.1-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/orhun/git-cliff/releases/download/v2.6.1/git-cliff-2.6.1-i686-pc-windows-msvc.zip
   InstallerSha256: CE635C1608216C11F0994D4A02B24B5394CA0E6A90401786FFD176EB87592D47
   Dependencies:
     PackageDependencies:
@@ -19,7 +19,7 @@ Installers:
 - Architecture: x64
   NestedInstallerFiles:
   - RelativeFilePath: git-cliff-2.6.1/git-cliff.exe
-  InstallerUrl: https://github.com/orhun/git-cliff/releases/download/v2.6.1/git-cliff-2.6.1-x86_64-pc-windows-gnu.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/orhun/git-cliff/releases/download/v2.6.1/git-cliff-2.6.1-x86_64-pc-windows-gnu.zip
   InstallerSha256: E3ECA94411635FF456E61329F2B2237431453828E566109FA0532486E24F14CD
   Dependencies:
     PackageDependencies:
@@ -27,7 +27,7 @@ Installers:
 - Architecture: arm64
   NestedInstallerFiles:
   - RelativeFilePath: git-cliff-2.6.1/git-cliff-mangen.exe
-  InstallerUrl: https://github.com/orhun/git-cliff/releases/download/v2.6.1/git-cliff-2.6.1-aarch64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/orhun/git-cliff/releases/download/v2.6.1/git-cliff-2.6.1-aarch64-pc-windows-msvc.zip
   InstallerSha256: AD2B600909927B0B5E6E0B593F54E69C5370B3FA969F7FDA761638FF6F0D49F5
   Dependencies:
     PackageDependencies:

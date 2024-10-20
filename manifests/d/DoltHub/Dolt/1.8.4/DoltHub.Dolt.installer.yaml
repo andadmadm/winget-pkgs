@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v1.8.4/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v1.8.4/dolt-windows-amd64.msi
   InstallerSha256: FFF48C324AAA9868D2BCF0D10C71858F06CC30FAA6692B6D863EF0AA2B3029BF
   ProductCode: '{E742763A-09D2-42FF-BD93-71AD01E7A2A9}'
 ManifestType: installer

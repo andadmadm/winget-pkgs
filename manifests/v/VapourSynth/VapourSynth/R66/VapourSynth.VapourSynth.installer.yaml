@@ -18,14 +18,14 @@ ReleaseDate: 2024-03-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/vapoursynth/vapoursynth/releases/download/R66/VapourSynth-x64-R66.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vapoursynth/vapoursynth/releases/download/R66/VapourSynth-x64-R66.exe
   InstallerSha256: 08B470DB53871AC290971A0EA90B3ABC7030014720B26DDDF2F09A147965CE7B
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: VapourSynth_is1
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/vapoursynth/vapoursynth/releases/download/R66/VapourSynth-x64-R66.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vapoursynth/vapoursynth/releases/download/R66/VapourSynth-x64-R66.exe
   InstallerSha256: 08B470DB53871AC290971A0EA90B3ABC7030014720B26DDDF2F09A147965CE7B
   InstallerSwitches:
     Custom: /ALLUSERS

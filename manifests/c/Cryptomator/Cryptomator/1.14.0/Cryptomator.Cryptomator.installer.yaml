@@ -27,7 +27,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\Cryptomator'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cryptomator/cryptomator/releases/download/1.14.0/Cryptomator-1.14.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cryptomator/cryptomator/releases/download/1.14.0/Cryptomator-1.14.0-x64.msi
   InstallerSha256: 998B02C07F9DF2BB661AEE2C571BE458A64C981DA01E50D1857A6F7B892D67E4
 ManifestType: installer
 ManifestVersion: 1.6.0

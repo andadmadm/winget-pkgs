@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-02-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jeffvli/sonixd/releases/download/v0.13.0/Sonixd-0.13.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jeffvli/sonixd/releases/download/v0.13.0/Sonixd-0.13.0-win.exe
   InstallerSha256: DF01362B3115E76712248D53F47FF0720A0E13779C489F441905AE033241350F
 ManifestType: installer
 ManifestVersion: 1.1.0

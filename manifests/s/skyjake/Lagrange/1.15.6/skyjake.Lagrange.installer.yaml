@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - Publisher:
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.15.6/lagrange_v1.15.6_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.15.6/lagrange_v1.15.6_windows-x64_setup.exe
   InstallerSha256: E4713B48A4C0B045643524DBA78B681CDF8092A8B8C6F0DD1DCC8D178B59124F
   ProductCode: Lagrange_is1
 ManifestType: installer

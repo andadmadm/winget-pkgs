@@ -10,7 +10,7 @@ FileExtensions:
 - ddw
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v4.2.0/WinDynamicDesktop_4.2.0_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v4.2.0/WinDynamicDesktop_4.2.0_Setup.exe
   InstallerSha256: 4FFBC43EE564627592E08634728B4D8180C031AD4F2A115FEA1E7445AF2DF1BB
 ManifestType: installer
 ManifestVersion: 1.1.0

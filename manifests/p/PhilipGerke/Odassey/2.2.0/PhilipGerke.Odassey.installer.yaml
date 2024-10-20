@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pgerke/get-odassey/releases/download/v2.2.0/Odassey_win_x64_v2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pgerke/get-odassey/releases/download/v2.2.0/Odassey_win_x64_v2.2.0.exe
   InstallerSha256: B9F2E93AFD0DB63509EDC67FAE4AA934E2B67CB7BAF4B344A633E66F0DE31CCB
 ManifestType: installer
 ManifestVersion: 1.1.0

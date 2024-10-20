@@ -4,7 +4,7 @@
 PackageIdentifier: Strem.App
 PackageVersion: 0.7.234
 Installers:
-- InstallerUrl: https://github.com/strem-app/strem/releases/download/0.7.x010/Strem-0.7.234.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/strem-app/strem/releases/download/0.7.x010/Strem-0.7.234.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

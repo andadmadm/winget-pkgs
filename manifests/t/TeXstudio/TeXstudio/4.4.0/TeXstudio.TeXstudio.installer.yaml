@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/texstudio-org/texstudio/releases/download/4.4.0/texstudio-4.4.0-win-qt6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/texstudio-org/texstudio/releases/download/4.4.0/texstudio-4.4.0-win-qt6.exe
   InstallerSha256: 924D8CFD2F8E0D32F78C3DC0C5CE37A16B8205AF043DFE8FE51A53060C552A3B
 ManifestType: installer
 ManifestVersion: 1.2.0

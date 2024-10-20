@@ -9,7 +9,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.8
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Daniel-McGuire-Corporation/MathBotCLI/releases/download/v3.3.1/MathBotCLISetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Daniel-McGuire-Corporation/MathBotCLI/releases/download/v3.3.1/MathBotCLISetup.exe
   InstallerSha256: FF0E4858E885ED15BC51472D4E03FCE13EB9BE2AFEFE79E8FE14B6466D534E46
   AppsAndFeaturesEntries:
   - Publisher: '"Daniel McGuire Corporation"'

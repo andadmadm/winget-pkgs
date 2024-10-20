@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: Cemu_2.0-66\Cemu.exe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cemu-project/Cemu/releases/download/v2.0-66/cemu-2.0-66-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/cemu-project/Cemu/releases/download/v2.0-66/cemu-2.0-66-windows-x64.zip
   InstallerSha256: 0A98691E34B566B2540FCEF7C46BD291C416712B0BE629852ACA3BE9929022EA
 ManifestType: installer
 ManifestVersion: 1.6.0

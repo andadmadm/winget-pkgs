@@ -20,7 +20,7 @@ Dependencies:
 ProductCode: '{660FB05F-11C7-4644-856D-319B6E173682}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alacritty/alacritty/releases/download/v0.13.2/Alacritty-v0.13.2-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/alacritty/alacritty/releases/download/v0.13.2/Alacritty-v0.13.2-installer.msi
   InstallerSha256: F54AAB7DD827097702092422CB377D8C0842E61431B24B8A0834F85C9EFA6592
 ManifestType: installer
 ManifestVersion: 1.6.0

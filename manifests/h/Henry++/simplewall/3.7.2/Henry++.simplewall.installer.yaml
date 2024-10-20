@@ -17,7 +17,7 @@ Dependencies:
 ReleaseDate: 2023-09-21
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/henrypp/simplewall/releases/download/v.3.7.2/simplewall-3.7.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/simplewall/releases/download/v.3.7.2/simplewall-3.7.2-setup.exe
   InstallerSha256: BAE715DB54AC2BDF3947D79A12E1343EE82DECF878A347CAE03380F62413601A
 ManifestType: installer
 ManifestVersion: 1.5.0

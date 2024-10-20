@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - InstallerSha256: A99031A798EC0A69C2B1867D296198694E5D054A92A6DB3974A5CA538A1D9B7E
-  InstallerUrl: https://github.com/Nexus-Mods/Vortex/releases/download/v1.4.14/vortex-setup-1.4.14.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nexus-Mods/Vortex/releases/download/v1.4.14/vortex-setup-1.4.14.exe
   Architecture: x64
 ManifestType: installer
 ManifestVersion: 1.2.0

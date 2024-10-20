@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{8077382C-6B47-11EA-BC55-0242AC130003}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.38.1281/IapDesktop.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.38.1281/IapDesktop.msi
   InstallerSha256: 99B087922117A3200BF131350F2DAFE25CE3B8D8C5D5BD557E26221E5A553671
 ManifestType: installer
 ManifestVersion: 1.5.0

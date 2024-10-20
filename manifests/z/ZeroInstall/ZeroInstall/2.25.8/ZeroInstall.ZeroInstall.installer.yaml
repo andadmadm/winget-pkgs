@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/0install/0install-win/releases/download/2.25.8/zero-install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/0install/0install-win/releases/download/2.25.8/zero-install.exe
   InstallerSha256: 265E3FA340232B0A0F1708AD747E5385AF6514C2AD7315D1BDAFA7A5787E224E
   InstallerSwitches:
     Silent: self deploy --batch --background
@@ -27,7 +27,7 @@ Installers:
     Interactive: self deploy
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/0install/0install-win/releases/download/2.25.8/zero-install.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/0install/0install-win/releases/download/2.25.8/zero-install.exe
   InstallerSha256: 265E3FA340232B0A0F1708AD747E5385AF6514C2AD7315D1BDAFA7A5787E224E
   InstallerSwitches:
     Silent: self deploy --machine --batch --background

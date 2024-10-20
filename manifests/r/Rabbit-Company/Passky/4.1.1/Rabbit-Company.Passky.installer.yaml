@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.1.1/passky-4.1.1.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.1.1/passky-4.1.1.Setup.exe
   InstallerSha256: 460FC25DFCBB7B59588A276E09C4C87E1243D0090DE0D9E91B7C5FFF6F03A936
 ManifestType: installer
 ManifestVersion: 1.0.0

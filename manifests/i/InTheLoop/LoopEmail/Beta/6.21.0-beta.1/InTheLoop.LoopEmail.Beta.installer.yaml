@@ -15,13 +15,13 @@ ReleaseDate: 2022-03-23
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/4thOffice/loopinupdater/releases/download/v6.21.0-beta.1/Loop-Email-Setup-6.21.0-beta.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4thOffice/loopinupdater/releases/download/v6.21.0-beta.1/Loop-Email-Setup-6.21.0-beta.1.exe
   InstallerSha256: 188874C43FBAD3E63012442277DBECF32CA6A98A57C9868EEC73DAFD40CE4596
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/4thOffice/loopinupdater/releases/download/v6.21.0-beta.1/Loop-Email-Setup-6.21.0-beta.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4thOffice/loopinupdater/releases/download/v6.21.0-beta.1/Loop-Email-Setup-6.21.0-beta.1.exe
   InstallerSha256: 188874C43FBAD3E63012442277DBECF32CA6A98A57C9868EEC73DAFD40CE4596
   InstallerSwitches:
     Custom: /ALLUSERS

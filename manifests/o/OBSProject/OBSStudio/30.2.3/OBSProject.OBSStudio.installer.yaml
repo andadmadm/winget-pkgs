@@ -20,7 +20,7 @@ Dependencies:
 ReleaseDate: 2024-08-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/obsproject/obs-studio/releases/download/30.2.3/OBS-Studio-30.2.3-Windows-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsproject/obs-studio/releases/download/30.2.3/OBS-Studio-30.2.3-Windows-Installer.exe
   InstallerSha256: B87B4A52420908CA443B973A854C650B1A0B2EF436854CEEED320BD0357AFF43
 ManifestType: installer
 ManifestVersion: 1.6.0

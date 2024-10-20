@@ -9,10 +9,10 @@ NestedInstallerFiles:
 - RelativeFilePath: flux.exe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/fluxcd/flux2/releases/download/v2.4.0/flux_2.4.0_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluxcd/flux2/releases/download/v2.4.0/flux_2.4.0_windows_amd64.zip
   InstallerSha256: 5ABE6EDA1241BF1492AC57FDA660D55444522973EA63BECDC6C5D1CE6CAF602E
 - Architecture: arm64
-  InstallerUrl: https://github.com/fluxcd/flux2/releases/download/v2.4.0/flux_2.4.0_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/fluxcd/flux2/releases/download/v2.4.0/flux_2.4.0_windows_arm64.zip
   InstallerSha256: F0BE013C670108FB45415C35FE43D2D93646E334BFC4B87C9F24C52804653A1E
 ManifestType: installer
 ManifestVersion: 1.6.0

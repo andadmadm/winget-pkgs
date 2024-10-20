@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: wix
   Scope: user
-  InstallerUrl: https://github.com/igoravl/TfsCmdlets/releases/download/v2.5.1%2B2859.4/TfsCmdlets-2.5.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/igoravl/TfsCmdlets/releases/download/v2.5.1%2B2859.4/TfsCmdlets-2.5.1.msi
   InstallerSha256: 2C40D36333B4C2391BB4A16712DC3D0BFE1536F98E71EEC14769D86FE1E6FDA6
   ProductCode: "{A7CBB34C-50E7-439A-9A70-E3B929BA5722}"
   UpgradeBehavior: install

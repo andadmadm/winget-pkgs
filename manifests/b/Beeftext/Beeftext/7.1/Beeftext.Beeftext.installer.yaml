@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v7.1/Beeftext-7.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v7.1/Beeftext-7.1-Installer.exe
   InstallerSha256: 5EB327F18D8103920455FF1BD5558D68B5251A0CA3A08D6A3FD7B62DD2232E6D
 ManifestType: installer
 ManifestVersion: 1.1.0

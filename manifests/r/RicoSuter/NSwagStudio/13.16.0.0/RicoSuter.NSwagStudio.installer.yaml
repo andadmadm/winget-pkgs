@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RicoSuter/NSwag/releases/download/v13.16.0/NSwagStudio.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RicoSuter/NSwag/releases/download/v13.16.0/NSwagStudio.msi
   InstallerSha256: 063FC695228F649462B747D2C4B7560DFB13A1E2DCF62EF15083A151D2859C93
   ProductCode: '{A7A3E531-DB9D-48D4-AC2A-ACFAACDBE4AD}'
 ManifestType: installer

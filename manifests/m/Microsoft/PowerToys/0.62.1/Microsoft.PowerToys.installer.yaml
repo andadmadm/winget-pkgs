@@ -14,11 +14,11 @@ UpgradeBehavior: install
 Installers:
 - Architecture: arm64
   InstallerType: burn
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-arm64.exe
   InstallerSha256: 80AB7B27CAD78B6F6CBE934CCC64D2D8ABEF9A59A430A67BD5806B396A9EB6B4
 - Architecture: x64
   InstallerType: burn
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-x64.exe
   InstallerSha256: DB42A587D9241B99D069DE03D9E456083E141C392B35E05C9AD0177BAA4A37FE
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -10,11 +10,11 @@ InstallerType: msix
 PackageFamilyName: ImageMagick.Q16-HDRI_b3hnabsze9y3j
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.1-39/ImageMagick.Q16-HDRI.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.1-39/ImageMagick.Q16-HDRI.msixbundle
   InstallerSha256: 37006B8EEF81C706C7438FE448A89F013E1119A39FB5E7A9F52301B37DAC0662
   SignatureSha256: 4089D0A2860F49EDF6EF8B4AA451AA34E0BA85D279085BBF5325F153587D57AF
 - Architecture: arm64
-  InstallerUrl: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.1-39/ImageMagick.Q16-HDRI.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.1-39/ImageMagick.Q16-HDRI.msixbundle
   InstallerSha256: 37006B8EEF81C706C7438FE448A89F013E1119A39FB5E7A9F52301B37DAC0662
   SignatureSha256: 4089D0A2860F49EDF6EF8B4AA451AA34E0BA85D279085BBF5325F153587D57AF
 ManifestType: installer

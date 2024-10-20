@@ -6,7 +6,7 @@ PackageVersion: 1.17.2
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/thorchain/asgardex-electron/releases/download/v1.17.2/ASGARDEX-1.17.2-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thorchain/asgardex-electron/releases/download/v1.17.2/ASGARDEX-1.17.2-win.exe
   InstallerSha256: 3A43E3AB5930821C0EB1462BC33459412BC0F0690E5933E4B692EA521B846A13
 ManifestType: installer
 ManifestVersion: 1.1.0

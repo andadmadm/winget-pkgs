@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{98FB2E98-96B0-46E1-A6FD-94171233D11B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.53/quarto-1.5.53-win.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.53/quarto-1.5.53-win.msi
   InstallerSha256: 57A8B0C86BB802BE7CD07D753243B6E48B11E5EDD1129D28F8FE49AB760E4921
   ProductCode: '{9FF58BFB-3F77-4A07-9B71-B4EE159C9587}'
 ManifestType: installer

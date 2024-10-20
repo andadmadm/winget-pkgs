@@ -12,7 +12,7 @@ UpgradeBehavior: deny
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dokan-dev/dokany/releases/download/v1.4.0.1000/DokanSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dokan-dev/dokany/releases/download/v1.4.0.1000/DokanSetup.exe
   InstallerSha256: 9C4657A6577FADCBCA4C352BADFCFFBB88BB4904A6B7B90D467F9810B925CCCE
 ManifestType: installer
 ManifestVersion: 1.6.0

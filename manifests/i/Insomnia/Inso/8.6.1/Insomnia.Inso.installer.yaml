@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: .\inso.exe
     PortableCommandAlias: inso
-  InstallerUrl: https://github.com/Kong/insomnia/releases/download/lib@8.6.1/inso-windows-8.6.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Kong/insomnia/releases/download/lib@8.6.1/inso-windows-8.6.1.zip
   InstallerSha256: 21507D0CF4A19450910137FDE0E2B01FF71DF01E6C84E506CF3A7CFF85F8E2FC
 ManifestType: installer
 ManifestVersion: 1.5.0

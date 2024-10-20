@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/team-aie/app/releases/download/v0.16.1/aie-setup-0.16.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-aie/app/releases/download/v0.16.1/aie-setup-0.16.1.exe
   InstallerSha256: 733877AA4C912CD2899B8427F9E8733E1D277F3F3B97BD084CDD46F63137E921
 ManifestType: installer
 ManifestVersion: 1.1.0

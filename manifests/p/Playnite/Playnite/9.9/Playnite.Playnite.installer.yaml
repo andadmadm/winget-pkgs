@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-11-27
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/9.9/Playnite99.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/9.9/Playnite99.exe
   InstallerSha256: 5F0703F5C35A8C438672AE7B9B2E2DEF7BE4087ACE11EB40402BBA0972F408BA
 ManifestType: installer
 ManifestVersion: 1.2.0

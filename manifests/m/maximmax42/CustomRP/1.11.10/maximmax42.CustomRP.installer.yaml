@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/maximmax42/Discord-CustomRP/releases/download/1.11.10/CustomRP.1.11.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maximmax42/Discord-CustomRP/releases/download/1.11.10/CustomRP.1.11.10.exe
   InstallerSha256: AA697026BA2469CB134D3AEE714B69ED2DF12187003297A2017B1A833F4CA45C
 ManifestType: installer
 ManifestVersion: 1.2.0

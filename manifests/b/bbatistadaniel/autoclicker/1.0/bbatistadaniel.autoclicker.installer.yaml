@@ -7,7 +7,7 @@ InstallerType: portable
 Commands:
 - Auto Clicker
 Installers:
-- InstallerUrl: https://github.com/bbatistadaniel/Auto-Clicker/releases/download/AutoClicker/Auto.Clicker.Windows.10.x64.portable.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/bbatistadaniel/Auto-Clicker/releases/download/AutoClicker/Auto.Clicker.Windows.10.x64.portable.exe
   Architecture: x64
   InstallerSha256: B9F3ADD525BA31C526DF51AA3EC5CE1A52A6DD5C8F86810703BB159750B0F890
 ManifestType: installer

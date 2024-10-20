@@ -4,7 +4,7 @@
 PackageIdentifier: abrignoni.ALEAPP
 PackageVersion: 3.1.6
 Installers:
-- InstallerUrl: https://github.com/abrignoni/ALEAPP/releases/download/v3.1.6/ALEAPP-windows.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/abrignoni/ALEAPP/releases/download/v3.1.6/ALEAPP-windows.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

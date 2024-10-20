@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qingfeng346/ScorpioConversion/releases/download/v1.0.1/scov-1.0.1-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/qingfeng346/ScorpioConversion/releases/download/v1.0.1/scov-1.0.1-win-x64.msi
   InstallerSha256: 452DAAA5CA01694FD1C566F75413B46B8B1A843A80A3E0F771DA28C0F4656088
   ProductCode: '{C1B9497F-7A7B-48D6-9750-2BBC31966538}'
 ManifestType: installer

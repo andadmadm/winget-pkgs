@@ -16,25 +16,25 @@ ReleaseDate: 2022-02-13
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-ia32.exe
   InstallerSha256: 04A6D4E2358971DCFD3D78538FC9EC6B0D5ECC88D9EEF8410D533EDE324B5202
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-ia32.exe
   InstallerSha256: 04A6D4E2358971DCFD3D78538FC9EC6B0D5ECC88D9EEF8410D533EDE324B5202
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-x64.exe
   InstallerSha256: 678014ECF78F6DBF7DA4D73978AEC42397259D6175557C1A4C585D5729C5204F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/4.5.1/Whalebird-4.5.1-windows-x64.exe
   InstallerSha256: 678014ECF78F6DBF7DA4D73978AEC42397259D6175557C1A4C585D5729C5204F
   InstallerSwitches:
     Custom: /ALLUSERS

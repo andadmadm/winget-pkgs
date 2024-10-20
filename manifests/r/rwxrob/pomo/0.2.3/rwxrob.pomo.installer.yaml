@@ -7,7 +7,7 @@ InstallerType: portable
 Commands:
 - pomo
 Installers:
-- InstallerUrl: https://github.com/rwxrob/pomo/releases/download/v0.2.3/pomo-windows-amd64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/rwxrob/pomo/releases/download/v0.2.3/pomo-windows-amd64.exe
   Architecture: x64
   InstallerSha256: 14E67737B26CD158D2C701A087C23AC418965D59E751AF8D286B466687A03F6C
 ManifestType: installer

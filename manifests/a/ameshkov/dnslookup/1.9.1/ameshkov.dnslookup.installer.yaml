@@ -4,7 +4,7 @@
 PackageIdentifier: ameshkov.dnslookup
 PackageVersion: 1.9.1
 Installers:
-- InstallerUrl: https://github.com/ameshkov/dnslookup/releases/download/v1.9.1/dnslookup-windows-386-v1.9.1.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/ameshkov/dnslookup/releases/download/v1.9.1/dnslookup-windows-386-v1.9.1.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: windows-386\dnslookup.exe
     PortableCommandAlias: dnslookup
   InstallerSha256: 91520FBEFA936F435F2C6839287E1EFFDC04025985C08337E3EF013EF6735B6D
-- InstallerUrl: https://github.com/ameshkov/dnslookup/releases/download/v1.9.1/dnslookup-windows-amd64-v1.9.1.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/ameshkov/dnslookup/releases/download/v1.9.1/dnslookup-windows-amd64-v1.9.1.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

@@ -16,7 +16,7 @@ Commands:
 - gh
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cli/cli/releases/download/v2.2.0/gh_2.2.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v2.2.0/gh_2.2.0_windows_amd64.msi
   InstallerSha256: 4A0D7B0C90B0A82A7C41BCCC28CA6C8AF8B94B6027A00781902349DA420B4F82
   ProductCode: '{FFC8847D-596C-4736-9CB3-36882120D768}'
 ManifestType: installer

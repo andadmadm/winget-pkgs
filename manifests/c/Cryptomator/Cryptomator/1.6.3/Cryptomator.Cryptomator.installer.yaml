@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ProductCode: '{BCC34416-1A31-393C-9BBB-FB34F3A5F72E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cryptomator/cryptomator/releases/download/1.6.3/Cryptomator-1.6.3-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cryptomator/cryptomator/releases/download/1.6.3/Cryptomator-1.6.3-x64.msi
   InstallerSha256: DB43705ADFF25796464239854AF70A066668D21535874E1B494FB98EA12DFEFB
 ManifestType: installer
 ManifestVersion: 1.0.0

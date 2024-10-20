@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/QL-Win/QuickLook/releases/download/3.6.10/QuickLook-3.6.10.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/QL-Win/QuickLook/releases/download/3.6.10/QuickLook-3.6.10.msi
   InstallerSha256: B788DF588AF0E868E89B90D6359BF7A14CEE7511E2A42BB687FCD0F96B2BD65E
   ProductCode: '{06186FAF-E9AC-401D-81C0-515FEE358067}'
 ManifestType: installer

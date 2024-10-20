@@ -6,7 +6,7 @@ PackageVersion: 21.1.1
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.1.1/dbeaver-ce-21.1.1-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.1.1/dbeaver-ce-21.1.1-x86_64-setup.exe
   InstallerSha256: E0992EF60DE08F9AD2F82F78751035BF7877CA09FFC5E992CA5C8851C6D87E21
   InstallerSwitches:
     Silent: /S

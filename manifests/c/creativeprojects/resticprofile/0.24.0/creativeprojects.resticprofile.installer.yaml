@@ -14,13 +14,13 @@ Commands:
 ReleaseDate: 2023-10-24
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/creativeprojects/resticprofile/releases/download/v0.24.0/resticprofile_0.24.0_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/creativeprojects/resticprofile/releases/download/v0.24.0/resticprofile_0.24.0_windows_386.zip
   InstallerSha256: D1DCD09C4A77C0909035063EFE54C2E0F0A553CEAFB7963E01E408C73B5936F2
 - Architecture: x64
-  InstallerUrl: https://github.com/creativeprojects/resticprofile/releases/download/v0.24.0/resticprofile_0.24.0_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/creativeprojects/resticprofile/releases/download/v0.24.0/resticprofile_0.24.0_windows_amd64.zip
   InstallerSha256: 348F72ECDCC903625F944158E33BB59BD8AD765A014745D674E9E7C7A5EF235E
 - Architecture: arm64
-  InstallerUrl: https://github.com/creativeprojects/resticprofile/releases/download/v0.24.0/resticprofile_0.24.0_windows_arm64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/creativeprojects/resticprofile/releases/download/v0.24.0/resticprofile_0.24.0_windows_arm64.zip
   InstallerSha256: 217EDEEEDBE67439E0D2E572C0F1F2062C0E0A58FED9E3579298F5FF3EAB7EDC
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -25,25 +25,25 @@ ReleaseDate: 2022-06-22
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-amd64.exe
   InstallerSha256: E30A364352D9B4D75211EC667F7ACBA1027801ECF3D049277EBCB11EA7EB3F60
   InstallerSwitches:
     Custom: /allusers
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-amd64.exe
   InstallerSha256: E30A364352D9B4D75211EC667F7ACBA1027801ECF3D049277EBCB11EA7EB3F60
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-win32.exe
   InstallerSha256: 59BB08621F833B3C0B0A1B1149FADEDD006B81328A43341F7753AE8F3D9CC104
   InstallerSwitches:
     Custom: /allusers
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qutebrowser/qutebrowser/releases/download/v2.5.2/qutebrowser-2.5.2-win32.exe
   InstallerSha256: 59BB08621F833B3C0B0A1B1149FADEDD006B81328A43341F7753AE8F3D9CC104
   InstallerSwitches:
     Custom: /currentuser

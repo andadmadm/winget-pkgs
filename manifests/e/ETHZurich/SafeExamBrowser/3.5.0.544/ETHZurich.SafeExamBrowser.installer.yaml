@@ -6,7 +6,7 @@ PackageVersion: 3.5.0.544
 Installers:
 - Architecture: neutral
   InstallerType: burn
-  InstallerUrl: https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe
   InstallerSha256: 577F786EEA91EB56B61C32879001C61FB28B252FF70BF92B1B43206029B8B13E
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{54DA3D9F-E8A2-401F-A6BE-8133C2E04398}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/StefH/GitHubReleaseNotes/releases/download/1.0.10.1/GitHubReleaseNotes.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/StefH/GitHubReleaseNotes/releases/download/1.0.10.1/GitHubReleaseNotes.zip
   InstallerSha256: CE869FBA29CC31E46D9FD87924466B2167F41624F7AA3A6722ECEEDE47D28A7A
 ManifestType: installer
 ManifestVersion: 1.6.0

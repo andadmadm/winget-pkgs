@@ -9,7 +9,7 @@ Commands:
 - httptoolkit
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.3.0/HttpToolkit-installer-1.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.3.0/HttpToolkit-installer-1.3.0.exe
   InstallerSha256: 34E4B02E15EC819AD3FF51D9BE2A43B3B682FD75B27FFA5D6EE19B5375DBAA80
   InstallerSwitches:
     Silent: /S

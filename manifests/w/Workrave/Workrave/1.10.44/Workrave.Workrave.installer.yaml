@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/rcaelers/workrave/releases/download/v1_10_44/workrave-win32-v1.10.44.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rcaelers/workrave/releases/download/v1_10_44/workrave-win32-v1.10.44.exe
   InstallerSha256: 1D83A19A22855568A327582C1A3E4507D0F9A6E5EA6878940AAAEFDA59467FFC
 ManifestType: installer
 ManifestVersion: 1.1.0

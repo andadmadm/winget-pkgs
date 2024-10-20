@@ -10,7 +10,7 @@ NestedInstallerFiles:
   PortableCommandAlias: jumppad
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jumppad-labs/jumppad/releases/download/0.15.0/jumppad_0.15.0_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/jumppad-labs/jumppad/releases/download/0.15.0/jumppad_0.15.0_windows_x86_64.zip
   InstallerSha256: 652AA11E5B7BD945730E347F1A556DF44C3CE9A6A6A0E3769CACEA527AC79A0D
 ManifestType: installer
 ManifestVersion: 1.6.0

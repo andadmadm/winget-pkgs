@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2022-04-20
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/jasongin/nvs/releases/download/v1.6.2/nvs-1.6.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jasongin/nvs/releases/download/v1.6.2/nvs-1.6.2.msi
   InstallerSha256: 1D66C8816C7CD959FFE5F67617B03B87F06E9C5E974A5C07B28DC320E83B2AEE
   ProductCode: '{B4717CAE-A20E-409E-84BE-3A03EF684578}'
 ManifestType: installer

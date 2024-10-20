@@ -9,7 +9,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
-    InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2021.3/MullvadVPN-2021.3.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2021.3/MullvadVPN-2021.3.exe
     InstallerSha256: C34580A8179141EA5FA9C1502B0C0784A40E93280CDCFF8912F8B3190C196A17
 #    ProductCode: 
     Scope: machine

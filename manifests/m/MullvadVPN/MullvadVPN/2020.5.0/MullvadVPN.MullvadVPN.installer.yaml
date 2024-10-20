@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2020.5/MullvadVPN-2020.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2020.5/MullvadVPN-2020.5.exe
   InstallerSha256: 13C92C77184B2A7724DF55BE7E4AFDFA9B807C64F8C36399FC016B93B5A346BF
 ManifestType: installer
 ManifestVersion: 1.1.0

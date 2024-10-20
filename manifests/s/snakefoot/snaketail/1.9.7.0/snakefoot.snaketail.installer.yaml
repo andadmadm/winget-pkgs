@@ -13,7 +13,7 @@ FileExtensions:
 ReleaseDate: 2021-04-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/snakefoot/snaketail-net/releases/download/1.9.7/SnakeTail.v1.9.7.x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/snakefoot/snaketail-net/releases/download/1.9.7/SnakeTail.v1.9.7.x64.msi
   InstallerSha256: 5EE3B04BB51B4DC646CAAB0E44D41E7218BD561E11E0D0BFF1204350CA27C761
   ProductCode: '{69E30848-D3CB-49A2-B36D-FCB001E49A29}'
 ManifestType: installer

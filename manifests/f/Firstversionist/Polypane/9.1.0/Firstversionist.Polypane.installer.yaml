@@ -6,7 +6,7 @@ PackageVersion: 9.1.0
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/firstversionist/polypane/releases/download/v9.1.0/Polypane-Setup-9.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/firstversionist/polypane/releases/download/v9.1.0/Polypane-Setup-9.1.0.exe
   InstallerSha256: 64D946971555BE9734B39A56769A5FD8D2FB6DB4FBBA1ADFD876F7BFFBD5D5FE
 ManifestType: installer
 ManifestVersion: 1.1.0

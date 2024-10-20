@@ -29,7 +29,7 @@ FileExtensions:
 - zip
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.0/Mod.Organizer-2.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.0/Mod.Organizer-2.5.0.exe
   InstallerSha256: 69A38C4EB697C9275BF7E847E5EB90365D7B7862F26E82286A71B18947C902FF
 ManifestType: installer
 ManifestVersion: 1.5.0

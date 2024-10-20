@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: yes
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.5/YouTube-Music.Desktop.App-2.0.5.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.5/YouTube-Music.Desktop.App-2.0.5.Setup.exe
   InstallerSha256: C1F4B5826D8C234DEA07581307FF78B589F5358A1169BB28AFE879BB038FADB2
 # TO DO, Add arm64 installer when available
 ReleaseDate: 2024-05-06

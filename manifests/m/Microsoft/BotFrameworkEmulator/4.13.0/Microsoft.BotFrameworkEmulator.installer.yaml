@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.13.0/BotFramework-Emulator-4.13.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.13.0/BotFramework-Emulator-4.13.0-windows-setup.exe
   InstallerSha256: 924DC65E4982823E545EBE37F1466A22BDBB12DEE4AFBDE25051CC410DC97392
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -8,13 +8,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v22.1.1/Trezor-Suite-22.1.1-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v22.1.1/Trezor-Suite-22.1.1-win-x64.exe
   InstallerSha256: A96350B9A875A88150B052F710FC6119A728428FFAE78731483738514CBF8FDF
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/trezor/trezor-suite/releases/download/v22.1.1/Trezor-Suite-22.1.1-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trezor/trezor-suite/releases/download/v22.1.1/Trezor-Suite-22.1.1-win-x64.exe
   InstallerSha256: A96350B9A875A88150B052F710FC6119A728428FFAE78731483738514CBF8FDF
   InstallerSwitches:
     Custom: /ALLUSERS

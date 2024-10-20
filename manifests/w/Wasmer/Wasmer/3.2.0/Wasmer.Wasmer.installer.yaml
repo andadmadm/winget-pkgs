@@ -18,7 +18,7 @@ Dependencies:
 ReleaseDate: 2023-04-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/wasmerio/wasmer/releases/download/v3.2.0/wasmer-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/wasmerio/wasmer/releases/download/v3.2.0/wasmer-windows.exe
   InstallerSha256: 3ED5C6F22E13575EFA6CB3EE02679159D170D1E3AB3B4126E372483E910E6D71
   ProductCode: Wasmer_is1
 ManifestType: installer

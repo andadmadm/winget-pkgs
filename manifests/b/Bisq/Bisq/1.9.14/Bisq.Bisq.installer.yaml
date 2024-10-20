@@ -21,7 +21,7 @@ AppsAndFeaturesEntries:
   InstallerType: msi
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.9.14/Bisq-64bit-1.9.14.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.9.14/Bisq-64bit-1.9.14.exe
   InstallerSha256: 2B7E5C57D703E96494B0AE47C3A0BEEAEF62B75523AD54418985987FC75C373A
 ManifestType: installer
 ManifestVersion: 1.5.0

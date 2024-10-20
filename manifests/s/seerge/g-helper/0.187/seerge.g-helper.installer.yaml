@@ -13,7 +13,7 @@ Dependencies:
 ReleaseDate: 2024-08-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/seerge/g-helper/releases/download/v0.187/GHelper.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/seerge/g-helper/releases/download/v0.187/GHelper.exe
   InstallerSha256: 869174222FEF4B40CF89FB9B3CDD2916499368DB42A8DCE2348A57B7B7B8A613
 ManifestType: installer
 ManifestVersion: 1.6.0

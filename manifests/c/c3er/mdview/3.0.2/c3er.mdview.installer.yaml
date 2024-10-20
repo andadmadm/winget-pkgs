@@ -7,11 +7,11 @@ PackageVersion: 3.0.2
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v3.0.2/mdview-3.0.2-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v3.0.2/mdview-3.0.2-x64.exe
   InstallerSha256: 97540cbded1095c63fa643ffe984cba3471b94c3e8c45a527f50fb1b8dccb2b0
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/c3er/mdview/releases/download/v3.0.2/mdview-3.0.2-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/c3er/mdview/releases/download/v3.0.2/mdview-3.0.2-x64.exe
   InstallerSha256: 97540cbded1095c63fa643ffe984cba3471b94c3e8c45a527f50fb1b8dccb2b0
 ManifestType: installer
 ManifestVersion: 1.5.0

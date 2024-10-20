@@ -13,7 +13,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: jtrans.exe
     PortableCommandAlias: jtrans
-  InstallerUrl: https://github.com/Okabe-Rintarou-0/JboxTransferCLI/releases/download/v1.1.4/jtrans-v1.1.4-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Okabe-Rintarou-0/JboxTransferCLI/releases/download/v1.1.4/jtrans-v1.1.4-windows-amd64.zip
   InstallerSha256: A5FDFA7085F389E0EC9F25DFCDF5F6F51E46CEF161A1552777A1B36FCEC4393F
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2017-06-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Studio3T/robomongo/releases/download/v1.1.1/robo3t-1.1.1-windows-x86_64-c93c6b0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Studio3T/robomongo/releases/download/v1.1.1/robo3t-1.1.1-windows-x86_64-c93c6b0.exe
   InstallerSha256: FC871B31F40D758AAB40D29B56341F670940EF39DE6F08A5CCA7325480091C90
 ManifestType: installer
 ManifestVersion: 1.2.0

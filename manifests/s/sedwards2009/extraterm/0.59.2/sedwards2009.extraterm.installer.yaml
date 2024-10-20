@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sedwards2009/extraterm/releases/download/v0.59.2/extraterm-setup-0.59.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sedwards2009/extraterm/releases/download/v0.59.2/extraterm-setup-0.59.2.exe
   InstallerSha256: 3B80F671B84342968A00EDB5F850A1EC1A6C337A209FD39ECEE154752B88C825
 ManifestType: installer
 ManifestVersion: 1.1.0

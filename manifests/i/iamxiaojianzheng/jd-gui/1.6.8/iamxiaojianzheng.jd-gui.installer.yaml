@@ -18,7 +18,7 @@ Dependencies:
     - PackageIdentifier: Microsoft.OpenJDK.21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iamxiaojianzheng/jd-gui/releases/download/v1.6.8/jd-gui-windows-1.6.8.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/iamxiaojianzheng/jd-gui/releases/download/v1.6.8/jd-gui-windows-1.6.8.zip
   InstallerSha256: 3A6C8908975A0B5B6E2A5241DC8AA4FF07256AC5263162A8B0DD868500DCF04B
 ManifestType: installer
 ManifestVersion: 1.6.0

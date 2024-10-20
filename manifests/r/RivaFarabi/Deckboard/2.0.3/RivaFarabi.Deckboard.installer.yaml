@@ -15,13 +15,13 @@ ReleaseDate: 2022-07-28
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/rivafarabi/deckboard/releases/download/v2.0.3/Deckboard-Setup-2.0.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rivafarabi/deckboard/releases/download/v2.0.3/Deckboard-Setup-2.0.3.exe
   InstallerSha256: 4597FB88C958126DD3642A23AF214782503B88473324DF3937E7289319C48343
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/rivafarabi/deckboard/releases/download/v2.0.3/Deckboard-Setup-2.0.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rivafarabi/deckboard/releases/download/v2.0.3/Deckboard-Setup-2.0.3.exe
   InstallerSha256: 4597FB88C958126DD3642A23AF214782503B88473324DF3937E7289319C48343
   InstallerSwitches:
     Custom: /ALLUSERS

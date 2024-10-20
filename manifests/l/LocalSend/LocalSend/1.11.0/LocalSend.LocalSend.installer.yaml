@@ -12,7 +12,7 @@ PackageFamilyName: 11157TienDoNam.LocalSend_g71aj367vb7ze
 ReleaseDate: 2023-08-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/localsend/localsend/releases/download/v1.11.0/LocalSend-1.11.0-windows-x86-64.msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/localsend/localsend/releases/download/v1.11.0/LocalSend-1.11.0-windows-x86-64.msix
   InstallerSha256: 28AB35EAC42E212E84A9CAFAE8819D15595C7747952A09ED2E32DB67FFF916ED
   SignatureSha256: 64AD41B5A81D664360559DE29E197F2B6D38F6BD5DDBA8D21A40C1089EB42A39
 ManifestType: installer

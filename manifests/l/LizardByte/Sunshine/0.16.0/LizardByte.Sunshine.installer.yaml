@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LizardByte/Sunshine/releases/download/v0.16.0/sunshine-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LizardByte/Sunshine/releases/download/v0.16.0/sunshine-windows.exe
   InstallerSha256: D2825E08F8D71E5F5B4FADF9EB348D87D90A501A3ECAF598B45F4C73FBC01CDF
 ManifestType: installer
 ManifestVersion: 1.2.0

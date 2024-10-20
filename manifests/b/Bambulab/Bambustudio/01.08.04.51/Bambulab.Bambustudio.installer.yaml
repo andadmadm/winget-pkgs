@@ -6,7 +6,7 @@ PackageVersion: 01.08.04.51
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/Bambu_Studio_win_public-v01.08.04.51-20240117164301.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/Bambu_Studio_win_public-v01.08.04.51-20240117164301.exe
   InstallerSha256: F911E04176476439BF4F10B4A476627BB3E401025B225EEFCB529D8A7D25F5E6
 ManifestType: installer
 ManifestVersion: 1.6.0

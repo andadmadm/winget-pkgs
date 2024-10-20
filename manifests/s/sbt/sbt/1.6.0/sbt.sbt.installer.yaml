@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2021-12-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sbt/sbt/releases/download/v1.6.0/sbt-1.6.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/sbt/sbt/releases/download/v1.6.0/sbt-1.6.0.msi
   InstallerSha256: D7F97FB155FC44C13F2EF4FF4FB8338CF52128ACE27EFA57F47CC9F9609C08D1
   ProductCode: '{CE07BE71-510D-414A-92D4-DFF47631848A}'
 ManifestType: installer

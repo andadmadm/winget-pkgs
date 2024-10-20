@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Belphemur/SoundSwitch/releases/download/v6.2.4/SoundSwitch_v6.2.4.0_Release_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Belphemur/SoundSwitch/releases/download/v6.2.4/SoundSwitch_v6.2.4.0_Release_Installer.exe
   InstallerSha256: 0A893B2A0E52C4BEA48C4624580D9ABC3814D6CE51F20DDD602AF2D5A223ACC8
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Belphemur/SoundSwitch/releases/download/v6.2.4/SoundSwitch_v6.2.4.0_Release_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Belphemur/SoundSwitch/releases/download/v6.2.4/SoundSwitch_v6.2.4.0_Release_Installer.exe
   InstallerSha256: 0A893B2A0E52C4BEA48C4624580D9ABC3814D6CE51F20DDD602AF2D5A223ACC8
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /CURRENTUSER

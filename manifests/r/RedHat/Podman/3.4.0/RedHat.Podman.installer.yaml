@@ -10,7 +10,7 @@ Installers:
 - Architecture: x64
   InstallerType: wix
   Scope: machine
-  InstallerUrl: https://github.com/containers/podman/releases/download/v3.4.0/podman-v3.4.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v3.4.0/podman-v3.4.0.msi
   InstallerSha256: 3D522E5FDA661B803DDC43333B10DDF9E6D6D2C03DE7CD7E5939483E165710EB
   ProductCode: '{3813745A-8531-4FF5-B84E-247E7EF1308A}'
   UpgradeBehavior: install

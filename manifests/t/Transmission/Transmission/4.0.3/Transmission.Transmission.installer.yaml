@@ -18,7 +18,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/transmission/transmission/releases/download/4.0.3/transmission-4.0.3-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/transmission/transmission/releases/download/4.0.3/transmission-4.0.3-x64.msi
   InstallerSha256: 1EF1294F0CD1F352DB7367BE04A8BDC77083EE82926D76769F20937B90FA1202
   Dependencies:
     PackageDependencies:
@@ -27,7 +27,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/transmission/transmission/releases/download/4.0.3/transmission-4.0.3-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/transmission/transmission/releases/download/4.0.3/transmission-4.0.3-x86.msi
   InstallerSha256: A131F8F1654C5A787D8C67A0667A34852952CDFAAF97DD1E93864200196CE098
   Dependencies:
     PackageDependencies:

@@ -8,14 +8,14 @@ Commands:
   - gitql
 Installers:
   - Architecture: x86
-    InstallerUrl: https://github.com/AmrDeveloper/GQL/releases/download/0.12.0/gql-x86-windows.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/AmrDeveloper/GQL/releases/download/0.12.0/gql-x86-windows.exe
     InstallerSha256: f5eee83b7607ad155e954e8344888a6d6f829ab316376b76fb5ab0a9cfc079da
     Dependencies:
       PackageDependencies:
         - PackageIdentifier: Microsoft.VCRedist.2015+.x86
         - PackageIdentifier: Microsoft.UI.Xaml.2.8
   - Architecture: x64
-    InstallerUrl: https://github.com/AmrDeveloper/GQL/releases/download/0.12.0/gql-x86_64-windows.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/AmrDeveloper/GQL/releases/download/0.12.0/gql-x86_64-windows.exe
     InstallerSha256: 75f6dbd507df87606693360ec90eeae0b575f7ac3e663188c2bb78690f8d538d
     Dependencies:
       PackageDependencies:

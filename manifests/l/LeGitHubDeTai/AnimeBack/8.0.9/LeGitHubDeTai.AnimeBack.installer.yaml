@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-01-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LeGitHubDeTai/AnimeBack/releases/download/v8.0.9/AnimeBack.Setup.8.0.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LeGitHubDeTai/AnimeBack/releases/download/v8.0.9/AnimeBack.Setup.8.0.9.exe
   InstallerSha256: B4808C3CD7CB19FEE0DF88AA74A5F970D82C04FB68A61282CD5BAE549FF45092
 ManifestType: installer
 ManifestVersion: 1.4.0

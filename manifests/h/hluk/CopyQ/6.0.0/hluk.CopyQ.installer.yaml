@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hluk/CopyQ/releases/download/v6.0.0/copyq-6.0.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hluk/CopyQ/releases/download/v6.0.0/copyq-6.0.0-setup.exe
   InstallerSha256: BA7A2545861A9E0F2FB3AC7819D489111A06220D9CB2915E148FB6B7519A2179
 ManifestType: installer
 ManifestVersion: 1.1.0

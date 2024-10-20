@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/yermak/AudioBookConverter/releases/download/version_5.5.23/AudioBookConverter-All-Users-5.5.23.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/yermak/AudioBookConverter/releases/download/version_5.5.23/AudioBookConverter-All-Users-5.5.23.msi
   InstallerSha256: 7B19B47C80021734C77615A7BECF9B276BE8297A4B99BD8CB864F3BC28FCEB5A
   UpgradeBehavior: install
   ProductCode: '{D85AB4A1-F6D9-3624-8489-74E63EC9BBD6}'
@@ -29,7 +29,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: user
-  InstallerUrl: https://github.com/yermak/AudioBookConverter/releases/download/version_5.5.23/AudioBookConverter-Single-User-5.5.23.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/yermak/AudioBookConverter/releases/download/version_5.5.23/AudioBookConverter-Single-User-5.5.23.msi
   InstallerSha256: 3D11D7D5811FE6AA30ADF2D348D3B6D3D8C84BBAB4D90E41D4E96F60EBC97CC3
   UpgradeBehavior: install
   ProductCode: '{D85AB4A1-F6D9-3624-8489-74E63EC9BBD6}'

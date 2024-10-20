@@ -17,13 +17,13 @@ Dependencies:
 ReleaseDate: 2024-07-22
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/GitTools/GitVersion/releases/download/6.0.0/gitversion-win-x64-6.0.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GitTools/GitVersion/releases/download/6.0.0/gitversion-win-x64-6.0.0.zip
   InstallerSha256: 5905DC372ACECEE526B6E29EE38853FA5F53B36DB3812B2DE9715F4DA8644155
 - Architecture: x64
-  InstallerUrl: https://github.com/GitTools/GitVersion/releases/download/6.0.0/gitversion-win-x64-6.0.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GitTools/GitVersion/releases/download/6.0.0/gitversion-win-x64-6.0.0.zip
   InstallerSha256: 5905DC372ACECEE526B6E29EE38853FA5F53B36DB3812B2DE9715F4DA8644155
 - Architecture: arm64
-  InstallerUrl: https://github.com/GitTools/GitVersion/releases/download/6.0.0/gitversion-win-arm64-6.0.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GitTools/GitVersion/releases/download/6.0.0/gitversion-win-arm64-6.0.0.zip
   InstallerSha256: E9897532489586E276CF449AEE66E141E675D226D43BE12976D8495A8AE12E77
 ManifestType: installer
 ManifestVersion: 1.6.0

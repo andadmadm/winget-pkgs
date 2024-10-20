@@ -11,14 +11,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: MrBayes-3.2.7-WIN\bin\mb.3.2.7-win32.exe
     PortableCommandAlias: mb
-  InstallerUrl: https://github.com/NBISweden/MrBayes/releases/download/v3.2.7/MrBayes-3.2.7-WIN.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NBISweden/MrBayes/releases/download/v3.2.7/MrBayes-3.2.7-WIN.zip
   InstallerSha256: D9DCF4190F11A9489875D0B9C7FF9CAEA720B6F17DF0B5F8CD0FCE428E60CEBE
 - Architecture: x64
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: MrBayes-3.2.7-WIN\bin\mb.3.2.7-win64.exe
     PortableCommandAlias: mb
-  InstallerUrl: https://github.com/NBISweden/MrBayes/releases/download/v3.2.7/MrBayes-3.2.7-WIN.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NBISweden/MrBayes/releases/download/v3.2.7/MrBayes-3.2.7-WIN.zip
   InstallerSha256: D9DCF4190F11A9489875D0B9C7FF9CAEA720B6F17DF0B5F8CD0FCE428E60CEBE
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-06-13
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/10.17/Playnite1017.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/10.17/Playnite1017.exe
   InstallerSha256: 62E8F13939D6488D7D1BDC9304A59C1D31EF223DFFC8724793E8A5475D5A8005
   ProductCode: Playnite_is1
 ManifestType: installer

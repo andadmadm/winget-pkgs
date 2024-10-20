@@ -4,7 +4,7 @@
 PackageIdentifier: FOSSA.FOSSA-cli
 PackageVersion: 3.8.6
 Installers:
-- InstallerUrl: https://github.com/fossas/fossa-cli/releases/download/v3.8.6/fossa_3.8.6_windows_amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/fossas/fossa-cli/releases/download/v3.8.6/fossa_3.8.6_windows_amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

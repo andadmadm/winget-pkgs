@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-03-01
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adventuregamestudio/ags/releases/download/v.3.5.1.16/AGS-3.5.1.16-P9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/adventuregamestudio/ags/releases/download/v.3.5.1.16/AGS-3.5.1.16-P9.exe
   InstallerSha256: D5132D333EC4116B68A1548C399F0AE2E38B35234B4C1AF2F326F5ACB24FBD1F
 ManifestType: installer
 ManifestVersion: 1.1.0

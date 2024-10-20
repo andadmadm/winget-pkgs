@@ -23,7 +23,7 @@ Dependencies:
 ReleaseDate: 2023-11-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pizzaboxer/bloxstrap/releases/download/v2.5.4/Bloxstrap-v2.5.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pizzaboxer/bloxstrap/releases/download/v2.5.4/Bloxstrap-v2.5.4.exe
   InstallerSha256: B2AC1E407ED3ECD7C7FAA6DE929A68FB51145662CF793C40B69EB59295BBA6BC
 ManifestType: installer
 ManifestVersion: 1.5.0

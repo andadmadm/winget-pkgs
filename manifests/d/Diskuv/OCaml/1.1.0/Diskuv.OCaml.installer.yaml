@@ -67,7 +67,7 @@ ReleaseDate: 2022-12-28 # BUMP
 Installers:
   - Architecture: x64
 
-    InstallerUrl: https://github.com/diskuv/dkml-installer-ocaml/releases/download/v1.1.0_r2/setup-diskuv-ocaml-windows_x86_64-1.1.0.exe # BUMP
+    InstallerUrl: https://gitpoxry.com/https://github.com/diskuv/dkml-installer-ocaml/releases/download/v1.1.0_r2/setup-diskuv-ocaml-windows_x86_64-1.1.0.exe # BUMP
     InstallerType: exe
     InstallerSha256: df5bf69fb2d7ddb9bd64a03448b3d26befcf0823ab4662d4c5605b9a6fde9e92 # BUMP
 

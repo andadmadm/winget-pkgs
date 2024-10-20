@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/xmoto/xmoto/releases/download/v0.6.2/xmoto-0.6.2-win32-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmoto/xmoto/releases/download/v0.6.2/xmoto-0.6.2-win32-setup.exe
   InstallerSha256: 43B6B05158E9F279BC37761BA22B5C7F82DA3A90824361F84BDDD832A922318E
 ManifestType: installer
 ManifestVersion: 1.6.0

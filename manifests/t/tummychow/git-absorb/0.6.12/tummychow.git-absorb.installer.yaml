@@ -14,7 +14,7 @@ Commands:
 ReleaseDate: 2024-02-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tummychow/git-absorb/releases/download/0.6.12/git-absorb-0.6.12-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/tummychow/git-absorb/releases/download/0.6.12/git-absorb-0.6.12-x86_64-pc-windows-msvc.zip
   InstallerSha256: 7808E2E03BFF930CA9A88F85167F149E28696C82B83507788B25BA532872EB97
 ManifestType: installer
 ManifestVersion: 1.6.0

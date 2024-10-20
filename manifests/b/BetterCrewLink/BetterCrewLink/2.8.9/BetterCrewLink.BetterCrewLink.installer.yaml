@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OhMyGuus/BetterCrewLink/releases/download/v2.8.9/Better-CrewLink-Setup-2.8.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OhMyGuus/BetterCrewLink/releases/download/v2.8.9/Better-CrewLink-Setup-2.8.9.exe
   InstallerSha256: 42D28112288F5D8379A7519FFEF2EEA1EA08E15FE7465EDA86F85F396A767073
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-08-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-win-v3.2.6-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-win-v3.2.6-x64.msi
   InstallerSha256: 2E6E8DCC85E1DF5A248A942277BA84097D815134E3E6113D5A470B70D1ECA3BE
   ProductCode: '{75B734D7-F3E6-48BB-BA28-F3768D5F203B}'
 ManifestType: installer

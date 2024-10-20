@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.13.0-beta/freetube-0.13.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.13.0-beta/freetube-0.13.0-setup-x64.exe
   InstallerSha256: 670197E42C5CB736A690E917B48AC114BCF0F9E4F3CDC9BD0B82885D71371A0A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.13.0-beta/freetube-0.13.0-setup-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.13.0-beta/freetube-0.13.0-setup-x64.exe
   InstallerSha256: 670197E42C5CB736A690E917B48AC114BCF0F9E4F3CDC9BD0B82885D71371A0A
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -16,10 +16,10 @@ ProductCode: Conan Package Manager_is1
 ReleaseDate: 2023-07-26
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/conan-io/conan/releases/download/1.60.2/conan-win-64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conan-io/conan/releases/download/1.60.2/conan-win-64.exe
   InstallerSha256: F1AB38974101C1691A781B1F76AB0ACDAB1A93FB56EECD33935313FA5BE363FC
 - Architecture: x64
-  InstallerUrl: https://github.com/conan-io/conan/releases/download/1.60.2/conan-win-64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conan-io/conan/releases/download/1.60.2/conan-win-64.exe
   InstallerSha256: F1AB38974101C1691A781B1F76AB0ACDAB1A93FB56EECD33935313FA5BE363FC
 ManifestType: installer
 ManifestVersion: 1.4.0

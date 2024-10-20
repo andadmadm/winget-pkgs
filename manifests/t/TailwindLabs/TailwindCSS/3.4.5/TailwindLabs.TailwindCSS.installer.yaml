@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2024-07-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.5/tailwindcss-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.5/tailwindcss-windows-x64.exe
   InstallerSha256: 60A887F65830FF14B2F628FFC170CA37307F03EF3D27345AB53FD01B934D946F
 - Architecture: arm64
-  InstallerUrl: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.5/tailwindcss-windows-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.5/tailwindcss-windows-arm64.exe
   InstallerSha256: 5E074F89F434A30988483D8E937AB6FFCA3A73F3E0BFA3E969AD7EE3950FA3FE
 ManifestType: installer
 ManifestVersion: 1.6.0

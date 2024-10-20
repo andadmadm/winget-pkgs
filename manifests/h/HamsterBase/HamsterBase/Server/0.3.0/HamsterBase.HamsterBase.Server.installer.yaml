@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2022-06-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hamsterbase/hamsterbase/releases/download/0.3.0/hamsterbase-0.3.0-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hamsterbase/hamsterbase/releases/download/0.3.0/hamsterbase-0.3.0-win-x64.exe
   InstallerSha256: 5287D1AEB14BA16B788D164287B1747BEDC9569299E15483D7A5756E3833E39D
 ManifestType: installer
 ManifestVersion: 1.2.0

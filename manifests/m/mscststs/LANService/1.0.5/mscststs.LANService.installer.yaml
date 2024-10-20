@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mscststs/LANService/releases/download/v0.0.5/LANService.Setup.1.0.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mscststs/LANService/releases/download/v0.0.5/LANService.Setup.1.0.5.exe
   InstallerSha256: 8BC96BBAD8E8C31807A18657A02F61D1C1015964A7D061291AA9CDE0BEF70159
   ProductCode: 64d62936-a351-5f7b-8559-a985e624cb32
 ManifestType: installer

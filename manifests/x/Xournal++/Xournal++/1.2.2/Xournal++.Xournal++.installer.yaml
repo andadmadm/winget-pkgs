@@ -15,7 +15,7 @@ Installers:
   NestedInstallerType: nullsoft
   NestedInstallerFiles:
   - RelativeFilePath: xournalpp-1.2.2-windows.exe
-  InstallerUrl: https://github.com/xournalpp/xournalpp/releases/download/v1.2.2/xournalpp-1.2.2-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/xournalpp/xournalpp/releases/download/v1.2.2/xournalpp-1.2.2-windows.zip
   InstallerSha256: 71ADC0F70E3250B58784563AB7E6B2D9D5B56CF8D93BC87825F7DF3C6CBDC684
   ProductCode: Xournal++
 ManifestType: installer

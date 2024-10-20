@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iamtakingithard/QuickDash/releases/download/v0.5.7/windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/iamtakingithard/QuickDash/releases/download/v0.5.7/windows-msvc.zip
   InstallerSha256: 2A7180BBBC047732C88D4CC0A60663356618B22924DE533D88A26330B8A11BF6
 ManifestType: installer
 ManifestVersion: 1.6.0

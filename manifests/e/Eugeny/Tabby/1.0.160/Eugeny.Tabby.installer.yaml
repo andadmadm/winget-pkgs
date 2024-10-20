@@ -16,13 +16,13 @@ FileExtensions:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.160/tabby-1.0.160-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.160/tabby-1.0.160-setup.exe
   InstallerSha256: DAF8620597E7F78725B02E73C5306662D3D72E2ED0496638B6A38B890F13BFA2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Eugeny/tabby/releases/download/v1.0.160/tabby-1.0.160-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Eugeny/tabby/releases/download/v1.0.160/tabby-1.0.160-setup.exe
   InstallerSha256: DAF8620597E7F78725B02E73C5306662D3D72E2ED0496638B6A38B890F13BFA2
   InstallerSwitches:
     Custom: /ALLUSERS

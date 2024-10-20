@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Jackett/Jackett/releases/download/v0.22.425/Jackett.Installer.Windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jackett/Jackett/releases/download/v0.22.425/Jackett.Installer.Windows.exe
   InstallerSha256: BEF0306C0B7B9CD33431AAE7B3B3D9F9883B4A581059D98EC330921556174C93
 ManifestType: installer
 ManifestVersion: 1.6.0

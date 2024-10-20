@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{C6DE4E0C-ED81-43AE-98FE-3A45B295DCAA}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/steccas/ProtonClient/releases/download/1.2.3/ProtonClientSetup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/steccas/ProtonClient/releases/download/1.2.3/ProtonClientSetup.msi
   InstallerSha256: D4C2C37E9FC936614D4B6517604DC87ED90F095AC0F0C4FAB8EE3CD8594427B5
 ManifestType: installer
 ManifestVersion: 1.5.0

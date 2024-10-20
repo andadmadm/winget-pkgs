@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Ombrelin/pandoc-gui/releases/download/1.1.1/pandoc-gui-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ombrelin/pandoc-gui/releases/download/1.1.1/pandoc-gui-setup.exe
   InstallerSha256: A4EB863CB8E4123964F9AD75C944F6CAEAE6BA531D46AAEAF17519CC0FCB21B0
 ManifestType: installer
 ManifestVersion: 1.2.0

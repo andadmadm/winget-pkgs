@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-10-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/copytranslator.Setup.10.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/copytranslator.Setup.10.1.0.exe
   InstallerSha256: 46293174AAB0FBF5FB7E2816CB4404DCDB8771099298B8DC8F49B7B0117358A3
 ManifestType: installer
 ManifestVersion: 1.2.0

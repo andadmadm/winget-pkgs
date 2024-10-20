@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/minbrowser/min/releases/download/v1.31.2/min-1.31.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/minbrowser/min/releases/download/v1.31.2/min-1.31.2-setup.exe
   InstallerSha256: A2D4AC02271C65CEA35ACD11BB872E25C6E88398C507C705B1637F79F553CB01
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -12,10 +12,10 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2024-06-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/go-musicfox/go-musicfox/releases/download/v4.5.3/go-musicfox_4.5.3_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/go-musicfox/go-musicfox/releases/download/v4.5.3/go-musicfox_4.5.3_windows_amd64.zip
   InstallerSha256: E99A08BCD86FCB155E96A3D4BEC09066BF30C3A4C477AED5E6F51463005B2218
 - Architecture: arm64
-  InstallerUrl: https://github.com/go-musicfox/go-musicfox/releases/download/v4.5.3/go-musicfox_4.5.3_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/go-musicfox/go-musicfox/releases/download/v4.5.3/go-musicfox_4.5.3_windows_amd64.zip
   InstallerSha256: E99A08BCD86FCB155E96A3D4BEC09066BF30C3A4C477AED5E6F51463005B2218
 ManifestType: installer
 ManifestVersion: 1.6.0

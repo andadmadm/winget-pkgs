@@ -12,7 +12,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v7.3.0/Fishing-Funds-Setup-7.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v7.3.0/Fishing-Funds-Setup-7.3.0.exe
   InstallerSha256: 2CA98336A6A98616AA4E30A659956F63A41CE90B7E18EEC0778372FAD84B1F81
   InstallerSwitches:
     Custom: /currentuser
@@ -20,7 +20,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/1zilc/fishing-funds/releases/download/v7.3.0/Fishing-Funds-Setup-7.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/1zilc/fishing-funds/releases/download/v7.3.0/Fishing-Funds-Setup-7.3.0.exe
   InstallerSha256: 2CA98336A6A98616AA4E30A659956F63A41CE90B7E18EEC0778372FAD84B1F81
   InstallerSwitches:
     Custom: /allusers

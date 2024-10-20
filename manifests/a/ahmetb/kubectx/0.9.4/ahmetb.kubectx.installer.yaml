@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: kubectx.exe
     PortableCommandAlias: kubectx
-  InstallerUrl: https://github.com/ahmetb/kubectx/releases/download/v0.9.4/kubectx_v0.9.4_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ahmetb/kubectx/releases/download/v0.9.4/kubectx_v0.9.4_windows_x86_64.zip
   InstallerSha256: 31A30912ACE13FE0A458A253BC76BD106C48F3B0967AC2676CFD8B7FAE71E314
 ManifestType: installer
 ManifestVersion: 1.4.0

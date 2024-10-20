@@ -14,13 +14,13 @@ ReleaseDate: 2022-10-14
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.23.15/electerm-1.23.15-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.23.15/electerm-1.23.15-win-x64-installer.exe
   InstallerSha256: 97D8E7724C4FF016B6DE14CAC77EE80CEAF15A31D8D49BE7228E6A9A0132AEB2
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.23.15/electerm-1.23.15-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.23.15/electerm-1.23.15-win-x64-installer.exe
   InstallerSha256: 97D8E7724C4FF016B6DE14CAC77EE80CEAF15A31D8D49BE7228E6A9A0132AEB2
   InstallerSwitches:
     Custom: /ALLUSERS

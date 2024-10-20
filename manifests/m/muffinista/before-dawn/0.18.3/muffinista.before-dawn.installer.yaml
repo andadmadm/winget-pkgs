@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/muffinista/before-dawn/releases/download/v0.18.3/Before-Dawn-Setup-0.18.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/muffinista/before-dawn/releases/download/v0.18.3/Before-Dawn-Setup-0.18.3.exe
   InstallerSha256: ABBD39178EAFAC9D44829A5E781D2F34CC96140456C90312F93869E950B1A72C
 ManifestType: installer
 ManifestVersion: 1.1.0

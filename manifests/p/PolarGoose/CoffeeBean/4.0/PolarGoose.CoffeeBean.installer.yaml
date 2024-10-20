@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-01-01
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/PolarGoose/CoffeeBean/releases/download/v4.0/CoffeeBean.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/PolarGoose/CoffeeBean/releases/download/v4.0/CoffeeBean.msi
   InstallerSha256: 5A35D723D1D580BDF6A18DC3E32D2FA8040F0A36DC148E24DB0B88E3FE1906FC
   ProductCode: '{79E9FD62-8839-4929-BC92-3B3606516755}'
 ManifestType: installer

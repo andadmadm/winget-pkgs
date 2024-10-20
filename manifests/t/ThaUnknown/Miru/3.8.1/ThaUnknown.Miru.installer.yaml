@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ThaUnknown/miru/releases/download/v3.8.1/win-Miru-3.8.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ThaUnknown/miru/releases/download/v3.8.1/win-Miru-3.8.1.exe
   InstallerSha256: 29A671D3115C8C622849084E1BDE999A17D12230F5002B87E818B2D5860EC1AB
 ManifestType: installer
 ManifestVersion: 1.2.0

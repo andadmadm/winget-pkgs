@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/rcaelers/workrave/releases/download/v1_10_47/workrave-win32-v1.10.47.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rcaelers/workrave/releases/download/v1_10_47/workrave-win32-v1.10.47.exe
   InstallerSha256: 96AA7F971545B0D305FB3C115E4595E83BAB3121B889829D527B1A65300B5BD4
 ManifestType: installer
 ManifestVersion: 1.0.0

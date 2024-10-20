@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mullvad/mullvadvpn-app/releases/download/2022.1/MullvadVPN-2022.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mullvad/mullvadvpn-app/releases/download/2022.1/MullvadVPN-2022.1.exe
   InstallerSha256: E636C12B09B5273017CF081517C069C49BAD504D8F309F65C2C8A11E11293B75
 ManifestType: installer
 ManifestVersion: 1.1.0

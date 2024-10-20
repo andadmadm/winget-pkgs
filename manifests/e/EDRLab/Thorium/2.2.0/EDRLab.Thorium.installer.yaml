@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/edrlab/thorium-reader/releases/download/v2.2.0/Thorium.Setup.2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/edrlab/thorium-reader/releases/download/v2.2.0/Thorium.Setup.2.2.0.exe
   InstallerSha256: 9D508924464CD0C6516CFB557709D336D497EDA255CFC2A52E188DAE03FC91AE
 ManifestType: installer
 ManifestVersion: 1.2.0

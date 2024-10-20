@@ -11,28 +11,28 @@ ReleaseDate: 2024-09-29
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-ia32.exe
   InstallerSha256: DF2B28EC3E02AF3ABBB1289CBA3EACBAC8A31AA28B5278B4EA04A383063EB629
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 8775235d-add8-5501-961c-495d96145e7e
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-ia32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-ia32.exe
   InstallerSha256: DF2B28EC3E02AF3ABBB1289CBA3EACBAC8A31AA28B5278B4EA04A383063EB629
   InstallerSwitches:
     Custom: /allusers
   ProductCode: 8775235d-add8-5501-961c-495d96145e7e
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-x64.exe
   InstallerSha256: F588F32F1210ACD1AAF3017B890FDF0B83BCE37E8F8212268A422BDA8A3CD58B
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 8775235d-add8-5501-961c-495d96145e7e
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v4.2.7/rubick-Setup-4.2.7-x64.exe
   InstallerSha256: F588F32F1210ACD1AAF3017B890FDF0B83BCE37E8F8212268A422BDA8A3CD58B
   InstallerSwitches:
     Custom: /allusers

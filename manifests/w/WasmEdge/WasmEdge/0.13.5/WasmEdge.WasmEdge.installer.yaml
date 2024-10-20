@@ -11,7 +11,7 @@ Dependencies:
 ReleaseDate: 2023-11-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/WasmEdge/WasmEdge/releases/download/0.13.5/WasmEdge-0.13.5-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WasmEdge/WasmEdge/releases/download/0.13.5/WasmEdge-0.13.5-windows.msi
   InstallerSha256: DAED0B36666DC046D232B54BB8ED928B6C965063CA5F2A34F59B36D79B66FDA7
   ProductCode: '{42DE005E-2DCE-464E-8BB3-BEDE7F50C094}'
   AppsAndFeaturesEntries:

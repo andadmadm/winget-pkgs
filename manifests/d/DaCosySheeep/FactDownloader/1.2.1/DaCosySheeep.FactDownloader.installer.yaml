@@ -7,13 +7,13 @@ InstallerType: inno
 Installers:
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/DaCosySheeep/FactDownloader/releases/download/v1.2.1/factdownloader-1.2.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaCosySheeep/FactDownloader/releases/download/v1.2.1/factdownloader-1.2.1-setup.exe
   InstallerSha256: EAFA66DF2FB2E8D3DA88C2919B6D5AFFA834208C3EB84AD90C7B998561E99542
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/DaCosySheeep/FactDownloader/releases/download/v1.2.1/factdownloader-1.2.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaCosySheeep/FactDownloader/releases/download/v1.2.1/factdownloader-1.2.1-setup.exe
   InstallerSha256: EAFA66DF2FB2E8D3DA88C2919B6D5AFFA834208C3EB84AD90C7B998561E99542
   InstallerSwitches:
     Custom: /CURRENTUSER

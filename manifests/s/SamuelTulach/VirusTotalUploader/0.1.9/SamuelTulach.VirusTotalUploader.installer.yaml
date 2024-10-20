@@ -14,13 +14,13 @@ Installers:
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: ./uploader.exe
-  InstallerUrl: https://github.com/SamuelTulach/VirusTotalUploader/releases/download/0.1.9/setup_anycpu_signed.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/SamuelTulach/VirusTotalUploader/releases/download/0.1.9/setup_anycpu_signed.zip
   InstallerSha256: 142751060F6E68B989AF65DF8B16420E7D29979849F6AAA27E782D59901BEAE9
 - Architecture: x86
   NestedInstallerType: inno
   NestedInstallerFiles:
   - RelativeFilePath: ./uploader.exe
-  InstallerUrl: https://github.com/SamuelTulach/VirusTotalUploader/releases/download/0.1.9/setup_anycpu_signed.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/SamuelTulach/VirusTotalUploader/releases/download/0.1.9/setup_anycpu_signed.zip
   InstallerSha256: 142751060F6E68B989AF65DF8B16420E7D29979849F6AAA27E782D59901BEAE9
 ManifestType: installer
 ManifestVersion: 1.4.0

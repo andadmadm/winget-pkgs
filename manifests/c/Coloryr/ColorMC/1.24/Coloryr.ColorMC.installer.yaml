@@ -11,7 +11,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Coloryr/ColorMC/releases/download/A24/colormc-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Coloryr/ColorMC/releases/download/A24/colormc-x64.msi
   InstallerSha256: 87B2301B0BF2BC783ED9022B25D72A0F20849A21580A3740FBC183315C13F51F
   ProductCode: '{BA2749D2-BBA4-4ACE-8E06-C4E111C43C1A}'
 ManifestType: installer

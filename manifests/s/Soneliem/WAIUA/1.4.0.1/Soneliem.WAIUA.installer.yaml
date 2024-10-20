@@ -9,13 +9,13 @@ UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Soneliem/WAIUA/releases/download/v1.4.0.1/WAIUA.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Soneliem/WAIUA/releases/download/v1.4.0.1/WAIUA.exe
   InstallerSha256: 6B1B01B9CBFF16D40E4864DABC003DFC2E8F9EA56C0E45AF39953F42D9D72047
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Soneliem/WAIUA/releases/download/v1.4.0.1/WAIUA.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Soneliem/WAIUA/releases/download/v1.4.0.1/WAIUA.exe
   InstallerSha256: 6B1B01B9CBFF16D40E4864DABC003DFC2E8F9EA56C0E45AF39953F42D9D72047
   InstallerSwitches:
     Custom: /ALLUSERS

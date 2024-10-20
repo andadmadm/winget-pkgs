@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2023-06-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hamsterbase/hamsterbase/releases/download/0.7.1/hamsterbase-selfhosted-0.7.1-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hamsterbase/hamsterbase/releases/download/0.7.1/hamsterbase-selfhosted-0.7.1-win-x64.exe
   InstallerSha256: 49A90B421E2504929F1705FDBE4BB2D376543B21365A7C3DB7FF3E953E68D89F
 ManifestType: installer
 ManifestVersion: 1.4.0

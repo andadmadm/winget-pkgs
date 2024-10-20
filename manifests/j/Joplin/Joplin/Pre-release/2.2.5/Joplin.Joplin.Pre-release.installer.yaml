@@ -17,25 +17,25 @@ Installers:
 - InstallerSha256: A2503829D1F4133DFBDC8EB0472F305B1FC3B7B63E535244BC759AE99D66C5E8
   InstallerSwitches:
     Custom: /CURRENTUSER /RESTARTAPPLICATIONS
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
   Architecture: x64
   Scope: user
 - InstallerSha256: A2503829D1F4133DFBDC8EB0472F305B1FC3B7B63E535244BC759AE99D66C5E8
   InstallerSwitches:
     Custom: /CURRENTUSER /RESTARTAPPLICATIONS
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
   Architecture: x86
   Scope: user
 - InstallerSha256: A2503829D1F4133DFBDC8EB0472F305B1FC3B7B63E535244BC759AE99D66C5E8
   InstallerSwitches:
     Custom: /ALLUSERS /RESTARTAPPLICATIONS
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
   Architecture: x64
   Scope: machine
 - InstallerSha256: A2503829D1F4133DFBDC8EB0472F305B1FC3B7B63E535244BC759AE99D66C5E8
   InstallerSwitches:
     Custom: /ALLUSERS /RESTARTAPPLICATIONS
-  InstallerUrl: https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/laurent22/joplin/releases/download/v2.2.5/Joplin-Setup-2.2.5.exe
   Architecture: x86
   Scope: machine
 ManifestType: installer

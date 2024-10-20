@@ -4,7 +4,7 @@
 PackageIdentifier: xyproto.algernon
 PackageVersion: 1.15.2
 Installers:
-- InstallerUrl: https://github.com/xyproto/algernon/releases/download/v1.15.2/algernon-1.15.2-windows_x86_64_static.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/xyproto/algernon/releases/download/v1.15.2/algernon-1.15.2-windows_x86_64_static.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

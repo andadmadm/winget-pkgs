@@ -11,7 +11,7 @@ Scope: machine
 ReleaseDate: 2022-02-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/git-lfs/git-lfs/releases/download/v3.1.1/git-lfs-windows-v3.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-lfs/git-lfs/releases/download/v3.1.1/git-lfs-windows-v3.1.1.exe
   InstallerSha256: 43AF4EC4C2FDAA05083BD2E7AD31E062C39D1138FDEE1FAF500CD93D96E71AFA
   ProductCode: '{286391DE-F778-44EA-9375-1B21AAA04FF0}_is1'
 ManifestType: installer

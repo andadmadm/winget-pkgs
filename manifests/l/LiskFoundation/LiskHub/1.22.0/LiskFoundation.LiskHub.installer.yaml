@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/LiskHQ/lisk-desktop/releases/download/v1.22.0/lisk-hub-win-1.22.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LiskHQ/lisk-desktop/releases/download/v1.22.0/lisk-hub-win-1.22.0.exe
   InstallerSha256: EDCBA8748595116F3310414B24B4BCF9E254C485781A33EC23C2D1AD1077A319
   UpgradeBehavior: install
 ManifestType: installer

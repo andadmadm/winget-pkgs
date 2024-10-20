@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pyfa-org/Pyfa/releases/download/v2.39.1/pyfa-v2.39.1-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pyfa-org/Pyfa/releases/download/v2.39.1/pyfa-v2.39.1-win.exe
   InstallerSha256: 4F9751A69331CFEB7C94049C6E4CC7A007FF313613D861D04674CB4F6AF7C888
 ManifestType: installer
 ManifestVersion: 1.1.0

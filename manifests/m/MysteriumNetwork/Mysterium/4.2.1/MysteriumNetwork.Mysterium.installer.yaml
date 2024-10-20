@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/4.2.1/MysteriumVPN-Setup-4.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/4.2.1/MysteriumVPN-Setup-4.2.1.exe
   InstallerSha256: 6DF36A7DC0790C102DE5AD4085205D7B3430E179DFE66AC1EEA2847258F6F4CA
   UpgradeBehavior: install
 ManifestType: installer

@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2024-08-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-x86_64-pc-windows-msvc.zip
   InstallerSha256: 50CB520F0B3620F2626220E1D1A5CBF733ADD032948B2DEC7F06849B5BB15A30
 ManifestType: installer
 ManifestVersion: 1.5.0

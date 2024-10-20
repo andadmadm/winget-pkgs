@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Dummerle/Rare/releases/download/1.8.8/Rare-1.8.8.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Dummerle/Rare/releases/download/1.8.8/Rare-1.8.8.msi
   InstallerSha256: C719B31AC4B6291D45441896525194A1CBB074A1F6FDD87BD3005DD6E5E2E515
   ProductCode: '{A54B4E0D-66FA-4016-A0AC-113DE44EE793}'
 ManifestType: installer

@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adamyg/mcwin32/releases/download/4.8.28.227/mcwin32-build227-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/adamyg/mcwin32/releases/download/4.8.28.227/mcwin32-build227-setup.exe
   InstallerSha256: 43A502FC4DE7C794B828E32E79C5CC067F84D22F9A024FEC2D0354D9DE980361
   ProductCode: '{CBB4464D-7081-4F1D-9F6D-F5288A4A9B82}_is1'
 ManifestType: installer

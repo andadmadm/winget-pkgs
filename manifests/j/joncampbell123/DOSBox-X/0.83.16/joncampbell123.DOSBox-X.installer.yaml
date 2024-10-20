@@ -19,7 +19,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win64-0.83.16-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win64-0.83.16-setup.exe
   InstallerSha256: A761B369DBD138282BFC510B82B34DD8C9D66E3F0F19B407D9AAD520D51E791D
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -28,7 +28,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win64-0.83.16-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win64-0.83.16-setup.exe
   InstallerSha256: A761B369DBD138282BFC510B82B34DD8C9D66E3F0F19B407D9AAD520D51E791D
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -37,7 +37,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win32-0.83.16-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win32-0.83.16-setup.exe
   InstallerSha256: C95CD87BEA5915001728D249BCC8E2C22D929EA347B51D9E93D1F6A8067798B0
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -46,7 +46,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win32-0.83.16-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.16/dosbox-x-win32-0.83.16-setup.exe
   InstallerSha256: C95CD87BEA5915001728D249BCC8E2C22D929EA347B51D9E93D1F6A8067798B0
   InstallerSwitches:
     Custom: /CURRENTUSER

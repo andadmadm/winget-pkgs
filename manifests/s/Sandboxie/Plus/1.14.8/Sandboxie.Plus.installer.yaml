@@ -19,13 +19,13 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Plus-x86-v1.14.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Plus-x86-v1.14.8.exe
   InstallerSha256: 08831BFF10285D1C9B3394E13B8ED178DE848D93D2A4135D7C7BEAF1C4370F24
 - Architecture: x64
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Plus-x64-v1.14.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Plus-x64-v1.14.8.exe
   InstallerSha256: 9D1AE543D567DC1BA8CE3ABBA538EB3A59ED29AFA5340719477CB09C39AEA0AF
 - Architecture: arm64
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Plus-ARM64-v1.14.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Plus-ARM64-v1.14.8.exe
   InstallerSha256: 1F48BC79B409688320B565A4C586B5E0515BC5948B4AFCD2EAC874140F8AE68C
 ManifestType: installer
 ManifestVersion: 1.6.0

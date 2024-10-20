@@ -12,7 +12,7 @@ FileExtensions:
 - py
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/winpython/winpython/releases/download/4.3.20210620/Winpython64-3.7.10.0dotPyPy.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/winpython/winpython/releases/download/4.3.20210620/Winpython64-3.7.10.0dotPyPy.exe
   InstallerSha256: 489AB15C35336CDAC32B88A5282D7B5631AF74AFBA34AC6CEE3AC475FFD7C7DD
 ManifestType: installer
 ManifestVersion: 1.2.0

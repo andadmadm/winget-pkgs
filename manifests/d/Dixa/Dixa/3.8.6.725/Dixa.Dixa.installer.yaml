@@ -12,7 +12,7 @@ Installers:
 - Architecture: x86
   InstallerType: msi
   Scope: user
-  InstallerUrl: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v3.8.6/dixa-setup-3.8.6.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dixahq/dixa-desktop-app-release/releases/download/v3.8.6/dixa-setup-3.8.6.msi
   InstallerSha256: 27033B013AA9114082DFF3A32A925DD665361499B090F515832CFD23BD86DA0E
   ProductCode: '{E52870A3-4CAA-489D-A05F-DF7866F00C5B}'
   UpgradeBehavior: install

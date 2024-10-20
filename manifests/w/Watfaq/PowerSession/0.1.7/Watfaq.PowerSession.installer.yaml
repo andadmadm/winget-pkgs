@@ -12,7 +12,7 @@ FileExtensions:
 ReleaseDate: 2022-09-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Watfaq/PowerSession-rs/releases/download/v0.1.7/PowerSession.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Watfaq/PowerSession-rs/releases/download/v0.1.7/PowerSession.exe
   InstallerSha256: BCDCD81F11F4B5F8CE4715F93DF9B2FFF9B3A1B1A62BB440F29106023B97C240
 ManifestType: installer
 ManifestVersion: 1.2.0

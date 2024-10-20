@@ -14,7 +14,7 @@ InstallModes:
 ReleaseDate: 2024-01-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/NethermindEth/nethermind/releases/download/1.25.0/nethermind-1.25.0-db6ecc76-windows-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/NethermindEth/nethermind/releases/download/1.25.0/nethermind-1.25.0-db6ecc76-windows-x64.zip
   InstallerSha256: E026A4A4C9FA5E65905F125EE4D3B862B1BD4DF17766900F3100E7F994EE844B
 ManifestType: installer
 ManifestVersion: 1.5.0

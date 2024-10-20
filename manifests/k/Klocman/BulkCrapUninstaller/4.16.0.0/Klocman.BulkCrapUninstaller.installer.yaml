@@ -9,7 +9,7 @@ InstallModes:
 Installers:
   - Architecture: neutral
     InstallerType: inno
-    InstallerUrl: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v4.16/BCUninstaller_4.16_setup.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v4.16/BCUninstaller_4.16_setup.exe
     InstallerSha256: ECE0A8AE351F943D186C85D69628DBF2D28ED815737D8942999DFEC2C9CB8C4B
     Scope: machine
     InstallerLocale: en-US

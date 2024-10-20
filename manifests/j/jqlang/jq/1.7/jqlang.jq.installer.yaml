@@ -7,7 +7,7 @@ InstallerType: portable
 ReleaseDate: 2023-09-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jqlang/jq/releases/download/jq-1.7/jq-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jqlang/jq/releases/download/jq-1.7/jq-windows-amd64.exe
   InstallerSha256: 2E9CC54D0A5D098E2007DECEC1DBB3C555CA2F5AABDED7AEC907FE0FFE401AAB
   Commands:
   - jq

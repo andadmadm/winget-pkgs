@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/MCreator/MCreator/releases/download/2021.3.51219/MCreator.2021.3.Windows.64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MCreator/MCreator/releases/download/2021.3.51219/MCreator.2021.3.Windows.64bit.exe
   InstallerSha256: 827CFA5EE81F6E41B05A42810A22DF3AD14371A6494E54DFDE3E9B3D002CF1FF
 ManifestType: installer
 ManifestVersion: 1.1.0

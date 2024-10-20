@@ -11,10 +11,10 @@ NestedInstallerFiles:
 ReleaseDate: 2024-06-28
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AlexanderPro/SmartSystemMenu/releases/download/v2.27.0/SmartSystemMenu_v2.27.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AlexanderPro/SmartSystemMenu/releases/download/v2.27.0/SmartSystemMenu_v2.27.0.zip
   InstallerSha256: C4C28E0574B0ECE51472D5AF847A46DA25782E1F2D7BD12A22B4EDDFC8202D9D
 - Architecture: x64
-  InstallerUrl: https://github.com/AlexanderPro/SmartSystemMenu/releases/download/v2.27.0/SmartSystemMenu_v2.27.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/AlexanderPro/SmartSystemMenu/releases/download/v2.27.0/SmartSystemMenu_v2.27.0.zip
   InstallerSha256: C4C28E0574B0ECE51472D5AF847A46DA25782E1F2D7BD12A22B4EDDFC8202D9D
 ManifestType: installer
 ManifestVersion: 1.6.0

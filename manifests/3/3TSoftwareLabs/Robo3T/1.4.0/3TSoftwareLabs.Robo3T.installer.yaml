@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-09-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Studio3T/robomongo/releases/download/v1.4.0/robo3t-1.4.0-windows-x86_64-12e54cc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Studio3T/robomongo/releases/download/v1.4.0/robo3t-1.4.0-windows-x86_64-12e54cc.exe
   InstallerSha256: 3EF87E6426A3AB4D8BABC2FDC2887E2266EF7873E65F8558556ED2A6C842308B
 ManifestType: installer
 ManifestVersion: 1.2.0

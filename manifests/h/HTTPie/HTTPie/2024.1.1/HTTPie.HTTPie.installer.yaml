@@ -13,14 +13,14 @@ ReleaseDate: 2024-01-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/httpie/desktop/releases/download/v2024.1.1/HTTPie-Setup-2024.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httpie/desktop/releases/download/v2024.1.1/HTTPie-Setup-2024.1.1.exe
   InstallerSha256: 99AF38E3200DBBA37D2E73BC0FEA665C5228E65A2FC755D847661384D7F9ED70
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c1991403-1acd-51ca-982e-dd3bdc00e598
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/httpie/desktop/releases/download/v2024.1.1/HTTPie-Setup-2024.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/httpie/desktop/releases/download/v2024.1.1/HTTPie-Setup-2024.1.1.exe
   InstallerSha256: 99AF38E3200DBBA37D2E73BC0FEA665C5228E65A2FC755D847661384D7F9ED70
   InstallerSwitches:
     Custom: /allusers

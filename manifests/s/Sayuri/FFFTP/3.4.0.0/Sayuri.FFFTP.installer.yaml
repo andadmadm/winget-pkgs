@@ -14,11 +14,11 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ffftp/ffftp/releases/download/v3.4/ffftp-v3.4-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ffftp/ffftp/releases/download/v3.4/ffftp-v3.4-x64.msi
   InstallerSha256: D730D9BD3776FE5971DEB6B9B8AD4E0C0EC5389C56F75A7E4D6A1E1AEDB6FDA8
   ProductCode: '{23249C6A-A158-4E15-B47A-C0052D002845}'
 - Architecture: x86
-  InstallerUrl: https://github.com/ffftp/ffftp/releases/download/v3.4/ffftp-v3.4-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ffftp/ffftp/releases/download/v3.4/ffftp-v3.4-x86.msi
   InstallerSha256: 40A6FC8E962E8113B4D4DFB637137BC4BBD238F7BEE7DDC6C7BCF114A520D8A0
   ProductCode: '{5AA84479-2D01-44CB-875F-7E702C649178}'
 ManifestType: installer

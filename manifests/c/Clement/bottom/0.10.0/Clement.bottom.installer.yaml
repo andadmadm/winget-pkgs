@@ -17,7 +17,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{3C90C27D-8372-4C82-B03C-020393CB983D}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ClementTsang/bottom/releases/download/0.10.0/bottom_x86_64_installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClementTsang/bottom/releases/download/0.10.0/bottom_x86_64_installer.msi
   InstallerSha256: 9624978E91674E3BA802588AD6FCA4AE1B514F3C914011C82FEEA082D46CEEED
 ManifestType: installer
 ManifestVersion: 1.5.0

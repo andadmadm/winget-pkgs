@@ -13,21 +13,21 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - InstallerSha256: D8F853BE51232BC27E862BAAC3D0B9E540E8CACED066779F3FF77E7F87D16E90
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.5.4/rocketchat-setup-3.5.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.5.4/rocketchat-setup-3.5.4.exe
   Scope: user
   Architecture: x64
   InstallerType: nullsoft
   InstallerSwitches:
     Custom: /CURRENTUSER
 - InstallerSha256: D8F853BE51232BC27E862BAAC3D0B9E540E8CACED066779F3FF77E7F87D16E90
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.5.4/rocketchat-setup-3.5.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.5.4/rocketchat-setup-3.5.4.exe
   Scope: machine
   Architecture: x64
   InstallerType: nullsoft
   InstallerSwitches:
     Custom: /ALLUSERS
 - InstallerSha256: E480229DB270C67BF4DB34A9475BB03FFE629D8C2AF293AA3CC70DB73F719D5F
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.5.4/rocketchat-setup-3.5.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.5.4/rocketchat-setup-3.5.4.msi
   Scope: machine
   Architecture: x64
   InstallerType: wix

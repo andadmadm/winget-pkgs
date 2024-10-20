@@ -11,7 +11,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/getsentry/sentry-cli/releases/download/2.28.0/sentry-cli-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/getsentry/sentry-cli/releases/download/2.28.0/sentry-cli-Windows-x86_64.exe
   InstallerSha256: 7C98D4754415CC44D887B2F7CB737C83D5573C17D7026404A7378744FE0181E1
 ManifestType: installer
 ManifestVersion: 1.6.0

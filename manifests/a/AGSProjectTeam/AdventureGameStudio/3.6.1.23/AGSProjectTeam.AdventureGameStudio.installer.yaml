@@ -10,7 +10,7 @@ AppsAndFeaturesEntries:
   ProductCode: 6fcbc804-4887-4786-bcf6-b0786e1e983d_is1
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/adventuregamestudio/ags/releases/download/v3.6.1.23/AGS-3.6.1.23-P1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/adventuregamestudio/ags/releases/download/v3.6.1.23/AGS-3.6.1.23-P1.exe
   InstallerSha256: 300D857552CEBA738CFEC54045AF08DBBE637CD82AB458448C7F999165B36854
   ProductCode: 6fcbc804-4887-4786-bcf6-b0786e1e983d_is1
 ManifestType: installer

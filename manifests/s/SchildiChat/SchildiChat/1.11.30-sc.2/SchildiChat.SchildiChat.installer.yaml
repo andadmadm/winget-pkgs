@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2023-04-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.30-sc.2/SchildiChat_Setup_v1.11.30-sc.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.30-sc.2/SchildiChat_Setup_v1.11.30-sc.2.exe
   InstallerSha256: 8981568A14A5A93502A6D96EA13AFAC56CFF3E38EFDE8BD7712167A79504FD83
 ManifestType: installer
 ManifestVersion: 1.5.0

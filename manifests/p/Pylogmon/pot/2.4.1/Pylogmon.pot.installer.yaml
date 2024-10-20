@@ -18,13 +18,13 @@ FileExtensions:
 ReleaseDate: 2023-09-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/pot-app/pot-desktop/releases/download/2.4.1/pot_2.4.1_x86-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pot-app/pot-desktop/releases/download/2.4.1/pot_2.4.1_x86-setup.exe
   InstallerSha256: 89EA6580ED4180E6DFE41B220BB27C2225CA0FABD1E1F598BCFB6873A081BE8B
 - Architecture: x64
-  InstallerUrl: https://github.com/pot-app/pot-desktop/releases/download/2.4.1/pot_2.4.1_x64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pot-app/pot-desktop/releases/download/2.4.1/pot_2.4.1_x64-setup.exe
   InstallerSha256: 6238860A3F1D20857563C511DE570240864E1593DF7CD33B6A5976D189B6879C
 - Architecture: arm64
-  InstallerUrl: https://github.com/pot-app/pot-desktop/releases/download/2.4.1/pot_2.4.1_x64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pot-app/pot-desktop/releases/download/2.4.1/pot_2.4.1_x64-setup.exe
   InstallerSha256: 6238860A3F1D20857563C511DE570240864E1593DF7CD33B6A5976D189B6879C
 ManifestType: installer
 ManifestVersion: 1.5.0

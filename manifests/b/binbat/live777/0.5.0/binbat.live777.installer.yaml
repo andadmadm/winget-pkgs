@@ -14,7 +14,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: live777-v0.5.0-i686-pc-windows-msvc/live777.exe
-  InstallerUrl: https://github.com/binbat/live777/releases/download/v0.5.0/live777-v0.5.0-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/binbat/live777/releases/download/v0.5.0/live777-v0.5.0-i686-pc-windows-msvc.zip
   InstallerSha256: EC1358012F1E7468E068DC0102AF6825C4BCF64B4FCCC332E9A705B9F68A3C89
   Dependencies:
     PackageDependencies:
@@ -23,7 +23,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: live777-v0.5.0-x86_64-pc-windows-msvc/live777.exe
-  InstallerUrl: https://github.com/binbat/live777/releases/download/v0.5.0/live777-v0.5.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/binbat/live777/releases/download/v0.5.0/live777-v0.5.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: 215B7E88E4A68D70BD6C02875E9398CD5F5D766DA2A8A223961556053630CD5A
   Dependencies:
     PackageDependencies:

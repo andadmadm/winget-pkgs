@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-07-31
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/th-ch/youtube-music/releases/download/v3.5.0/YouTube-Music-Web-Setup-3.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/th-ch/youtube-music/releases/download/v3.5.0/YouTube-Music-Web-Setup-3.5.0.exe
   InstallerSha256: F8F9419296B769F70AFECBF7AA81C235144DB72E1CF00A5381377C4BDFC0D5EC
 ManifestType: installer
 ManifestVersion: 1.5.0

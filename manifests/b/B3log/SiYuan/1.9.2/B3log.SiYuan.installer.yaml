@@ -14,7 +14,7 @@ ReleaseDate: 2022-03-18
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win.exe
  #InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.2-win.exe
   InstallerSha256: 771EB238A9FEE7B28FEBBFDC00919554331A95756410F392EA393E29AADADEF2
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win.exe
  #InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.2-win.exe
   InstallerSha256: 771EB238A9FEE7B28FEBBFDC00919554331A95756410F392EA393E29AADADEF2
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win32.exe
  #InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.2-win32.exe
   InstallerSha256: EAED1C462C7F6F50B28B21E5D24273A1E6A933FDD8DB062344D6496C3E1F913E
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.2/siyuan-1.9.2-win32.exe
  #InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.2-win32.exe
   InstallerSha256: EAED1C462C7F6F50B28B21E5D24273A1E6A933FDD8DB062344D6496C3E1F913E
   InstallerSwitches:

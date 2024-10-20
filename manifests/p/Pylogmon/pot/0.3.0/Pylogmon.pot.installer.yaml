@@ -21,7 +21,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{C4D134BA-2EFB-540F-A7FF-129FE538577E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pot-app/pot-desktop/releases/download/0.3.0/pot_0.3.0_x64_zh-CN.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pot-app/pot-desktop/releases/download/0.3.0/pot_0.3.0_x64_zh-CN.msi
   InstallerSha256: 83A5E8E0477C2CEE7B959586927EDF686858191A693F524C491779D438F854B1
   ProductCode: '{75A84EF5-29F4-41A2-8509-E03C13245051}'
 ManifestType: installer

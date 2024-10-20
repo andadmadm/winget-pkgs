@@ -12,28 +12,28 @@ ReleaseDate: 2022-05-25
 Installers:
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
   InstallerSha256: 92D52CE7E8296FC6E8463F398A7E41FE875C54A98867119D6D0882943C0F95BD
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 453b03be-81b4-5351-b62e-105449a0e209
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
   InstallerSha256: 92D52CE7E8296FC6E8463F398A7E41FE875C54A98867119D6D0882943C0F95BD
   InstallerSwitches:
     Custom: /allusers
   ProductCode: 453b03be-81b4-5351-b62e-105449a0e209
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
   InstallerSha256: 92D52CE7E8296FC6E8463F398A7E41FE875C54A98867119D6D0882943C0F95BD
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 453b03be-81b4-5351-b62e-105449a0e209
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/funnyzak/tts-now/releases/download/1.0.2/TTS.Now.Setup.1.0.2.exe
   InstallerSha256: 92D52CE7E8296FC6E8463F398A7E41FE875C54A98867119D6D0882943C0F95BD
   InstallerSwitches:
     Custom: /allusers

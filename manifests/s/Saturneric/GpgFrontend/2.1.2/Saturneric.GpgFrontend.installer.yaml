@@ -10,7 +10,7 @@ InstallerSwitches:
 ReleaseDate: 2024-02-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/saturneric/GpgFrontend/releases/download/v2.1.2/GpgFrontend-2.1.2-qt6-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/saturneric/GpgFrontend/releases/download/v2.1.2/GpgFrontend-2.1.2-qt6-windows-x86_64-setup.exe
   InstallerSha256: BA9FF427FC0926A9102ECCCA7677530966A67E04C898F23A860D630A55274C5A
 ManifestType: installer
 ManifestVersion: 1.6.0

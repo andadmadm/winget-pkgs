@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.16.11/electerm-1.16.11-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.16.11/electerm-1.16.11-win-x64-installer.exe
   InstallerSha256: 56F00C127C77F51737A73ABC44820CE6C3FFAEEB153FFEC4DBC1F7577EA6616E
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.16.11/electerm-1.16.11-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.16.11/electerm-1.16.11-win-x64-installer.exe
   InstallerSha256: 56F00C127C77F51737A73ABC44820CE6C3FFAEEB153FFEC4DBC1F7577EA6616E
   InstallerSwitches:
     Custom: /ALLUSERS

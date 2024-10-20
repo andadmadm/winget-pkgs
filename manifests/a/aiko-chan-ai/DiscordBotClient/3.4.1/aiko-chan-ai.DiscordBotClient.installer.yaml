@@ -11,7 +11,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-07-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aiko-chan-ai/DiscordBotClient/releases/download/v3.4.1/DiscordBotClient-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/aiko-chan-ai/DiscordBotClient/releases/download/v3.4.1/DiscordBotClient-win-x64.exe
   InstallerSha256: D2C28D0967A9E94F786863467D75DF0D31EE034FC24F30CC3921A1046E1C7FCF
 ManifestType: installer
 ManifestVersion: 1.5.0

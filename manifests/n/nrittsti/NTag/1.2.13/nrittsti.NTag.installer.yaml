@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-10-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nrittsti/ntag/releases/download/v1.2.13/ntag-1.2.13-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nrittsti/ntag/releases/download/v1.2.13/ntag-1.2.13-win-setup.exe
   InstallerSha256: 87E1BB01B1D38541F9752E81099F0B409E7DE0B3C22969692C347E9C26EFEA7B
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-04-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.5.0/AdvancedSettings-5.5.0-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.5.0/AdvancedSettings-5.5.0-Installer.exe
   InstallerSha256: 6AC17108F0740EEC50067C682F524C2F31922AD5CFB09D73F4311F3B4E81EB95
   ProductCode: OpenVRAdvancedSettings
 ManifestType: installer

@@ -14,13 +14,13 @@ ReleaseDate: 2022-04-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.3.11/ExpressLRS-Configurator-Setup-1.3.11.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.3.11/ExpressLRS-Configurator-Setup-1.3.11.exe
   InstallerSha256: AB9F9CAFA2294FDCA24193E8D85530B07130C7244F16BF11399708922E34DC63
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.3.11/ExpressLRS-Configurator-Setup-1.3.11.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.3.11/ExpressLRS-Configurator-Setup-1.3.11.exe
   InstallerSha256: AB9F9CAFA2294FDCA24193E8D85530B07130C7244F16BF11399708922E34DC63
   InstallerSwitches:
     Custom: /ALLUSERS

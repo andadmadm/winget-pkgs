@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-07-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/vcync/modV/releases/download/3.23.0/modV-Setup-3.23.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vcync/modV/releases/download/3.23.0/modV-Setup-3.23.0.exe
   InstallerSha256: 3AB0C8492754B6AC13DCADEB548BC4E51C0AFC2A838CE0D1178B5116C507C6E8
 ManifestType: installer
 ManifestVersion: 1.1.0

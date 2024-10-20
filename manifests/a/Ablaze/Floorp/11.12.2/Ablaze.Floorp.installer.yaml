@@ -23,10 +23,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.12.2/floorp-win64.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.12.2/floorp-win64.installer.exe
   InstallerSha256: 88DCE129709523F8F82F56A1052E136277A937AF35BE92E54BE9F9111D616060
 - Architecture: x86
-  InstallerUrl: https://github.com/Floorp-Projects/Floorp/releases/download/v11.12.2/floorp-win32.installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Floorp-Projects/Floorp/releases/download/v11.12.2/floorp-win32.installer.exe
   InstallerSha256: CAD40F8CC66948FFAA2213AE6EADEF6FE7D6EF106327B4F0BF48156B9E8FB754
 ManifestType: installer
 ManifestVersion: 1.6.0

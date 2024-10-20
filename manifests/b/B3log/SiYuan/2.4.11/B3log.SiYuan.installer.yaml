@@ -13,14 +13,14 @@ ReleaseDate: 2022-11-08
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.4.11/siyuan-2.4.11-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.4.11/siyuan-2.4.11-win.exe
   InstallerSha256: 9B02672FE41AF90B2C2DFE6D20761D34D249173514AF0E9CB9E3871CB4737D1A
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v2.4.11/siyuan-2.4.11-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v2.4.11/siyuan-2.4.11-win.exe
   InstallerSha256: 9B02672FE41AF90B2C2DFE6D20761D34D249173514AF0E9CB9E3871CB4737D1A
   InstallerSwitches:
     Custom: /allusers

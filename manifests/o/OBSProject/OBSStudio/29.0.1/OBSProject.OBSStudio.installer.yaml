@@ -21,7 +21,7 @@ Dependencies:
 ReleaseDate: 2023-02-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/obsproject/obs-studio/releases/download/29.0.1/OBS-Studio-29.0.1-Full-Installer-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsproject/obs-studio/releases/download/29.0.1/OBS-Studio-29.0.1-Full-Installer-x64.exe
   InstallerSha256: 22DE59199BC261360273F73A3C4D72BD6695FE815BA988754319BCDC24878F9D
 ManifestType: installer
 ManifestVersion: 1.2.0

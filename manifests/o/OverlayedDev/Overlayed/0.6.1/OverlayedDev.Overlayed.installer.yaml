@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{6D0F6C0B-DD81-5CE7-8289-858021D99959}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/overlayeddev/overlayed/releases/download/v0.6.1/Overlayed_0.6.1_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/overlayeddev/overlayed/releases/download/v0.6.1/Overlayed_0.6.1_x64_en-US.msi
   InstallerSha256: 0DC0E0FF1FD6E20DAFFC979394EE32368765C3F9B2E6205CDCD1A55DE3C3444E
 ManifestType: installer
 ManifestVersion: 1.6.0

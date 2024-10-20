@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Azure/azure-iot-explorer/releases/download/v0.15.1/Azure.IoT.Explorer.Preview.0.15.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-iot-explorer/releases/download/v0.15.1/Azure.IoT.Explorer.Preview.0.15.1.msi
   InstallerSha256: B4C89FE2CCA7CE92C73B78C6AA3E769E16DCFFAD777F16C095AEB46BCC203064
   ProductCode: '{07D5A2E0-A991-4096-A53F-9A06F8DC0106}'
 ManifestType: installer

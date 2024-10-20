@@ -14,7 +14,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.DotNet.Framework.DeveloperPack_4
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nkdAgility/azure-devops-migration-tools/releases/download/v16.0.4-Preview.6/MigrationTools-16.0.4-Preview.6.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nkdAgility/azure-devops-migration-tools/releases/download/v16.0.4-Preview.6/MigrationTools-16.0.4-Preview.6.zip
   InstallerSha256: 0CB98CF71B5E99B91E4818DD8B6F8EA8015DED3667A5313B2CFA2405156754BE
 ManifestType: installer
 ManifestVersion: 1.6.0

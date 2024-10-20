@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/erikbra/grate/releases/download/1.2.0/grate-1.2.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/erikbra/grate/releases/download/1.2.0/grate-1.2.0.msi
   InstallerSha256: EF43B5468670BC2C58614BF451CCC4F7D08E1A0727AC91BAEA573568750F9932
   ProductCode: '{E281998A-D8A2-4926-AAA3-066EFA4B2E74}'
 ManifestType: installer

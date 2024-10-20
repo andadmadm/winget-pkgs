@@ -17,7 +17,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iXab3r/MicSwitch/releases/download/1.0.221/MicSwitchSetup.1.0.221.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iXab3r/MicSwitch/releases/download/1.0.221/MicSwitchSetup.1.0.221.exe
   InstallerSha256: 6085BB447158CB2534ADF8AFF318C5A6E9C5EA2192D35A5E3644088F43427EC0
 ManifestType: installer
 ManifestVersion: 1.1.0

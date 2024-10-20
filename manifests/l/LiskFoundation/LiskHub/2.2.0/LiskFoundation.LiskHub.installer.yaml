@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LiskHQ/lisk-desktop/releases/download/v2.2.0/lisk-win-2.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LiskHQ/lisk-desktop/releases/download/v2.2.0/lisk-win-2.2.0.exe
   InstallerSha256: 927D19D4EFAA3148FAF7D2D9688218DB37D4D2DABD1D0750260C8C2D8658156B
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -15,10 +15,10 @@ ProductCode: Erlang OTP
 ReleaseDate: 2023-09-20
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-26.1/otp_win32_26.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-26.1/otp_win32_26.1.exe
   InstallerSha256: 2EDFF0490D173C1024B7DF5F044FD68A3A192FF97F9D17F7280C945C6052EDA1
 - Architecture: x64
-  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-26.1/otp_win64_26.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/erlang/otp/releases/download/OTP-26.1/otp_win64_26.1.exe
   InstallerSha256: A9101D2144B771AB079BB28D7A950929070B5ECE9E18D83DE41B2C815F6885A4
 ManifestType: installer
 ManifestVersion: 1.5.0

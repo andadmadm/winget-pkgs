@@ -7,7 +7,7 @@ InstallerType: inno
 ReleaseDate: 2024-01-16
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.4.3/AppFlowy-0.4.3-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.4.3/AppFlowy-0.4.3-windows-x86_64.exe
   InstallerSha256: F443455E79A1173B96C32BF90175B100F65769C6006BF86243B4C0551C409E72
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -21,10 +21,10 @@ AppsAndFeaturesEntries:
   DisplayVersion: 2.4.3
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Lidarr/Lidarr/releases/download/v2.4.3.4248/Lidarr.master.2.4.3.4248.windows-core-x86-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lidarr/Lidarr/releases/download/v2.4.3.4248/Lidarr.master.2.4.3.4248.windows-core-x86-installer.exe
   InstallerSha256: CC10F8A5C76907DA01BA75B1B3C54873D87BBAEF857DD2A2932CAC81FC576CF9
 - Architecture: x64
-  InstallerUrl: https://github.com/Lidarr/Lidarr/releases/download/v2.4.3.4248/Lidarr.master.2.4.3.4248.windows-core-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lidarr/Lidarr/releases/download/v2.4.3.4248/Lidarr.master.2.4.3.4248.windows-core-x64-installer.exe
   InstallerSha256: 66208FD5299892E4FEE0378380544F5FFF98BC7FC1A156BFCF519C199D2E71CE
 ManifestType: installer
 ManifestVersion: 1.6.0

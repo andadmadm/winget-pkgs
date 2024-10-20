@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/keeweb/keeweb/releases/download/v1.17.4/KeeWeb-1.17.4.win.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/keeweb/keeweb/releases/download/v1.17.4/KeeWeb-1.17.4.win.x64.exe
   InstallerSha256: 9141C2C94D25A1FE951B57C8824AFE22C189D3A904E2C272FE4BBA93D4C6AB25
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Stellarium/stellarium/releases/download/v0.14.1/stellarium-0.14.1-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Stellarium/stellarium/releases/download/v0.14.1/stellarium-0.14.1-win64.exe
   InstallerSha256: FC64A6BE9EB0D614617E6401BA055757DD8944EC1823388994BFA90EA0175B24
 ManifestType: installer
 ManifestVersion: 1.1.0

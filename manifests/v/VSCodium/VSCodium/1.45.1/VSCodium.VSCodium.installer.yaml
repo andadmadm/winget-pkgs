@@ -9,7 +9,7 @@ Commands:
 - codium
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/VSCodium/vscodium/releases/download/1.45.1/VSCodiumUserSetup-x64-1.45.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/VSCodium/vscodium/releases/download/1.45.1/VSCodiumUserSetup-x64-1.45.1.exe
   InstallerSha256: 61116AB74FA841F9FF8BF2C779ADBB9EE6B6C7DDD9E385C8CDB9F7BB8B66EA7A
 ManifestType: installer
 ManifestVersion: 1.2.0

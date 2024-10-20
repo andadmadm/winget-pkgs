@@ -11,7 +11,7 @@ Commands:
 ReleaseDate: 2022-11-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/espanso/espanso/releases/download/v2.1.8/Espanso-Win-Installer-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/espanso/espanso/releases/download/v2.1.8/Espanso-Win-Installer-x86_64.exe
   InstallerSha256: 2094262BD94EE5692F62797BC2D8BF25FF15B975B4C8D683B0FA8A31AF2BA161
   ProductCode: '{0E3D83CE-A644-4E0E-8487-657C7ECF6BF9}_is1'
 ManifestType: installer

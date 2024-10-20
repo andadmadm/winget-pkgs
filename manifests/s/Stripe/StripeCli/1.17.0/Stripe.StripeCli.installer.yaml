@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2023-07-21
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stripe/stripe-cli/releases/download/v1.17.0/stripe_1.17.0_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/stripe/stripe-cli/releases/download/v1.17.0/stripe_1.17.0_windows_x86_64.zip
   InstallerSha256: 766C0C39D246534FD01B32BD23CDE978EA6114727DFC3FF0B5EBEA4F415CFB58
 ManifestType: installer
 ManifestVersion: 1.5.0

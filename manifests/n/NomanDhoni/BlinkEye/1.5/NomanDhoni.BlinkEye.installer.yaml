@@ -6,7 +6,7 @@ PackageVersion: "1.5"
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nomandhoni-cs/blink-eye/releases/download/v1.5/Blink_Eye_Windows_64_V1.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nomandhoni-cs/blink-eye/releases/download/v1.5/Blink_Eye_Windows_64_V1.5.exe
   InstallerSha256: 7612B59B8AB6B52958F7F822C28E1846D03DBAF74A4AD8CB392134A95A81E851
 ManifestType: installer
 ManifestVersion: 1.6.0

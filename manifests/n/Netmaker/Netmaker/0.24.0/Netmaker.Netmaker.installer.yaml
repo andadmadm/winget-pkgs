@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2024-04-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gravitl/netmaker/releases/download/v0.24.0/nmctl-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gravitl/netmaker/releases/download/v0.24.0/nmctl-windows-amd64.exe
   InstallerSha256: 1FC1FF34C28795C480A33257172E920252110409510FD05CBF46F47559229946
 ManifestType: installer
 ManifestVersion: 1.6.0

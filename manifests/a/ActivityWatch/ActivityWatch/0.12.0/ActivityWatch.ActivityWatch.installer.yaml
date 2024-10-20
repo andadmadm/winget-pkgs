@@ -16,13 +16,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0/activitywatch-v0.12.0-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0/activitywatch-v0.12.0-windows-x86_64-setup.exe
   InstallerSha256: DEE81128C4DA2E0649B3EC6BFCDCFDF3556E44E5EA14CA6BFB8B87D0EB92F48F
   InstallerSwitches:
     Custom: /norestart /closeapplications /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0/activitywatch-v0.12.0-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0/activitywatch-v0.12.0-windows-x86_64-setup.exe
   InstallerSha256: DEE81128C4DA2E0649B3EC6BFCDCFDF3556E44E5EA14CA6BFB8B87D0EB92F48F
   InstallerSwitches:
     Custom: /norestart /closeapplications /allusers

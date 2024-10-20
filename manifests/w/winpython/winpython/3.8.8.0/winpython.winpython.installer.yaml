@@ -13,7 +13,7 @@ FileExtensions:
 - pyc
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/winpython/winpython/releases/download/4.0.20210307/Winpython64-3.8.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/winpython/winpython/releases/download/4.0.20210307/Winpython64-3.8.8.0.exe
   InstallerSha256: B680565C1EC5CC2667E84ED930C02A2D255FBC3C666E968D8D0CD16A017B66B0
 ManifestType: installer
 ManifestVersion: 1.2.0

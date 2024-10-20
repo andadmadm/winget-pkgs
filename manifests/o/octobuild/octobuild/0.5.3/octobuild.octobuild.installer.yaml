@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/octobuild/octobuild/releases/download/0.5.3/octobuild-0.5.3-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/octobuild/octobuild/releases/download/0.5.3/octobuild-0.5.3-x86_64.msi
   InstallerSha256: 008934631CBAB3847548DBAB10D5BA1CAC89CF365AB51714030761FF6D85E971
   ProductCode: '{589DA22B-FAAF-40B7-95F8-3C458508A76B}'
 ManifestType: installer

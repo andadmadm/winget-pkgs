@@ -10,14 +10,14 @@ ReleaseDate: 2022-03-06
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/G3G4X5X6/ultimate-cube/releases/download/v3.58.33/ultimateshell_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/G3G4X5X6/ultimate-cube/releases/download/v3.58.33/ultimateshell_setup.exe
   InstallerSha256: 2744786A48D87E1014764703AD4B960A425A0E7CCF711BEBADD7434CD0D44660
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: '{0A28A973-BE2F-46F1-86C9-4C331B91D004}_is1'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/G3G4X5X6/ultimate-cube/releases/download/v3.58.33/ultimateshell_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/G3G4X5X6/ultimate-cube/releases/download/v3.58.33/ultimateshell_setup.exe
   InstallerSha256: 2744786A48D87E1014764703AD4B960A425A0E7CCF711BEBADD7434CD0D44660
   InstallerSwitches:
     Custom: /ALLUSERS

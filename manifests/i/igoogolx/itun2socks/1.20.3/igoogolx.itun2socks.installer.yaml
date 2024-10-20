@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-08-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/igoogolx/itun2socks/releases/download/v1.20.3/itun2socks_1.20.3_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/igoogolx/itun2socks/releases/download/v1.20.3/itun2socks_1.20.3_windows_amd64.zip
   InstallerSha256: E2D2F8F3BEBB23960F182235AAE30676B67EAA19173B9793366146B407DCDB16
 ManifestType: installer
 ManifestVersion: 1.5.0

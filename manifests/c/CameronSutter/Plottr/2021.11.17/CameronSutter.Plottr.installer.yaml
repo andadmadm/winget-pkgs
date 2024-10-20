@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cameronsutter/plottr_electron/releases/download/v2021.11.17/Plottr-win-installer-latest.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cameronsutter/plottr_electron/releases/download/v2021.11.17/Plottr-win-installer-latest.exe
   InstallerSha256: 6BB7BF28C66F9395455EA6E861336F468499782B94B442C3F64EA033D29B5F4C
 ManifestType: installer
 ManifestVersion: 1.0.0

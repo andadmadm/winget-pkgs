@@ -18,7 +18,7 @@ Protocols:
 - http
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/elibroftw/music-caster/releases/download/v4.90.136/Music.Caster.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/elibroftw/music-caster/releases/download/v4.90.136/Music.Caster.Setup.exe
   InstallerSha256: 8CA49D8115DFE9201D5CADD9A7666604B2099624F0A3989C775ABA181F68C55D
 ManifestType: installer
 ManifestVersion: 1.1.0

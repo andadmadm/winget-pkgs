@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{56EB540E-1152-4568-9C1B-B3B2BB08AA1C}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nickg/nvc/releases/download/r1.13.1/nvc-1.13.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nickg/nvc/releases/download/r1.13.1/nvc-1.13.1.msi
   InstallerSha256: 33BB2E23087552289BEEA30651D9AD32B9D3C20AEB6A605D215D1861B6155DDF
 ManifestType: installer
 ManifestVersion: 1.6.0

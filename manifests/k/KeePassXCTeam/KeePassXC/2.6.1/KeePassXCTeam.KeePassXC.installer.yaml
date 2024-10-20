@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /passive /norestart
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/keepassxreboot/keepassxc/releases/download/2.6.1/KeePassXC-2.6.1-Win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/keepassxreboot/keepassxc/releases/download/2.6.1/KeePassXC-2.6.1-Win64.msi
   InstallerSha256: 2761465EBD9A9A02A714F1D27EE7B0B5965DB1A3D4057EA4138344C7F66EA9CB
   ProductCode: '{1C96B5C7-88A7-4129-9ECB-EADF610CE438}'
 ManifestType: installer

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PrismLauncher/PrismLauncher/releases/download/5.2/PrismLauncher-Windows-Setup-5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PrismLauncher/PrismLauncher/releases/download/5.2/PrismLauncher-Windows-Setup-5.2.exe
   InstallerSha256: 93175672B9D2F77FB0817FE167EE60530AECDF15F8F41E9B5A30B10AF055E855
 ManifestType: installer
 ManifestVersion: 1.2.0

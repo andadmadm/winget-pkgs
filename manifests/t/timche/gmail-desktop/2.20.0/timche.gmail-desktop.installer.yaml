@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/timche/gmail-desktop/releases/download/v2.20.0/gmail-desktop-2.20.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/timche/gmail-desktop/releases/download/v2.20.0/gmail-desktop-2.20.0-win.exe
   InstallerSha256: 5DE29C43233B43B5D37DEA9DEFE033BA47B0D729AFBDF1A86DA50371CA08DD1B
 ManifestType: installer
 ManifestVersion: 1.2.0

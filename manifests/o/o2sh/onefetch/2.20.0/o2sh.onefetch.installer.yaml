@@ -18,7 +18,7 @@ Dependencies:
 ReleaseDate: 2024-03-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/o2sh/onefetch/releases/download/2.20.0/onefetch-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/o2sh/onefetch/releases/download/2.20.0/onefetch-setup.exe
   InstallerSha256: B0DC344BCA8FC4865FFA06170E7296E12F29102E0A02C6AD5F2EB79026E1F492
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -4,7 +4,7 @@
 PackageIdentifier: Bazel.Bazel
 PackageVersion: 6.2.1
 Installers:
-- InstallerUrl: https://github.com/bazelbuild/bazel/releases/download/6.2.1/bazel-6.2.1-windows-x86_64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/bazelbuild/bazel/releases/download/6.2.1/bazel-6.2.1-windows-x86_64.exe
   Architecture: x64
   InstallerType: portable
   InstallerSha256: 11C5007500897F376D29524233193CB36549EF5B3D7F24AD22743A47E938C0AB

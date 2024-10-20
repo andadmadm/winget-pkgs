@@ -11,14 +11,14 @@ ReleaseDate: 2023-08-30
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/team-ide/teamide/releases/download/v2.3.9/TeamIDE-win-2.3.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-ide/teamide/releases/download/v2.3.9/TeamIDE-win-2.3.9.exe
   InstallerSha256: A98F0B4EF6229B0B4B557A9103C3234CDEB2A707A2253DEC9897889408423400
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 172835c5-70dc-55ce-9e45-09ffc162cd57
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/team-ide/teamide/releases/download/v2.3.9/TeamIDE-win-2.3.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-ide/teamide/releases/download/v2.3.9/TeamIDE-win-2.3.9.exe
   InstallerSha256: A98F0B4EF6229B0B4B557A9103C3234CDEB2A707A2253DEC9897889408423400
   InstallerSwitches:
     Custom: /allusers

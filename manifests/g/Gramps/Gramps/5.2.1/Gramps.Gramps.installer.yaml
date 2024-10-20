@@ -12,13 +12,13 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.2.1/GrampsAIO-5.2.1-1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.2.1/GrampsAIO-5.2.1-1_win64.exe
   InstallerSha256: 6796A6F21E345EB6868E102F1AFC55CC5E39E9C14BE73DAFF9D6B850E51237E7
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/gramps-project/gramps/releases/download/v5.2.1/GrampsAIO-5.2.1-1_win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gramps-project/gramps/releases/download/v5.2.1/GrampsAIO-5.2.1-1_win64.exe
   InstallerSha256: 6796A6F21E345EB6868E102F1AFC55CC5E39E9C14BE73DAFF9D6B850E51237E7
   InstallerSwitches:
     Custom: /ALLUSERS

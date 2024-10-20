@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ChordPro/chordpro/releases/download/R5.988/ChordPro-Installer-5-988-0-1-msw-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChordPro/chordpro/releases/download/R5.988/ChordPro-Installer-5-988-0-1-msw-x64.exe
   InstallerSha256: 7B77336A1294B62045DDE783A103C72A23E4DBF616D15AFCAC90818BF1FCF255
 ManifestType: installer
 ManifestVersion: 1.1.0

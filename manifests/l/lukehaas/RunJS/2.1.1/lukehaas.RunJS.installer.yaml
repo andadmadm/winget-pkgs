@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/lukehaas/RunJS/releases/download/v2.1.1/RunJS-Setup-2.1.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lukehaas/RunJS/releases/download/v2.1.1/RunJS-Setup-2.1.1.exe
   InstallerSha256: 4E954EDB5285D8E00CCB422BEA46EB732360E16052BF51C5123D6A99D92825E0
   UpgradeBehavior: install
 ManifestType: installer

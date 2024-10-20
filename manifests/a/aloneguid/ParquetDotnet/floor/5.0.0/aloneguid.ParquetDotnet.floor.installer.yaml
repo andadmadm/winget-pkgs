@@ -14,7 +14,7 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2024-10-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aloneguid/parquet-dotnet/releases/download/5.0.0/floor-win-x64-5.0.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aloneguid/parquet-dotnet/releases/download/5.0.0/floor-win-x64-5.0.0.zip
   InstallerSha256: CA6845E5A0108BDF50445D3333F3634DE6E6195306FA8056F19A2523176AC88C
 ManifestType: installer
 ManifestVersion: 1.6.0

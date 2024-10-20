@@ -14,10 +14,10 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RamonUnch/AltSnap/releases/download/1.49/AltSnap1.49-inst.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RamonUnch/AltSnap/releases/download/1.49/AltSnap1.49-inst.exe
   InstallerSha256: D6A1C08235EDA3DF79425407718C94373E63352074EF7262988EEE8BA5CAA331
 - Architecture: x64
-  InstallerUrl: https://github.com/RamonUnch/AltSnap/releases/download/1.49/AltSnap1.49-x64-inst.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RamonUnch/AltSnap/releases/download/1.49/AltSnap1.49-x64-inst.exe
   InstallerSha256: C0C208B8B72C0B344392043C637C1569D9DB6D8B904B01D49A34E1DC1E8CBC74
 ManifestType: installer
 ManifestVersion: 1.1.0

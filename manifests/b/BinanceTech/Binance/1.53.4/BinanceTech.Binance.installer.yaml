@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/binance/desktop/releases/download/v1.53.4/binance-setup-1.53.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/binance/desktop/releases/download/v1.53.4/binance-setup-1.53.4.exe
   InstallerSha256: 2929285377373BCB6FF4DAC6EF896E7D55FC3BEBCC163745208598A44D8F6F8A
 ManifestType: installer
 ManifestVersion: 1.6.0

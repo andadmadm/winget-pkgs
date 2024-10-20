@@ -15,7 +15,7 @@ Commands:
 ReleaseDate: 2024-07-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/helix-editor/helix/releases/download/24.07/helix-24.07-x86_64-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/helix-editor/helix/releases/download/24.07/helix-24.07-x86_64-windows.zip
   InstallerSha256: 3575F28A3E718005FFD803FA04AE8D26C83BA72131615182BEAFE7152CE831DD
 ManifestType: installer
 ManifestVersion: 1.6.0

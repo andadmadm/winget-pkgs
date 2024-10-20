@@ -13,13 +13,13 @@ ReleaseDate: 2023-11-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v3.0.3/Zettlr-3.0.3-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v3.0.3/Zettlr-3.0.3-x64.exe
   InstallerSha256: 4ED68CA1B4E211D0196405C8B7AD9FD906627941348B8C110E81E1E66249929A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Zettlr/Zettlr/releases/download/v3.0.3/Zettlr-3.0.3-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Zettlr/Zettlr/releases/download/v3.0.3/Zettlr-3.0.3-x64.exe
   InstallerSha256: 4ED68CA1B4E211D0196405C8B7AD9FD906627941348B8C110E81E1E66249929A
   InstallerSwitches:
     Custom: /ALLUSERS

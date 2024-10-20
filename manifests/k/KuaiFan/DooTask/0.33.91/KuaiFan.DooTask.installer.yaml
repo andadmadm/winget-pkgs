@@ -8,13 +8,13 @@ UpgradeBehavior: install
 ReleaseDate: 2024-01-03
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/kuaifan/dootask/releases/download/v0.33.91/DooTask-v0.33.91-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kuaifan/dootask/releases/download/v0.33.91/DooTask-v0.33.91-win.exe
   InstallerSha256: B48C587B403CDA0D17435DDCA9DB4ECEC8DF8209703A26C53B819AF24D92FE8D
 - Architecture: x64
-  InstallerUrl: https://github.com/kuaifan/dootask/releases/download/v0.33.91/DooTask-v0.33.91-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kuaifan/dootask/releases/download/v0.33.91/DooTask-v0.33.91-win-x64.exe
   InstallerSha256: 02AA0A9B7393D38DCDA801C54E95F91DF45A843FDB8E31062CE2BD15A6DDEFD1
 - Architecture: arm64
-  InstallerUrl: https://github.com/kuaifan/dootask/releases/download/v0.33.91/DooTask-v0.33.91-win-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kuaifan/dootask/releases/download/v0.33.91/DooTask-v0.33.91-win-arm64.exe
   InstallerSha256: C9CB7405FBC0AA2FC333959297B553DC4D0C1575CF6F07B88B5BCEDCDF371307
 ManifestType: installer
 ManifestVersion: 1.5.0

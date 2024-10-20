@@ -15,14 +15,14 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Maximus5/ConEmu/releases/download/v22.03.08/ConEmuSetup.220308.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Maximus5/ConEmu/releases/download/v22.03.08/ConEmuSetup.220308.exe
   InstallerSha256: E761CE983F9A26DBA7D641FB9ACE2304123E02C60CFCC1981CA18853CA239F36
   InstallerSwitches:
     Silent: /p:x64 /quiet /norestart
     SilentWithProgress: /p:x64 /passive /norestart
   ProductCode: '{9592B7F5-6754-47DF-A200-04B51D2F9727}'
 - Architecture: x86
-  InstallerUrl: https://github.com/Maximus5/ConEmu/releases/download/v22.03.08/ConEmuSetup.220308.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Maximus5/ConEmu/releases/download/v22.03.08/ConEmuSetup.220308.exe
   InstallerSha256: E761CE983F9A26DBA7D641FB9ACE2304123E02C60CFCC1981CA18853CA239F36
   InstallerSwitches:
     Silent: /p:x86 /quiet /norestart

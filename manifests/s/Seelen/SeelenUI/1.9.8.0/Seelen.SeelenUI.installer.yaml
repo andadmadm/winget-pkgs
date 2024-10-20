@@ -16,7 +16,7 @@ RestrictedCapabilities:
 ReleaseDate: 2024-08-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/eythaann/Seelen-UI/releases/download/v1.9.8/Seelen.SeelenUI_1.9.8.0_x64__p6yyn03m1894e.Msix
+  InstallerUrl: https://gitpoxry.com/https://github.com/eythaann/Seelen-UI/releases/download/v1.9.8/Seelen.SeelenUI_1.9.8.0_x64__p6yyn03m1894e.Msix
   InstallerSha256: 91DA337B206D5D842AF9AF89BDB0C0EA9DB51D87A48797E2447975C39D6A0210
   SignatureSha256: C793635C7D76FE3E42B55B505236530E42A626671C44A8736CB4216B0125AED0
 ManifestType: installer

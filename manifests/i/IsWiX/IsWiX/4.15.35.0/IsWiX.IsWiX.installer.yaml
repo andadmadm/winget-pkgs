@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2022-02-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iswix-llc/iswix/releases/download/v4.15.35.0/IsWiX-4.15.35.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/iswix-llc/iswix/releases/download/v4.15.35.0/IsWiX-4.15.35.0.msi
   InstallerSha256: 1A4DB5F8989BA1F9C49DFA0ACF540A4D1CFC36C79C3D5B8D0701F13007D472E9
   ProductCode: '{1E9B47D6-F705-4783-9448-CF9D1A646C9C}'
 ManifestType: installer

@@ -13,7 +13,7 @@ Installers:
     PortableCommandAlias: nefconc
   - RelativeFilePath: x86\nefconw.exe
     PortableCommandAlias: nefconw
-  InstallerUrl: https://github.com/nefarius/nefcon/releases/download/v1.8.0/nefcon_v1.8.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nefarius/nefcon/releases/download/v1.8.0/nefcon_v1.8.0.zip
   InstallerSha256: E4A293503492DB968B07447E650BB3A6535E732B6457A0756F3F9DFD113CB0CE
 - Architecture: x64
   NestedInstallerFiles:
@@ -21,7 +21,7 @@ Installers:
     PortableCommandAlias: nefconc
   - RelativeFilePath: x64\nefconw.exe
     PortableCommandAlias: nefconw
-  InstallerUrl: https://github.com/nefarius/nefcon/releases/download/v1.8.0/nefcon_v1.8.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nefarius/nefcon/releases/download/v1.8.0/nefcon_v1.8.0.zip
   InstallerSha256: E4A293503492DB968B07447E650BB3A6535E732B6457A0756F3F9DFD113CB0CE
 - Architecture: arm64
   NestedInstallerFiles:
@@ -29,7 +29,7 @@ Installers:
     PortableCommandAlias: nefconc
   - RelativeFilePath: ARM64\nefconw.exe
     PortableCommandAlias: nefconw
-  InstallerUrl: https://github.com/nefarius/nefcon/releases/download/v1.8.0/nefcon_v1.8.0.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nefarius/nefcon/releases/download/v1.8.0/nefcon_v1.8.0.zip
   InstallerSha256: E4A293503492DB968B07447E650BB3A6535E732B6457A0756F3F9DFD113CB0CE
 ManifestType: installer
 ManifestVersion: 1.4.0

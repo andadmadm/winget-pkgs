@@ -8,13 +8,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/MicaForEveryone/MicaForEveryone/releases/download/v1.3.1.1/MicaForEveryone-x64-Release-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MicaForEveryone/MicaForEveryone/releases/download/v1.3.1.1/MicaForEveryone-x64-Release-Installer.exe
   InstallerSha256: DE0B97549CB5E809FF7895FF7ECED9E9F29CC4F26EEFA7022546E650B80FCBBA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/MicaForEveryone/MicaForEveryone/releases/download/v1.3.1.1/MicaForEveryone-x64-Release-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MicaForEveryone/MicaForEveryone/releases/download/v1.3.1.1/MicaForEveryone-x64-Release-Installer.exe
   InstallerSha256: DE0B97549CB5E809FF7895FF7ECED9E9F29CC4F26EEFA7022546E650B80FCBBA
   InstallerSwitches:
     Custom: /ALLUSERS

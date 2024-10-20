@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: --silent
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v2.1.627/MSBuildStructuredLogSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v2.1.627/MSBuildStructuredLogSetup.exe
   InstallerSha256: 36BBB95FFE3D4204B4B64707C33D5A7134E0B21F63B20CBEE167328B3734F908
 ManifestType: installer
 ManifestVersion: 1.1.0

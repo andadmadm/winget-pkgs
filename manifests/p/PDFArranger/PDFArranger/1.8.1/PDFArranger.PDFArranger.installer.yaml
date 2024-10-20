@@ -10,7 +10,7 @@ InstallerType: msi
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pdfarranger/pdfarranger/releases/download/1.8.1/pdfarranger-1.8.1-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pdfarranger/pdfarranger/releases/download/1.8.1/pdfarranger-1.8.1-windows-installer.msi
   InstallerSha256: 920B67427A519F6C5ED51DC05B3F5E311CA9C4B4253E56B454759A3676994E92
 ManifestType: installer
 ManifestVersion: 1.1.0

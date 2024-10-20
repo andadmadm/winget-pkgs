@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Kong/insomnia/releases/download/core@8.1.0/Insomnia.Core-8.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Kong/insomnia/releases/download/core@8.1.0/Insomnia.Core-8.1.0.exe
   InstallerSha256: 3CB8832ED62B72E8389BF3CCC77743382FCEE2816A63361D603DE79DE5175A8B
 ManifestType: installer
 ManifestVersion: 1.5.0

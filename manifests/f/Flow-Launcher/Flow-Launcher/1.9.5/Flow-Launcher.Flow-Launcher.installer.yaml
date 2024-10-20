@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.9.5/Flow-Launcher-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.9.5/Flow-Launcher-Setup.exe
   InstallerSha256: E5255E6D538C8AB3441E76433DD0D178AECCE55931809FA17FE36BB326F0D113
 ManifestType: installer
 ManifestVersion: 1.2.0

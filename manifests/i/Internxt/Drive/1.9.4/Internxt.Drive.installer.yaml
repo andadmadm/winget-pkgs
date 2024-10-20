@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/internxt/drive-desktop/releases/download/v1.9.4/Internxt-Drive-Setup-1.9.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/internxt/drive-desktop/releases/download/v1.9.4/Internxt-Drive-Setup-1.9.4.exe
   InstallerSha256: 78CBF78EF8FEC8646038E05C8737BCC657E7FBEEB4CC7DD24C4666BD7DEDDA9E
 ManifestType: installer
 ManifestVersion: 1.2.0

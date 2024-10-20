@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2021-04-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Chia-Network/chia-blockchain/releases/download/1.0.4/ChiaSetup-1.0.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Chia-Network/chia-blockchain/releases/download/1.0.4/ChiaSetup-1.0.4.exe
   InstallerSha256: 5C6E6FD90BD7F5C4B8289A83980132EBF608FE65D3CE9754AFC8281A4E5B409A
 ManifestType: installer
 ManifestVersion: 1.2.0

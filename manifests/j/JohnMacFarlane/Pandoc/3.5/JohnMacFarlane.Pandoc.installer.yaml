@@ -22,13 +22,13 @@ InstallationMetadata:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-windows-x86_64.msi
   InstallerSha256: 27C0EDCA626CA830A299851E639115B3C5D982AD40BC2F8FCCF1D5F077C4A8BB
   InstallerSwitches:
     Custom: ALLUSERS=2
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-windows-x86_64.msi
   InstallerSha256: 27C0EDCA626CA830A299851E639115B3C5D982AD40BC2F8FCCF1D5F077C4A8BB
   InstallerSwitches:
     Custom: ALLUSERS=1

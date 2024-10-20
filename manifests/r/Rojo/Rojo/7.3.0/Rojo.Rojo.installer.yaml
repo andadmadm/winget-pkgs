@@ -11,7 +11,7 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2023-04-22
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/rojo-rbx/rojo/releases/download/v7.3.0/rojo-7.3.0-windows-x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/rojo-rbx/rojo/releases/download/v7.3.0/rojo-7.3.0-windows-x86_64.zip
     InstallerSha256: 235DDD6B86F84A449B1B262B42A5100C622389CB4FF0331DD266FBEEA37081DC
 ManifestType: installer
 ManifestVersion: 1.5.0

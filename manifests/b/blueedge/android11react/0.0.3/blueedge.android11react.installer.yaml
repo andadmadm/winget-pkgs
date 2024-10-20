@@ -9,7 +9,7 @@ InstallerType: wix
 ReleaseDate: 2022-06-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/blueedgetechno/androidInReact/releases/download/0.0.3/Android11React_0.0.3_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/blueedgetechno/androidInReact/releases/download/0.0.3/Android11React_0.0.3_x64_en-US.msi
   InstallerSha256: 8705CA38B3C6FA48659A1443EDAEEA33417F6F139A5AEEAC0337FDEBEEE223A7
   ProductCode: '{98DBB3BA-EB09-4448-9000-6CAE96AA4850}'
 ManifestType: installer

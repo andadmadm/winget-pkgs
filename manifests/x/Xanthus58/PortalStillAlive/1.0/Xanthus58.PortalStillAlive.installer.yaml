@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Xanthus58/Portal-Still-Alive/releases/download/1.0/Still.Alive.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xanthus58/Portal-Still-Alive/releases/download/1.0/Still.Alive.exe
   InstallerSha256: 861787E0517EF4E2FACD46178C647FC9855F38C97839BFA3A1C132B9494B894B
   AppsAndFeaturesEntries:
     - DisplayName: Still Alive version 1.0

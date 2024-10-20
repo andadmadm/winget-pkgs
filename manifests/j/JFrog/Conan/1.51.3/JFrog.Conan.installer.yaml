@@ -16,11 +16,11 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/conan-io/conan/releases/download/1.51.3/conan-win-32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conan-io/conan/releases/download/1.51.3/conan-win-32.exe
   InstallerSha256: 820FDBD6B27AD4E1C51AF817CA02E11749E4F21D15E9E0312DB4E6BEC79EB602
   ProductCode: Conan Package Manager_is1
 - Architecture: x64
-  InstallerUrl: https://github.com/conan-io/conan/releases/download/1.51.3/conan-win-64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conan-io/conan/releases/download/1.51.3/conan-win-64.exe
   InstallerSha256: 3638C190E2E0119B445317A5DA0DCC3F98F4EB3609DB7D5A2E5438E0A838E9F5
   ProductCode: Conan Package Manager_is1
 ManifestType: installer

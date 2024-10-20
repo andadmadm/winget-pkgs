@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.19.4/SchemaCrawler-16.19.4.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.19.4/SchemaCrawler-16.19.4.msi
   InstallerSha256: 60AE3694D2918FDFE50C19E2C02D671008B3F2B319AF1C3AE5160F234C282F80
   ProductCode: '{FAB5AFD3-548B-3586-9DB9-EBC759FE53B5}'
 ManifestType: installer

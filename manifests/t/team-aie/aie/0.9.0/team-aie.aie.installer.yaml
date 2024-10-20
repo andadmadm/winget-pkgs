@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/team-aie/app/releases/download/v0.9.0/aie-setup-0.9.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-aie/app/releases/download/v0.9.0/aie-setup-0.9.0.exe
   InstallerSha256: 5DD8A9B9E57A070686ECCC45D8B77BF0A4754232544FFA10AD2D80A9FCA6E7CF
 ManifestType: installer
 ManifestVersion: 1.1.0

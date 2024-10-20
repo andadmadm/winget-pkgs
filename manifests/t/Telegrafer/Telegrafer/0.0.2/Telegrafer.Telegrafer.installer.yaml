@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/Timo-Weike/Telegrafer/releases/download/v0.0.2/Telegrafer.WindowsInstaller.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Timo-Weike/Telegrafer/releases/download/v0.0.2/Telegrafer.WindowsInstaller.msi
   InstallerSha256: 8BD89CB9884CA947A7B8408472060F92AF04E7C081F6F1DFA276E778BA8643E5
   Dependencies:
     PackageDependencies:

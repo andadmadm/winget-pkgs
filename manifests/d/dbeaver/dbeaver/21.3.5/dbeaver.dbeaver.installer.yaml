@@ -16,13 +16,13 @@ ReleaseDate: 2022-02-20
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.3.5/dbeaver-ce-21.3.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.3.5/dbeaver-ce-21.3.5-x86_64-setup.exe
   InstallerSha256: 68834ECA5BD86669B79B76558E9DAE1F08D808D9335E1690AF984749C1D132CF
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.3.5/dbeaver-ce-21.3.5-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.3.5/dbeaver-ce-21.3.5-x86_64-setup.exe
   InstallerSha256: 68834ECA5BD86669B79B76558E9DAE1F08D808D9335E1690AF984749C1D132CF
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -19,11 +19,11 @@ InstallerSuccessCodes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nextcloud/desktop/releases/download/v3.4.1/Nextcloud-3.4.1-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nextcloud/desktop/releases/download/v3.4.1/Nextcloud-3.4.1-x64.msi
   InstallerSha256: 6090EBE13BACCEE171AE7E1D184FE88515435A36624A94FEC9B4DE77107A28C6
   ProductCode: '{27596A6F-750F-4996-A5C2-A980522ED1C4}'
 - Architecture: x86
-  InstallerUrl: https://github.com/nextcloud/desktop/releases/download/v3.4.1/Nextcloud-3.4.1-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nextcloud/desktop/releases/download/v3.4.1/Nextcloud-3.4.1-x86.msi
   InstallerSha256: 132575410C59DE544B709457E9863F6D480F0D8FA89AA0C12CEEB95FBA711430
   ProductCode: '{8BEEE82C-0B4B-4578-8C28-022789516771}'
 ManifestType: installer

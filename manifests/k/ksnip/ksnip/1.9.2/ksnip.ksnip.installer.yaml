@@ -24,7 +24,7 @@ Dependencies:
 ProductCode: '{7FC04B5A-89FE-45FD-8276-A08554ECF1F5}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ksnip/ksnip/releases/download/v1.9.2/ksnip-1.9.2.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ksnip/ksnip/releases/download/v1.9.2/ksnip-1.9.2.msi
   InstallerSha256: 50C1930929DBDE0E44ACC5E70F16D35F44D5CF8CCDD025D79C2C4D8CE160DCEA
 ManifestType: installer
 ManifestVersion: 1.0.0

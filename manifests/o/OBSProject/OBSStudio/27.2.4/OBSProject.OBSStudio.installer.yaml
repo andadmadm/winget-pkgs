@@ -17,11 +17,11 @@ Dependencies:
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe
   InstallerSha256: 4E65B848AE9DE8C05A5A456908B65906773269EECAFADEDC8216DBC5EACF8B22
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x86.exe
   InstallerSha256: 73847812A6A39F8530BF017F26164C5AFFF46B52614F2E4D56B6CA36BE10940A
 ManifestType: installer
 ManifestVersion: 1.1.0

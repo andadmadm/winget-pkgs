@@ -13,10 +13,10 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2022-04-25
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/LuaLS/lua-language-server/releases/download/3.2.1/lua-language-server-3.2.1-win32-ia32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/LuaLS/lua-language-server/releases/download/3.2.1/lua-language-server-3.2.1-win32-ia32.zip
   InstallerSha256: 05BE4B4A048762692C375EADA8B4098A2183381E2F34CEA3C1C692858A69658F
 - Architecture: x64
-  InstallerUrl: https://github.com/LuaLS/lua-language-server/releases/download/3.2.1/lua-language-server-3.2.1-win32-x64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/LuaLS/lua-language-server/releases/download/3.2.1/lua-language-server-3.2.1-win32-x64.zip
   InstallerSha256: E1C7261B5C3432692143E7D1F417FDF4A4C8FF859C6004574918C2E94CEE1C63
 ManifestType: installer
 ManifestVersion: 1.4.0

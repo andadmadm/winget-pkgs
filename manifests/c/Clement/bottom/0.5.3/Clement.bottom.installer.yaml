@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ClementTsang/bottom/releases/download/0.5.3/bottom_x86_64_installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ClementTsang/bottom/releases/download/0.5.3/bottom_x86_64_installer.msi
   InstallerSha256: AD499B314EDB26C46423B2F737CBC37F31BBACEFB91AE7858A0B0BD1A0479119
   ProductCode: '{0AC3A3EB-681E-4D14-965E-304A89E2151B}'
 ManifestType: installer

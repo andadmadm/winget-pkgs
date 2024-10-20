@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v1.28.0/datadog-dotnet-apm-1.28.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v1.28.0/datadog-dotnet-apm-1.28.0-x64.msi
   InstallerSha256: CA845250F3810225172868FD9259B77A69E40951CC69D7AE5915D13E5B08327D
   ProductCode: '{B1D096AA-A13D-4D6A-87F5-F6F89C184BCA}'
 ManifestType: installer

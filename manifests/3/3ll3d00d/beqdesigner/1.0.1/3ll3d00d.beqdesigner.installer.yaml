@@ -8,13 +8,13 @@ ReleaseDate: 2023-10-21
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/3ll3d00d/beqdesigner/releases/download/1.0.1/beqdesigner_10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/3ll3d00d/beqdesigner/releases/download/1.0.1/beqdesigner_10.exe
   InstallerSha256: 6BEFC8983A76968670CC5664A62539342D1AFA771334524ADF98EB31117A5813
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/3ll3d00d/beqdesigner/releases/download/1.0.1/beqdesigner_10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/3ll3d00d/beqdesigner/releases/download/1.0.1/beqdesigner_10.exe
   InstallerSha256: 6BEFC8983A76968670CC5664A62539342D1AFA771334524ADF98EB31117A5813
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -24,7 +24,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Taiko2k/Tauon/releases/download/v7.8.0/Tauon.v7.8.0-1.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Taiko2k/Tauon/releases/download/v7.8.0/Tauon.v7.8.0-1.x64.exe
   InstallerSha256: AB754BECA95D00D369F6925CFEA86B706203204706CAE0BADE662C28EE45009D
 ManifestType: installer
 ManifestVersion: 1.6.0

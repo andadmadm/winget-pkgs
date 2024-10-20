@@ -15,13 +15,13 @@ ProductCode: '{D3E5E489-F418-41ED-B728-D148535AF0C3}'
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.15/pandoc-2.15-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.15/pandoc-2.15-windows-x86_64.msi
   InstallerSha256: 9FD16A1C5B207B376C2C995E803D776F4A18E5683659BEECB53FF8A28048B850
   InstallerSwitches:
     Custom: ALLUSERS=2
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/jgm/pandoc/releases/download/2.15/pandoc-2.15-windows-x86_64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/jgm/pandoc/releases/download/2.15/pandoc-2.15-windows-x86_64.msi
   InstallerSha256: 9FD16A1C5B207B376C2C995E803D776F4A18E5683659BEECB53FF8A28048B850
   InstallerSwitches:
     Custom: ALLUSERS=1

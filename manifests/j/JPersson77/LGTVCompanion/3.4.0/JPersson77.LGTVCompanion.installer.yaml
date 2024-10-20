@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{0BA17E5B-11CE-491D-B1A1-05DD2D9F610A}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JPersson77/LGTVCompanion/releases/download/v3.4.0/LGTV.Companion.Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/JPersson77/LGTVCompanion/releases/download/v3.4.0/LGTV.Companion.Setup.msi
   InstallerSha256: 031FD6D3B34CFB8C76F094E24CDDA5A5371FC9D4121315DE74081DA95FF081CD
 ManifestType: installer
 ManifestVersion: 1.6.0

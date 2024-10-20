@@ -5,7 +5,7 @@ PackageIdentifier: SoftFever.OrcaSlicer
 PackageVersion: 1.7.0
 InstallerType: nullsoft
 Installers:
-- InstallerUrl: https://github.com/SoftFever/OrcaSlicer/releases/download/v1.7.0/OrcaSlicer_Windows_Installer_1.7.0.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/SoftFever/OrcaSlicer/releases/download/v1.7.0/OrcaSlicer_Windows_Installer_1.7.0.exe
   Architecture: x64
   InstallerSha256: A02602C7EC222F77A548F802F1B6A89B27820BB3D5784FC2453683718A5CB9E3
 ManifestType: installer

@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cxong/cdogs-sdl/releases/download/1.1.1/C-Dogs.SDL-1.1.1-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cxong/cdogs-sdl/releases/download/1.1.1/C-Dogs.SDL-1.1.1-win32.exe
   InstallerSha256: C10429946531802120C5D6A62760D62F07006ED2B0F9C246D9D7C2924AF198DA
 ManifestType: installer
 ManifestVersion: 1.0.0

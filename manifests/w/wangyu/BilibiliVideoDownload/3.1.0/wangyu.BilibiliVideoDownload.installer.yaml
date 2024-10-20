@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.0/BilibiliVideoDownload.Setup.3.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blogwy/BilibiliVideoDownload/releases/download/v3.1.0/BilibiliVideoDownload.Setup.3.1.0.exe
   InstallerSha256: 8CBE91E29F0E7BCF1FE3715189FABC6D333C8743EAE54B2044072C01C3163BB4
   UpgradeBehavior: install
 ManifestType: installer

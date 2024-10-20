@@ -6,7 +6,7 @@ PackageIdentifier: Ahlyab.UdemyCouponFetcher
 PackageVersion: '1.2'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Ahlyab/UCF/releases/download/v1.2/UCF.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Ahlyab/UCF/releases/download/v1.2/UCF.exe
   InstallerSha256: f58719d2cb5727acd9f4c6873fce6551ea9d50c7ac0c596d57c00186bcf86ee3
 ManifestType: installer
 ManifestVersion: 1.5.0

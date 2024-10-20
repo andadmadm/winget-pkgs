@@ -12,7 +12,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/marktext/marktext/releases/download/v0.16.3/marktext-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/marktext/marktext/releases/download/v0.16.3/marktext-setup.exe
   InstallerSha256: 078884ADF9F5BF02D02580EA9AF0F04B3B7AE471AEBB276D81BC7AC78E97E5AF
   UpgradeBehavior: install
   AppsAndFeaturesEntries:

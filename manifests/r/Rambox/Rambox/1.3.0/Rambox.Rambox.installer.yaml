@@ -13,13 +13,13 @@ ReleaseDate: 2020-03-03
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v1.3.0/RamboxPro-1.3.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v1.3.0/RamboxPro-1.3.0-win.exe
   InstallerSha256: 35C092664A7A35A3AD00EB107B3EFCECE4A5054B2F6C10E37F10A82108C5FC0A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ramboxapp/download/releases/download/v1.3.0/RamboxPro-1.3.0-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ramboxapp/download/releases/download/v1.3.0/RamboxPro-1.3.0-win.exe
   InstallerSha256: 35C092664A7A35A3AD00EB107B3EFCECE4A5054B2F6C10E37F10A82108C5FC0A
   InstallerSwitches:
     Custom: /ALLUSERS

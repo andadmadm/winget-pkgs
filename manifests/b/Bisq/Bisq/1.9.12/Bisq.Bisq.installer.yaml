@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-06-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.9.12/Bisq-64bit-1.9.12.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.9.12/Bisq-64bit-1.9.12.exe
   InstallerSha256: 8234FFC69B2E1CA31157662889A32A3EE91C3C0AE5735D23465F4ED8DB94BC9A
 ManifestType: installer
 ManifestVersion: 1.4.0

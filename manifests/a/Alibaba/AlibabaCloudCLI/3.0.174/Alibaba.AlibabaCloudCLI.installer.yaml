@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: aliyun.exe
     PortableCommandAlias: aliyun
-  InstallerUrl: https://github.com/aliyun/aliyun-cli/releases/download/v3.0.174/aliyun-cli-windows-3.0.174-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aliyun/aliyun-cli/releases/download/v3.0.174/aliyun-cli-windows-3.0.174-amd64.zip
   InstallerSha256: 8FB62DDD4C4170299BD80B1D3ADA260FE70BBE59BAD8DA4CD8DB83CF0552754B
 ManifestType: installer
 ManifestVersion: 1.5.0

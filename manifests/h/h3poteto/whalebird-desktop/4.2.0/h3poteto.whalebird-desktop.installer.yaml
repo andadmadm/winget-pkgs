@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/h3poteto/whalebird-desktop/releases/download/4.2.0/Whalebird-4.2.0-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/h3poteto/whalebird-desktop/releases/download/4.2.0/Whalebird-4.2.0-windows-x64.exe
   InstallerSha256: B2C7D4A2F8966902151E008FF99FAAC3EAC3D03F311DDFBA7E157EA023A0142D
 ManifestType: installer
 ManifestVersion: 1.2.0

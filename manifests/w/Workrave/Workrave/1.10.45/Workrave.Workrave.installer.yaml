@@ -13,7 +13,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/rcaelers/workrave/releases/download/v1_10_45/workrave-win32-v1.10.45.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rcaelers/workrave/releases/download/v1_10_45/workrave-win32-v1.10.45.exe
   InstallerSha256: 72CEE072497D35CD64EFE4B34470A8F3377FEB573696AFC79574321FF01BFDF0
   UpgradeBehavior: install
 ManifestType: installer

@@ -16,14 +16,14 @@ ReleaseDate: 2024-09-07
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-x86_64.exe
   InstallerSha256: AEB417C70DA6217DDB845A7D848E3ABF8B9A0FB11104B389A177A5E638826035
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: KiCad 8.0
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-x86_64.exe
   InstallerSha256: AEB417C70DA6217DDB845A7D848E3ABF8B9A0FB11104B389A177A5E638826035
   InstallerSwitches:
     Custom: /allusers
@@ -31,14 +31,14 @@ Installers:
   ElevationRequirement: elevationRequired
 - Architecture: arm64
   Scope: user
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-arm64.exe
   InstallerSha256: FD1C60F019ECE498BEF7AB9C63539C7037871C58AE10AF77B20B243525B5DC5B
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: KiCad 8.0
 - Architecture: arm64
   Scope: machine
-  InstallerUrl: https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KiCad/kicad-source-mirror/releases/download/8.0.5/kicad-8.0.5-arm64.exe
   InstallerSha256: FD1C60F019ECE498BEF7AB9C63539C7037871C58AE10AF77B20B243525B5DC5B
   InstallerSwitches:
     Custom: /allusers

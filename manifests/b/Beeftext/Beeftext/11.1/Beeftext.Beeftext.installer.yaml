@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/xmichelo/Beeftext/releases/download/v11.1/Beeftext-11.1-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmichelo/Beeftext/releases/download/v11.1/Beeftext-11.1-Installer.exe
   InstallerSha256: 046BE534DCC56A0EBA9C407A58F04B5A0DDC2290F0A353B298DC0F96199DEDDA
   UpgradeBehavior: install
 ManifestType: installer

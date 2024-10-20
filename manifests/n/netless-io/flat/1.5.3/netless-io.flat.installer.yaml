@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/netless-io/flat/releases/download/v1.5.3/Flat-1.5.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/netless-io/flat/releases/download/v1.5.3/Flat-1.5.3.exe
   InstallerSha256: 6F90AFCCFF08F739AC6C788736ADE78E88FAAB34228563EF10FC202301906688
 ManifestType: installer
 ManifestVersion: 1.1.0

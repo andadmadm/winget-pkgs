@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ProductCode: '{BF634210-A0D4-443F-A657-0DCE38040374}_is1'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/loot/loot/releases/download/0.23.1/loot_0.23.1-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/loot/loot/releases/download/0.23.1/loot_0.23.1-win64.exe
   InstallerSha256: 8FC5B3BD703AF13E2C5B51A02538A3754AE798994416522599E59570670AB558
 ManifestType: installer
 ManifestVersion: 1.6.0

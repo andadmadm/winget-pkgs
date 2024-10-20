@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{D983A0B8-0183-4F99-BA13-A1C49BD8E46F}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/prefix-dev/pixi/releases/download/v0.15.2/pixi-x86_64-pc-windows-msvc.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/prefix-dev/pixi/releases/download/v0.15.2/pixi-x86_64-pc-windows-msvc.msi
   InstallerSha256: 43B5529517A34A1F4CF06BAFE4C0D4D9A1D2C563A280292559D4D5CF59EB1843
 ManifestType: installer
 ManifestVersion: 1.5.0

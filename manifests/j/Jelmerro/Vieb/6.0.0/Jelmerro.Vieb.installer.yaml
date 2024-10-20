@@ -19,13 +19,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/6.0.0/Vieb.Setup.6.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/6.0.0/Vieb.Setup.6.0.0.exe
   InstallerSha256: 5E5AA3E8F08CF95D06A91C0C72A945AB4765066823F180D9986670C8B844E942
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Jelmerro/Vieb/releases/download/6.0.0/Vieb.Setup.6.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Jelmerro/Vieb/releases/download/6.0.0/Vieb.Setup.6.0.0.exe
   InstallerSha256: 5E5AA3E8F08CF95D06A91C0C72A945AB4765066823F180D9986670C8B844E942
   InstallerSwitches:
     Custom: /ALLUSERS

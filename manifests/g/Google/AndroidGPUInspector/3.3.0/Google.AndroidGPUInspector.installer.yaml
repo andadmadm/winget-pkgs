@@ -4,7 +4,7 @@
 PackageIdentifier: Google.AndroidGPUInspector
 PackageVersion: 3.3.0
 Installers:
-- InstallerUrl: https://github.com/google/agi/releases/download/v3.3.0/agi-3.3.0-windows.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/google/agi/releases/download/v3.3.0/agi-3.3.0-windows.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix

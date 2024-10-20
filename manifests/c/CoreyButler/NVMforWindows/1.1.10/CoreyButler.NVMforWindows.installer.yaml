@@ -12,7 +12,7 @@ Commands:
 ReleaseDate: 2022-11-12
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.exe
   InstallerSha256: 925A577A97E0FE0AB7D93B295E6D0B690D83A3A5B0E7C1204360FC8712401B6C
 ManifestType: installer
 ManifestVersion: 1.4.0

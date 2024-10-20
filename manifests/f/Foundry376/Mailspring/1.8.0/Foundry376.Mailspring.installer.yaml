@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: -s
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Foundry376/Mailspring/releases/download/1.8.0/MailspringSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Foundry376/Mailspring/releases/download/1.8.0/MailspringSetup.exe
   InstallerSha256: 1B8E4E784F4C1EE36E122E11CAB3DF33CD9D6CD5079A8A698C3A4AE02A20F06E
 ManifestType: installer
 ManifestVersion: 1.1.0

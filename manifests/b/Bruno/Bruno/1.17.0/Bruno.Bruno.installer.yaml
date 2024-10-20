@@ -11,7 +11,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/usebruno/bruno/releases/download/v1.17.0/bruno_1.17.0_x64_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/usebruno/bruno/releases/download/v1.17.0/bruno_1.17.0_x64_win.exe
   InstallerSha256: BEA69E4D6803064229DEDB76057B741BE2B145487AA81EEE41C8FE811368728A
 ManifestType: installer
 ManifestVersion: 1.6.0

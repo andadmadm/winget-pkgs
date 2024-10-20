@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.4/BCUninstaller_5.4_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.4/BCUninstaller_5.4_setup.exe
   InstallerSha256: 80634A77099A0FB8A893FCA757B6404FF344B3DA7A747C9E6819B2A425454847
 ManifestType: installer
 ManifestVersion: 1.1.0

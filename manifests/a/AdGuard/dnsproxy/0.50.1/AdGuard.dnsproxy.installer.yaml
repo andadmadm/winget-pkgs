@@ -4,7 +4,7 @@
 PackageIdentifier: AdGuard.dnsproxy
 PackageVersion: 0.50.1
 Installers:
-- InstallerUrl: https://github.com/AdguardTeam/dnsproxy/releases/download/v0.50.1/dnsproxy-windows-amd64-v0.50.1.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/AdguardTeam/dnsproxy/releases/download/v0.50.1/dnsproxy-windows-amd64-v0.50.1.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: windows-amd64\dnsproxy.exe
     PortableCommandAlias: dnsproxy
   InstallerSha256: D9685E13E110D2579DFBA7909CAA1226D06D4CEE59B88D549DCABA803915A160
-- InstallerUrl: https://github.com/AdguardTeam/dnsproxy/releases/download/v0.50.1/dnsproxy-windows-386-v0.50.1.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/AdguardTeam/dnsproxy/releases/download/v0.50.1/dnsproxy-windows-386-v0.50.1.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

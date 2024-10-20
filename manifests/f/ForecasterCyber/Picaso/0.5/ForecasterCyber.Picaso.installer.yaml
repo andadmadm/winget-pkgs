@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2021-01-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/forecaster-cyber/Picaso_open-source/releases/download/0.5/Picaso.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/forecaster-cyber/Picaso_open-source/releases/download/0.5/Picaso.exe
   InstallerSha256: F267A551BFA5858B655F54B251182303B9E9300F800524A845294899ACE75570
 ManifestType: installer
 ManifestVersion: 1.2.0

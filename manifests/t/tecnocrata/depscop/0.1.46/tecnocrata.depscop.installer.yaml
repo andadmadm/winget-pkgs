@@ -12,7 +12,7 @@ Commands:
 ReleaseDate: 2024-06-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tecnocrata/deps-cop/releases/download/0.1.46/depscop.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tecnocrata/deps-cop/releases/download/0.1.46/depscop.exe
   InstallerSha256: B98D9C174077A960954ECD51E5CAFC2341BD78A82BB71EA822AF99B944F159E1
 ManifestType: installer
 ManifestVersion: 1.6.0

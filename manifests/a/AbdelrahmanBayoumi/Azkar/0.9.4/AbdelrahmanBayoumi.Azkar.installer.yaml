@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/0.9.4/Azkar_windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/0.9.4/Azkar_windows-x64.exe
   InstallerSha256: E38C2689FC3C4CAFA15583F03B90A88AC2120F1564A612E46B96E099DDAC0008
   InstallerSwitches:
     Silent: -q
@@ -22,7 +22,7 @@ Installers:
   Architecture: x86
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/0.9.4/Azkar_windows-x32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/0.9.4/Azkar_windows-x32.exe
   InstallerSha256: DCBCE37314A9AF220125474FCAA9F462211AC86D3F695ECBA450C068709E3D37
   InstallerSwitches:
     Silent: -q

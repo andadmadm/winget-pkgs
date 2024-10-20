@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-03-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/feugy/melodie/releases/download/v2.0.0/melodie-setup-2.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/feugy/melodie/releases/download/v2.0.0/melodie-setup-2.0.0.exe
   InstallerSha256: D7480CCB0ED00CDCF792D16B6314311AE243344D02142429987305FB59AB1B97
 ManifestType: installer
 ManifestVersion: 1.1.0

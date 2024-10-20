@@ -16,7 +16,7 @@ Commands:
 ReleaseDate: 2022-04-13
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi
   InstallerSha256: A5E119D34CFCD8D24F2EA7EF170D9A26F9DD691258440FE939D84470A5A7703C
   ProductCode: '{4B7E1054-47CA-42CA-BDFE-5DA20B986819}'
 ManifestType: installer

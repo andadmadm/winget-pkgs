@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://github.com/torakiki/pdfsam/releases/download/v4.2.6/pdfsam-4.2.6.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/torakiki/pdfsam/releases/download/v4.2.6/pdfsam-4.2.6.msi
   InstallerSha256: D333FF88C9139232CE83B277CAA35E528FCCBC2D196D55E603A5B02DE26407FC
   UpgradeBehavior: install
   ProductCode: '{4307C5BE-ED8C-4204-97B8-DEDFD42986C7}'

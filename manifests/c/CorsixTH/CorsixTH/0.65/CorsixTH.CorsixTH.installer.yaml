@@ -10,7 +10,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/CorsixTH/CorsixTH/releases/download/v0.65/CorsixTHInstaller.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/CorsixTH/CorsixTH/releases/download/v0.65/CorsixTHInstaller.exe
   InstallerSha256: B48E6859BB57441EB0EDDC395F29868FCE328467D4A80A1B11E824259AA34EDA
 ManifestType: installer
 ManifestVersion: 1.4.0

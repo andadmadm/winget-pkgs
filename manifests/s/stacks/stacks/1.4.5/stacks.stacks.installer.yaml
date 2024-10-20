@@ -6,7 +6,7 @@ PackageVersion: 1.4.5
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/stacks-task-manager/stacks/releases/download/v1.4.5/Stacks-Setup-1.4.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/stacks-task-manager/stacks/releases/download/v1.4.5/Stacks-Setup-1.4.5.exe
   InstallerSha256: 1F2B777DEDB4834222E7B0CD9494371998108F5D04292705361CC13E0BC7C8F8
 ManifestType: installer
 ManifestVersion: 1.0.0

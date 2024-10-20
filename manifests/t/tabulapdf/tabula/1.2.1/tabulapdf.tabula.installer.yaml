@@ -12,7 +12,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: tabula\tabula.exe
-  InstallerUrl: https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-win-1.2.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-win-1.2.1.zip
   InstallerSha256: A5BD9AFD969C7488F91EA3A7A09D56A1B53FE86EE231B81D205A8C1A9D459A05
 ManifestType: installer
 ManifestVersion: 1.4.0

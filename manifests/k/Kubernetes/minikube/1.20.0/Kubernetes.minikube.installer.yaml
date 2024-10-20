@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kubernetes/minikube/releases/download/v1.20.0/minikube-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/minikube/releases/download/v1.20.0/minikube-installer.exe
   InstallerSha256: D2263971425D974F1D2D42CDD4A6D5D2E8B25F41D069D2B4748A423B3AD9D661
 ManifestType: installer
 ManifestVersion: 1.2.0

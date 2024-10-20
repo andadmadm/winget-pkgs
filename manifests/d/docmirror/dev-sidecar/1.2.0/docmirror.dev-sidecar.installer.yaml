@@ -6,7 +6,7 @@ PackageVersion: 1.2.0
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/docmirror/dev-sidecar/releases/download/1.2.0/DevSidecar-1.2.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/docmirror/dev-sidecar/releases/download/1.2.0/DevSidecar-1.2.0.exe
   InstallerSha256: 82312D05856B39C399324AE6F0B6BC4FE9CDB73050640495E9C8017A08F89BD7
   ProductCode: b54923aa-fda9-5ff9-bb60-46d74e93ec70
 ManifestType: installer

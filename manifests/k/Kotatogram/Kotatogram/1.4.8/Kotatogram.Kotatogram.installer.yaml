@@ -15,10 +15,10 @@ Protocols:
 - tg
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-win64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-win64-installer.exe
   InstallerSha256: 92739A105CED38479ABAB7B56DF8D1BC542AD1A64905304BC1E4071CE409347F
 - Architecture: x86
-  InstallerUrl: https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-win32-installer.exe
   InstallerSha256: D06AC19348BD168A003A586274E048B0F2A6E36081AE302DCAF612217FF657EC
 ManifestType: installer
 ManifestVersion: 1.1.0

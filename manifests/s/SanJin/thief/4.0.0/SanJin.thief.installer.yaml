@@ -6,11 +6,11 @@ PackageVersion: 4.0.0
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win32.exe
   InstallerSha256: 27FC8947FCBA021D73280A657F31DD8C01C36FB3191B3E5FEEAAEE5A9B73D9B7
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win64.exe
   InstallerSha256: 7A53345CA816D570BEB70EBE78C402C752CB390CF05D1FA211EECF0D199ADDFE
 ManifestType: installer
 ManifestVersion: 1.4.0

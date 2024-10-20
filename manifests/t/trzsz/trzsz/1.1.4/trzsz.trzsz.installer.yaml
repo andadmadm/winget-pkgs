@@ -14,7 +14,7 @@ Installers:
     PortableCommandAlias: trzsz
   - RelativeFilePath: trzsz_1.1.4_windows_aarch64\tsz.exe
     PortableCommandAlias: tsz
-  InstallerUrl: https://github.com/trzsz/trzsz-go/releases/download/v1.1.4/trzsz_1.1.4_windows_aarch64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/trzsz/trzsz-go/releases/download/v1.1.4/trzsz_1.1.4_windows_aarch64.zip
   InstallerSha256: 599FD2C24F31DE78B3BC36591481C21B39BF3D136ACB56ED3CD2E19DF95D6117
 - Architecture: x64
   InstallerType: zip
@@ -26,7 +26,7 @@ Installers:
     PortableCommandAlias: trzsz
   - RelativeFilePath: trzsz_1.1.4_windows_x86_64\tsz.exe
     PortableCommandAlias: tsz
-  InstallerUrl: https://github.com/trzsz/trzsz-go/releases/download/v1.1.4/trzsz_1.1.4_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/trzsz/trzsz-go/releases/download/v1.1.4/trzsz_1.1.4_windows_x86_64.zip
   InstallerSha256: 06D02FFC73293990ECE79CEA1D332C165D122CC2B2505454BB84D28C5202C1A4
 - Architecture: x86
   InstallerType: zip
@@ -38,7 +38,7 @@ Installers:
     PortableCommandAlias: trzsz
   - RelativeFilePath: trzsz_1.1.4_windows_i386\tsz.exe
     PortableCommandAlias: tsz
-  InstallerUrl: https://github.com/trzsz/trzsz-go/releases/download/v1.1.4/trzsz_1.1.4_windows_i386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/trzsz/trzsz-go/releases/download/v1.1.4/trzsz_1.1.4_windows_i386.zip
   InstallerSha256: 8339FF1A2E349DCB046E35C60958269EBCF29FF66F7FAD36A8CE8DFADC0546E9
 ManifestType: installer
 ManifestVersion: 1.4.0

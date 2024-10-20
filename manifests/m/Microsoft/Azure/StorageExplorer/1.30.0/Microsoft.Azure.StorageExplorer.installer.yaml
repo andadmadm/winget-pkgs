@@ -10,13 +10,13 @@ ReleaseDate: 2023-06-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.30.0/StorageExplorer-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.30.0/StorageExplorer-windows-x64.exe
   InstallerSha256: EA1643ED48622D34B497DBF9A9534ECA2D4C8C0E2C3D740845074F6270A112C4
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.30.0/StorageExplorer-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.30.0/StorageExplorer-windows-x64.exe
   InstallerSha256: EA1643ED48622D34B497DBF9A9534ECA2D4C8C0E2C3D740845074F6270A112C4
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

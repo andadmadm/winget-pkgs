@@ -15,10 +15,10 @@ ReleaseDate: 2024-06-03
 ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/vim/vim-win32-installer/releases/download/v9.1.0465/gvim_9.1.0465_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vim/vim-win32-installer/releases/download/v9.1.0465/gvim_9.1.0465_x86.exe
   InstallerSha256: BEB491BE827A02435B79BA2534C58399B7394D29064594F0F98B6F125336F13D
 - Architecture: x64
-  InstallerUrl: https://github.com/vim/vim-win32-installer/releases/download/v9.1.0465/gvim_9.1.0465_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vim/vim-win32-installer/releases/download/v9.1.0465/gvim_9.1.0465_x64.exe
   InstallerSha256: A78FFD324441899DF75FCB14BCFE5950C6975DC22D8647B924CF25C05688CB80
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -6,7 +6,7 @@ PackageVersion: 1.0.0
 InstallerType: portable
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/k8stooling/kubazulo/releases/download/v1.0.0/kubazulo.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/k8stooling/kubazulo/releases/download/v1.0.0/kubazulo.exe
   InstallerSha256: 7EDB63695AEFF419F34FB961EEB6C8A560BEA41A062FBF9A8C15E831001BA23E
 ManifestType: installer
 ManifestVersion: 1.5.0

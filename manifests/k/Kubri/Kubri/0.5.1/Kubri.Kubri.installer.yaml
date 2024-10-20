@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kubri.exe
         PortableCommandAlias: kubri
-    InstallerUrl: https://github.com/kubri/kubri/releases/download/v0.5.1/kubri_0.5.1_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/kubri/kubri/releases/download/v0.5.1/kubri_0.5.1_Windows_i386.zip
     InstallerSha256: 63544ce46a4c1b00340bdb1defadf3432568851519148a5dc9eb682a3b1f1392
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kubri.exe
         PortableCommandAlias: kubri
-    InstallerUrl: https://github.com/kubri/kubri/releases/download/v0.5.1/kubri_0.5.1_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/kubri/kubri/releases/download/v0.5.1/kubri_0.5.1_Windows_x86_64.zip
     InstallerSha256: 2b77dd7df4123e8ae6eb0b8ccbdea235421ea8d2150dfb393a95ca0fcefc4d7d
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

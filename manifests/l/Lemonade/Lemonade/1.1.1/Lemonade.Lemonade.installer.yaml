@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: lemonade.exe
     PortableCommandAlias: lemonade
-  InstallerUrl: https://github.com/lemonade-command/lemonade/releases/download/v1.1.1/lemonade_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/lemonade-command/lemonade/releases/download/v1.1.1/lemonade_windows_amd64.zip
   InstallerSha256: 81B755A69E69E7AC90CD0FE1A6910F3D5060EC740AB43C7993FDAA447E08ED3A
 ManifestType: installer
 ManifestVersion: 1.4.0

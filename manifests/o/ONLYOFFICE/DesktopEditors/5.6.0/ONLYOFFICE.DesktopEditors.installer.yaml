@@ -27,7 +27,7 @@ FileExtensions:
 - xps
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/ONLYOFFICE-DesktopEditors-5.6.0/DesktopEditors_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ONLYOFFICE/DesktopEditors/releases/download/ONLYOFFICE-DesktopEditors-5.6.0/DesktopEditors_x64.exe
   InstallerSha256: E0A6703983A353CE7B5205205302B87A4D5FCC982F4B8A708CE143CC4A96823B
 ManifestType: installer
 ManifestVersion: 1.1.0

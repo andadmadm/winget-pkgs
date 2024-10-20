@@ -4,7 +4,7 @@
 PackageIdentifier: PixelsLTD.PeerBrain
 PackageVersion: 0.0.1.1
 Installers:
-- InstallerUrl: https://github.com/andrewstech/Peer-Brain-GUI/releases/download/Alpha-v1s/peerbrain.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/andrewstech/Peer-Brain-GUI/releases/download/Alpha-v1s/peerbrain.exe
   Architecture: x64
   InstallerType: inno
   InstallerSha256: 6E373C96411BBFD8B89314B8673D21D9735AF1CB4EA6850A21A8D93485F10085

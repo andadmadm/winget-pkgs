@@ -14,13 +14,13 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-08
 Installers:
 - Architecture: arm64
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.3/Sandboxie-Plus-ARM64-v1.5.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.3/Sandboxie-Plus-ARM64-v1.5.3.exe
   InstallerSha256: C5B3BD3C4429D4F670D7DD75D9CAE32E732E9E914484F41C6C20AD2A7455DCE2
 - Architecture: x64
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.3/Sandboxie-Plus-x64-v1.5.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.3/Sandboxie-Plus-x64-v1.5.3.exe
   InstallerSha256: 308CACC877A6559CB65FCAECCCA58A8D964E2B6A05A5006C64EBEB5C3E28E5B9
 - Architecture: x86
-  InstallerUrl: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.3/Sandboxie-Plus-x86-v1.5.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.5.3/Sandboxie-Plus-x86-v1.5.3.exe
   InstallerSha256: 8004CB23FFC3DC0CEFBF480ED1A93645831CA5369CF0B3BFD04AB798A7530D9D
 ManifestType: installer
 ManifestVersion: 1.2.0

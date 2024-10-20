@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2019-09-14
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.18/Switch-Setup-1.0.18.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ahkohd/switch-desktop/releases/download/v1.0.18/Switch-Setup-1.0.18.exe
   InstallerSha256: 119936A4BACF0DFFC75BF0F5AEAF50FD920352C2574FD37D9D1C53C490B846A8
 ManifestType: installer
 ManifestVersion: 1.2.0

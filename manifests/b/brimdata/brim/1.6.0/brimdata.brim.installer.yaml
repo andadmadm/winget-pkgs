@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-01-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/brimdata/zui/releases/download/v1.6.0/Zui-Setup-1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/brimdata/zui/releases/download/v1.6.0/Zui-Setup-1.6.0.exe
   InstallerSha256: CCEFCD0A477026D060E8CAED0D6378E2C0C0105D842D205CE710FC3109BFA8EB
 ManifestType: installer
 ManifestVersion: 1.6.0

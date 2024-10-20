@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/grafana/k6/releases/download/v0.35.0/k6-v0.35.0-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/grafana/k6/releases/download/v0.35.0/k6-v0.35.0-windows-amd64.msi
   InstallerSha256: 0EE24CF529A72E0B2A70DF87BFAD43CC1AF3862DBE8EC21E44C09971D342DD47
   ProductCode: '{D8072595-0FD1-4846-9CF3-FFD7378685FF}'
 ManifestType: installer

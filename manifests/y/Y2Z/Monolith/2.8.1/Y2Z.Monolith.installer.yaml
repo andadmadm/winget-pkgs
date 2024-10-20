@@ -9,7 +9,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Y2Z/monolith/releases/download/v2.8.1/monolith.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Y2Z/monolith/releases/download/v2.8.1/monolith.exe
   InstallerSha256: 57EA9CD4275984AD4A62DD6F17443F7A3F3450B35ADE9F5F6CA619CE64075069
 ManifestType: installer
 ManifestVersion: 1.6.0

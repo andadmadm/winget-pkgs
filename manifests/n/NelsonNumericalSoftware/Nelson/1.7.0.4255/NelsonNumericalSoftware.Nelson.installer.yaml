@@ -14,7 +14,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: inno
-    InstallerUrl: https://github.com/nelson-lang/nelson/releases/download/v1.7.0/Nelson-1.7.0.4255-x86-64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/nelson-lang/nelson/releases/download/v1.7.0/Nelson-1.7.0.4255-x86-64.exe
     InstallerSha256: c31b1e91ec2744efefe0b6bf702c2b7d78636a07ecab533135ad40176249114b
     Scope: machine
     InstallerSwitches:
@@ -26,7 +26,7 @@ Installers:
       ProductCode: '{2ED97A2C-CAA6-467F-82D9-02FC564A8950}_is1'
   - Architecture: x86
     InstallerType: inno
-    InstallerUrl: https://github.com/nelson-lang/nelson/releases/download/v1.7.0/Nelson-1.7.0.4255-x86-32.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/nelson-lang/nelson/releases/download/v1.7.0/Nelson-1.7.0.4255-x86-32.exe
     InstallerSha256: 9015b53a28a13bb21b610c08ba68431c3473b455b71f199e0b787cb85d841477
     Scope: machine
     InstallerSwitches:

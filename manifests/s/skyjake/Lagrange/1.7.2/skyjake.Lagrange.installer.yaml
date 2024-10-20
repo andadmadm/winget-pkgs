@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ProductCode: Lagrange_is1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.7.2/lagrange_v1.7.2_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.7.2/lagrange_v1.7.2_windows-x64_setup.exe
   InstallerSha256: 95E6637C9D10083C7C077D25B9BC218D75471DDC40C81EDE633B179A803A629D
 ManifestType: installer
 ManifestVersion: 1.0.0

@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-02-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbgate/dbgate/releases/download/v5.2.2/dbgate-5.2.2-win_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbgate/dbgate/releases/download/v5.2.2/dbgate-5.2.2-win_x64.exe
   InstallerSha256: 66B73120673CA44FCCEA433BFA8ABA1B2EFB8246560F07E9EB3069CEEDE34A8D
 ManifestType: installer
 ManifestVersion: 1.2.0

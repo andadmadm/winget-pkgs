@@ -9,7 +9,7 @@ Commands:
 - func-e
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tetratelabs/func-e/releases/download/v1.1.0/func-e_1.1.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/tetratelabs/func-e/releases/download/v1.1.0/func-e_1.1.0_windows_amd64.msi
   InstallerSha256: C0A34AD2377FCA838E9F297EA20335B4C2219788864E7D7B6FE8517B9440BB4C
   ProductCode: '{4DE38555-62A1-411C-99F3-8330E5215CA8}'
 ManifestType: installer

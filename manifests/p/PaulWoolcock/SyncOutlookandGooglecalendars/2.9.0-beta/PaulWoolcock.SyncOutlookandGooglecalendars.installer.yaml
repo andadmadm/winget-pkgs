@@ -6,7 +6,7 @@ PackageVersion: 2.9.0-beta
 Installers:
 - Architecture: x86
   InstallerType: exe
-  InstallerUrl: https://github.com/phw198/OutlookGoogleCalendarSync/releases/download/v2.9.0-beta/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/phw198/OutlookGoogleCalendarSync/releases/download/v2.9.0-beta/Setup.exe
   InstallerSha256: 61B307AE745134CC5772B8E8277454199FFFF0520A0856742ADBF4BCBC70F8DE
 ManifestType: installer
 ManifestVersion: 1.0.0

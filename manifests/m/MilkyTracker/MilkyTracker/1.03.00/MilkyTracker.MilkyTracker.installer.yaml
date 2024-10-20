@@ -4,7 +4,7 @@
 PackageIdentifier: MilkyTracker.MilkyTracker
 PackageVersion: 1.03.00
 Installers:
-- InstallerUrl: https://github.com/milkytracker/MilkyTracker/releases/download/v1.03.00/milkytracker-1.03.00-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/milkytracker/MilkyTracker/releases/download/v1.03.00/milkytracker-1.03.00-win64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

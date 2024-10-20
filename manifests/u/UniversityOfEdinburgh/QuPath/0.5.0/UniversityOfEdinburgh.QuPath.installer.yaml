@@ -20,7 +20,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{1AF7636A-4C61-3033-893E-C4F68FEEBA91}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qupath/qupath/releases/download/v0.5.0/QuPath-v0.5.0-Windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/qupath/qupath/releases/download/v0.5.0/QuPath-v0.5.0-Windows.msi
   InstallerSha256: 251BD770FFD76CCCB8241114F7377492EB3407525085C466A7853503255715E2
 ManifestType: installer
 ManifestVersion: 1.5.0

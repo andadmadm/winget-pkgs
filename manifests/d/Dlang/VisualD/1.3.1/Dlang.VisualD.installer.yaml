@@ -8,7 +8,7 @@ InstallerType: nullsoft
 ReleaseDate: 2022-10-09
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/dlang/visuald/releases/download/v1.3.1/VisualD-v1.3.1-dmd-2.100.2-ldc2-1.30.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dlang/visuald/releases/download/v1.3.1/VisualD-v1.3.1-dmd-2.100.2-ldc2-1.30.0.exe
   InstallerSha256: 1FA9DB0787295C537AED2B2EFB5FADF3BA5B157A6C4A0ECF67A217F1EC8D2DBD
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jeanslack/Videomass/releases/download/v.3.5.8/Videomass-v3.5.8-x86_64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jeanslack/Videomass/releases/download/v.3.5.8/Videomass-v3.5.8-x86_64-Setup.exe
   InstallerSha256: 44F0DE64B23D22E4B5E7010016D585BCBAF12CD0B43389C1567D25CA07E27E15
   ProductCode: '{1608E2C6-6B13-4793-A9A6-6283E3BF1305}_is1'
   AppsAndFeaturesEntries:

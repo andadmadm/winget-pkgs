@@ -21,7 +21,7 @@ FileExtensions:
 ReleaseDate: 2022-09-01
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/logseq/logseq/releases/download/0.8.4/Logseq-win-x64-0.8.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/logseq/logseq/releases/download/0.8.4/Logseq-win-x64-0.8.4.exe
   InstallerSha256: A4264EFC6EFECA40D4B3C5949905C2E26B05A7116F0DA4D0670AEF63078D6155
   ProductCode: Logseq
 ManifestType: installer

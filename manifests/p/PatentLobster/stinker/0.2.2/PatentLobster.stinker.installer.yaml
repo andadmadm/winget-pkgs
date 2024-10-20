@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/PatentLobster/stinker/releases/download/v0.2.2/Stinker-Setup-0.2.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PatentLobster/stinker/releases/download/v0.2.2/Stinker-Setup-0.2.2.exe
   InstallerSha256: 3D08EAEE5A9F9CE84AC150A3D71E6235C4DAEDAC2DCEE2E0F12105A88327C30F
   UpgradeBehavior: install
   ProductCode: 4c83f851-020c-53e7-a05d-fbcacdcdf3ce

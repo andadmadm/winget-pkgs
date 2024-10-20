@@ -37,7 +37,7 @@ FileExtensions:
 - xyz
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cnr-isti-vclab/meshlab/releases/download/MeshLab-2022.02/MeshLab2022.02-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cnr-isti-vclab/meshlab/releases/download/MeshLab-2022.02/MeshLab2022.02-windows.exe
   InstallerSha256: C6E8A7FD158F901C80A4250B9C62873D797767256547201676DBB44541F754A6
 ManifestType: installer
 ManifestVersion: 1.1.0

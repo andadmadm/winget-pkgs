@@ -4,7 +4,7 @@
 PackageIdentifier: Muhammed87643.Funkin
 PackageVersion: 1.0.0
 Installers:
-- InstallerUrl: https://github.com/Muhammed87643/Friday-Night-Funkin-Silent-Installer/releases/download/v1.0/Funkin.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/Muhammed87643/Friday-Night-Funkin-Silent-Installer/releases/download/v1.0/Funkin.msi
   InstallerLocale: en-US
   Architecture: neutral
   InstallerType: msi

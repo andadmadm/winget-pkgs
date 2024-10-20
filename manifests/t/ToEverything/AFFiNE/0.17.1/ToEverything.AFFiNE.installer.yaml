@@ -11,7 +11,7 @@ Installers:
 - Architecture: x64
   InstallerType: exe
   Scope: user
-  InstallerUrl: https://github.com/toeverything/AFFiNE/releases/download/v0.17.1/affine-0.17.1-stable-windows-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/toeverything/AFFiNE/releases/download/v0.17.1/affine-0.17.1-stable-windows-x64.exe
   InstallerSha256: 331A521E44C811DAB6332EBF497D400B280A206EBDDC7BF87B957CE133A05D42
   InstallModes:
   - silent
@@ -23,7 +23,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/toeverything/AFFiNE/releases/download/v0.17.1/affine-0.17.1-stable-windows-x64.nsis.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/toeverything/AFFiNE/releases/download/v0.17.1/affine-0.17.1-stable-windows-x64.nsis.exe
   InstallerSha256: 1EC108DD11E1683013652374BB056FC0DC5E6400A4387BD926EF7A7D660824D3
   InstallerSwitches:
     Upgrade: --updated
@@ -32,7 +32,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/toeverything/AFFiNE/releases/download/v0.17.1/affine-0.17.1-stable-windows-x64.nsis.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/toeverything/AFFiNE/releases/download/v0.17.1/affine-0.17.1-stable-windows-x64.nsis.exe
   InstallerSha256: 1EC108DD11E1683013652374BB056FC0DC5E6400A4387BD926EF7A7D660824D3
   InstallerSwitches:
     Upgrade: --updated

@@ -14,11 +14,11 @@ UpgradeBehavior: install
 ReleaseDate: 2024-04-22
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win32.exe
   InstallerSha256: 9B2A4E9AD6A66F7BD4BF8BB15537CE8936EAF0164773D01ABED1753E86C1BB08
   ProductCode: xmake
 - Architecture: x64
-  InstallerUrl: https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win64.exe
   InstallerSha256: B1861A8D6DCF4BCFBF2C3807FEBD9BEBFD399D84CAED66481CD19F4B61CF0613
   ProductCode: xmake
 ManifestType: installer

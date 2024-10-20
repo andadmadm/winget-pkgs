@@ -28,7 +28,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{88785A72-3EAE-4F29-89E3-BC6B19BA9A5B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/keepassxreboot/keepassxc/releases/download/2.7.8/KeePassXC-2.7.8-Win64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/keepassxreboot/keepassxc/releases/download/2.7.8/KeePassXC-2.7.8-Win64.msi
   InstallerSha256: D940DA0D5F009A3F9FA9E182ACAA292C239A87066FBB7D37E6DFEDE1AAB53982
 ManifestType: installer
 ManifestVersion: 1.6.0

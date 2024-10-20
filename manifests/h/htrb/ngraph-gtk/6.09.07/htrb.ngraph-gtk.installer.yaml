@@ -9,10 +9,10 @@ NestedInstallerFiles:
 - RelativeFilePath: ngraph-gtk\bin\ngraph.exe
   PortableCommandAlias: ngraph
 Installers:
-- InstallerUrl: https://github.com/htrb/ngraph-gtk/releases/download/v6.09.07/ngraph-gtk-6.09.07-win64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/htrb/ngraph-gtk/releases/download/v6.09.07/ngraph-gtk-6.09.07-win64.zip
   Architecture: x64
   InstallerSha256: 171339B58733E59B8B99B3AE32DAF114CFA37E260A3D64E5C995692DAD5B0CAF
-- InstallerUrl: https://github.com/htrb/ngraph-gtk/releases/download/v6.09.07/ngraph-gtk-6.09.07-win32.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/htrb/ngraph-gtk/releases/download/v6.09.07/ngraph-gtk-6.09.07-win32.zip
   Architecture: x86
   InstallerSha256: A43F8B8FD6AAC63B993C993C9371C626D4F08A723D6080D595C4CC41A1132FB5
 ManifestType: installer

@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-07-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v1.6.10/Beekeeper-Studio-Setup-1.6.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v1.6.10/Beekeeper-Studio-Setup-1.6.10.exe
   InstallerSha256: B73211C3C1163E1BDC7473ADF625EFA092C4D99642FEE5E778251891C5892CBB
 ManifestType: installer
 ManifestVersion: 1.2.0

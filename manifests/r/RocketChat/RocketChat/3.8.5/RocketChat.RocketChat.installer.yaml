@@ -13,21 +13,21 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - InstallerSha256: F4A15486DDB76056A3EFD228C582655938AB8CB0C145BD2E66B8FDE6C61EF3AA
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.5/rocketchat-3.8.5-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.5/rocketchat-3.8.5-win-x64.exe
   Scope: user
   Architecture: x64
   InstallerType: nullsoft
   InstallerSwitches:
     Custom: /CURRENTUSER
 - InstallerSha256: F4A15486DDB76056A3EFD228C582655938AB8CB0C145BD2E66B8FDE6C61EF3AA
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.5/rocketchat-3.8.5-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.5/rocketchat-3.8.5-win-x64.exe
   Scope: machine
   Architecture: x64
   InstallerType: nullsoft
   InstallerSwitches:
     Custom: /ALLUSERS
 - InstallerSha256: 9FD39709C82EAECAF10A37026B8698F43435F2CFEFB100DBFF6E66C02704AC28
-  InstallerUrl: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.5/rocketchat-3.8.5-win-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.5/rocketchat-3.8.5-win-x64.msi
   Scope: machine
   Architecture: x64
   InstallerType: wix

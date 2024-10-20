@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2019-04-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi
   InstallerSha256: 2C4D1EFB90124F885215F88304C9ECC8BBEECC9CCA285F6D17BAAE43B49F6227
   ProductCode: '{381B1560-3850-4E80-BD01-781486364F7B}'
 ManifestType: installer

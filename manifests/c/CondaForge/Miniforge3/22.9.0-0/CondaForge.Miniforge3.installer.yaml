@@ -16,13 +16,13 @@ RequireExplicitUpgrade: true
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/22.9.0-0/Miniforge3-22.9.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/22.9.0-0/Miniforge3-22.9.0-0-Windows-x86_64.exe
   InstallerSha256: DD6911E7D0D213BBAC0C995F86C53A7E6C1CC91BCA7618897736FA06422DFB2A
   InstallerSwitches:
     Custom: /InstallationType=JustMe /AddToPath=0 /RegisterPython=0
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/22.9.0-0/Miniforge3-22.9.0-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/22.9.0-0/Miniforge3-22.9.0-0-Windows-x86_64.exe
   InstallerSha256: DD6911E7D0D213BBAC0C995F86C53A7E6C1CC91BCA7618897736FA06422DFB2A
   InstallerSwitches:
     Custom: /InstallationType=AllUsers /AddToPath=0 /RegisterPython=0

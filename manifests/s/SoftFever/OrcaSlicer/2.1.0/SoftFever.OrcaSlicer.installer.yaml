@@ -10,7 +10,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.1.0/OrcaSlicer_Windows_Installer_V2.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SoftFever/OrcaSlicer/releases/download/v2.1.0/OrcaSlicer_Windows_Installer_V2.1.0.exe
   InstallerSha256: 1410707BF769DEC62E09C3BCE844E731C83B7FA0B5D603674F6CB59CC80DB6B8
 ManifestType: installer
 ManifestVersion: 1.6.0

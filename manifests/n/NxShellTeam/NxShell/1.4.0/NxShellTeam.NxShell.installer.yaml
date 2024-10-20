@@ -12,7 +12,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/nxshell/nxshell/releases/download/v1.4.0/NxShell-1.4.0-202107250207.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nxshell/nxshell/releases/download/v1.4.0/NxShell-1.4.0-202107250207.exe
   InstallerSha256: 44FF2A71374B530F9AE9193E2FCA2E6EA4A5B0569F3A0D1356E65239132C6211
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -21,7 +21,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/nxshell/nxshell/releases/download/v1.4.0/NxShell-1.4.0-202107250207.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nxshell/nxshell/releases/download/v1.4.0/NxShell-1.4.0-202107250207.exe
   InstallerSha256: 44FF2A71374B530F9AE9193E2FCA2E6EA4A5B0569F3A0D1356E65239132C6211
   InstallerSwitches:
     Custom: /ALLUSERS

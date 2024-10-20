@@ -19,7 +19,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\glzr.io\Zebar'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/glzr-io/zebar/releases/download/v1.8.1/zebar-v1.8.1-opt1-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/glzr-io/zebar/releases/download/v1.8.1/zebar-v1.8.1-opt1-x64.msi
   InstallerSha256: 723B2BC6E19FA67D5F9F1B88ECF23B14247771E95DB35897B749708E5D5E41CD
 ManifestType: installer
 ManifestVersion: 1.6.0

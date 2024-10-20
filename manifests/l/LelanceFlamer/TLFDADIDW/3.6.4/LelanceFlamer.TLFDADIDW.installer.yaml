@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/LlFPrograms/TLFDADIDW/releases/download/v3.6.4/TLFDADIDW_TE_Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LlFPrograms/TLFDADIDW/releases/download/v3.6.4/TLFDADIDW_TE_Setup.exe
   InstallerSha256: 72612490C5F2E067B25276C59930A407DCDBD6FF196A97B79FB53E51B9127C64
 ManifestType: installer
 ManifestVersion: 1.2.0

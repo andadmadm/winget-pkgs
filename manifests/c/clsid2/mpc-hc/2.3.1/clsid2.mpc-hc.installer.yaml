@@ -141,10 +141,10 @@ FileExtensions:
 - wvx
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/2.3.1/MPC-HC.2.3.1.x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/2.3.1/MPC-HC.2.3.1.x86.exe
   InstallerSha256: A4ACBE77B24BFAE6EC3A20452AD976E8F2392436B6D5665BFD9A51E68E68BB18
 - Architecture: x64
-  InstallerUrl: https://github.com/clsid2/mpc-hc/releases/download/2.3.1/MPC-HC.2.3.1.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/clsid2/mpc-hc/releases/download/2.3.1/MPC-HC.2.3.1.x64.exe
   InstallerSha256: 5F1DDCB3B7B1325FC011ED98DCA75D7C0A46E3680F828DAA930EB28313DA00AB
 ManifestType: installer
 ManifestVersion: 1.6.0

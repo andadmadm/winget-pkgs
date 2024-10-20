@@ -63,11 +63,11 @@ AppsAndFeaturesEntries:
     InstallerType: msi
 Installers:
   - Architecture: x86
-    InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.msi
     InstallerSha256: 42B9B8062C716D2C0532D22ABF8FD265D56F122CCB1FFEBD1C698D22927191F4
     ProductCode: "{4651AB33-1A32-4B30-BF5B-F80B935E0E29}"
   - Architecture: x64
-    InstallerUrl: https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.msi
+    InstallerUrl: https://gitpoxry.com/https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.msi
     InstallerSha256: A52BE9C5F93ED825BC1E7F9460F36F068A660DEA96A3D116B2C1180BF1545434
     ProductCode: "{0BFE4062-53A4-4394-91E4-64DF159CE4B5}"
 ManifestType: installer

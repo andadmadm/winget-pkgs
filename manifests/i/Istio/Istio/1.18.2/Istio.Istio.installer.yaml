@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: istioctl.exe
     PortableCommandAlias: istioctl
-  InstallerUrl: https://github.com/istio/istio/releases/download/1.18.2/istioctl-1.18.2-win.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/istio/istio/releases/download/1.18.2/istioctl-1.18.2-win.zip
   InstallerSha256: 0FF4EF545A76D9D20E6D8F0BED5D3EFE76E951335B1555F676B9A7EEFAF52F66
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: appx
   Scope: user
-  InstallerUrl: https://github.com/isaacrlevin/presencelight/releases/download/v3.5.15/PresenceLight.Package_3.5.15.0_x64.appxbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/isaacrlevin/presencelight/releases/download/v3.5.15/PresenceLight.Package_3.5.15.0_x64.appxbundle
   InstallerSha256: AB43A1A6B04936C6C11CEE4F54AB96EAB0417F3D7CD4E15D3FA5D71D0ED186BF
   SignatureSha256: 37A77671E3F6BCBC26E8EF19D5D3FA4DB99CA3C7AAA6228CD6D99FAA9F916C56
   PackageFamilyName: 37828IsaacLevin.197278F15330A_jvewcxq8vj8qt

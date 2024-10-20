@@ -6,7 +6,7 @@ PackageIdentifier: Ebbflow.Ebbflow
 PackageVersion: 1.1.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ebbflow-io/ebbflow/releases/download/1.1.0/ebbflow_1.1.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ebbflow-io/ebbflow/releases/download/1.1.0/ebbflow_1.1.0.msi
   InstallerSha256: ccf25192cbfcee1676e6a9d2a3311829fbb592b83a755ee14b525e4710e24e43
   UpgradeCode: "{97AD6159-8342-4BEE-8A62-9644264586A1}"
 ManifestType: installer

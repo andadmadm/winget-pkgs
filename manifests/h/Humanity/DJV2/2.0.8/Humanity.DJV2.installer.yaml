@@ -8,7 +8,7 @@ InstallerType: nullsoft
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/darbyjohnston/DJV/releases/download/2.0.8/DJV-2.0.8-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/darbyjohnston/DJV/releases/download/2.0.8/DJV-2.0.8-win64.exe
   InstallerSha256: C136D8E61561A06C27EB9C8BF29DEA5F709D77CE19B18993A9B379162C2E4AE2
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-12-01
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/mhogomchungu/sirikali/releases/download/1.4.8/SiriKali-1.4.8.setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mhogomchungu/sirikali/releases/download/1.4.8/SiriKali-1.4.8.setup.exe
   InstallerSha256: 9B877B709EF251885C9E62A17079014C96CDD11EDE0AF8C1A3B62F5B1365FF12
 ManifestType: installer
 ManifestVersion: 1.2.0

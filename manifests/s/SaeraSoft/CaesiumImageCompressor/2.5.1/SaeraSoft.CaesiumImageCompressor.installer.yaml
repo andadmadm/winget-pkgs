@@ -15,7 +15,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.5.1/caesium-image-compressor-2.5.1-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.5.1/caesium-image-compressor-2.5.1-win-setup.exe
   InstallerSha256: 1D5CDE9B46F1FF53A82D173707342037BA4ACE1B72749D1D5030FBA96D619DBE
 ManifestType: installer
 ManifestVersion: 1.5.0

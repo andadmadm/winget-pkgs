@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/muffinista/before-dawn/releases/download/v0.18.6/Before-Dawn-Setup-0.18.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/muffinista/before-dawn/releases/download/v0.18.6/Before-Dawn-Setup-0.18.6.exe
   InstallerSha256: 2E6CD32AA67B72F7DE42C04D4BEEE12443154350F9CF8283FC4B24B0EDF42B0D
 ManifestType: installer
 ManifestVersion: 1.1.0

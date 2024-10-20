@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Automattic/wp-desktop/releases/download/v6.0.0/wordpress.com-win32-setup-6.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Automattic/wp-desktop/releases/download/v6.0.0/wordpress.com-win32-setup-6.0.0.exe
   InstallerSha256: EBE733F2A0996E3EB0E49E61BE23810E16A333DAFBA6655C29745FF3DB0DF14F
 ManifestType: installer
 ManifestVersion: 1.1.0

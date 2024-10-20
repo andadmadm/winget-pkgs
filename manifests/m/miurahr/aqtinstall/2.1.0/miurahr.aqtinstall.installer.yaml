@@ -8,10 +8,10 @@ Commands:
 - aqt
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/miurahr/aqtinstall/releases/download/v2.1.0/aqt_x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/miurahr/aqtinstall/releases/download/v2.1.0/aqt_x64.exe
   InstallerSha256: E73F28FF0E6AFC9C935BB24CDE7E4D110ADC4AA3EF454F619B29FF73EF9F6153
 - Architecture: x86
-  InstallerUrl: https://github.com/miurahr/aqtinstall/releases/download/v2.1.0/aqt_x86.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/miurahr/aqtinstall/releases/download/v2.1.0/aqt_x86.exe
   InstallerSha256: D0A4418D5B598CE159E61DEF143C5410A330CE567B54B37DFC6D7FFF7F43FB55
 ManifestType: installer
 ManifestVersion: 1.2.0

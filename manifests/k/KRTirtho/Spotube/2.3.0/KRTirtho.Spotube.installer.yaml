@@ -10,13 +10,13 @@ InstallerType: inno
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/KRTirtho/spotube/releases/download/v2.3.0/Spotube-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KRTirtho/spotube/releases/download/v2.3.0/Spotube-windows-x86_64-setup.exe
   InstallerSha256: 49B637CCAC5F091A6C5F4825A37727A9387C152A947FD7C351CB0520DDB34201
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/KRTirtho/spotube/releases/download/v2.3.0/Spotube-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KRTirtho/spotube/releases/download/v2.3.0/Spotube-windows-x86_64-setup.exe
   InstallerSha256: 49B637CCAC5F091A6C5F4825A37727A9387C152A947FD7C351CB0520DDB34201
   InstallerSwitches:
     Custom: /ALLUSERS

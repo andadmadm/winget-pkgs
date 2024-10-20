@@ -15,7 +15,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/Toinane/colorpicker/releases/download/2.0.3/colorpicker_setup_2.0.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Toinane/colorpicker/releases/download/2.0.3/colorpicker_setup_2.0.3.exe
   InstallerSha256: EA138D1B98B6237CCE27E20FFD9DBC82FC52A15FF519C0FF5F9ADDF1888EBF99
   InstallerSwitches:
     Custom: /NORESTART /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/Toinane/colorpicker/releases/download/2.0.3/colorpicker_setup_2.0.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Toinane/colorpicker/releases/download/2.0.3/colorpicker_setup_2.0.3.exe
   InstallerSha256: EA138D1B98B6237CCE27E20FFD9DBC82FC52A15FF519C0FF5F9ADDF1888EBF99
   InstallerSwitches:
     Custom: /NORESTART /ALLUSERS

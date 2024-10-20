@@ -14,7 +14,7 @@ FileExtensions:
 - pyc
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/winpython/winpython/releases/download/4.7.20220709final/Winpython64-3.10.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/winpython/winpython/releases/download/4.7.20220709final/Winpython64-3.10.5.0.exe
   InstallerSha256: D764A44195A82A3CED78EC6AC1A813AC359E42D7CFC4B3CDE56332C5E9DADBE7
 ManifestType: installer
 ManifestVersion: 1.1.0

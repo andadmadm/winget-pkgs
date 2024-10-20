@@ -13,10 +13,10 @@ UpgradeBehavior: install
 ReleaseDate: 2023-12-04
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/opentofu/opentofu/releases/download/v1.6.0-beta2/tofu_1.6.0-beta2_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/opentofu/opentofu/releases/download/v1.6.0-beta2/tofu_1.6.0-beta2_windows_386.zip
   InstallerSha256: 03A0DCB538BA4CDD67E6514EEC99A79A40C2F8768403CC1FA0AC6A52C511A95E
 - Architecture: x64
-  InstallerUrl: https://github.com/opentofu/opentofu/releases/download/v1.6.0-beta2/tofu_1.6.0-beta2_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/opentofu/opentofu/releases/download/v1.6.0-beta2/tofu_1.6.0-beta2_windows_amd64.zip
   InstallerSha256: 9E3422BF6C8A6064FEC342DE743AAE1DEA26294E9339E3388EB87061593244AB
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -4,7 +4,7 @@
 PackageIdentifier: irzyxa.Volume2Portable
 PackageVersion: 1.1.7.449
 Installers:
-- InstallerUrl: https://github.com/irzyxa/Volume2/releases/download/v1.1.7/Volume2_1_1_7_449.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/irzyxa/Volume2/releases/download/v1.1.7/Volume2_1_1_7_449.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

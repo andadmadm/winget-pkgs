@@ -12,7 +12,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/nrittsti/ntag/releases/download/v1.2.14/ntag-1.2.14-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/nrittsti/ntag/releases/download/v1.2.14/ntag-1.2.14-win-setup.exe
   InstallerSha256: 20BD3591D4965E499DDF2306F74EE9D591D587443C5FBE644A80BAE1138B29DC
 ManifestType: installer
 ManifestVersion: 1.6.0

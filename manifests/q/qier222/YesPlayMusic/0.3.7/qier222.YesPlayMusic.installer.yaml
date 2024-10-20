@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qier222/YesPlayMusic/releases/download/v0.3.7/YesPlayMusic-Setup-0.3.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qier222/YesPlayMusic/releases/download/v0.3.7/YesPlayMusic-Setup-0.3.7.exe
   InstallerSha256: 4E7630833F9E03A6D47DA522CD2A5F633BDAA4057FA95778F39EDE2017688FE5
 ManifestType: installer
 ManifestVersion: 1.1.0

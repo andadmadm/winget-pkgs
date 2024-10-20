@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/pulumi/pulumi-winget/releases/download/v3.42.0/pulumi-3.42.0-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/pulumi/pulumi-winget/releases/download/v3.42.0/pulumi-3.42.0-windows-x64.msi
   InstallerSha256: EDACBE785197CB717A3F957E62BC256E86B47BA2550ADFD67FFBD8C95BAF3A68
   ProductCode: '{4E513C55-69BE-49D8-AAC4-DEAC2C01A391}'
 ManifestType: installer

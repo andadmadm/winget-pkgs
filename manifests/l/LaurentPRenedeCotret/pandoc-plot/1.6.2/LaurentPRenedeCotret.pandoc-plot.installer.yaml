@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LaurentRDC/pandoc-plot/releases/download/1.6.2/pandoc-plot-wininst-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LaurentRDC/pandoc-plot/releases/download/1.6.2/pandoc-plot-wininst-x86_64.exe
   InstallerSha256: 180ED0B34374C29F17866FCE96007320B9EA43A160BCAC355723485E8A51B05D
 ManifestType: installer
 ManifestVersion: 1.2.0

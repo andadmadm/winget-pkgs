@@ -4,7 +4,7 @@
 PackageIdentifier: wez.atomicparsley
 PackageVersion: 20221229.172126.d813aa6
 Installers:
-- InstallerUrl: https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyWindows.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyWindows.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -16,7 +16,7 @@ Installers:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 
-- InstallerUrl: https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyWindowsX86.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyWindowsX86.zip
   Architecture: x86
   InstallerType: zip
   NestedInstallerType: portable

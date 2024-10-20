@@ -10,13 +10,13 @@ ReleaseDate: 2023-03-01
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/vladimiry/ElectronMail/releases/download/v5.1.4/electron-mail-5.1.4-windows-x64-nsis-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vladimiry/ElectronMail/releases/download/v5.1.4/electron-mail-5.1.4-windows-x64-nsis-installer.exe
   InstallerSha256: C55D84681BA2AB07991384AD282BDC3338057F249710690B333F9187136C150F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/vladimiry/ElectronMail/releases/download/v5.1.4/electron-mail-5.1.4-windows-x64-nsis-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/vladimiry/ElectronMail/releases/download/v5.1.4/electron-mail-5.1.4-windows-x64-nsis-installer.exe
   InstallerSha256: C55D84681BA2AB07991384AD282BDC3338057F249710690B333F9187136C150F
   InstallerSwitches:
     Custom: /ALLUSERS

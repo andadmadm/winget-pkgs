@@ -15,13 +15,13 @@ ReleaseDate: 2022-09-24
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/hovancik/stretchly/releases/download/v1.12.0/Stretchly-Setup-1.12.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hovancik/stretchly/releases/download/v1.12.0/Stretchly-Setup-1.12.0.exe
   InstallerSha256: 0C44D0CC7B99F317D04AB5F1515933D172438460B881A51BB9D8970198D70D09
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/hovancik/stretchly/releases/download/v1.12.0/Stretchly-Setup-1.12.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/hovancik/stretchly/releases/download/v1.12.0/Stretchly-Setup-1.12.0.exe
   InstallerSha256: 0C44D0CC7B99F317D04AB5F1515933D172438460B881A51BB9D8970198D70D09
   InstallerSwitches:
     Custom: /ALLUSERS

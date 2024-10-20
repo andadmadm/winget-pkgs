@@ -14,13 +14,13 @@ ReleaseDate: 2022-03-13
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.19.0/electerm-1.19.0-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.19.0/electerm-1.19.0-win-x64-installer.exe
   InstallerSha256: F2D313E9ABD9DBEA70F2D674D59CC32906D056B0FB1779C85A52561DDD8C61BA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/electerm/electerm/releases/download/v1.19.0/electerm-1.19.0-win-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/electerm/electerm/releases/download/v1.19.0/electerm-1.19.0-win-x64-installer.exe
   InstallerSha256: F2D313E9ABD9DBEA70F2D674D59CC32906D056B0FB1779C85A52561DDD8C61BA
   InstallerSwitches:
     Custom: /ALLUSERS

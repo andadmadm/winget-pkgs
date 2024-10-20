@@ -15,14 +15,14 @@ ReleaseDate: 2022-04-20
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v2.0.3-beta.3/rubick2-Setup-2.0.3-beta.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v2.0.3-beta.3/rubick2-Setup-2.0.3-beta.3.exe
   InstallerSha256: 3FEEE59A65F78CDB2D6322913893298238542B0A79C6F3406D254E79FC1FA33E
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: 8775235d-add8-5501-961c-495d96145e7e
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/rubickCenter/rubick/releases/download/v2.0.3-beta.3/rubick2-Setup-2.0.3-beta.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rubickCenter/rubick/releases/download/v2.0.3-beta.3/rubick2-Setup-2.0.3-beta.3.exe
   InstallerSha256: 3FEEE59A65F78CDB2D6322913893298238542B0A79C6F3406D254E79FC1FA33E
   InstallerSwitches:
     Custom: /ALLUSERS

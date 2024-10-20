@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/altair-graphql/altair/releases/download/v4.0.9/altair_4.0.9_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/altair-graphql/altair/releases/download/v4.0.9/altair_4.0.9_win.exe
   InstallerSha256: 48491FF14E9FC55628EAE0CC9F49985790E6532DECE7083DF3C6C38158F972D0
   UpgradeBehavior: install
 ManifestType: installer

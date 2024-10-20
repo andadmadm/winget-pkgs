@@ -16,7 +16,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/ankitects/anki/releases/download/2.1.46/anki-2.1.46-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ankitects/anki/releases/download/2.1.46/anki-2.1.46-windows.exe
   InstallerSha256: 4C72018A76E7919401D2A5FA3377A76D15E6855878B5435C84396DFE534364E9
   UpgradeBehavior: install
   ProductCode: 'Anki'

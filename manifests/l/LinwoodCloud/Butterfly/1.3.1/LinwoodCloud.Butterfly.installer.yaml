@@ -8,7 +8,7 @@ InstallerType: inno
 Scope: machine
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/LinwoodCloud/Butterfly/releases/download/v1.3.1/Butterfly-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodCloud/Butterfly/releases/download/v1.3.1/Butterfly-Setup.exe
   InstallerSha256: 0B95DB442363B85457E3619D19E615BCDA2C860A1564D43FE7F96647700BFFC8
 ManifestType: installer
 ManifestVersion: 1.1.0

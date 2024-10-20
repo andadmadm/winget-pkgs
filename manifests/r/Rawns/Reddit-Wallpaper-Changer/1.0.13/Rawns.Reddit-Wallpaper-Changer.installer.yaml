@@ -8,7 +8,7 @@ InstallerType: msi
 ReleaseDate: 2016-10-13
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/Rawns/Reddit-Wallpaper-Changer/releases/download/release/Reddit.Wallpaper.Changer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Rawns/Reddit-Wallpaper-Changer/releases/download/release/Reddit.Wallpaper.Changer.msi
   InstallerSha256: 419EB373C54A5D0F705FE18B8557019321F01AD575E0A1FAE03F40920A36CCB2
   ProductCode: '{2C493234-69DC-44B4-88E1-A7A4712E83E5}'
 ManifestType: installer

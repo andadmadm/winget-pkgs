@@ -6,7 +6,7 @@ PackageVersion: 0.3.19.137
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/AllToMP3/alltomp3-app/releases/download/v0.3.19/AllToMP3-Setup-0.3.19.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AllToMP3/alltomp3-app/releases/download/v0.3.19/AllToMP3-Setup-0.3.19.exe
   InstallerSha256: 9E1A3542992DCEF4FFA57166F94BEBA00C07C8DCCF248FA3D5214C81346AE0BD
 ManifestType: installer
 ManifestVersion: 1.4.0

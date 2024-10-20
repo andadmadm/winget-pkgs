@@ -5,7 +5,7 @@ PackageIdentifier: Microsoft.DevProxy.Beta
 PackageVersion: 0.17.0-beta.2
 InstallerType: inno
 Installers:
-- InstallerUrl: https://github.com/microsoft/dev-proxy/releases/download/v0.17.0-beta.2/dev-proxy-installer-win-x64-v0.17.0-beta.2.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/dev-proxy/releases/download/v0.17.0-beta.2/dev-proxy-installer-win-x64-v0.17.0-beta.2.exe
   Architecture: x64
   InstallerSha256: CAD8BA30754B8D62E749D081341E6B3ECC34A5ECDAEBC6E7DCCA175235C2F390
 ManifestType: installer

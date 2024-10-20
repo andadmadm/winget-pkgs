@@ -10,7 +10,7 @@ Installers:
 - Architecture: x86
   Scope: user
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/lutzroeder/netron/releases/download/v7.9.5/Netron-Setup-7.9.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lutzroeder/netron/releases/download/v7.9.5/Netron-Setup-7.9.5.exe
   InstallerSha256: D9B2CEC58EB4D2FBD5A2D240E8708DA84264252199811647F7FEE92D35625B23
   InstallerLocale: en-US
   InstallerSwitches:
@@ -19,7 +19,7 @@ Installers:
 - Architecture: arm64
   Scope: user
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/lutzroeder/netron/releases/download/v7.9.5/Netron-Setup-7.9.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lutzroeder/netron/releases/download/v7.9.5/Netron-Setup-7.9.5.exe
   InstallerSha256: D9B2CEC58EB4D2FBD5A2D240E8708DA84264252199811647F7FEE92D35625B23
   InstallerLocale: en-US
   InstallerSwitches:

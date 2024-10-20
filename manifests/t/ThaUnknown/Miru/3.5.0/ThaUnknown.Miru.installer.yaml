@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-12-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ThaUnknown/miru/releases/download/v3.5.0/win-Miru-3.5.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ThaUnknown/miru/releases/download/v3.5.0/win-Miru-3.5.0.exe
   InstallerSha256: EDD4741FE544DB51FD525194D63BA45AA5C65DFD3BE2D714FC1B13CAED92603A
 ManifestType: installer
 ManifestVersion: 1.2.0

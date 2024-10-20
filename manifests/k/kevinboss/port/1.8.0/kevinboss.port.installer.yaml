@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2024-06-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kevinboss/port/releases/download/v1.8.0/port.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kevinboss/port/releases/download/v1.8.0/port.exe
   InstallerSha256: C43F54C3138DCAAD727D31A09A3129908159F76376C044D3896B7B8CC1D1A5B0
 ManifestType: installer
 ManifestVersion: 1.5.0

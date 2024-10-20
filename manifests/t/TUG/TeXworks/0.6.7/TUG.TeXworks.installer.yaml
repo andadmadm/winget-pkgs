@@ -26,7 +26,7 @@ FileExtensions:
 ReleaseDate: 2022-02-26
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/TeXworks/texworks/releases/download/release-0.6.7/TeXworks-win-setup-0.6.7-202202261139-git_23c4c74.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/TeXworks/texworks/releases/download/release-0.6.7/TeXworks-win-setup-0.6.7-202202261139-git_23c4c74.exe
   InstallerSha256: 729E15B233F2841C6E02DC0B6A1A14606CFB5978F672FCF16781D4A00E6C0A4F
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -19,13 +19,13 @@ FileExtensions:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/2.3.0/Sigil-2.3.0-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/2.3.0/Sigil-2.3.0-Windows-x64-Setup.exe
   InstallerSha256: B9116A0AA08065DFBDDE4A0C948AB36651E3096D04491775E3831312775DED5E
   InstallerSwitches:
     Custom: /CURRENTUSER /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Sigil-Ebook/Sigil/releases/download/2.3.0/Sigil-2.3.0-Windows-x64-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sigil-Ebook/Sigil/releases/download/2.3.0/Sigil-2.3.0-Windows-x64-Setup.exe
   InstallerSha256: B9116A0AA08065DFBDDE4A0C948AB36651E3096D04491775E3831312775DED5E
   InstallerSwitches:
     Custom: /ALLUSERS /NORESTART /SUPPRESSMSGBOXES /COMPONENTS="dicon,*afiles"

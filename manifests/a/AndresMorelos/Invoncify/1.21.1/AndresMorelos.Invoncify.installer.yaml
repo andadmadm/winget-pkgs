@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AndresMorelos/Invoncify/releases/download/v1.21.1/Invoncify-Setup-1.21.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AndresMorelos/Invoncify/releases/download/v1.21.1/Invoncify-Setup-1.21.1.exe
   InstallerSha256: 30341A36596DC33038B83817F3F893222B37E8F2AA43669F1C25571A291C2C2D
 ManifestType: installer
 ManifestVersion: 1.1.0

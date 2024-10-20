@@ -50,7 +50,7 @@ Commands:
 ReleaseDate: 2022-10-27
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mentebinaria/retoolkit/releases/download/2022.10/retoolkit_2022.10_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mentebinaria/retoolkit/releases/download/2022.10/retoolkit_2022.10_setup.exe
   InstallerSha256: 7BDF705E9CBAEEFA384D7EA8D59FE7087A3A37752529B24121402021605FE2D8
   ProductCode: '{BB46345D-F5E9-408E-AA39-64A5EDD92E30}_is1'
 ManifestType: installer

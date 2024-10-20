@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-19
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.5.4/Assessment.Disaggregation-1.5.4.Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.5.4/Assessment.Disaggregation-1.5.4.Setup.exe
   InstallerSha256: FAF89A1746F462EB57CD5DE373DDA1075BB9BE26D23E5A270173B71842478B12
 ManifestType: installer
 ManifestVersion: 1.1.0

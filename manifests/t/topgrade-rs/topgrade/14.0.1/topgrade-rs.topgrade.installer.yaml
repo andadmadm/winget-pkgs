@@ -10,7 +10,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: topgrade.exe
-  InstallerUrl: https://github.com/topgrade-rs/topgrade/releases/download/v14.0.1/topgrade-v14.0.1-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/topgrade-rs/topgrade/releases/download/v14.0.1/topgrade-v14.0.1-x86_64-pc-windows-msvc.zip
   InstallerSha256: 9850254001BF2D9536B676C25BD764294BEEEC8B3F810DBB6D848CE6857C8862
   Dependencies:
     PackageDependencies:

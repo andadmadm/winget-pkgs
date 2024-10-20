@@ -15,7 +15,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/microsoft/BotFramework-Composer/releases/download/v2.0.0/BotFramework-Composer-2.0.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/BotFramework-Composer/releases/download/v2.0.0/BotFramework-Composer-2.0.0-windows-setup.exe
   InstallerSha256: 93371F6ED1536C49328EAB9D3A7252C31EAA0AEFFBAE2323437789EB4FA58E8D
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/microsoft/BotFramework-Composer/releases/download/v2.0.0/BotFramework-Composer-2.0.0-windows-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/BotFramework-Composer/releases/download/v2.0.0/BotFramework-Composer-2.0.0-windows-setup.exe
   InstallerSha256: 93371F6ED1536C49328EAB9D3A7252C31EAA0AEFFBAE2323437789EB4FA58E8D
   InstallerSwitches:
     Custom: /ALLUSERS

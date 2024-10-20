@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.1/IPFS-Desktop-Setup-0.20.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.1/IPFS-Desktop-Setup-0.20.1.exe
   InstallerSha256: 516223D4F6B03CE3C13ABCF6F11C65AF0E7783C0B11655E5D2422EBBC8416BD0
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.1/IPFS-Desktop-Setup-0.20.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ipfs/ipfs-desktop/releases/download/v0.20.1/IPFS-Desktop-Setup-0.20.1.exe
   InstallerSha256: 516223D4F6B03CE3C13ABCF6F11C65AF0E7783C0B11655E5D2422EBBC8416BD0
   InstallerSwitches:
     Custom: /ALLUSERS

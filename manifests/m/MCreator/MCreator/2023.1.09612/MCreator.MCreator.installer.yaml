@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/MCreator/MCreator/releases/download/2023.1.09612/MCreator.2023.1.Windows.64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MCreator/MCreator/releases/download/2023.1.09612/MCreator.2023.1.Windows.64bit.exe
   InstallerSha256: 6382773F587583B4E3FE8F184DA302B89B8166096172512F20B6E43D533E88DF
 ManifestType: installer
 ManifestVersion: 1.2.0

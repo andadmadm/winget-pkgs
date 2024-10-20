@@ -14,7 +14,7 @@ Installers:
 - Architecture: x86
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
   InstallerSha256: FB063310FF67E843D216BEAC99646C527C8932F6EF739E4F93CC55D714C5B041
   InstallerSwitches:
     Upgrade: /currentuser
@@ -23,7 +23,7 @@ Installers:
 - Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
   InstallerSha256: FB063310FF67E843D216BEAC99646C527C8932F6EF739E4F93CC55D714C5B041
   InstallerSwitches:
     Upgrade: /allusers
@@ -31,7 +31,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
   InstallerSha256: FB063310FF67E843D216BEAC99646C527C8932F6EF739E4F93CC55D714C5B041
   InstallerSwitches:
     Upgrade: /currentuser
@@ -39,7 +39,7 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-Installer-2022.8.0.exe
   InstallerSha256: FB063310FF67E843D216BEAC99646C527C8932F6EF739E4F93CC55D714C5B041
   InstallerSwitches:
     Upgrade: /allusers

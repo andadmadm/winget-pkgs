@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{6BC40754-759D-4899-9FD3-E6BE1823CACD}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v1.16.5/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v1.16.5/dolt-windows-amd64.msi
   InstallerSha256: D8C1957BB4C16D0086F63B63E3B8904834AAA1188F5CD1C993085F1C31E6ED8E
 ManifestType: installer
 ManifestVersion: 1.5.0

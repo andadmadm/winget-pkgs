@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{D636B4EE-6F10-451E-BF57-C89656780E36}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/JabRef/jabref/releases/download/v5.13/JabRef-5.13.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/JabRef/jabref/releases/download/v5.13/JabRef-5.13.msi
   InstallerSha256: B07D8288F703458C971C9E9C70F8A5D3CDDB463911EB8307D79B710FFA165E90
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -4,7 +4,7 @@
 PackageIdentifier: Concourse.Fly
 PackageVersion: 7.9.1
 Installers:
-- InstallerUrl: https://github.com/concourse/concourse/releases/download/v7.9.1/fly-7.9.1-windows-amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/concourse/concourse/releases/download/v7.9.1/fly-7.9.1-windows-amd64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

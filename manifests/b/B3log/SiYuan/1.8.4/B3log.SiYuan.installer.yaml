@@ -14,7 +14,7 @@ ReleaseDate: 2022-02-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.4-win.exe
   InstallerSha256: 2619B13CFC513E636B43D9C21A5C1461C3318A4C2B815E783DD15447BE9CC8E9
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.4-win.exe
   InstallerSha256: 2619B13CFC513E636B43D9C21A5C1461C3318A4C2B815E783DD15447BE9CC8E9
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.4-win32.exe
   InstallerSha256: 67CF73A4719E82DF9F18DFF3129BD9DFAB0F7014E30EAE647E1851A79238B430
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.8.4/siyuan-1.8.4-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.8.4-win32.exe
   InstallerSha256: 67CF73A4719E82DF9F18DFF3129BD9DFAB0F7014E30EAE647E1851A79238B430
   InstallerSwitches:

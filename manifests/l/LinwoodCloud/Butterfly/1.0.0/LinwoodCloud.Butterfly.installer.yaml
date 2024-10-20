@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/LinwoodCloud/Butterfly/releases/download/v1.0.0/Butterfly-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodCloud/Butterfly/releases/download/v1.0.0/Butterfly-Setup.exe
   InstallerSha256: 3D6A701AC953B58BEB3A833DEAE7C3D64C2A54FDEFD9D68D1DF350B33FFCE00A
 ManifestType: installer
 ManifestVersion: 1.1.0

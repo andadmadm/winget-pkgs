@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
   ProductCode: Mogan_is1
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/XmacsLabs/mogan/releases/download/v1.1.1/Mogan-v1.1.1-64bit-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/XmacsLabs/mogan/releases/download/v1.1.1/Mogan-v1.1.1-64bit-installer.exe
   InstallerSha256: D2AC2FB50A02C0717D431FDCAE2685CFE4B7998B282DE0827BF99D3A8B4E2279
   ProductCode: Mogan_is1
 ManifestType: installer

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kafui.exe
         PortableCommandAlias: kafui
-    InstallerUrl: https://github.com/Benny93/kafui/releases/download/v0.1.31/kafui_windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Benny93/kafui/releases/download/v0.1.31/kafui_windows_i386.zip
     InstallerSha256: 57b315f7976a192c6bfa314f757f7e0efcc9b14306968f29694078d8e1bc5ac9
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kafui.exe
         PortableCommandAlias: kafui
-    InstallerUrl: https://github.com/Benny93/kafui/releases/download/v0.1.31/kafui_windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Benny93/kafui/releases/download/v0.1.31/kafui_windows_x86_64.zip
     InstallerSha256: 63a7a4359f3f4da4a1dd17aa6d853cbca8b390de67c159cafd1c486e8ddbd06a
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kafui.exe
         PortableCommandAlias: kafui
-    InstallerUrl: https://github.com/Benny93/kafui/releases/download/v0.1.31/kafui_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/Benny93/kafui/releases/download/v0.1.31/kafui_windows_arm64.zip
     InstallerSha256: 9f1760c787927b05ff477b5d24886595ebec3d718a7dbf7e798ac334db040955
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

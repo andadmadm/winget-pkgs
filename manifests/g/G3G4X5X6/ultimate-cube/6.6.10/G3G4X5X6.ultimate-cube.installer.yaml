@@ -9,14 +9,14 @@ ReleaseDate: 2022-09-12
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/G3G4X5X6/ultimate-cube/releases/download/v6.6.10/ultimatecube_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/G3G4X5X6/ultimate-cube/releases/download/v6.6.10/ultimatecube_setup.exe
   InstallerSha256: 1EF164F7E655898279C054C600B9835F2F0ED0F63E87AA214B111C901C4CE6B0
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: '{0A28A973-BE2F-46F1-86C9-4C331B91D004}_is1'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/G3G4X5X6/ultimate-cube/releases/download/v6.6.10/ultimatecube_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/G3G4X5X6/ultimate-cube/releases/download/v6.6.10/ultimatecube_setup.exe
   InstallerSha256: 1EF164F7E655898279C054C600B9835F2F0ED0F63E87AA214B111C901C4CE6B0
   InstallerSwitches:
     Custom: /ALLUSERS

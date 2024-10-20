@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/henrypp/memreduct/releases/download/v.3.3.5/memreduct-3.3.5-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/memreduct/releases/download/v.3.3.5/memreduct-3.3.5-setup.exe
   InstallerSha256: 3555B6148F8BF9415C1B0DB8B03C649B530670C7775631D6F26FDA5EEE547F24
   UpgradeBehavior: install
   InstallerSwitches:

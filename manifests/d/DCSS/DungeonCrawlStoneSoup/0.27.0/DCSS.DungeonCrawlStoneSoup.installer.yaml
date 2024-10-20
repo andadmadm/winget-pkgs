@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/crawl/crawl/releases/download/0.27.0/dcss-0.27.0-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crawl/crawl/releases/download/0.27.0/dcss-0.27.0-win32-installer.exe
   InstallerSha256: E9173B11A8D7DE495E73A3D24F716EA77BD41E78A2813FA1DA629BA9F7293114
   InstallerSwitches:
     Custom: /ALLUSERS
@@ -24,7 +24,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/crawl/crawl/releases/download/0.27.0/dcss-0.27.0-win32-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/crawl/crawl/releases/download/0.27.0/dcss-0.27.0-win32-installer.exe
   InstallerSha256: E9173B11A8D7DE495E73A3D24F716EA77BD41E78A2813FA1DA629BA9F7293114
   InstallerSwitches:
     Custom: /CURRENTUSER

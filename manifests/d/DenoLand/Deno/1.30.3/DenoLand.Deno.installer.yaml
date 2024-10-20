@@ -10,14 +10,14 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: ./deno.exe
     PortableCommandAlias: deno
-  InstallerUrl: https://github.com/denoland/deno/releases/download/v1.30.3/deno-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/denoland/deno/releases/download/v1.30.3/deno-x86_64-pc-windows-msvc.zip
   InstallerSha256: 3C3CDC5AFA55CC5654BA6E49A174D11BD1D776CB078D1110B8637D7485DF48F8
 - Architecture: x86
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: ./deno.exe
     PortableCommandAlias: deno
-  InstallerUrl: https://github.com/denoland/deno/releases/download/v1.30.3/deno-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/denoland/deno/releases/download/v1.30.3/deno-x86_64-pc-windows-msvc.zip
   InstallerSha256: 3C3CDC5AFA55CC5654BA6E49A174D11BD1D776CB078D1110B8637D7485DF48F8
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -17,7 +17,7 @@ ProductCode: Lagrange_is1
 ReleaseDate: 2023-12-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/skyjake/lagrange/releases/download/v1.17.5/lagrange_v1.17.5_windows-x64_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/skyjake/lagrange/releases/download/v1.17.5/lagrange_v1.17.5_windows-x64_setup.exe
   InstallerSha256: 6B75B8B9F510722D479942B45CBC3DED61C72EDB880DB7D9DB0E5C17D5BE4E42
 ManifestType: installer
 ManifestVersion: 1.5.0

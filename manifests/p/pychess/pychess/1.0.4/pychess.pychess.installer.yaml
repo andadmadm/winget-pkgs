@@ -4,7 +4,7 @@
 PackageIdentifier: pychess.pychess
 PackageVersion: 1.0.4
 Installers:
-- InstallerUrl: https://github.com/pychess/pychess/releases/download/1.0.4/pychess-1.0.4-mingw_x86_64.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/pychess/pychess/releases/download/1.0.4/pychess-1.0.4-mingw_x86_64.msi
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi

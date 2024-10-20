@@ -14,13 +14,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/4thOffice/loopinupdater/releases/download/v6.18.8-beta.2/Loop-Email-Setup-6.18.8-beta.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4thOffice/loopinupdater/releases/download/v6.18.8-beta.2/Loop-Email-Setup-6.18.8-beta.2.exe
   InstallerSha256: 3B9315308952845DA4F7F8DABBB2121A7DE1C4A1810D65FBDC51889B5EEC5F72
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/4thOffice/loopinupdater/releases/download/v6.18.8-beta.2/Loop-Email-Setup-6.18.8-beta.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4thOffice/loopinupdater/releases/download/v6.18.8-beta.2/Loop-Email-Setup-6.18.8-beta.2.exe
   InstallerSha256: 3B9315308952845DA4F7F8DABBB2121A7DE1C4A1810D65FBDC51889B5EEC5F72
   InstallerSwitches:
     Custom: /ALLUSERS

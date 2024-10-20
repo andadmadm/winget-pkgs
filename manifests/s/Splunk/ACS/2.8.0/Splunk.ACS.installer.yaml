@@ -17,7 +17,7 @@ Commands:
 ReleaseDate: 2022-10-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/splunk/acs-cli/releases/download/v2.8.0/acs_v2.8.0_windows_amd64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/splunk/acs-cli/releases/download/v2.8.0/acs_v2.8.0_windows_amd64_installer.exe
   InstallerSha256: c10c2cce6885bab64235a91f60b70ef488eb538be83f63748eac7b36bded940b
 ManifestType: installer
 ManifestVersion: 1.1.0

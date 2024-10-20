@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/git/releases/download/v2.33.0.vfs.0.0/Git-2.33.0.vfs.0.0-64-bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/git/releases/download/v2.33.0.vfs.0.0/Git-2.33.0.vfs.0.0-64-bit.exe
   InstallerSha256: CE29EE9A793B74EB6971DB1506F9191FC310B3076FD3B2E76E89DC732EBE7920
 ManifestType: installer
 ManifestVersion: 1.1.0

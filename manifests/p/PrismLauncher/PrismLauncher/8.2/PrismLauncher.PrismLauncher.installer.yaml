@@ -12,13 +12,13 @@ UpgradeBehavior: install
 ReleaseDate: 2024-03-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PrismLauncher/PrismLauncher/releases/download/8.2/PrismLauncher-Windows-MSVC-Setup-8.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PrismLauncher/PrismLauncher/releases/download/8.2/PrismLauncher-Windows-MSVC-Setup-8.2.exe
   InstallerSha256: AA3C568C88329C4DD471492C0DB25A6C299B4346562D63E850E3064902D86D69
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 - Architecture: arm64
-  InstallerUrl: https://github.com/PrismLauncher/PrismLauncher/releases/download/8.2/PrismLauncher-Windows-MSVC-arm64-Setup-8.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PrismLauncher/PrismLauncher/releases/download/8.2/PrismLauncher-Windows-MSVC-arm64-Setup-8.2.exe
   InstallerSha256: F403384502A4755A0C5FEC6221F4E07AEFAD585CE13BE28A1D1EC7E8CE4487C2
   Dependencies:
     PackageDependencies:

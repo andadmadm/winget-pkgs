@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/MrDavidRios/remindr_releases/releases/download/v1.6.0/Remindr-Setup-1.6.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MrDavidRios/remindr_releases/releases/download/v1.6.0/Remindr-Setup-1.6.0.exe
   InstallerSha256: 52A93D02CB1862EE99F67D5067814B454F77BE4187696E32262E84407DB122D0
 ManifestType: installer
 ManifestVersion: 1.1.0

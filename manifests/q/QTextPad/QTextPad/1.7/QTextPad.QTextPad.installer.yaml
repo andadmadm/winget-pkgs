@@ -7,7 +7,7 @@ InstallerType: inno
 Scope: machine
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/zrax/qtextpad/releases/download/1.7/qtextpad-win64-1.7.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/zrax/qtextpad/releases/download/1.7/qtextpad-win64-1.7.exe
   InstallerSha256: 0D6EE6861252FB7A027CC06ED203DC8395238551DC82B7DC4B3EF5E39580D86D
 ManifestType: installer
 ManifestVersion: 1.4.0

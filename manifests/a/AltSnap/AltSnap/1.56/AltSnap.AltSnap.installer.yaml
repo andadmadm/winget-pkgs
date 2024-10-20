@@ -15,10 +15,10 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-21
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/RamonUnch/AltSnap/releases/download/1.56/AltSnap1.56-inst.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RamonUnch/AltSnap/releases/download/1.56/AltSnap1.56-inst.exe
   InstallerSha256: 8B32434B064E18E6225A0674E3995400C1BABB1DADE3C301D6A35C7EAE087109
 - Architecture: x64
-  InstallerUrl: https://github.com/RamonUnch/AltSnap/releases/download/1.56/AltSnap1.56-x64-inst.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RamonUnch/AltSnap/releases/download/1.56/AltSnap1.56-x64-inst.exe
   InstallerSha256: C5A99EFDB761037BDAFABAB32B8BCF6E929F4FAABC47A8D9D9FFC095A0C54CD9
 ManifestType: installer
 ManifestVersion: 1.2.0

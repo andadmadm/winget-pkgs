@@ -7,7 +7,7 @@ Installers:
 - Architecture: x64
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/iqfareez/SeriLink/releases/download/0.0.4.0/SeriLinkSetup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iqfareez/SeriLink/releases/download/0.0.4.0/SeriLinkSetup.exe
   InstallerSha256: 42F47B1EE19F18A05617B460D1CD31957BC6537FE39B60AF7418981B2A4B0B6B
   InstallerSwitches:
     Custom: /CURRENTUSER

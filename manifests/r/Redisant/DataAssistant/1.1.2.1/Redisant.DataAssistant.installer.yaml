@@ -12,7 +12,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: DA-1.1.2.1\DA-1.1.2.1.exe
   Scope: user
-  InstallerUrl: https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.1/DA-1.1.2.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.1/DA-1.1.2.1.zip
   InstallerSha256: A93EFE751DAF81B1BA29AB608D95DE0BCE8E0796BB3D58DA4C445069A01B2B58
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -22,7 +22,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: DA-1.1.2.1\DA-1.1.2.1.exe
   Scope: machine
-  InstallerUrl: https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.1/DA-1.1.2.1.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/chenjing1294/data-assistant-release/releases/download/v1.1.2.1/DA-1.1.2.1.zip
   InstallerSha256: A93EFE751DAF81B1BA29AB608D95DE0BCE8E0796BB3D58DA4C445069A01B2B58
   InstallerSwitches:
     Custom: /ALLUSERS

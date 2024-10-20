@@ -11,7 +11,7 @@ InstallerSwitches:
 ReleaseDate: 2022-02-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/alesimula/wsa_pacman/releases/download/v1.3.2/WSA-pacman-v1.3.2-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/alesimula/wsa_pacman/releases/download/v1.3.2/WSA-pacman-v1.3.2-installer.exe
   InstallerSha256: 1E02A1351074BCB5512A62D02D771649E1E9B1077BC0E9F2DD3A67D4F2484D7C
   ProductCode: WSA PacMan_is1
 ManifestType: installer

@@ -10,7 +10,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: SophiApp\SophiApp.exe
-  InstallerUrl: https://github.com/Sophia-Community/SophiApp/releases/download/1.0.95/SophiApp.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Sophia-Community/SophiApp/releases/download/1.0.95/SophiApp.zip
   InstallerSha256: B208E3A1C23F3F5881A163D1ABD01B152480456F486833BD5495EF203C483CA9
 ManifestType: installer
 ManifestVersion: 1.4.0

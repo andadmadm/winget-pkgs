@@ -15,7 +15,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/oven-sh/bun/releases/download/bun-v1.1.3/bun-windows-x64-baseline.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/oven-sh/bun/releases/download/bun-v1.1.3/bun-windows-x64-baseline.zip
   InstallerSha256: 243894DED4B76B37AD55F44E184B4C2AB5FAC1B2AD53284686A2190340C5692F
 ManifestType: installer
 ManifestVersion: 1.6.0

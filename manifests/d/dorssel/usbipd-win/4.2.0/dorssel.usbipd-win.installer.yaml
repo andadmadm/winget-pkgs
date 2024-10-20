@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{EA1D5623-E6A7-4E4A-9259-E3972226646F}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dorssel/usbipd-win/releases/download/v4.2.0/usbipd-win_4.2.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dorssel/usbipd-win/releases/download/v4.2.0/usbipd-win_4.2.0.msi
   InstallerSha256: 871BEC3142F8F8DE260119563ACE320AF785927ADBF99A398C0A5ED8BB4F986E
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -14,7 +14,7 @@ Dependencies:
 ReleaseDate: 2023-10-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/hikari-no-yume/touchHLE/releases/download/v0.2.1/touchHLE_v0.2.1_Windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/hikari-no-yume/touchHLE/releases/download/v0.2.1/touchHLE_v0.2.1_Windows_x86_64.zip
   InstallerSha256: 868B58809BB28096ECC0F35C8192DA0A3BA27E34F47EE0A29698F1A563CDCBB6
 ManifestType: installer
 ManifestVersion: 1.5.0

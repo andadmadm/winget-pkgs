@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2022-03-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/denoland/deno/releases/download/v1.20.2/deno-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/denoland/deno/releases/download/v1.20.2/deno-x86_64-pc-windows-msvc.zip
   InstallerSha256: 4D495556B66B0A6921B842DDB02DB9B347101897032E0608335447F586FD9D16
 ManifestType: installer
 ManifestVersion: 1.5.0

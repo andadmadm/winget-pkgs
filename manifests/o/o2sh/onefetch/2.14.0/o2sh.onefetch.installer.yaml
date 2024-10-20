@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
   ProductCode: '{BB44DE71-B34D-4707-AE9D-5FF3FA632283}_is1'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/o2sh/onefetch/releases/download/2.14.0/onefetch-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/o2sh/onefetch/releases/download/2.14.0/onefetch-setup.exe
   InstallerSha256: 56A0FC12BFC4B9A341A1488100B8F7DD19101BBFEBD0713221F0FAB0C50FB77E
   ProductCode: '{BB44DE71-B34D-4707-AE9D-5FF3FA632283}_is1'
 ManifestType: installer

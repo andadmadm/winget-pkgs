@@ -12,7 +12,7 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.16.17/SchemaCrawler-16.16.17.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.16.17/SchemaCrawler-16.16.17.msi
   InstallerSha256: 433E3CC7DC72C450654DD71DF7045104E27E05A1D2E7EBE231A0A4BB71BE34AF
   ProductCode: '{324E46E1-DE3D-3CA5-972E-B604750C71BF}'
 ManifestType: installer

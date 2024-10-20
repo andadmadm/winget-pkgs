@@ -19,7 +19,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JTechMe/JumpGo-for-Windows/releases/download/v4.4/JGSetup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/JTechMe/JumpGo-for-Windows/releases/download/v4.4/JGSetup.msi
   InstallerSha256: A5431CC3E76A9154CEB862ED84D63538EA3860B88AF3541B98DEC2F39EE0D746
   ProductCode: '{F054283B-825D-4DFA-8F6A-AE36D59706D3}'
 ManifestType: installer

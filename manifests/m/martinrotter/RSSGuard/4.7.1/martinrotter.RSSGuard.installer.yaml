@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2024-05-29
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/martinrotter/rssguard/releases/download/4.7.1/rssguard-4.7.1-ee0537197-win10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/martinrotter/rssguard/releases/download/4.7.1/rssguard-4.7.1-ee0537197-win10.exe
   InstallerSha256: 4DE87C413FFE6B09B05ED9895B591ABE3F08189B4FC144873A9D3CC7CCBEDEE4
 ManifestType: installer
 ManifestVersion: 1.6.0

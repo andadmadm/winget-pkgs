@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-11-08
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/EduMIPS64/edumips64/releases/download/v1.2.9/EduMIPS64-1.2.9.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/EduMIPS64/edumips64/releases/download/v1.2.9/EduMIPS64-1.2.9.msi
   InstallerSha256: EEF8C4CC9DFABC3FC87F3FFCFF31D1C2514F2EB8617E6E814F1676FD36A2C686
   ProductCode: '{B21F68B4-8843-37A4-8484-A33BE46C7FFA}'
 ManifestType: installer

@@ -15,13 +15,13 @@ Dependencies:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/LinwoodDev/Butterfly/releases/download/v2.1.0-rc.1/linwood-butterfly-windows-setup-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodDev/Butterfly/releases/download/v2.1.0-rc.1/linwood-butterfly-windows-setup-x86_64.exe
   InstallerSha256: 8A19F7142D2A69D4E3F60A4AAD315DB51E2D522874E9B30D67F57CFA9B847D56
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/LinwoodDev/Butterfly/releases/download/v2.1.0-rc.1/linwood-butterfly-windows-setup-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinwoodDev/Butterfly/releases/download/v2.1.0-rc.1/linwood-butterfly-windows-setup-x86_64.exe
   InstallerSha256: 8A19F7142D2A69D4E3F60A4AAD315DB51E2D522874E9B30D67F57CFA9B847D56
   InstallerSwitches:
     Custom: /ALLUSERS

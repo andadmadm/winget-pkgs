@@ -16,7 +16,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{F3E1F40A-A791-49B7-9BC6-050975293353}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/containers/podman/releases/download/v5.2.3/podman-5.2.3-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/containers/podman/releases/download/v5.2.3/podman-5.2.3-setup.exe
   InstallerSha256: 4DACE4E20C027073ECFC993CD20DE4DB15D697A641CB254988662C15E47D3D32
   ProductCode: '{A4C50923-15BE-47F9-B786-0136B824A03A}'
 ManifestType: installer

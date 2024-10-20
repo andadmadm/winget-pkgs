@@ -11,7 +11,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{6B6151C0-E3F9-11DE-8A39-0800200C9A66}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/halestudio/hale/releases/download/v5.3.0/HALE-5.3.0-en-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/halestudio/hale/releases/download/v5.3.0/HALE-5.3.0-en-x64.msi
   InstallerSha256: A1C522E35C6416EFEC937E6C92DE49C4E92BBCC4DD8390D1BFB591E462984D56
 ManifestType: installer
 ManifestVersion: 1.6.0

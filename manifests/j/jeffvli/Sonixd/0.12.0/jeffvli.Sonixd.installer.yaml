@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/jeffvli/sonixd/releases/download/v0.12.0/Sonixd-Setup-0.12.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/jeffvli/sonixd/releases/download/v0.12.0/Sonixd-Setup-0.12.0.exe
   InstallerSha256: 2424B1ADFA3CED7F17B5AACCA129B2E210A4593A49A378377606D7A370474377
 ManifestType: installer
 ManifestVersion: 1.1.0

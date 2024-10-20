@@ -17,7 +17,7 @@ Dependencies:
 ReleaseDate: 2024-04-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Syncplay/syncplay/releases/download/v1.7.2/Syncplay-1.7.2-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Syncplay/syncplay/releases/download/v1.7.2/Syncplay-1.7.2-Setup.exe
   InstallerSha256: A6EF04A715EC006093029D05C0758C69B06F0F5DD94B818E1063BB6FAA585867
 ManifestType: installer
 ManifestVersion: 1.6.0

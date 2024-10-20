@@ -17,7 +17,7 @@ FileExtensions:
 ReleaseDate: 2023-04-04
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/moshfeu/y2mp3/releases/download/v2.5.8/y2mp3-Setup-2.5.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/moshfeu/y2mp3/releases/download/v2.5.8/y2mp3-Setup-2.5.8.exe
   InstallerSha256: 7D3F82B9D4732F95A6E5B730CFCA2374F50743B6882FC6DC31D15DCE78F19ED5
 ManifestType: installer
 ManifestVersion: 1.2.0

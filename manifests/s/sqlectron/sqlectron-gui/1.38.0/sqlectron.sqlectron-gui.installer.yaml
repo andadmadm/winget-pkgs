@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sqlectron/sqlectron-gui/releases/download/v1.38.0/sqlectron-Setup-1.38.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sqlectron/sqlectron-gui/releases/download/v1.38.0/sqlectron-Setup-1.38.0.exe
   InstallerSha256: 86DED7390722D36825FEDDAD43DD34129CEEECCABB5C9A0165C5F9FC1E6A58E2
 ManifestType: installer
 ManifestVersion: 1.5.0

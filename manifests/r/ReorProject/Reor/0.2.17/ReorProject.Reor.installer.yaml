@@ -11,7 +11,7 @@ Dependencies:
 ReleaseDate: 2024-07-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/reorproject/reor/releases/download/v0.2.17/Reor_0.2.17.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/reorproject/reor/releases/download/v0.2.17/Reor_0.2.17.exe
   InstallerSha256: 469EBAB3774417F4F5156FADDAEBD4AC92192A4EABE2F7AEEEEC3E9D511E00EF
 ManifestType: installer
 ManifestVersion: 1.6.0

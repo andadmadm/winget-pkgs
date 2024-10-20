@@ -15,13 +15,13 @@ ReleaseDate: 2023-02-05
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/Belphemur/SoundSwitch/releases/download/v6.5.3/SoundSwitch_v6.5.3.0_Release_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Belphemur/SoundSwitch/releases/download/v6.5.3/SoundSwitch_v6.5.3.0_Release_Installer.exe
   InstallerSha256: D76B5DFD60F95D17A69D6078D8BEA8098A52EFEC7F113A775E498B5F67663C23
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/Belphemur/SoundSwitch/releases/download/v6.5.3/SoundSwitch_v6.5.3.0_Release_Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Belphemur/SoundSwitch/releases/download/v6.5.3/SoundSwitch_v6.5.3.0_Release_Installer.exe
   InstallerSha256: D76B5DFD60F95D17A69D6078D8BEA8098A52EFEC7F113A775E498B5F67663C23
   InstallerSwitches:
     Custom: /CLOSEAPPLICATIONS /CURRENTUSER

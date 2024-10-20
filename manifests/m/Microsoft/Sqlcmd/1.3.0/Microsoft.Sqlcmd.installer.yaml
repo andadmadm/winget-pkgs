@@ -14,15 +14,15 @@ UpgradeBehavior: install
 ReleaseDate: 2023-08-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/go-sqlcmd/releases/download/v1.3.0/sqlcmd-x64_1.3.0-1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/go-sqlcmd/releases/download/v1.3.0/sqlcmd-x64_1.3.0-1.msi
   InstallerSha256: 7ecae5c7c20c0cb0e44e1b6e5e3a2c2064a4b6fc2bda07622e33aae6d60fd83e
   ProductCode: '{2BAE0B97-976F-4737-897D-52A9CE49C3A0}'
 - Architecture: arm
-  InstallerUrl: https://github.com/microsoft/go-sqlcmd/releases/download/v1.3.0/sqlcmd-arm_1.3.0-1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/go-sqlcmd/releases/download/v1.3.0/sqlcmd-arm_1.3.0-1.msi
   InstallerSha256: de81d93fef87472ea97e860b0b8b19ed170576e5b5aaa87341fa42a1e7e46abf
   ProductCode: '{2BAE0B97-976F-4737-897D-52A9CE49C3A0}'
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/go-sqlcmd/releases/download/v1.3.0/sqlcmd-arm64_1.3.0-1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/go-sqlcmd/releases/download/v1.3.0/sqlcmd-arm64_1.3.0-1.msi
   InstallerSha256: 6de74606af99665babc975c50aaf8108d6e8438e952e8d5fde1d2c3ecfcb4933
   ProductCode: '{2BAE0B97-976F-4737-897D-52A9CE49C3A0}'
 ManifestType: installer

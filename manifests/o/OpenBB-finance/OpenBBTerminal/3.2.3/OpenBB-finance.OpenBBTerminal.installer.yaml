@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2023-10-04
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OpenBB-finance/OpenBBTerminal/releases/download/v3.2.3/Windows.OpenBB.Terminal.v3.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenBB-finance/OpenBBTerminal/releases/download/v3.2.3/Windows.OpenBB.Terminal.v3.2.3.exe
   InstallerSha256: 0C2835217AB11E986EF3EFECA5922F43E237D39441C430028AC3C35BE655F044
 ManifestType: installer
 ManifestVersion: 1.5.0

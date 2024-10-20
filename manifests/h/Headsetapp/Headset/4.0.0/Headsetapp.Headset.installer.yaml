@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/headsetapp/headset-electron/releases/download/v4.0.0/headset-4.0.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/headsetapp/headset-electron/releases/download/v4.0.0/headset-4.0.0-setup.exe
   InstallerSha256: 1452326C5F903A6BB46E2EF48D3DD8B350BA3BE1356F96339AEF1E3A2295636F
 ManifestType: installer
 ManifestVersion: 1.1.0

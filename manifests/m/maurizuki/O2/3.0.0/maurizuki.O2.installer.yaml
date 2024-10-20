@@ -16,7 +16,7 @@ FileExtensions:
 ProductCode: O2_is1
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/maurizuki/O2/releases/download/v3.0.0/O2-3.0-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maurizuki/O2/releases/download/v3.0.0/O2-3.0-setup.exe
   InstallerSha256: 4203E9AA3697E3A02020D3A6917C8CD9E758D51E4FD9DB611816157C3BDE56D0
 ManifestType: installer
 ManifestVersion: 1.6.0

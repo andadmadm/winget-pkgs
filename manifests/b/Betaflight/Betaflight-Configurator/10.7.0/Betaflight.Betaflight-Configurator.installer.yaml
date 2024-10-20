@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/betaflight/betaflight-configurator/releases/download/10.7.0/betaflight-configurator-installer_10.7.0_win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/betaflight/betaflight-configurator/releases/download/10.7.0/betaflight-configurator-installer_10.7.0_win32.exe
   InstallerSha256: 7A233DCE35FD1166C5DA484BAA0A50C9A4F883C1EF21BBC531844A7F1D626693
 ManifestType: installer
 ManifestVersion: 1.1.0

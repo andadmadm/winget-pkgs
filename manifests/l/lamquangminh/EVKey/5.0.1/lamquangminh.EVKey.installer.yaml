@@ -6,12 +6,12 @@ PackageVersion: 5.0.1
 InstallerType: zip
 NestedInstallerType: portable
 Installers:
-- InstallerUrl: https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip
   Architecture: x86
   NestedInstallerFiles:
   - RelativeFilePath: EVKey32.exe
   InstallerSha256: 9671472133E5561EEFF67AD7237C927D2ACAA779E158C02C97D1504DEEE46734
-- InstallerUrl: https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip
   Architecture: x64
   NestedInstallerFiles:
   - RelativeFilePath: EVKey64.exe

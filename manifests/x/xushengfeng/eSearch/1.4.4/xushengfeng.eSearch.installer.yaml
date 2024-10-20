@@ -6,7 +6,7 @@ PackageVersion: 1.4.4
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/xushengfeng/eSearch/releases/download/1.4.4/eSearch.Setup.1.4.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xushengfeng/eSearch/releases/download/1.4.4/eSearch.Setup.1.4.4.exe
   InstallerSha256: ECA3834423CE0579370FE223EDF11FF133CAE787A1DA6AEFE276ADDBFA73559B
 ManifestType: installer
 ManifestVersion: 1.0.0

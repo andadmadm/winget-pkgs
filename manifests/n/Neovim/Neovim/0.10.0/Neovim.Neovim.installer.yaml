@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
     - UpgradeCode: "{207A1A70-7B0C-418A-A153-CA6883E38F4D}"
 Installers:
     - Architecture: x64
-      InstallerUrl: https://github.com/neovim/neovim/releases/download/v0.10.0/nvim-win64.msi
+      InstallerUrl: https://gitpoxry.com/https://github.com/neovim/neovim/releases/download/v0.10.0/nvim-win64.msi
       InstallerSha256: c75e6d029d4487f389c6c16168be62afc04dc7c277f9b6fb24f48b9a69f1bb61
 ManifestType: installer
 ManifestVersion: 1.6.0

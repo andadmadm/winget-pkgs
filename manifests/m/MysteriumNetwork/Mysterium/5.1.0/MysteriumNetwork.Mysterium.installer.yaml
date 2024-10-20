@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/5.1.0/MysteriumVPN-Setup-5.1.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mysteriumnetwork/mysterium-vpn-desktop/releases/download/5.1.0/MysteriumVPN-Setup-5.1.0.exe
   InstallerSha256: 8053F879340CD6752B2B1EAE4A66DD0104DA9D75B647C3F4BEDAFD443EB91EC6
   UpgradeBehavior: install
 ManifestType: installer

@@ -23,7 +23,7 @@ Dependencies:
 ReleaseDate: 2023-12-07
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/travisgoodspeed/maskromtool/releases/download/v2023-12-07/maskromtool-win-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/travisgoodspeed/maskromtool/releases/download/v2023-12-07/maskromtool-win-x86_64.exe
   InstallerSha256: 139C011F2EDF9CB7F52627BFD17DD1086A4854598D147D5A6DDAB8E5D8FF49A1
 ManifestType: installer
 ManifestVersion: 1.5.0

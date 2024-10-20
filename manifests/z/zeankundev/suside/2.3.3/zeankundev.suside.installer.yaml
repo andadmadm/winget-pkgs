@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/SerialDesignatorN/suside/releases/download/2.3.3.1/Suside_Installer_2.3.3_win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/SerialDesignatorN/suside/releases/download/2.3.3.1/Suside_Installer_2.3.3_win.exe
   InstallerSha256: 16A2A857FF4F67421543A197943DB485A9A93B8B0D28746133F6748AEB010000
 ManifestType: installer
 ManifestVersion: 1.5.0

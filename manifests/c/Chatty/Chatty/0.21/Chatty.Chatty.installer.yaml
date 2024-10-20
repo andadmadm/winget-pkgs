@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-10-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/chatty/chatty/releases/download/v0.21/Chatty_0.21_win_standalone_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/chatty/chatty/releases/download/v0.21/Chatty_0.21_win_standalone_setup.exe
   InstallerSha256: 858798617EA8ACF2FFA63E1C17ABC46FCE0C02A755162B4D2043002B07CFFD10
 ManifestType: installer
 ManifestVersion: 1.2.0

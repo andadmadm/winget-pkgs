@@ -6,7 +6,7 @@ PackageVersion: 2.3.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/coder/coder/releases/download/v2.3.0/coder_2.3.0_windows_amd64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/coder/coder/releases/download/v2.3.0/coder_2.3.0_windows_amd64_installer.exe
   InstallerSha256: E89A461B178580E110089F051654C51319B2812C2FEAFBC45634D11172C3DCCA
 ManifestType: installer
 ManifestVersion: 1.5.0

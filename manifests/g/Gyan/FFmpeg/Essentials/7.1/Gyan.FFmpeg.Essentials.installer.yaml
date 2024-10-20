@@ -16,7 +16,7 @@ UpgradeBehavior: uninstallPrevious
 ReleaseDate: 2024-09-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/GyanD/codexffmpeg/releases/download/7.1/ffmpeg-7.1-essentials_build.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/GyanD/codexffmpeg/releases/download/7.1/ffmpeg-7.1-essentials_build.zip
   InstallerSha256: FA7D4D7E795DB0E2503F49F105F46ED5852386F0CFDD819899BE3B65EBDE24FC
 ManifestType: installer
 ManifestVersion: 1.6.0

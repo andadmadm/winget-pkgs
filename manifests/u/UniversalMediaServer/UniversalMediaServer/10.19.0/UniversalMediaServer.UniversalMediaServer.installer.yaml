@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-31
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/10.19.0/UMS-10.19.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/10.19.0/UMS-10.19.0.exe
   InstallerSha256: B360F1CC4BF62C6A1E2E8D6F636FFB84097B5B4450D2FC628CA1D65F5488574D
 ManifestType: installer
 ManifestVersion: 1.1.0

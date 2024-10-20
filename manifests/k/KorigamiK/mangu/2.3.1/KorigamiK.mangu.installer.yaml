@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/KorigamiK/mangu/releases/download/continuous_releases/ManguReader.Setup.2.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/KorigamiK/mangu/releases/download/continuous_releases/ManguReader.Setup.2.3.1.exe
   InstallerSha256: 82AB2C4DAE933BF8E64238AEDE579CA6F0A83F32B7182D070D07D9E3E4331517
   UpgradeBehavior: install
 ManifestType: installer

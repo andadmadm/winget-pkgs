@@ -7,14 +7,14 @@ Installers:
 - Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v3.10.4/tagspaces-win-3.10.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v3.10.4/tagspaces-win-3.10.4.exe
   InstallerSha256: 6799A513D07ACD105BC396072649F02E198341EB78B937CEE11C336603959DAA
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v3.10.4/tagspaces-win-3.10.4.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v3.10.4/tagspaces-win-3.10.4.exe
   InstallerSha256: 6799A513D07ACD105BC396072649F02E198341EB78B937CEE11C336603959DAA
   InstallerSwitches:
     Custom: /ALLUSERS

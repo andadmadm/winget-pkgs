@@ -33,7 +33,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{08650FE8-1ADA-A7FF-1560-DAF0E3F05F32}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_windows_hotspot_20.0.2_9.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_windows_hotspot_20.0.2_9.msi
   InstallerSha256: 0217BA025C5AC579982A80791D4637E2B4B6AFB14DE522FFF2B818D0203D4CEA
   ProductCode: '{C8714EBD-1DD0-4B8F-9541-B8D9EA9D9871}'
 ManifestType: installer

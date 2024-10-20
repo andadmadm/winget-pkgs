@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/circuitdiagram/circuitdiagram/releases/download/v3.1/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/circuitdiagram/circuitdiagram/releases/download/v3.1/Setup.exe
   InstallerSha256: 3C0A28B14ECB18BF0BF2A926DFD345014EBCF919C7CC157572F38ADBB829A7B2
 ManifestType: installer
 ManifestVersion: 1.1.0

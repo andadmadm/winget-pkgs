@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ReleaseDate: 2018-07-25
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/trazyn/weweChat/releases/download/v1.1.7/wewechat-1.1.7-win-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/trazyn/weweChat/releases/download/v1.1.7/wewechat-1.1.7-win-setup.exe
   InstallerSha256: 95A5A4FE860FF625785392E8AF9D3029221FFBFA13C96EA8B16286CCFC2AFE5D
 ManifestType: installer
 ManifestVersion: 1.5.0

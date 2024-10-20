@@ -8,13 +8,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/mb21/panwriter/releases/download/v0.8.3/PanWriter-Setup-0.8.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mb21/panwriter/releases/download/v0.8.3/PanWriter-Setup-0.8.3.exe
   InstallerSha256: 8B3BF18CB4F5150969D0BABA743CE40C976976E69D1BB0F59C48375ED9617A79
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/mb21/panwriter/releases/download/v0.8.3/PanWriter-Setup-0.8.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mb21/panwriter/releases/download/v0.8.3/PanWriter-Setup-0.8.3.exe
   InstallerSha256: 8B3BF18CB4F5150969D0BABA743CE40C976976E69D1BB0F59C48375ED9617A79
   InstallerSwitches:
     Custom: /ALLUSERS

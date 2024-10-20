@@ -18,11 +18,11 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/prey/prey-node-client/releases/download/v1.11.2/prey-windows-1.11.2-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/prey/prey-node-client/releases/download/v1.11.2/prey-windows-1.11.2-x64.msi
   InstallerSha256: 57C4986C4A46CC2A987A20F268116F9EB191D2203BEBB5FC417FDBA8156AA6C1
   ProductCode: '{1D090082-97C1-4622-8B28-7F4A42690C77}'
 - Architecture: x86
-  InstallerUrl: https://github.com/prey/prey-node-client/releases/download/v1.11.2/prey-windows-1.11.2-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/prey/prey-node-client/releases/download/v1.11.2/prey-windows-1.11.2-x86.msi
   InstallerSha256: E380257D0ABD2532E32C62458C664F552CEF5883585018E5A205AAD4E4D9D5C5
   ProductCode: '{9831F20A-BB55-47F0-85E4-4E9FA4680902}'
 ManifestType: installer

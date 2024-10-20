@@ -8,7 +8,7 @@ InstallerSwitches:
   Silent: /S
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.35.2/PathOfBuildingCommunity-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.35.2/PathOfBuildingCommunity-Setup.exe
   InstallerSha256: F2351147F5EBAD466FEE95182DC2CA182A48359722E2F6D98791024550F11673
 ManifestType: installer
 ManifestVersion: 1.5.0

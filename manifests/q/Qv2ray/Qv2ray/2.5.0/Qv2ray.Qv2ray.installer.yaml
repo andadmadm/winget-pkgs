@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/qv2ray/qv2ray/releases/download/v2.5.0/qv2ray-2.5.0-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/qv2ray/qv2ray/releases/download/v2.5.0/qv2ray-2.5.0-win64.exe
   InstallerSha256: AC405F87CC1021CB558AD54CEF02C511177CAF4921514CC83BEDC4B835B33273
 ManifestType: installer
 ManifestVersion: 1.1.0

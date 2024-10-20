@@ -20,7 +20,7 @@ Dependencies:
 ReleaseDate: 2024-04-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/duckdb/duckdb/releases/download/v0.10.2/duckdb_cli-windows-amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/duckdb/duckdb/releases/download/v0.10.2/duckdb_cli-windows-amd64.zip
   InstallerSha256: D2CAD4404BBCC0F39DBDED02DE623794D8439EEA034B3153C0DA51F04E59520D
 ManifestType: installer
 ManifestVersion: 1.6.0

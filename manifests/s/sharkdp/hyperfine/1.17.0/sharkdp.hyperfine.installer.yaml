@@ -10,7 +10,7 @@ Installers:
 - Architecture: x86
   NestedInstallerFiles:
   - RelativeFilePath: hyperfine-v1.17.0-i686-pc-windows-msvc/hyperfine.exe
-  InstallerUrl: https://github.com/sharkdp/hyperfine/releases/download/v1.17.0/hyperfine-v1.17.0-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sharkdp/hyperfine/releases/download/v1.17.0/hyperfine-v1.17.0-i686-pc-windows-msvc.zip
   InstallerSha256: CEE34495C9077A688F9664A5F5D4E06DBAFF1036D77D19CD7201761C5F7A5AA1
   Dependencies:
     PackageDependencies:
@@ -18,7 +18,7 @@ Installers:
 - Architecture: x64
   NestedInstallerFiles:
   - RelativeFilePath: hyperfine-v1.17.0-x86_64-pc-windows-msvc/hyperfine.exe
-  InstallerUrl: https://github.com/sharkdp/hyperfine/releases/download/v1.17.0/hyperfine-v1.17.0-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/sharkdp/hyperfine/releases/download/v1.17.0/hyperfine-v1.17.0-x86_64-pc-windows-msvc.zip
   InstallerSha256: 496A4EBAD0F461E81AAFD38BEDC339442A1C569C7256AD43CECBFF1617CAFAA4
   Dependencies:
     PackageDependencies:

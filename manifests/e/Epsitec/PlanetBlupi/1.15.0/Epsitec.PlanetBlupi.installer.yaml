@@ -6,7 +6,7 @@ PackageIdentifier: Epsitec.PlanetBlupi
 PackageVersion: 1.15.0
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/blupi-games/planetblupi-dev/releases/download/v1.15.0/planetblupi-1.15.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blupi-games/planetblupi-dev/releases/download/v1.15.0/planetblupi-1.15.0.exe
   InstallerSha256: db31e10588fd864f6bb77c36c34c875b4feab48190170746591601bd0395324f
 ManifestType: installer
 ManifestVersion: 1.5.0

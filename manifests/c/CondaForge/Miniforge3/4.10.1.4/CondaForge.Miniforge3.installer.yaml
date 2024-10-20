@@ -19,7 +19,7 @@ UpgradeBehavior: install
 RequireExplicitUpgrade: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/4.10.1-4/Miniforge3-4.10.1-4-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/4.10.1-4/Miniforge3-4.10.1-4-Windows-x86_64.exe
   InstallerSha256: 3BA29F1A525A27FEC963DEF70FBBD395D78ADB89CAD63B8322A5637447ED6E2B
 ManifestType: installer
 ManifestVersion: 1.2.0

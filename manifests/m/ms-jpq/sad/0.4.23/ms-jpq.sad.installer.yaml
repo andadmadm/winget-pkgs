@@ -4,7 +4,7 @@
 PackageIdentifier: ms-jpq.sad
 PackageVersion: 0.4.23
 Installers:
-- InstallerUrl: https://github.com/ms-jpq/sad/releases/download/v0.4.23/x86_64-pc-windows-msvc.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/ms-jpq/sad/releases/download/v0.4.23/x86_64-pc-windows-msvc.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
   - RelativeFilePath: sad.exe
     PortableCommandAlias: sad
   InstallerSha256: 564CF6104424BA6F6E829981E4B0C6C8AB19CF2352183A9C41634ECF05AC7993
-- InstallerUrl: https://github.com/ms-jpq/sad/releases/download/v0.4.23/aarch64-pc-windows-msvc.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/ms-jpq/sad/releases/download/v0.4.23/aarch64-pc-windows-msvc.zip
   Architecture: arm64
   InstallerType: zip
   NestedInstallerType: portable

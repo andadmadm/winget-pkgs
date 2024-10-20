@@ -15,7 +15,7 @@ ReleaseDate: 2024-09-03
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/24.7.1-0/Miniforge-pypy3-24.7.1-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/24.7.1-0/Miniforge-pypy3-24.7.1-0-Windows-x86_64.exe
   InstallerSha256: AC8F729D1991F4A25B109D3168CF33A51D285AB46FD5090C8D2E7DB1A89C3200
   InstallerSwitches:
     Custom: /InstallationType=JustMe
@@ -24,7 +24,7 @@ Installers:
   RequireExplicitUpgrade: true
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/conda-forge/miniforge/releases/download/24.7.1-0/Miniforge-pypy3-24.7.1-0-Windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/conda-forge/miniforge/releases/download/24.7.1-0/Miniforge-pypy3-24.7.1-0-Windows-x86_64.exe
   InstallerSha256: AC8F729D1991F4A25B109D3168CF33A51D285AB46FD5090C8D2E7DB1A89C3200
   InstallerSwitches:
     Custom: /InstallationType=AllUsers

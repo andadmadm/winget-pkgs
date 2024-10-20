@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2021-08-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/z4yx/GoAuthing/releases/download/v2.2/auth-thu.win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/z4yx/GoAuthing/releases/download/v2.2/auth-thu.win64.exe
   InstallerSha256: 2AF1131DB3D6BDE92693037252999373171385A06268C0871E2FC48043B6BFF7
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2024-04-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/strem-app/strem/releases/download/0.9.x014/Strem-0.9.32.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/strem-app/strem/releases/download/0.9.x014/Strem-0.9.32.zip
   InstallerSha256: 31099C8FE5A8FD0AC84521E79BDEE38C6EAF33EA82589DDA8DBFBAB9715482F0
 ManifestType: installer
 ManifestVersion: 1.5.0

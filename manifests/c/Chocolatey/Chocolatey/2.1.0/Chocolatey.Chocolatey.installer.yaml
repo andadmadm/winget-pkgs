@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x86
   InstallerType: wix
-  InstallerUrl: https://github.com/chocolatey/choco/releases/download/2.1.0/chocolatey-2.1.0.0.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/chocolatey/choco/releases/download/2.1.0/chocolatey-2.1.0.0.msi
   InstallerSha256: 1B044E299F45000E90B9CABCE2FC2A438BCEDA62D5A0BB69981AE4F85E4B8E25
   ProductCode: '{361BDCBA-6F8A-42D1-87E2-2244EC248283}'
 ManifestType: installer

@@ -15,7 +15,7 @@ Installers:
   Architecture: neutral
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v3.3.3/WeakAuras-Companion-Setup-3.3.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v3.3.3/WeakAuras-Companion-Setup-3.3.3.exe
   InstallerSha256: 6C6471908723BBA4F43D9464A847B90466B84F5AABF5C8ABF19DF1B2592653F5
   InstallerSwitches:
     Custom: /NORESTART

@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{6456EC4E-3AD6-4B9B-A2BE-98E81CB21CCF}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/netbirdio/netbird/releases/download/v0.23.5/netbird_installer_0.23.5_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/netbirdio/netbird/releases/download/v0.23.5/netbird_installer_0.23.5_windows_amd64.msi
   InstallerSha256: B84465BAB334B214115FC4AE087D743D96CC5367EDD0E5C8250EECFF8EE10784
 ManifestType: installer
 ManifestVersion: 1.6.0

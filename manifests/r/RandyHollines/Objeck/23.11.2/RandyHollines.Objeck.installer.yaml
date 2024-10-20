@@ -10,7 +10,7 @@ Dependencies:
   PackageDependencies:
     - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
-- InstallerUrl: https://github.com/objeck/objeck-lang/releases/download/v2023.11.2/objeck-windows-x64_v2023.11.2.msi
+- InstallerUrl: https://gitpoxry.com/https://github.com/objeck/objeck-lang/releases/download/v2023.11.2/objeck-windows-x64_v2023.11.2.msi
   Architecture: x64
   InstallerSha256: BE186F1CE57E2029A7E3C9625214A24F905725E29340ED0A8C962692785BB69E
 ManifestType: installer

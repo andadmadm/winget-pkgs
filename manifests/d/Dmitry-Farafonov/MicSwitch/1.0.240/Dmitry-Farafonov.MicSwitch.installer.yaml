@@ -18,7 +18,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/iXab3r/MicSwitch/releases/download/1.0.240/MicSwitchSetup.1.0.240.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/iXab3r/MicSwitch/releases/download/1.0.240/MicSwitchSetup.1.0.240.exe
   InstallerSha256: D76D947CF318A9ECA6E0EECA5E035026EDDF31D415320EB1C0EB6CC8315A8AFD
 ManifestType: installer
 ManifestVersion: 1.2.0

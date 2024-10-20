@@ -13,7 +13,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x86
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bazelbuild/bazelisk/releases/download/v1.21.0/bazelisk-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bazelbuild/bazelisk/releases/download/v1.21.0/bazelisk-windows-amd64.exe
   InstallerSha256: 3DA1895614F460692635F8BAA0CAB6BB35754FC87D9BADBD2B3B2BA55873CF89
 ManifestType: installer
 ManifestVersion: 1.6.0

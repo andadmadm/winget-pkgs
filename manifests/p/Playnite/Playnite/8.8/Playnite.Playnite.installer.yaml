@@ -19,7 +19,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-11-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/JosefNemec/Playnite/releases/download/8.8/Playnite88.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/JosefNemec/Playnite/releases/download/8.8/Playnite88.exe
   InstallerSha256: CF0D8492261535DA585836EF8BB301D78305FF1C2F2F751671A78AB73EB2D8B0
 ManifestType: installer
 ManifestVersion: 1.2.0

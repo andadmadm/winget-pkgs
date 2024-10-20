@@ -11,7 +11,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: onehistory.exe
     PortableCommandAlias: onehistory
-  InstallerUrl: https://github.com/1History/1History/releases/download/v0.3.2/1History_v0.3.2_x86_64-pc-windows-gnu.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/1History/1History/releases/download/v0.3.2/1History_v0.3.2_x86_64-pc-windows-gnu.zip
   InstallerSha256: 456612A75BC567F85ADCE5E6A731A5DB8E0FF239E5941017262CC221ADEAF35A
 ManifestType: installer
 ManifestVersion: 1.4.0

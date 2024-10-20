@@ -4,7 +4,7 @@
 PackageIdentifier: HandBrake.HandBrake.CLI
 PackageVersion: 1.6.1
 Installers:
-- InstallerUrl: https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip
   Architecture: x64
   InstallerType: zip
   NestedInstallerType: portable

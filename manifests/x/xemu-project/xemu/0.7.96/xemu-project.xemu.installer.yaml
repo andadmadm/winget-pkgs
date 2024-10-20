@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2023-06-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mborgerson/xemu/releases/download/v0.7.96/xemu-win-release.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/mborgerson/xemu/releases/download/v0.7.96/xemu-win-release.zip
   InstallerSha256: 24E3FF46CAECF97FED03F333AE429F6B1FC79756754A935061900008B4F26D33
 ManifestType: installer
 ManifestVersion: 1.4.0

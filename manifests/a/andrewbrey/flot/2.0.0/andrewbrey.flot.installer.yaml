@@ -11,7 +11,7 @@ Scope: user
 ReleaseDate: 2022-09-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/andrewbrey/flot/releases/download/v2.0.0/Flot.setup.2.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/andrewbrey/flot/releases/download/v2.0.0/Flot.setup.2.0.0.exe
   InstallerSha256: 3E69C16C082EF69BBDBCD40260E29FF4CA04A876456C41E771DF8EE8C4245DC4
 ManifestType: installer
 ManifestVersion: 1.2.0

@@ -17,7 +17,7 @@ FileExtensions:
 ReleaseDate: 2022-03-17
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/maurizuki/O2/releases/download/v2.2.6/O2-2.2.6-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maurizuki/O2/releases/download/v2.2.6/O2-2.2.6-setup.exe
   InstallerSha256: 87C6F923CDEC7538091A31DCAE33B2280C8BAB185DFF67C9C207CD9C5CC27557
   ProductCode: O2_is1
 ManifestType: installer

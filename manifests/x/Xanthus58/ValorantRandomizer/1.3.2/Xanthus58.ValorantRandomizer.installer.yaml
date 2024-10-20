@@ -8,7 +8,7 @@ InstallerType: inno
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Xanthus58/Valorant-Randomizer/releases/download/1.3.2/INSTALLER_ValorantRandomizer_1.3.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Xanthus58/Valorant-Randomizer/releases/download/1.3.2/INSTALLER_ValorantRandomizer_1.3.2.exe
   InstallerSha256: 43914A6613E8EDE67EB5643B0758184E292C41E7785214D3C41719521BD7134B
 ManifestType: installer
 ManifestVersion: 1.1.0

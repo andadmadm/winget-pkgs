@@ -21,7 +21,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{DB40FA48-1629-11E2-9401-2F676188709B}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/torakiki/pdfsam/releases/download/v5.2.3/pdfsam-5.2.3.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/torakiki/pdfsam/releases/download/v5.2.3/pdfsam-5.2.3.msi
   InstallerSha256: 62E082CC9BD2EAD4A17B88145DE489BA37A410C880C2BE368F17316A2CD37CD2
 ManifestType: installer
 ManifestVersion: 1.6.0

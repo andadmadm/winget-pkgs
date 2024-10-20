@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2023-05-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dundee/gdu/releases/download/v5.24.0/gdu_windows_amd64.exe.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/dundee/gdu/releases/download/v5.24.0/gdu_windows_amd64.exe.zip
   InstallerSha256: CCD49DD1B8D61628DEC6E95B2645176CFF2E0DB6F9C0808796E8BFD909F4C0FA
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -17,7 +17,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-06-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/authpass/authpass/releases/download/v1.9.5/AuthPass-setup-1.9.5_1896.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/authpass/authpass/releases/download/v1.9.5/AuthPass-setup-1.9.5_1896.exe
   InstallerSha256: 46C44513A92332ED764F558FDFE75AF95A1B733D7212551989847DFD5B2766C1
 ManifestType: installer
 ManifestVersion: 1.1.0

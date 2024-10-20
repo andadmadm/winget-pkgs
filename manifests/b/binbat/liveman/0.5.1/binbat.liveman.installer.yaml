@@ -14,7 +14,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: liveman-v0.5.1-i686-pc-windows-msvc/liveman.exe
-  InstallerUrl: https://github.com/binbat/live777/releases/download/v0.5.1/liveman-v0.5.1-i686-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/binbat/live777/releases/download/v0.5.1/liveman-v0.5.1-i686-pc-windows-msvc.zip
   InstallerSha256: 0CD326CBBBB3838113EAA85AC32A5C8613E3A0C493626C04BF6F5AEF15EBFF1C
   Dependencies:
     PackageDependencies:
@@ -23,7 +23,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: liveman-v0.5.1-x86_64-pc-windows-msvc/liveman.exe
-  InstallerUrl: https://github.com/binbat/live777/releases/download/v0.5.1/liveman-v0.5.1-x86_64-pc-windows-msvc.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/binbat/live777/releases/download/v0.5.1/liveman-v0.5.1-x86_64-pc-windows-msvc.zip
   InstallerSha256: 0C2D89BCB35C8635C05281F949C7771CF3B4A00F6AF0276D98966CE319386B38
   Dependencies:
     PackageDependencies:

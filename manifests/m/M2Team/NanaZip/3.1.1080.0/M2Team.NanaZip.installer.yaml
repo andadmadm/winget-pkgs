@@ -69,11 +69,11 @@ PackageFamilyName: 40174MouriNaruto.NanaZip_gnj4mf6z9tkrc
 ReleaseDate: 2024-08-15
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/3.1.1080.0/NanaZip_3.1.1080.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/3.1.1080.0/NanaZip_3.1.1080.0.msixbundle
   InstallerSha256: 4722D3F786C19801F0C71AC34BC94FB1A9515CE484C9A7D76121E84E6BB969D2
   SignatureSha256: 2BFCD3D4FA394ACEE90E93D92066DF925592E97C19CD867C8E1FB296E96F8847
 - Architecture: arm64
-  InstallerUrl: https://github.com/M2Team/NanaZip/releases/download/3.1.1080.0/NanaZip_3.1.1080.0.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/M2Team/NanaZip/releases/download/3.1.1080.0/NanaZip_3.1.1080.0.msixbundle
   InstallerSha256: 4722D3F786C19801F0C71AC34BC94FB1A9515CE484C9A7D76121E84E6BB969D2
   SignatureSha256: 2BFCD3D4FA394ACEE90E93D92066DF925592E97C19CD867C8E1FB296E96F8847
 ManifestType: installer

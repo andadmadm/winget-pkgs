@@ -8,7 +8,7 @@ InstallerType: inno
 ReleaseDate: 2022-04-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFEM-4.11-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFEM-4.11-win64.exe
   InstallerSha256: 5110E72D373BF95B4B87530357FB844A32F5B7CE7DDCC93B4E1DCF96DA6194B9
   ProductCode: FreeFem++-win64-4.11_is1
 ManifestType: installer

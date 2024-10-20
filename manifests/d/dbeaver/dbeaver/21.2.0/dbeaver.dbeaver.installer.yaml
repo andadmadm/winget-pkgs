@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.2.0/dbeaver-ce-21.2.0-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.2.0/dbeaver-ce-21.2.0-x86_64-setup.exe
   InstallerSha256: FEDBF60C954A391DEAFFE1CFB6E6A4A488EDA98EED17F5B3C761C071CDDFB8EE
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -23,7 +23,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/dbeaver/dbeaver/releases/download/21.2.0/dbeaver-ce-21.2.0-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/dbeaver/dbeaver/releases/download/21.2.0/dbeaver-ce-21.2.0-x86_64-setup.exe
   InstallerSha256: FEDBF60C954A391DEAFFE1CFB6E6A4A488EDA98EED17F5B3C761C071CDDFB8EE
   InstallerSwitches:
     Custom: /ALLUSERS

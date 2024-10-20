@@ -8,7 +8,7 @@ NestedInstallerType: nullsoft
 NestedInstallerFiles:
 - RelativeFilePath: GestureSignSetup-8.1.0.0.exe
 Installers:
-- InstallerUrl: https://github.com/TransposonY/GestureSign/releases/download/v8.1/GestureSignSetup-8.1.0.0.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/TransposonY/GestureSign/releases/download/v8.1/GestureSignSetup-8.1.0.0.zip
   Architecture: neutral
   InstallerSha256: C981C6728A01DCA74344049EF7325389C78CD34A327222713C4CBC2ACA39B42B
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: wix
 ReleaseDate: 2023-01-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/LinuxSuRen/http-downloader/releases/download/v0.0.76/hd-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/LinuxSuRen/http-downloader/releases/download/v0.0.76/hd-windows-amd64.msi
   InstallerSha256: BC52DF0D0A161073D94C2E1EFE8A253C96E642D5FEBA753E20EF884D8B71705C
   ProductCode: '{5B65B490-7EE5-4B38-B720-B0EA9BCAF5F5}'
 ManifestType: installer

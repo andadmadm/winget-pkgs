@@ -9,7 +9,7 @@ InstallerSwitches:
   Silent: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/mltframework/shotcut/releases/download/v21.02.27/shotcut-win64-210227.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/mltframework/shotcut/releases/download/v21.02.27/shotcut-win64-210227.exe
   InstallerSha256: AB2EB96BE63E0900315EDA8FE65A3FE6AACFF97075A0CB0507B9D005A0CB36A4
 ManifestType: installer
 ManifestVersion: 1.1.0

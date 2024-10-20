@@ -6,7 +6,7 @@ PackageVersion: 2.20.0
 Installers:
 - Architecture: x64
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/gaphor/gaphor/releases/download/2.20.0/gaphor-2.20.0-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/gaphor/gaphor/releases/download/2.20.0/gaphor-2.20.0-installer.exe
   InstallerSha256: C0830B5EAD95851E1AB9D44C6B0993E0A83F243287C90372278F44BB397552E7
   ProductCode: Gaphor
   AppsAndFeaturesEntries:

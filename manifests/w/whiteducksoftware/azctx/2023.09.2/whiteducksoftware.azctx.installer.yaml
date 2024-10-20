@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: azctx.exe
         PortableCommandAlias: azctx
-    InstallerUrl: https://github.com/whiteducksoftware/azctx/releases/download/2023.09.2/azctx_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/whiteducksoftware/azctx/releases/download/2023.09.2/azctx_windows_amd64.zip
     InstallerSha256: 2d376b62358a3364ce96ec6fb2d4329c69eb65428988b52f9b3b1b22e10c1264
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: azctx.exe
         PortableCommandAlias: azctx
-    InstallerUrl: https://github.com/whiteducksoftware/azctx/releases/download/2023.09.2/azctx_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/whiteducksoftware/azctx/releases/download/2023.09.2/azctx_windows_arm64.zip
     InstallerSha256: 76de90f6273c8d1643fe99b14dbf2b0217dd7b0a6a83aaf770b213365e628dde
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

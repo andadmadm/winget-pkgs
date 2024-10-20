@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/prsh9/KubeCtl-Dashboard/releases/download/v0.10.2/kube-dev-dashboard-0.10.2-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/prsh9/KubeCtl-Dashboard/releases/download/v0.10.2/kube-dev-dashboard-0.10.2-win.exe
   InstallerSha256: 304E188EF1CAF282778564CA57E76114CB0452165FA49619868726E8AFF4D07A
   UpgradeBehavior: install
 ManifestType: installer

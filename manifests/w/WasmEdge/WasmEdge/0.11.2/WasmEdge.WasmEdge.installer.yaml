@@ -10,7 +10,7 @@ Dependencies:
 Installers:
 - Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2/WasmEdge-0.11.2-windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2/WasmEdge-0.11.2-windows.msi
   InstallerSha256: CE706DBF8DE6086BC9EE3D4714C62786C40F6B05F7EA31AF6BA10C60BE96040B
   ProductCode: '{A90B8FDA-6037-41C3-AB01-139012C4B2B6}'
 ManifestType: installer

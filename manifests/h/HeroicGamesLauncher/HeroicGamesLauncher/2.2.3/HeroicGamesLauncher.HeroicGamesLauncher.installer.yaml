@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-03-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.2.3/Heroic-Setup-2.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.2.3/Heroic-Setup-2.2.3.exe
   InstallerSha256: 67E65C6C178E0BBE4231FAE047932BB48EE0F6CCB042790EC3EFDDD66402398B
 ManifestType: installer
 ManifestVersion: 1.1.0

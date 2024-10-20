@@ -11,7 +11,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.40.0-beta.2/Cozy-Drive-Setup-3.40.0-beta.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cozy-labs/cozy-desktop/releases/download/v3.40.0-beta.2/Cozy-Drive-Setup-3.40.0-beta.2.exe
   InstallerSha256: 2F91860D9A202B9B12CE391D4AA958719DC8B9F006E8859EDACB11FF39166FF7
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -13,7 +13,7 @@ UpgradeBehavior: install
 ReleaseDate: 2020-11-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sindresorhus/caprine/releases/download/v2.51.1/Caprine-Setup-2.51.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sindresorhus/caprine/releases/download/v2.51.1/Caprine-Setup-2.51.1.exe
   InstallerSha256: A6781F1EAFEA3D5AE3DF972DB5A8EECC8867D13277E0AF4E733B732AE9FD161E
 ManifestType: installer
 ManifestVersion: 1.2.0

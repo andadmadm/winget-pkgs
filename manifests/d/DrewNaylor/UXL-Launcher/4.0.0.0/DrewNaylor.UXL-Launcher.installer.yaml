@@ -10,7 +10,7 @@ InstallerSwitches:
   Custom: /ALLUSERS
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/DrewNaylor/UXL-Launcher/releases/download/v4.0/UXL-Launcher_v4.0-Stable.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DrewNaylor/UXL-Launcher/releases/download/v4.0/UXL-Launcher_v4.0-Stable.exe
   InstallerSha256: 146D47925B1DBD7F73D413F38906EE1C4E9E011718FA60CF10C89061FF2FA9E4
 ManifestType: installer
 ManifestVersion: 1.1.0

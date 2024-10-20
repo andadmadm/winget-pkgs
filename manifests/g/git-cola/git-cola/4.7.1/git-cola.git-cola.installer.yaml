@@ -15,7 +15,7 @@ Dependencies:
 ReleaseDate: 2024-05-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/git-cola/git-cola/releases/download/v4.7.1/git-cola-4.7.1.windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/git-cola/git-cola/releases/download/v4.7.1/git-cola-4.7.1.windows.zip
   InstallerSha256: C578D289C2710D7290650AA79FFFD161955957E8DCAE00EB893FAF3CB3EBA8E9
 ManifestType: installer
 ManifestVersion: 1.6.0

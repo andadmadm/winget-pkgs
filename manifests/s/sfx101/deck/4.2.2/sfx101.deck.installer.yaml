@@ -7,13 +7,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/deck-app/stable-releases/releases/download/v4.2.2/DECK-4.2.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deck-app/stable-releases/releases/download/v4.2.2/DECK-4.2.2-win-x64.exe
   InstallerSha256: 67428D0C99261DFBDCB4974055AF4679FB2333B2ADB70211D12D8F0498A1855F
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/deck-app/stable-releases/releases/download/v4.2.2/DECK-4.2.2-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/deck-app/stable-releases/releases/download/v4.2.2/DECK-4.2.2-win-x64.exe
   InstallerSha256: 67428D0C99261DFBDCB4974055AF4679FB2333B2ADB70211D12D8F0498A1855F
   InstallerSwitches:
     Custom: /ALLUSERS

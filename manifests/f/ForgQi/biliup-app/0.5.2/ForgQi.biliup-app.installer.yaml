@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{E6B8B2A4-CC25-514C-A72A-6AD2DDEBF0FB}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/biliup/biliup-app/releases/download/app-v0.5.2/biliup-app_0.5.2_x64_en-US.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/biliup/biliup-app/releases/download/app-v0.5.2/biliup-app_0.5.2_x64_en-US.msi
   InstallerSha256: C9C05D2FFCE1361F1B8034F6FA628B36FC08B3BD3740CEC917516713D0E57255
   ProductCode: '{D3849138-C68D-4BF4-A8A7-76C89D469CD6}'
 ManifestType: installer

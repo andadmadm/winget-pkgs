@@ -8,7 +8,7 @@ InstallerType: inno
 Scope: user
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/maximmax42/Discord-CustomRP/releases/download/1.15.1/CustomRP.1.15.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/maximmax42/Discord-CustomRP/releases/download/1.15.1/CustomRP.1.15.1.exe
   InstallerSha256: 035E1B8E6364E2B40ACCAD16275383C8D1AB3FFCF628D6EF0741EE44F6550F5F
 ManifestType: installer
 ManifestVersion: 1.1.0

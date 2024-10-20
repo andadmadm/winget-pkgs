@@ -13,7 +13,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/henrypp/errorlookup/releases/download/v.2.4.1/errorlookup-2.4.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/errorlookup/releases/download/v.2.4.1/errorlookup-2.4.1-setup.exe
   InstallerSha256: D0DF0488101E8F480742775236713F30EBAA4FBB7717F6CC3F7B639940798B44
   UpgradeBehavior: install
 ManifestType: installer

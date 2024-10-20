@@ -16,13 +16,13 @@ UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.exe
   InstallerSha256: BB45E187B4842BFC5D25F838D6267C04CAD6FBBFBD70F61113598FC243D1DB49
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.exe
   InstallerSha256: BB45E187B4842BFC5D25F838D6267C04CAD6FBBFBD70F61113598FC243D1DB49
   InstallerSwitches:
     Custom: /ALLUSERS

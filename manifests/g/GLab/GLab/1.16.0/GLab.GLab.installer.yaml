@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /SILENT /ALLUSERS
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/profclems/glab/releases/download/v1.16.0/glab_1.16.0_Windows_x86_64_installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/profclems/glab/releases/download/v1.16.0/glab_1.16.0_Windows_x86_64_installer.exe
   InstallerSha256: 7591A326074E9F0E035D71D585F5954CAC1EA378EDCB7AE585485AF57F2EE97A
 ManifestType: installer
 ManifestVersion: 1.1.0

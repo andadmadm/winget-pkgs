@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-02-18
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/buddhi1980/mandelbulber2/releases/download/2.27/Mandelbulber2-v2.27.0.0-Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/buddhi1980/mandelbulber2/releases/download/2.27/Mandelbulber2-v2.27.0.0-Setup.exe
   InstallerSha256: 16B9013AE285AD7A180F56F5B572F8575AA4CE7F6904CBF616A6E7C05E48A5CC
 ManifestType: installer
 ManifestVersion: 1.1.0

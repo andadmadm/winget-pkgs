@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: aserto.exe
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/aserto-dev/aserto/releases/download/v0.20.6/aserto_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/aserto-dev/aserto/releases/download/v0.20.6/aserto_windows_x86_64.zip
   InstallerSha256: 70AF3A465902F678EA20A4FAB78D34DD36693BE1E31C2FCDDB2F88538E5BCA2C
 ManifestType: installer
 ManifestVersion: 1.6.0

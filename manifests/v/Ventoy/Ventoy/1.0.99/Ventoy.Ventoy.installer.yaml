@@ -15,7 +15,7 @@ NestedInstallerFiles:
 UpgradeBehavior: uninstallPrevious
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/ventoy/Ventoy/releases/download/v1.0.99/ventoy-1.0.99-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ventoy/Ventoy/releases/download/v1.0.99/ventoy-1.0.99-windows.zip
   InstallerSha256: 578993FCF8D57252BC34536C01DC853A374E60DEF68F60B2826C3DE0826EA00C
 ManifestType: installer
 ManifestVersion: 1.6.0

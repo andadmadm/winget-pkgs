@@ -18,7 +18,7 @@ Commands:
 ReleaseDate: 2022-11-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cli/cli/releases/download/v2.19.0/gh_2.19.0_windows_amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/cli/cli/releases/download/v2.19.0/gh_2.19.0_windows_amd64.msi
   InstallerSha256: A4539FB1B9708A9208C496E3637EA36414450057B25E188A57C377061E018467
   ProductCode: '{3BFB6284-C435-4319-8796-5668D328256D}'
 ManifestType: installer

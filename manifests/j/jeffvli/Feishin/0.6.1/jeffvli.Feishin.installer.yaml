@@ -5,7 +5,7 @@ PackageIdentifier: jeffvli.Feishin
 PackageVersion: 0.6.1
 InstallerType: nullsoft
 Installers:
-- InstallerUrl: https://github.com/jeffvli/feishin/releases/download/v0.6.1/Feishin-0.6.1-win-x64.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/jeffvli/feishin/releases/download/v0.6.1/Feishin-0.6.1-win-x64.exe
   Architecture: x64
   InstallerSha256: 093D284821375A7380FBB1210A6568E7BE316AEC51639BA647246CBCE66D355B
 ManifestType: installer

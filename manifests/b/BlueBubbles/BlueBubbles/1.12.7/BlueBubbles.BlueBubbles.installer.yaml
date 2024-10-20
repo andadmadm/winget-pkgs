@@ -12,13 +12,13 @@ Dependencies:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.12.7+61/bluebubbles-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.12.7+61/bluebubbles-windows.exe
   InstallerSha256: 5EA11C4E0C261C1232B08C20AF5CBDD1F502E5C1D3D646DB2B1A9F8F7DEE1042
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.12.7+61/bluebubbles-windows.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BlueBubblesApp/bluebubbles-app/releases/download/v1.12.7+61/bluebubbles-windows.exe
   InstallerSha256: 5EA11C4E0C261C1232B08C20AF5CBDD1F502E5C1D3D646DB2B1A9F8F7DEE1042
   InstallerSwitches:
     Custom: /ALLUSERS

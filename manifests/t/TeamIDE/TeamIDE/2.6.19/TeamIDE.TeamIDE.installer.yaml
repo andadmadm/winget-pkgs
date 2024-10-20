@@ -11,13 +11,13 @@ ReleaseDate: 2024-04-03
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/team-ide/teamide/releases/download/v2.6.19/TeamIDE-win-2.6.19.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-ide/teamide/releases/download/v2.6.19/TeamIDE-win-2.6.19.exe
   InstallerSha256: B2B3F1EB84E0E53AD66A56B44F1CE282A75A976AB6D21B96ED9A096ECC952280
   InstallerSwitches:
     Custom: /currentuser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/team-ide/teamide/releases/download/v2.6.19/TeamIDE-win-2.6.19.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/team-ide/teamide/releases/download/v2.6.19/TeamIDE-win-2.6.19.exe
   InstallerSha256: B2B3F1EB84E0E53AD66A56B44F1CE282A75A976AB6D21B96ED9A096ECC952280
   InstallerSwitches:
     Custom: /allusers

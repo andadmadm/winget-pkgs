@@ -4,7 +4,7 @@
 PackageIdentifier: Vup.Vup
 PackageVersion: 0.14.2
 Installers:
-- InstallerUrl: https://github.com/vup-app/vup/releases/download/v0.14.2/Vup-0.14.2-BETA-Windows-Installer.exe
+- InstallerUrl: https://gitpoxry.com/https://github.com/vup-app/vup/releases/download/v0.14.2/Vup-0.14.2-BETA-Windows-Installer.exe
   Architecture: x64
   InstallerType: inno
   InstallerSha256: 8fa12003ef7cfec7e2540b64e5259fc7742f41ab03764a6d8367907f9a4f685f

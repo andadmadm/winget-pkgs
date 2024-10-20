@@ -14,13 +14,13 @@ ReleaseDate: 2020-01-02
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/thonny/thonny/releases/download/v3.2.6/thonny-3.2.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thonny/thonny/releases/download/v3.2.6/thonny-3.2.6.exe
   InstallerSha256: C5B5A8D7C865ABD0ABB6A4152E9AF37AE2603E96A3F466EC492D5766E5D018C5
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/thonny/thonny/releases/download/v3.2.6/thonny-3.2.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/thonny/thonny/releases/download/v3.2.6/thonny-3.2.6.exe
   InstallerSha256: C5B5A8D7C865ABD0ABB6A4152E9AF37AE2603E96A3F466EC492D5766E5D018C5
   InstallerSwitches:
     Custom: /ALLUSERS

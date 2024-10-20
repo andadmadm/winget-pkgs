@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-07-31
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/henrypp/simplewall/releases/download/v.3.7.1/simplewall-3.7.1-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/simplewall/releases/download/v.3.7.1/simplewall-3.7.1-setup.exe
   InstallerSha256: 19B842988B5F9680F55C4A4E42DC1BB00B29AE5DB342FB30ACF3735391C2C07F
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -15,7 +15,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{FAD125F6-CB1B-46F7-91EB-429682D927CB}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/objeck/objeck-lang/releases/download/v2024.4.1/objeck-windows-x64_2024.4.1.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/objeck/objeck-lang/releases/download/v2024.4.1/objeck-windows-x64_2024.4.1.msi
   InstallerSha256: 0C69C383E7BDCA05587003FB16999576511339F65F65FAE8D366AC0A55F585E6
 ManifestType: installer
 ManifestVersion: 1.6.0

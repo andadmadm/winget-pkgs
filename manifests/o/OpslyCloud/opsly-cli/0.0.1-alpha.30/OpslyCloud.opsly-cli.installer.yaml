@@ -9,11 +9,11 @@ Commands:
 ReleaseDate: "2024-08-12"
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/Opsly/homebrew-cli/releases/download/v0.0.1-alpha.30/opsly_Windows_x86_64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/Opsly/homebrew-cli/releases/download/v0.0.1-alpha.30/opsly_Windows_x86_64.exe
     InstallerSha256: 329b7ee698ae967c7fd19bc173c5d9485876352678999a60d3363c98894c421f
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
-    InstallerUrl: https://github.com/Opsly/homebrew-cli/releases/download/v0.0.1-alpha.30/opsly_Windows_arm64.exe
+    InstallerUrl: https://gitpoxry.com/https://github.com/Opsly/homebrew-cli/releases/download/v0.0.1-alpha.30/opsly_Windows_arm64.exe
     InstallerSha256: 04648ed7ee7723360ada0aeabcef15e31be805c01c24acb3fbed6b8ccaf9e72c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

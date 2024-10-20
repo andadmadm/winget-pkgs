@@ -9,7 +9,7 @@ Scope: user
 ReleaseDate: 2022-06-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/pavlobu/deskreen/releases/download/v2.0.2/Deskreen.Setup.2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/pavlobu/deskreen/releases/download/v2.0.2/Deskreen.Setup.2.0.2.exe
   InstallerSha256: 5B95A00E8C5A222B1595957E165C6022363E5CE4FCDF055F0E909B492E522B59
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.3.0/OpenLens-6.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.3.0/OpenLens-6.3.0.exe
   InstallerSha256: EF9B045996F9DDA613C61A0DC64CD643972AEE734AFD0B10454C1D25E5D32005
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.3.0/OpenLens-6.3.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.3.0/OpenLens-6.3.0.exe
   InstallerSha256: EF9B045996F9DDA613C61A0DC64CD643972AEE734AFD0B10454C1D25E5D32005
   InstallerSwitches:
     Custom: /ALLUSERS

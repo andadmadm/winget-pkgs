@@ -6,7 +6,7 @@ PackageVersion: 1.6.5
 Installers:
 - Architecture: x64
   InstallerType: exe
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.6.5/Bisq-64bit-1.6.5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.6.5/Bisq-64bit-1.6.5.exe
   InstallerSha256: 3F4166BD45B182357A0C06D922B468A66B1D1B895AEE1B42750BFF7782B0F4D3
   InstallerSwitches:
     Silent: /quiet

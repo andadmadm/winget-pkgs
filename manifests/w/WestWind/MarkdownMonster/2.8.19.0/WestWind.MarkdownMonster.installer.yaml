@@ -24,7 +24,7 @@ ReleaseDate: 2023-04-29
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/v2/v2.8/MarkdownMonsterSetup-2.8.19.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/v2/v2.8/MarkdownMonsterSetup-2.8.19.exe
   InstallerSha256: CBD36826EF90CA463058D28528B80BFDC61264875703AE77A71E79B5DCE10DB3
 ManifestType: installer
 ManifestVersion: 1.6.0

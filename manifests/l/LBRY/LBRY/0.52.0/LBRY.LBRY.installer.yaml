@@ -38,7 +38,7 @@ FileExtensions:
 - xml
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/lbryio/lbry-desktop/releases/download/v0.52.0/LBRY_0.52.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lbryio/lbry-desktop/releases/download/v0.52.0/LBRY_0.52.0.exe
   InstallerSha256: 1BE20A9606E7EC24D75B6EA8E703DF95A6A9C3C2EBEF568BD5E596BF6604D50A
 ManifestType: installer
 ManifestVersion: 1.1.0

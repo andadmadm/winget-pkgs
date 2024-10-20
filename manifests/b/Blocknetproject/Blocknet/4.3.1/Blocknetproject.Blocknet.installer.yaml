@@ -15,7 +15,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/blocknetdx/blocknet/releases/download/v4.3.1/blocknet-4.3.1-win64-setup-unsigned.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/blocknetdx/blocknet/releases/download/v4.3.1/blocknet-4.3.1-win64-setup-unsigned.exe
   InstallerSha256: 7B5F87A7050A861A34AB221F6A95CFD11BFEB1DC75ED8E3624D47F1413E25ADD
 ManifestType: installer
 ManifestVersion: 1.2.0

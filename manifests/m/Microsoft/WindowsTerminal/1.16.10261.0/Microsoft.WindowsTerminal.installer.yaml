@@ -16,13 +16,13 @@ PackageFamilyName: Microsoft.WindowsTerminal_8wekyb3d8bbwe
 ReleaseDate: 2023-01-27
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: BA6FC6854E713094B4009CF2021E8B4887CFF737AB4B9C4F9390462DD2708298
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: BA6FC6854E713094B4009CF2021E8B4887CFF737AB4B9C4F9390462DD2708298
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle
   InstallerSha256: BA6FC6854E713094B4009CF2021E8B4887CFF737AB4B9C4F9390462DD2708298
 ManifestType: installer
 ManifestVersion: 1.4.0

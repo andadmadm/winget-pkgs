@@ -16,7 +16,7 @@ Installers:
 
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.3/OpenLens-6.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.3/OpenLens-6.2.3.exe
   InstallerSha256: AEFBAE2D45E77E22190C42E35CDD497B4A32B4CA05013F260BCC593B62457C75
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -24,7 +24,7 @@ Installers:
 
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.3/OpenLens-6.2.3.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.2.3/OpenLens-6.2.3.exe
   InstallerSha256: AEFBAE2D45E77E22190C42E35CDD497B4A32B4CA05013F260BCC593B62457C75
   InstallerSwitches:
     Custom: /ALLUSERS

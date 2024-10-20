@@ -6,7 +6,7 @@ PackageVersion: "2.26"
 InstallerType: inno
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Skrepysh/mineSquid/releases/download/v2.26/mineSquid_v2.26_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Skrepysh/mineSquid/releases/download/v2.26/mineSquid_v2.26_setup.exe
   InstallerSha256: E818BD5FAEDC353B55D6D36ACBAE3D2FB07EF5DAEE5BC2D5DF747AE8F95A0E7A
 ManifestType: installer
 ManifestVersion: 1.5.0

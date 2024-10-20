@@ -10,7 +10,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dynobo/normcap/releases/download/v0.3.10/NormCap-0.3.10-x86_64-Windows.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dynobo/normcap/releases/download/v0.3.10/NormCap-0.3.10-x86_64-Windows.msi
   InstallerSha256: 1E9021603E546CA4193CB2335AB026EA3F42CF4C56800105D4765EFD064D1F6D
   ProductCode: '{E1C72B05-E703-4615-B8AA-5F369C071E03}'
 ManifestType: installer

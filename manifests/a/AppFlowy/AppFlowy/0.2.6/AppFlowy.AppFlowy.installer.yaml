@@ -6,7 +6,7 @@ PackageVersion: 0.2.6
 Installers:
 - Architecture: x86
   InstallerType: inno
-  InstallerUrl: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.2.6/AppFlowy_0.2.6_windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.2.6/AppFlowy_0.2.6_windows-x86_64.exe
   InstallerSha256: FFC2AB76FB12C4E673FCC3EF42ED0A6B4F70D62FFDE1C5E7450712E839A249C9
 ManifestType: installer
 ManifestVersion: 1.4.0

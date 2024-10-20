@@ -14,7 +14,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/DeFiCh/app/releases/download/v2.5.2/DeFi-Wallet-Setup-2.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DeFiCh/app/releases/download/v2.5.2/DeFi-Wallet-Setup-2.5.2.exe
   InstallerSha256: 7DD64FCB89DF08A0AF9D51F7BFC11260CB03C9A267B5BBF8A135E0AA8DA58A05
   InstallerSwitches:
     Custom: /CURRENTUSER
@@ -25,7 +25,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/DeFiCh/app/releases/download/v2.5.2/DeFi-Wallet-Setup-2.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DeFiCh/app/releases/download/v2.5.2/DeFi-Wallet-Setup-2.5.2.exe
   InstallerSha256: 7DD64FCB89DF08A0AF9D51F7BFC11260CB03C9A267B5BBF8A135E0AA8DA58A05
   InstallerSwitches:
     Custom: /ALLUSERS

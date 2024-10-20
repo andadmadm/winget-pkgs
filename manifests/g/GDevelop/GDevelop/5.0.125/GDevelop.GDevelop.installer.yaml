@@ -15,7 +15,7 @@ FileExtensions:
 - json
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/4ian/GDevelop/releases/download/v5.0.125/GDevelop-5-Setup-5.0.125.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/4ian/GDevelop/releases/download/v5.0.125/GDevelop-5-Setup-5.0.125.exe
   InstallerSha256: 157C53B123D70F7900B21A97D64BA5664ABBD00220F0E28A75B1F4C4851C5BEE
 ManifestType: installer
 ManifestVersion: 1.1.0

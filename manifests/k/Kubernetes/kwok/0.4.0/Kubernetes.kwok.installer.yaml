@@ -9,10 +9,10 @@ Commands:
 ReleaseDate: 2023-08-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kubernetes-sigs/kwok/releases/download/v0.4.0/kwok-windows-amd64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes-sigs/kwok/releases/download/v0.4.0/kwok-windows-amd64.exe
   InstallerSha256: 19276C13F5607F6BB08A666D00E827CEC2C4162713E6D762705E3AE905F6B02B
 - Architecture: arm64
-  InstallerUrl: https://github.com/kubernetes-sigs/kwok/releases/download/v0.4.0/kwok-windows-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes-sigs/kwok/releases/download/v0.4.0/kwok-windows-arm64.exe
   InstallerSha256: 11DED7B714A68A4A44439C066AF2A08DC2ACFF75743394E699115787C107FFAB
 ManifestType: installer
 ManifestVersion: 1.5.0

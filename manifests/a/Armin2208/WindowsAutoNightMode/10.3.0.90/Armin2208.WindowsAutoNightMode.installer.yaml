@@ -16,13 +16,13 @@ ReleaseDate: 2022-11-02
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe
   InstallerSha256: FD164BB994FFB23682B19354994EF5069BF9D5261C4347B6267BA91289BCD9B3
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe
   InstallerSha256: FD164BB994FFB23682B19354994EF5069BF9D5261C4347B6267BA91289BCD9B3
   InstallerSwitches:
     Custom: /ALLUSERS

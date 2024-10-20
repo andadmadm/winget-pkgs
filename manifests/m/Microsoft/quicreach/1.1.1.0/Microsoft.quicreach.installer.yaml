@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/microsoft/quicreach/releases/download/v1.1.0/quicreach.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/quicreach/releases/download/v1.1.0/quicreach.msi
   InstallerSha256: 79D7F141B98A3C1C324F81AB8B74D33F111EFF83AD062F5A5148CD5DE85AD15E
   ProductCode: '{9D13B819-85AA-4BE3-BAAC-13A9CA84DF34}'
 Dependencies:

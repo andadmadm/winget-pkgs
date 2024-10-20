@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/purocean/yn/releases/download/v3.36.0/Yank-Note-win-x64-3.36.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/purocean/yn/releases/download/v3.36.0/Yank-Note-win-x64-3.36.0.exe
   InstallerSha256: 50860C7236CF450736A7C0775763E74DA78CBC2801E5F2E93D2033F863E849D2
 ManifestType: installer
 ManifestVersion: 1.2.0

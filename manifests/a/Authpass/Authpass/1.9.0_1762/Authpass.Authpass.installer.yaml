@@ -13,7 +13,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/authpass/authpass/releases/download/v1.9.0/AuthPass-setup-1.9.0_1762.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/authpass/authpass/releases/download/v1.9.0/AuthPass-setup-1.9.0_1762.exe
   InstallerSha256: 879AAF1B096B136C5684A33EFDA4B0EF1A47239C214DB7D528D8E8AB4E80DEAA
   UpgradeBehavior: install
 ManifestType: installer

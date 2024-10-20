@@ -18,7 +18,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{08BAF346-F99A-505E-99DF-4EC2D88F0CEF}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Levminer/authme/releases/download/5.1.0/authme-5.1.0-windows-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Levminer/authme/releases/download/5.1.0/authme-5.1.0-windows-x64.msi
   InstallerSha256: 30D95C67C85558AD520D1F28C6A4145930E43B098C3368FF6F8734BA7CC1A930
 ManifestType: installer
 ManifestVersion: 1.6.0

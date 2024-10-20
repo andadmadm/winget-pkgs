@@ -16,7 +16,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/goatcorp/FFXIVQuickLauncher/releases/download/6.2.34/Setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/goatcorp/FFXIVQuickLauncher/releases/download/6.2.34/Setup.exe
   InstallerSha256: 80C91D9CB37EE33AAD127096F17BF0F6314AC159352E2A114E35F41B4FD8BC06
 ManifestType: installer
 ManifestVersion: 1.1.0

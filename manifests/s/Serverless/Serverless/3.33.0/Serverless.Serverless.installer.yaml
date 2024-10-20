@@ -9,7 +9,7 @@ Commands:
 ReleaseDate: 2023-06-26
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/serverless/serverless/releases/download/v3.33.0/serverless-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/serverless/serverless/releases/download/v3.33.0/serverless-win-x64.exe
   InstallerSha256: 8B53D9E62F808E6FEF985A7F6D30FF4C572978BA5A7C881EE865537BDE616399
 ManifestType: installer
 ManifestVersion: 1.4.0

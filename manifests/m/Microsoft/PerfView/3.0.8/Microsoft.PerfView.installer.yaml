@@ -8,10 +8,10 @@ Commands:
 - perfview
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/perfview/releases/download/v3.0.8/PerfView.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/perfview/releases/download/v3.0.8/PerfView.exe
   InstallerSha256: 899F5F39B3039DECB8689269B2D0D7EB1AE3FCC5D74DAB236AE50B937F31D8AB
 - Architecture: x86
-  InstallerUrl: https://github.com/microsoft/perfview/releases/download/v3.0.8/PerfView.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/perfview/releases/download/v3.0.8/PerfView.exe
   InstallerSha256: 899F5F39B3039DECB8689269B2D0D7EB1AE3FCC5D74DAB236AE50B937F31D8AB
 ManifestType: installer
 ManifestVersion: 1.4.0

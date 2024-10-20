@@ -10,7 +10,7 @@ InstallerType: portable
 ReleaseDate: 2023-01-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/RandomEngy/VidCoder/releases/download/v8.16-beta/VidCoder-8.16-Beta.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/RandomEngy/VidCoder/releases/download/v8.16-beta/VidCoder-8.16-Beta.exe
   InstallerSha256: BA4A9133A3C98CEBE2A04F7D2D861629DD0ECA72CB3F10BDE570AC4F7046C333
 ManifestType: installer
 ManifestVersion: 1.2.0

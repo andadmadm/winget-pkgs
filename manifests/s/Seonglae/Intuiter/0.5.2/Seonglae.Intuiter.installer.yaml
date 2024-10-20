@@ -7,7 +7,7 @@ MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/seonglae/intuiter/releases/download/0.5.2/Intuiter.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/seonglae/intuiter/releases/download/0.5.2/Intuiter.exe
   InstallerSha256: 2E516B1C584CB3676E711F87D621FE7DEC690F2A257ACB3E74F2703697E7D07C
 ManifestType: installer
 ManifestVersion: 1.1.0

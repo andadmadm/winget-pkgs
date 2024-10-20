@@ -13,13 +13,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v4.2.1/tagspaces-win-x64-4.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v4.2.1/tagspaces-win-x64-4.2.1.exe
   InstallerSha256: 5FE3371D02A9AEE9754EA07780910E846724776B77756A3404A8AAEC05CED10A
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/tagspaces/tagspaces/releases/download/v4.2.1/tagspaces-win-x64-4.2.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/tagspaces/tagspaces/releases/download/v4.2.1/tagspaces-win-x64-4.2.1.exe
   InstallerSha256: 5FE3371D02A9AEE9754EA07780910E846724776B77756A3404A8AAEC05CED10A
   InstallerSwitches:
     Custom: /ALLUSERS

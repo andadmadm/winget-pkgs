@@ -11,7 +11,7 @@ Scope: machine
 ProductCode: '{1B057999-9DA4-4210-BB49-500E67E70FFD}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Neverous/efibooteditor/releases/download/v1.3.2/EFIBootEditor-v1.3.2-windows-2022-qt-6.6.1-MSVC.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Neverous/efibooteditor/releases/download/v1.3.2/EFIBootEditor-v1.3.2-windows-2022-qt-6.6.1-MSVC.msi
   InstallerSha256: EDF9741CFD5F5135C8FF3228AFFB702449E44302F15836B563782314A523BED8
 ManifestType: installer
 ManifestVersion: 1.5.0

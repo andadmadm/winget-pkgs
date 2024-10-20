@@ -11,7 +11,7 @@ Dependencies:
   WindowsFeatures:
     - netfx3 
 Installers:
-- InstallerUrl: https://github.com/piratesephiroth/TeconmoonWiiVCInjector/releases/download/v3.0.17/TeconMoon.s.WiiVC.Injector.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/piratesephiroth/TeconmoonWiiVCInjector/releases/download/v3.0.17/TeconMoon.s.WiiVC.Injector.zip
   Architecture: neutral
   InstallerSha256: E8006615F3AC8D4ECCA722CBB24AA57A04924CB5590836DD70290D7BF165CB33
 ManifestType: installer

@@ -12,7 +12,7 @@ Commands:
 - proxinjector-cli
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PragmaTwice/proxinject/releases/download/v0.4.1-pre/proxinjectSetup-v0.4.1-pre-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PragmaTwice/proxinject/releases/download/v0.4.1-pre/proxinjectSetup-v0.4.1-pre-x64.exe
   InstallerSha256: EDF39AF333AB88AD83B8B83B304E82F14859EF65C83C1F5637B30D02761DE2F9
 ManifestType: installer
 ManifestVersion: 1.1.0

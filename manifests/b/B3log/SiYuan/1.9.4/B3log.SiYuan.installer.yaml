@@ -14,7 +14,7 @@ ReleaseDate: 2022-03-24
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.4-win.exe
   InstallerSha256: 37D3BC448EC2FD4A7C488A233D4F0AFB5A39F91AE431E55014E7FEF258560850
   InstallerSwitches:
@@ -22,7 +22,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.4-win.exe
   InstallerSha256: 37D3BC448EC2FD4A7C488A233D4F0AFB5A39F91AE431E55014E7FEF258560850
   InstallerSwitches:
@@ -30,7 +30,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: user
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.4-win32.exe
   InstallerSha256: 22649029C62083ADC9EC926655318DC854FB3F1022A0CAA93ABE0BF3F1FC1AED
   InstallerSwitches:
@@ -38,7 +38,7 @@ Installers:
   ProductCode: c1e77cb7-68e1-5adb-ab29-ecf7379a9944
 - Architecture: x86
   Scope: machine
-  InstallerUrl: https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/siyuan-note/siyuan/releases/download/v1.9.4/siyuan-1.9.4-win32.exe
   # InstallerUrl: https://release.b3log.org/siyuan/siyuan-1.9.4-win32.exe
   InstallerSha256: 22649029C62083ADC9EC926655318DC854FB3F1022A0CAA93ABE0BF3F1FC1AED
   InstallerSwitches:

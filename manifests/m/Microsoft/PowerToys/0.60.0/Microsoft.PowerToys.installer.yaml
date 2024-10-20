@@ -14,10 +14,10 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.60.0/PowerToysSetup-0.60.0-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.60.0/PowerToysSetup-0.60.0-x64.exe
   InstallerSha256: 030A4F7C6D81B09C7B8C8D75FC9FDA8DA98BFB3E0AC03C555035FF66FE9F71C2
 - Architecture: arm64
-  InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.60.0/PowerToysSetup-0.60.0-arm64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/microsoft/PowerToys/releases/download/v0.60.0/PowerToysSetup-0.60.0-arm64.exe
   InstallerSha256: AEB644A76626CBD627455D30A9ABA0440A231CA0F82436A72D6299DA3CF49838
 ManifestType: installer
 ManifestVersion: 1.2.0

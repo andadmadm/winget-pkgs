@@ -12,7 +12,7 @@ Dependencies:
     - netfx3 
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/Timocop/BasicPawn/releases/download/v0.855-beta/BasicPawn.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/Timocop/BasicPawn/releases/download/v0.855-beta/BasicPawn.zip
   InstallerSha256: 56A0C3B9C3FDE924AA29B96BD423EEC7FCE846A5F22E50A26227E02B5600B74F
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -4,7 +4,7 @@
 PackageIdentifier: BleuBleu.FamiStudio
 PackageVersion: 4.0.6
 Installers:
-- InstallerUrl: https://github.com/BleuBleu/FamiStudio/releases/download/4.0.6/FamiStudio406-WinInstaller.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/BleuBleu/FamiStudio/releases/download/4.0.6/FamiStudio406-WinInstaller.zip
   InstallerLocale: en-US
   Architecture: x64
   InstallerType: zip

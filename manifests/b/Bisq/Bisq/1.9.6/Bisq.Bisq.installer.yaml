@@ -23,7 +23,7 @@ AppsAndFeaturesEntries:
   ProductCode: '{9BC5C883-B039-3702-89EC-10885DC89194}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bisq-network/bisq/releases/download/v1.9.6/Bisq-64bit-1.9.6.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/bisq-network/bisq/releases/download/v1.9.6/Bisq-64bit-1.9.6.exe
   InstallerSha256: 1F4B895CFBAE4A358A95C686258D231ED07AC06C5DAF479755B9A369255C3BA1
   ProductCode: '{9BC5C883-B039-3702-89EC-10885DC89194}'
 ManifestType: installer

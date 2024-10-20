@@ -10,7 +10,7 @@ Installers:
   NestedInstallerType: portable
   NestedInstallerFiles:
   - RelativeFilePath: chrome-win\chrome.exe
-  InstallerUrl: https://github.com/uazo/cromite/releases/download/v128.0.6613.120-c609027f1a1a0961bb668668edd866e741579109/chrome-win.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/uazo/cromite/releases/download/v128.0.6613.120-c609027f1a1a0961bb668668edd866e741579109/chrome-win.zip
   InstallerSha256: 9BA2B2EB30100D8404A3B83EBD1C57AA40BC861F7296D85EE2F265883F90700A
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{71283934-D80D-43BC-8EC7-0D7A4D0FB23E}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bell-sw/LibericaNIK/releases/download/22.3.5+1-11.0.22+12/bellsoft-liberica-vm-openjdk11.0.22+12-22.3.5+1-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/bell-sw/LibericaNIK/releases/download/22.3.5+1-11.0.22+12/bellsoft-liberica-vm-openjdk11.0.22+12-22.3.5+1-windows-amd64.msi
   InstallerSha256: 0729271C5AF064C2957F5A50BD29399D93FD8DA8D85CF55F36B5E52B5B58D3CF
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -10,7 +10,7 @@ Commands:
 ReleaseDate: 2024-07-17
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/apecloud/kbcli/releases/download/v0.9.0/kbcli.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/apecloud/kbcli/releases/download/v0.9.0/kbcli.exe
   InstallerSha256: 3B3310CC928F2BD20EF438A6E77ECEBB9EFB581A31DA3A16C865FE9DF9A0E6DC
 ManifestType: installer
 ManifestVersion: 1.5.0

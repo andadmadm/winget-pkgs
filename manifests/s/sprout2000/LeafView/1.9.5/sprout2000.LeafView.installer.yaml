@@ -12,13 +12,13 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.9.5/LeafView-1.9.5-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.9.5/LeafView-1.9.5-win32-x64-installer.exe
   InstallerSha256: 99D399BDAA54273A0E2C0FE6C2A139954C132085A51EFC6185847A121A29BEAC
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/sprout2000/leafview/releases/download/v1.9.5/LeafView-1.9.5-win32-x64-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sprout2000/leafview/releases/download/v1.9.5/LeafView-1.9.5-win32-x64-installer.exe
   InstallerSha256: 99D399BDAA54273A0E2C0FE6C2A139954C132085A51EFC6185847A121A29BEAC
   InstallerSwitches:
     Custom: /ALLUSERS

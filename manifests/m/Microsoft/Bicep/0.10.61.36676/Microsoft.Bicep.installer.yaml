@@ -14,7 +14,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-09-13
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-setup-win-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-setup-win-x64.exe
   InstallerSha256: 549575D5643CD4D1FE58C2D38D76E7A25A7888066450BB0FBF7CA7AFD3DAE9ED
 ManifestType: installer
 ManifestVersion: 1.2.0

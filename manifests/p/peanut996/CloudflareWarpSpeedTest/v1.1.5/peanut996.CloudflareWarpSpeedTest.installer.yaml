@@ -9,7 +9,7 @@ NestedInstallerFiles:
 - RelativeFilePath: CloudflareWarpSpeedTest.exe
   PortableCommandAlias: CloudflareWarpSpeedTest
 Installers:
-- InstallerUrl: https://github.com/peanut996/CloudflareWarpSpeedTest/releases/download/v1.1.5/CloudflareWarpSpeedTest-v1.1.5-windows-amd64.zip
+- InstallerUrl: https://gitpoxry.com/https://github.com/peanut996/CloudflareWarpSpeedTest/releases/download/v1.1.5/CloudflareWarpSpeedTest-v1.1.5-windows-amd64.zip
   Architecture: x64
   InstallerSha256: F209136E34F95A8369D72A71B0E332C6A438B7FAB835AB672328C0A0855E4065
 ManifestType: installer

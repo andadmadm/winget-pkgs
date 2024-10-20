@@ -6,14 +6,14 @@ PackageVersion: 2.1.1
 Installers:
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/lite-xl/lite-xl/releases/download/v2.1.1/LiteXL-v2.1.1-addons-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lite-xl/lite-xl/releases/download/v2.1.1/LiteXL-v2.1.1-addons-x86_64-setup.exe
   InstallerSha256: 74924557F314257CD249208908520582288A4CC9EEB75D01484B136D9DBAC51F
   Scope: user
   InstallerSwitches: 
     Custom: /CURRENTUSER
 - Architecture: x64
   InstallerType: inno
-  InstallerUrl: https://github.com/lite-xl/lite-xl/releases/download/v2.1.1/LiteXL-v2.1.1-addons-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/lite-xl/lite-xl/releases/download/v2.1.1/LiteXL-v2.1.1-addons-x86_64-setup.exe
   InstallerSha256: 74924557F314257CD249208908520582288A4CC9EEB75D01484B136D9DBAC51F
   Scope: machine
   InstallerSwitches: 

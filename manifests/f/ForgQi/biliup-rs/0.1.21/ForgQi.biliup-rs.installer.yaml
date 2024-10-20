@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: biliupR-v0.1.21-x86_64-windows\biliup.exe
     PortableCommandAlias: biliup
-  InstallerUrl: https://github.com/biliup/biliup-rs/releases/download/v0.1.21/biliupR-v0.1.21-x86_64-windows.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/biliup/biliup-rs/releases/download/v0.1.21/biliupR-v0.1.21-x86_64-windows.zip
   InstallerSha256: E80379527166910B694A558FFEBED4E398302C8B7E59880BC963BCDBB0944167
 ManifestType: installer
 ManifestVersion: 1.6.0

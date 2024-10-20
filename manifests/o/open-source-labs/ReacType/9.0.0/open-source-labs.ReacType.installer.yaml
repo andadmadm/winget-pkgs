@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/open-source-labs/ReacType/releases/download/9.0.0/ReacType.9.0.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/open-source-labs/ReacType/releases/download/9.0.0/ReacType.9.0.0.exe
   InstallerSha256: 5475E08884DBBF941911398C532C116F90CF45755973B0C979DE1B90C0EFD3F6
 ManifestType: installer
 ManifestVersion: 1.1.0

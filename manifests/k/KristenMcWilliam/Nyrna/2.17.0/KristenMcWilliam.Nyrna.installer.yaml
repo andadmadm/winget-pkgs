@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-08-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Merrit/nyrna/releases/download/v2.17.0/Nyrna-Windows-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Merrit/nyrna/releases/download/v2.17.0/Nyrna-Windows-Installer.exe
   InstallerSha256: BFA50FE55285197030E8F482AC1E90C66EEDC13AC71E0BF40CCDF71BD2012D5E
   Dependencies:
     PackageDependencies:

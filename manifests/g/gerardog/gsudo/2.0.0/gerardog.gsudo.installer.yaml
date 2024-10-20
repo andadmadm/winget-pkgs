@@ -16,11 +16,11 @@ Commands:
 ReleaseDate: 2022-11-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.0.0/gsudoSetup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.0.0/gsudoSetup.msi
   InstallerSha256: 651BFDDC43EABA19C9EBA51077C55F245F9D37A755C87A066E51A86281A548A5
   ProductCode: '{4C592F02-C72E-4AA0-8BBE-6B30220801F1}'
 - Architecture: x86
-  InstallerUrl: https://github.com/gerardog/gsudo/releases/download/v2.0.0/gsudoSetup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gerardog/gsudo/releases/download/v2.0.0/gsudoSetup.msi
   InstallerSha256: 651BFDDC43EABA19C9EBA51077C55F245F9D37A755C87A066E51A86281A548A5
   ProductCode: '{4C592F02-C72E-4AA0-8BBE-6B30220801F1}'
 ManifestType: installer

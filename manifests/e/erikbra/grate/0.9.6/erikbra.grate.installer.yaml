@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/erikbra/grate/releases/download/0.9.6/grate-0.9.6.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/erikbra/grate/releases/download/0.9.6/grate-0.9.6.msi
   InstallerSha256: 88FF79BB613AF142928A1FFA16B9044B50DACB704F38F194B511581765603727
   ProductCode: '{E281998A-D8A2-4926-AAA3-066EFA4B2E74}'
 ManifestType: installer

@@ -9,7 +9,7 @@ Scope: machine
 ReleaseDate: 2022-02-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/PurpleI2P/i2pd/releases/download/2.41.0/setup_i2pd_v2.41.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/PurpleI2P/i2pd/releases/download/2.41.0/setup_i2pd_v2.41.0.exe
   InstallerSha256: DC3812A078D4DC591138E5533540A3F248C5D56F12F188FAF375E979FF07514B
 ManifestType: installer
 ManifestVersion: 1.1.0

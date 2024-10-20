@@ -15,7 +15,7 @@ Commands:
 ReleaseDate: 2023-07-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/VirusTotal/vt-cli/releases/download/0.14.0/Windows64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/VirusTotal/vt-cli/releases/download/0.14.0/Windows64.zip
   InstallerSha256: B8E493EE226F832A48B688D63DF8EAD00EAC9AA11266F97D5F8FCD67DB44EFAD
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-11-13
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/Electron-Cash/Electron-Cash/releases/download/4.2.12/Electron-Cash-4.2.12-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/Electron-Cash/Electron-Cash/releases/download/4.2.12/Electron-Cash-4.2.12-setup.exe
   InstallerSha256: 6ABC345BFBD796140EB0FE694BAB47A1D34101B17478F558D9DAEA81CD525FC8
 ManifestType: installer
 ManifestVersion: 1.2.0

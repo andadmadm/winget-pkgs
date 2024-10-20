@@ -27,7 +27,7 @@ FileExtensions:
 ReleaseDate: 2022-03-18
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/balena-io/etcher/releases/download/v1.7.8/balenaEtcher-Setup-1.7.8.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/balena-io/etcher/releases/download/v1.7.8/balenaEtcher-Setup-1.7.8.exe
   InstallerSha256: C4455E411BC5FFA5E0D20F99A68855E75F3B013C800C4ECD2CB3A06B4C67A4BD
 ManifestType: installer
 ManifestVersion: 1.1.0

@@ -20,10 +20,10 @@ FileExtensions:
 ProductCode: 0112-2557-8304-7048
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BiglySoftware/BiglyBT/releases/download/v3.3.0.0/GitHub_BiglyBT_Installer64_J14.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BiglySoftware/BiglyBT/releases/download/v3.3.0.0/GitHub_BiglyBT_Installer64_J14.exe
   InstallerSha256: 01AC9A80F1AE390E7F672D3F5916444518D60B03CC512B3FF28AC1586FB881B7
 - Architecture: x86
-  InstallerUrl: https://github.com/BiglySoftware/BiglyBT/releases/download/v3.3.0.0/GitHub_BiglyBT_Installer32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BiglySoftware/BiglyBT/releases/download/v3.3.0.0/GitHub_BiglyBT_Installer32.exe
   InstallerSha256: A01922668751EDA2FD8039A0187F9C1F7229D4F9911EFCB70C7F14798D1DFC82
 ManifestType: installer
 ReleaseDate: 2023-01-31

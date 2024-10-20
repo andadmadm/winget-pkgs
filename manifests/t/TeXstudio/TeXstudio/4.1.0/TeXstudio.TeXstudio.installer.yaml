@@ -14,7 +14,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/texstudio-org/texstudio/releases/download/4.1.0/texstudio-4.1.0-win-qt5.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/texstudio-org/texstudio/releases/download/4.1.0/texstudio-4.1.0-win-qt5.exe
   InstallerSha256: D94DED515756830FCFB6B89DCA6599D1E4D6980CAC0A70775A928B5860C91302
 ManifestType: installer
 ManifestVersion: 1.0.0

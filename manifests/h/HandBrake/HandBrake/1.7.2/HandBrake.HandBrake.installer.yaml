@@ -16,10 +16,10 @@ Dependencies:
 ProductCode: HandBrake
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-x86_64-Win_GUI.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-x86_64-Win_GUI.exe
   InstallerSha256: 6DE8E290E4585039078421FB121BB2A0E36BF362ED85C0429C7354DE06FF9CB9
 - Architecture: arm64
-  InstallerUrl: https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-arm64-Win_GUI.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-arm64-Win_GUI.exe
   InstallerSha256: D4316622DEB970C138A99881D18E9F3E9D1BAF8DD405153799CEBC74C247A68D
 ManifestType: installer
 ManifestVersion: 1.5.0

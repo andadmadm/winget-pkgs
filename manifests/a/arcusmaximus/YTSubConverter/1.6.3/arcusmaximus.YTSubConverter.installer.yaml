@@ -16,7 +16,7 @@ FileExtensions:
 - srv3
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/arcusmaximus/YTSubConverter/releases/download/1.6.3/YTSubConverter.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/arcusmaximus/YTSubConverter/releases/download/1.6.3/YTSubConverter.exe
   InstallerSha256: 418ED6B02888E3CC004579B7028B556FB2E13F7854BA3708E9D2A92537DEB114
 ManifestType: installer
 ManifestVersion: 1.2.0

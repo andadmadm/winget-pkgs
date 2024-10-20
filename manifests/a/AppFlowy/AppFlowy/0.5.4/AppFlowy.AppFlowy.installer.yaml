@@ -10,7 +10,7 @@ InstallerSwitches:
 ReleaseDate: 2024-04-09
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.5.4/AppFlowy-0.5.4-windows-x86_64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.5.4/AppFlowy-0.5.4-windows-x86_64.exe
   InstallerSha256: A3FAE60A1A9FC7646191BD70E3FA886DBB0648DFF1C5A15436C38A8FAC89187B
 ManifestType: installer
 ManifestVersion: 1.6.0

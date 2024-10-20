@@ -6,7 +6,7 @@ PackageVersion: 1.5.2
 InstallerType: inno
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/manfred-mueller/DHLabel/releases/download/v1.5.2/DHLabel-Setup-1.5.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/manfred-mueller/DHLabel/releases/download/v1.5.2/DHLabel-Setup-1.5.2.exe
   InstallerSha256: 7D61AFCC4340F5EC8124923CEF19656B8E33A603E0C6A4F383F4CDF04F6A22BB
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -14,10 +14,10 @@ FileExtensions:
 ReleaseDate: 2024-03-14
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/opentofu/opentofu/releases/download/v1.7.0-alpha1/tofu_1.7.0-alpha1_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/opentofu/opentofu/releases/download/v1.7.0-alpha1/tofu_1.7.0-alpha1_windows_386.zip
   InstallerSha256: 5EE6A2005CD4BF4DB052604966FF05B146790F6D28E602073B87E065E7FFCE9B
 - Architecture: x64
-  InstallerUrl: https://github.com/opentofu/opentofu/releases/download/v1.7.0-alpha1/tofu_1.7.0-alpha1_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/opentofu/opentofu/releases/download/v1.7.0-alpha1/tofu_1.7.0-alpha1_windows_amd64.zip
   InstallerSha256: 8A7DA31D83BF00C63C166E5912C29A883AFEA81129B55F053685C064E46A4036
 ManifestType: installer
 ManifestVersion: 1.5.0

@@ -8,13 +8,13 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/poooi/poi/releases/download/v10.7.0/poi-setup-10.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/poooi/poi/releases/download/v10.7.0/poi-setup-10.7.0.exe
   InstallerSha256: 10563A06F408B55018F1AD483F3EE6EC18BFEB8E078FAB55D87193F45BDF9520
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/poooi/poi/releases/download/v10.7.0/poi-setup-10.7.0.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/poooi/poi/releases/download/v10.7.0/poi-setup-10.7.0.exe
   InstallerSha256: 10563A06F408B55018F1AD483F3EE6EC18BFEB8E078FAB55D87193F45BDF9520
   InstallerSwitches:
     Custom: /ALLUSERS

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: overmind.exe
         PortableCommandAlias: overmind
-    InstallerUrl: https://github.com/overmindtech/cli/releases/download/v1.3.1/overmind_cli_1.3.1_Windows_i386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/overmindtech/cli/releases/download/v1.3.1/overmind_cli_1.3.1_Windows_i386.zip
     InstallerSha256: 5fe31da9479c20117f95cf448eb23682f1b1f999adbc9001a946f7d8b521777d
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: overmind.exe
         PortableCommandAlias: overmind
-    InstallerUrl: https://github.com/overmindtech/cli/releases/download/v1.3.1/overmind_cli_1.3.1_Windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/overmindtech/cli/releases/download/v1.3.1/overmind_cli_1.3.1_Windows_arm64.zip
     InstallerSha256: 617827ff7cfe44deb52e8f5a5441a67eb222602fd446892839c5efbd5bdab7b1
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: overmind.exe
         PortableCommandAlias: overmind
-    InstallerUrl: https://github.com/overmindtech/cli/releases/download/v1.3.1/overmind_cli_1.3.1_Windows_x86_64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/overmindtech/cli/releases/download/v1.3.1/overmind_cli_1.3.1_Windows_x86_64.zip
     InstallerSha256: df9dd85e329d16dceff4e3e149051eb008b407916978dc38e02441b07d5318e8
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

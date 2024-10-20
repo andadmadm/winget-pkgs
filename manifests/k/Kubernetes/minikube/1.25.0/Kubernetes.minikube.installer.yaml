@@ -9,7 +9,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-installer.exe
   InstallerSha256: 1FB9C47A45C6AE5B0E25968C28CFACF94F33AEDB82950803AAD246786270B2AD
 ManifestType: installer
 ManifestVersion: 1.1.0

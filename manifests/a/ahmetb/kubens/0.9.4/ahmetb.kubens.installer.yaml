@@ -14,7 +14,7 @@ Installers:
   NestedInstallerFiles:
   - RelativeFilePath: kubens.exe
     PortableCommandAlias: kubens
-  InstallerUrl: https://github.com/ahmetb/kubectx/releases/download/v0.9.4/kubens_v0.9.4_windows_x86_64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/ahmetb/kubectx/releases/download/v0.9.4/kubens_v0.9.4_windows_x86_64.zip
   InstallerSha256: EAB9ACE6E25303B522E7006A1C9E44747B9E9C005E15B1FCF8A9678569CA1C95
 ManifestType: installer
 ManifestVersion: 1.4.0

@@ -11,7 +11,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kafkactl.exe
         PortableCommandAlias: kafkactl
-    InstallerUrl: https://github.com/deviceinsight/kafkactl/releases/download/v5.3.0/kafkactl_5.3.0_windows_386.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/deviceinsight/kafkactl/releases/download/v5.3.0/kafkactl_5.3.0_windows_386.zip
     InstallerSha256: cb4980ef23d2bddfd27dec087eb204323d6fe4283027470ddf4d427a8b08ddc6
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
@@ -19,7 +19,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kafkactl.exe
         PortableCommandAlias: kafkactl
-    InstallerUrl: https://github.com/deviceinsight/kafkactl/releases/download/v5.3.0/kafkactl_5.3.0_windows_arm64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/deviceinsight/kafkactl/releases/download/v5.3.0/kafkactl_5.3.0_windows_arm64.zip
     InstallerSha256: 760af840935ac381ae6364d313f61cf371ae00fbbd7892a7ec4650ab2459cbd5
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
@@ -27,7 +27,7 @@ Installers:
     NestedInstallerFiles:
       - RelativeFilePath: kafkactl.exe
         PortableCommandAlias: kafkactl
-    InstallerUrl: https://github.com/deviceinsight/kafkactl/releases/download/v5.3.0/kafkactl_5.3.0_windows_amd64.zip
+    InstallerUrl: https://gitpoxry.com/https://github.com/deviceinsight/kafkactl/releases/download/v5.3.0/kafkactl_5.3.0_windows_amd64.zip
     InstallerSha256: 69637b28fb9ef0fdf332a984ee55712c0473fcd1f7c1884eed2f5accdb4243a5
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer

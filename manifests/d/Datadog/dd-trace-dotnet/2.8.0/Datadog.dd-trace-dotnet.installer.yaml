@@ -15,11 +15,11 @@ UpgradeBehavior: install
 ReleaseDate: 2022-05-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.8.0/datadog-dotnet-apm-2.8.0-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.8.0/datadog-dotnet-apm-2.8.0-x64.msi
   InstallerSha256: 22A6036AA57F98C1EF1EC483B8CE798C1E502220EE48EF588AA81E6D73DB98CE
   ProductCode: '{43354AE2-CC9F-4D7F-8CF5-F394C23F0D7E}'
 - Architecture: x86
-  InstallerUrl: https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.8.0/datadog-dotnet-apm-2.8.0-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.8.0/datadog-dotnet-apm-2.8.0-x86.msi
   InstallerSha256: 833B0FEA6C8ABC83BD6F213B8C0774D7A07DA486463730E5C30B034FE3DC7BCD
   ProductCode: '{7931227B-69B5-4E05-B468-2380FD8A536D}'
 ManifestType: installer

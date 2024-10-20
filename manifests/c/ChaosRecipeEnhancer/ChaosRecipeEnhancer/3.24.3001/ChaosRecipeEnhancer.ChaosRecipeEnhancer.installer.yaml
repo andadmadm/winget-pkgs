@@ -20,7 +20,7 @@ Dependencies:
      - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.8
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ChaosRecipeEnhancer/ChaosRecipeEnhancer/releases/download/3.24.3001/ChaosRecipeEnhancer-Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChaosRecipeEnhancer/ChaosRecipeEnhancer/releases/download/3.24.3001/ChaosRecipeEnhancer-Setup.msi
   InstallerSha256: 96921D9D2608F50DCB9761DFF05D855D00EFA0CAC8D60DD421D44C6C4BF1D5CD
 ManifestType: installer
 ManifestVersion: 1.6.0

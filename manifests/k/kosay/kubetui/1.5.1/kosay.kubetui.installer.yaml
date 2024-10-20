@@ -13,7 +13,7 @@ Commands:
 - kubetui
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sarub0b0/kubetui/releases/download/v1.5.1/kubetui-x86_64-pc-windows-msvc.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/sarub0b0/kubetui/releases/download/v1.5.1/kubetui-x86_64-pc-windows-msvc.exe
   InstallerSha256: E68352AA3BDF642718F72B741850D8A80B0DBA52000F405B28A2372A41DD075E
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -15,7 +15,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-09-22
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nicotine-plus/nicotine-plus/releases/download/3.3.5/windows-x86_64-installer.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/nicotine-plus/nicotine-plus/releases/download/3.3.5/windows-x86_64-installer.zip
   InstallerSha256: 887806DA076D065E2A72E8D024470C3F2DA7577095F84E974D4F3D948E32F49D
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -16,7 +16,7 @@ ExpectedReturnCodes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/henrypp/simplewall/releases/download/v.3.8.2/simplewall-3.8.2-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/henrypp/simplewall/releases/download/v.3.8.2/simplewall-3.8.2-setup.exe
   InstallerSha256: 0768E0966B5D0723065A40B272A8F3E6763B918EEB274C4FFA08B54911DD96F8
 ManifestType: installer
 ManifestVersion: 1.6.0

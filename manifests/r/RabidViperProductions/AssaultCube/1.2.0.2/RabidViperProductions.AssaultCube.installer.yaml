@@ -12,7 +12,7 @@ Installers:
   Architecture: x86
   InstallerType: nullsoft
   Scope: machine
-  InstallerUrl: https://github.com/assaultcube/AC/releases/download/v1.2.0.2/AssaultCube_v1.2.0.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/assaultcube/AC/releases/download/v1.2.0.2/AssaultCube_v1.2.0.2.exe
   InstallerSha256: 679CD987564D68E56B64C603E5D15269C3C00864535305C7025022751D77703B
   UpgradeBehavior: install
 ManifestType: installer

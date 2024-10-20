@@ -12,7 +12,7 @@ UpgradeBehavior: install
 ReleaseDate: 2022-08-12
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.5.1/Rancher.Desktop.Setup.1.5.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.5.1/Rancher.Desktop.Setup.1.5.1.exe
   InstallerSha256: 620E1FC8F671EF6D4A320010815195F2343FA84D51E28B7A1A0B9BD6FAE00E4E
 ManifestType: installer
 ManifestVersion: 1.6.0

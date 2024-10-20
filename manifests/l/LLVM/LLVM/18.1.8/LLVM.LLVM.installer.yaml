@@ -26,15 +26,15 @@ Commands:
 ReleaseDate: 2024-06-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-win32.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-win32.exe
   InstallerSha256: 4CE39685D593A33CDBCDD10BEC2288B65E020B38995D684C19CB56CAD0FA43AC
   ProductCode: LLVM
 - Architecture: x64
-  InstallerUrl: https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-win64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-win64.exe
   InstallerSha256: 94AF030060D88CC17E9F00EF1663EBDC1126B35E16BEBDFA1E807984B70ABD8F
   ProductCode: LLVM
 - Architecture: arm64
-  InstallerUrl: https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-woa64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/LLVM-18.1.8-woa64.exe
   InstallerSha256: E25BF44D67FE86708490CF08DE085FE1D6E1E50F3249C212C9077A06247CDC9E
   ProductCode: LLVM
 ManifestType: installer

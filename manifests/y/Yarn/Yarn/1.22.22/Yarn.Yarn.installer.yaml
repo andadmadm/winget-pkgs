@@ -12,7 +12,7 @@ AppsAndFeaturesEntries:
 - UpgradeCode: '{241362E6-53BB-4A50-9C58-15F95734E43D}'
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/yarnpkg/yarn/releases/download/v1.22.22/yarn-1.22.22.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/yarnpkg/yarn/releases/download/v1.22.22/yarn-1.22.22.msi
   InstallerSha256: EBC1F46891B8D507EFAD2DD18EEC2C4E617457F93E13BC701483CB047A053FA1
 ManifestType: installer
 ManifestVersion: 1.6.0

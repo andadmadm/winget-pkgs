@@ -22,10 +22,10 @@ FileExtensions:
 - wav
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.6.2/audacity-win-3.6.2-32bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.6.2/audacity-win-3.6.2-32bit.exe
   InstallerSha256: 7BCDCF6FD6E16033879DFA3E581E5C6C4D4466012BFE57A2D1897255068215C7
 - Architecture: x64
-  InstallerUrl: https://github.com/audacity/audacity/releases/download/Audacity-3.6.2/audacity-win-3.6.2-64bit.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/audacity/audacity/releases/download/Audacity-3.6.2/audacity-win-3.6.2-64bit.exe
   InstallerSha256: 77EF679DC87B7E41AC80EC2CA56F6089B9EA1C7FF44CA5EF4BE5590107B1F3FE
 ManifestType: installer
 ManifestVersion: 1.6.0

@@ -8,7 +8,7 @@ Commands:
 - deceive
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://github.com/molenzwiebel/Deceive/releases/download/v1.14.0/Deceive.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/molenzwiebel/Deceive/releases/download/v1.14.0/Deceive.exe
   InstallerSha256: 8E51AE8EC954EE023B0D07B3E38D3EE4BD8414C561AB312B892D3A24E4434439
 ManifestType: installer
 ManifestVersion: 1.6.0

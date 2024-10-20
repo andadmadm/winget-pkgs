@@ -8,7 +8,7 @@ InstallerType: wix
 ProductCode: '{85778C0A-0752-4359-AD56-8CEB3F6D12D5}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Nitrokey/pynitrokey/releases/download/v0.4.42/nitropy-v0.4.42-x64-windows-installer.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Nitrokey/pynitrokey/releases/download/v0.4.42/nitropy-v0.4.42-x64-windows-installer.msi
   InstallerSha256: 25BDB8713D93D4E78C554B66AC36BDEBA6EC83050BABE8D8F824A96FE4E603FD
 ManifestType: installer
 ManifestVersion: 1.5.0

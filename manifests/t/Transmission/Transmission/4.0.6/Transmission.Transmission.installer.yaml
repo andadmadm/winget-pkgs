@@ -17,7 +17,7 @@ FileExtensions:
 - torrent
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/transmission/transmission/releases/download/4.0.6/transmission-4.0.6-qt5-x86.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/transmission/transmission/releases/download/4.0.6/transmission-4.0.6-qt5-x86.msi
   InstallerSha256: 2F58C166E3163AD4FBE7C14A2A1FDF4C36FD7376891BE2922091FFED1AA3C702
   Dependencies:
     PackageDependencies:
@@ -27,7 +27,7 @@ Installers:
   - DisplayName: Transmission 4.0.6 (38c164933e)
     UpgradeCode: '{1FB3C295-9BD4-4248-8C8B-B85CD11FE7C4}'
 - Architecture: x64
-  InstallerUrl: https://github.com/transmission/transmission/releases/download/4.0.6/transmission-4.0.6-qt5-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/transmission/transmission/releases/download/4.0.6/transmission-4.0.6-qt5-x64.msi
   InstallerSha256: 8FE99234539DA38BE335FC3D999D1364C0C203D5DBC53109519B1DF634E0462D
   Dependencies:
     PackageDependencies:

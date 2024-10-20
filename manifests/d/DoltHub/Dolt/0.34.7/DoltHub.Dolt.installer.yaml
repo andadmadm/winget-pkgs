@@ -11,7 +11,7 @@ Scope: machine
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dolthub/dolt/releases/download/v0.34.7/dolt-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/dolthub/dolt/releases/download/v0.34.7/dolt-windows-amd64.msi
   InstallerSha256: 80E7401DEE4977289C8D26E1C1E0717BA60555056299B3BF1671D0EC784DF315
   ProductCode: '{EFAB49E9-747E-4CEA-8B52-C32079F8B0C3}'
 ManifestType: installer

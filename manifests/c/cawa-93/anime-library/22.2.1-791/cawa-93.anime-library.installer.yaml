@@ -8,7 +8,7 @@ InstallerType: nullsoft
 Scope: user
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/cawa-93/anime-library/releases/download/v22.2.1-791/anime-library-Setup-22.2.1-791.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/cawa-93/anime-library/releases/download/v22.2.1-791/anime-library-Setup-22.2.1-791.exe
   InstallerSha256: B2ED68F71D6AE3B05C7FD86ED759640497D4CC1E8623EC8E93ADDD4BE6071DC8
 ManifestType: installer
 ManifestVersion: 1.1.0

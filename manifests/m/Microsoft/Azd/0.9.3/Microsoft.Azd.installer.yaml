@@ -7,7 +7,7 @@ Installers:
 - InstallerLocale: en-US
   Architecture: x64
   InstallerType: wix
-  InstallerUrl: https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_0.9.0-beta.3/azd-windows-amd64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_0.9.0-beta.3/azd-windows-amd64.msi
   InstallerSha256: C9ABB36D204412DE74428BED14A1D72585BE8F7E1E6ED028FC096EA65565DBAD
   InstallerSwitches:
     Custom: INSTALLEDBY="winget"

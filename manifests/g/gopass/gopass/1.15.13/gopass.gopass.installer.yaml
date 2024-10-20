@@ -14,7 +14,7 @@ AppsAndFeaturesEntries:
   UpgradeCode: '{6c1bd458-7d1b-4311-848d-d0fe1a65af66}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/gopasspw/gopass/releases/download/v1.15.13/gopass-x64-windows-1.15.13.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/gopasspw/gopass/releases/download/v1.15.13/gopass-x64-windows-1.15.13.msi
   InstallerSha256: 6DDE9AE0E46E3BB7165F5E537CF20FA2C47DC597A3B807695CB56D4FB376302C
 ManifestType: installer
 ManifestVersion: 1.6.0

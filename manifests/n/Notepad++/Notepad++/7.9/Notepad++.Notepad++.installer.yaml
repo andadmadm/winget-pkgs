@@ -10,7 +10,7 @@ InstallerSwitches:
   SilentWithProgress: /S
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.x64.exe
   InstallerSha256: D5F578C41CA34862FC7F1628CF166F2D5843EB15FDC83DA6CFC0909CB437E6FE
 ManifestType: installer
 ManifestVersion: 1.1.0

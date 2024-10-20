@@ -22,7 +22,7 @@ AppsAndFeaturesEntries:
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ente-io/ente/releases/download/auth-v3.1.1/ente-auth-v3.1.1-installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ente-io/ente/releases/download/auth-v3.1.1/ente-auth-v3.1.1-installer.exe
   InstallerSha256: CBD462143C77B310E5A8A9B578127B6475BF36CC4BC9249D7A053D680D5DB4A1
 ManifestType: installer
 ManifestVersion: 1.6.0

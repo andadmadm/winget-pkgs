@@ -7,7 +7,7 @@ InstallerType: nullsoft
 ProductCode: OpenVRAdvancedSettings
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.8.11/AdvancedSettings-5.8.11-Installer.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.8.11/AdvancedSettings-5.8.11-Installer.exe
   InstallerSha256: A8332323CCFAC8A242920D94B20E4859B6DC4A28F19E7C19A276B00AD87EEA40
 ManifestType: installer
 ManifestVersion: 1.6.0

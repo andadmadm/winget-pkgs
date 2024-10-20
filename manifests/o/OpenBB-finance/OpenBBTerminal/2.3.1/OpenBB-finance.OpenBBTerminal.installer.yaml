@@ -6,7 +6,7 @@ PackageVersion: 2.3.1
 Installers:
 - Architecture: x86
   InstallerType: nullsoft
-  InstallerUrl: https://github.com/OpenBB-finance/OpenBBTerminal/releases/download/v2.3.1/Windows10.OpenBB.Terminal.v2.3.1.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/OpenBB-finance/OpenBBTerminal/releases/download/v2.3.1/Windows10.OpenBB.Terminal.v2.3.1.exe
   InstallerSha256: 787436D9742024CA17CF56CD0A398392AAD64409AF40F4E7FC5EC917FA026663
 ManifestType: installer
 ManifestVersion: 1.4.0

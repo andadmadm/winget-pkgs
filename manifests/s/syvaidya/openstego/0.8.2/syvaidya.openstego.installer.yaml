@@ -8,14 +8,14 @@ InstallerType: inno
 Installers:
 - Architecture: neutral
   Scope: user
-  InstallerUrl: https://github.com/syvaidya/openstego/releases/download/openstego-0.8.2/Setup-OpenStego-0.8.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/syvaidya/openstego/releases/download/openstego-0.8.2/Setup-OpenStego-0.8.2.exe
   InstallerSha256: 3F3894B3FF73E632138F63AF2E2276628EDCCCA6B34E3E045125B8FAE43A5313
   InstallerSwitches:
     Custom: /CURRENTUSER
   ProductCode: OpenStego_is1
 - Architecture: neutral
   Scope: machine
-  InstallerUrl: https://github.com/syvaidya/openstego/releases/download/openstego-0.8.2/Setup-OpenStego-0.8.2.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/syvaidya/openstego/releases/download/openstego-0.8.2/Setup-OpenStego-0.8.2.exe
   InstallerSha256: 3F3894B3FF73E632138F63AF2E2276628EDCCCA6B34E3E045125B8FAE43A5313
   InstallerSwitches:
     Custom: /ALLUSERS

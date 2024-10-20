@@ -9,7 +9,7 @@ UpgradeBehavior: install
 ReleaseDate: 2024-01-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/ThaUnknown/miru/releases/download/v4.5.10/win-Miru-4.5.10-portable.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ThaUnknown/miru/releases/download/v4.5.10/win-Miru-4.5.10-portable.exe
   InstallerSha256: 473D9368ABFFE1B767766118229CD6DE51E3DDB718134598B9CB61FB23CDEA70
 ManifestType: installer
 ManifestVersion: 1.5.0

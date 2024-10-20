@@ -21,7 +21,7 @@ UpgradeBehavior: install
 ReleaseDate: 2023-03-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nextcloud/desktop/releases/download/v3.7.4/Nextcloud-3.7.4-x64.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/nextcloud/desktop/releases/download/v3.7.4/Nextcloud-3.7.4-x64.msi
   InstallerSha256: AEA3496ECD0039592BF853DE5E9AD3EAA0FA087EC283EE74DE66F9B306130D13
   ProductCode: '{235C8899-32EF-44CF-9E58-3E182ABEFDC6}'
 ManifestType: installer

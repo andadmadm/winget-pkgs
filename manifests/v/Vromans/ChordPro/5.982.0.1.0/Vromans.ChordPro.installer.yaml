@@ -17,7 +17,7 @@ Installers:
   Architecture: x64
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/ChordPro/chordpro/releases/download/R5.982/ChordPro-installer-5-982-0-1-msw-x64.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ChordPro/chordpro/releases/download/R5.982/ChordPro-installer-5-982-0-1-msw-x64.exe
   InstallerSha256: DFDABFCF64D5960F9453E183FF31B60A41EC4A4F99B71F7297057E25BEED46BA
   UpgradeBehavior: install
 ManifestType: installer

@@ -8,7 +8,7 @@ InstallerType: inno
 ReleaseDate: 2023-01-20
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/leezer3/OpenBVE/releases/download/1.8.4.4/openBVE-1.8.4.4-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/leezer3/OpenBVE/releases/download/1.8.4.4/openBVE-1.8.4.4-setup.exe
   InstallerSha256: 6246394742331D17067BD8A9A8A1C58E6FBAC6F294C490E633207546C54AF57E
 ManifestType: installer
 ManifestVersion: 1.2.0

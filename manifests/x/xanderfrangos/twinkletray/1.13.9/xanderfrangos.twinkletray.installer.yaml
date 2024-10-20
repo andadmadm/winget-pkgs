@@ -11,7 +11,7 @@ Installers:
   Architecture: x64
   InstallerType: nullsoft
   Scope: user
-  InstallerUrl: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.13.9/Twinkle.Tray.v1.13.9.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.13.9/Twinkle.Tray.v1.13.9.exe
   InstallerSha256: 74A4868F362243678D06AFD51CADB6E8EFA4FE2848A75AC0300A2BDA66EE72F9
   UpgradeBehavior: install
 ManifestType: installer

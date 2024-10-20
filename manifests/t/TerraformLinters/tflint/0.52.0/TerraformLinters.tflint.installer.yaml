@@ -17,10 +17,10 @@ FileExtensions:
 ReleaseDate: 2024-07-06
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/terraform-linters/tflint/releases/download/v0.52.0/tflint_windows_386.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-linters/tflint/releases/download/v0.52.0/tflint_windows_386.zip
   InstallerSha256: 2CE6FD6F6BDC6F487DB0B7BE1DE69AD03C24B56977E6BF390AEF0783A0732CD0
 - Architecture: x64
-  InstallerUrl: https://github.com/terraform-linters/tflint/releases/download/v0.52.0/tflint_windows_amd64.zip
+  InstallerUrl: https://gitpoxry.com/https://github.com/terraform-linters/tflint/releases/download/v0.52.0/tflint_windows_amd64.zip
   InstallerSha256: FED6FF15EE10DB34A23044AC0D4DA8FDC1F2F3663B32EC85D388374DD95670AA
 ManifestType: installer
 ManifestVersion: 1.6.0

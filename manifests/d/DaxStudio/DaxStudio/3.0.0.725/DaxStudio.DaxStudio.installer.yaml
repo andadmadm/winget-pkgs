@@ -17,13 +17,13 @@ ReleaseDate: 2022-08-24
 Installers:
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.0/DaxStudio_3_0_0_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.0/DaxStudio_3_0_0_setup.exe
   InstallerSha256: 1C340938B6104CDA2E2B42C38AF34D3A45531586F11C3800627DBE3B0F014C8D
   InstallerSwitches:
     Custom: /ALLUSERS
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.0/DaxStudio_3_0_0_setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/DaxStudio/DaxStudio/releases/download/v3.0.0/DaxStudio_3_0_0_setup.exe
   InstallerSha256: 1C340938B6104CDA2E2B42C38AF34D3A45531586F11C3800627DBE3B0F014C8D
   InstallerSwitches:
     Custom: /CURRENTUSER

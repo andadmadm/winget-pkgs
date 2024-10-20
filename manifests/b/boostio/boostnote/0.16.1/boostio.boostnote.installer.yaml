@@ -9,7 +9,7 @@ FileExtensions:
 - md
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/BoostIO/BoostNote-App/releases/download/v0.16.1/boost-note-win.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/BoostIO/BoostNote-App/releases/download/v0.16.1/boost-note-win.exe
   InstallerSha256: 6303C253E9E65D73E8B0855151F5AE3A533E5EE24F30A27DFBA271B9FF2C84B3
 ManifestType: installer
 ManifestVersion: 1.1.0

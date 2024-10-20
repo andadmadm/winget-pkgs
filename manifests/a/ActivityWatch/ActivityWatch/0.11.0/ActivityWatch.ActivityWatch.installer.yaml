@@ -15,7 +15,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: user
-  InstallerUrl: https://github.com/ActivityWatch/activitywatch/releases/download/v0.11.0/activitywatch-v0.11.0-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ActivityWatch/activitywatch/releases/download/v0.11.0/activitywatch-v0.11.0-windows-x86_64-setup.exe
   InstallerSha256: 00A6F5CF0BB7D75924387F4CC0C9CF5BE563275D7F23DF2AF04A86D162ACA327
   InstallerSwitches:
     Custom: /norestart /closeapplications /currentuser
@@ -24,7 +24,7 @@ Installers:
   Architecture: x86
   InstallerType: inno
   Scope: machine
-  InstallerUrl: https://github.com/ActivityWatch/activitywatch/releases/download/v0.11.0/activitywatch-v0.11.0-windows-x86_64-setup.exe
+  InstallerUrl: https://gitpoxry.com/https://github.com/ActivityWatch/activitywatch/releases/download/v0.11.0/activitywatch-v0.11.0-windows-x86_64-setup.exe
   InstallerSha256: 00A6F5CF0BB7D75924387F4CC0C9CF5BE563275D7F23DF2AF04A86D162ACA327
   InstallerSwitches:
     Custom: /norestart /closeapplications /allusers

@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/NickeManarin/ScreenToGif/releases/download/2.33/ScreenToGif.2.33.Setup.msi
+  InstallerUrl: https://gitpoxry.com/https://github.com/NickeManarin/ScreenToGif/releases/download/2.33/ScreenToGif.2.33.Setup.msi
   InstallerSha256: 4D9A4B00D300DCD71C6AE76071EAD99F43F44BBEAE2F50E3D6DC8F1E57AD3C31
   ProductCode: '{D1093461-8E29-4A1C-8D2E-79D55196526B}'
 ManifestType: installer
